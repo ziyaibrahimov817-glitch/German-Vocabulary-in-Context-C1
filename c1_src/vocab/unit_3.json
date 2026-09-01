@@ -1,0 +1,491 @@
+{
+ "unit": 3,
+ "title_de": "Demografie &amp; Kindheit",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Geburtenrate",
+   "type": "die",
+   "en": "birth rate",
+   "exDe": "Die Geburtenrate liegt seit Jahrzehnten unter dem Ersatzniveau.",
+   "exEn": "The birth rate has been below replacement level for decades."
+  },
+  {
+   "n": 2,
+   "de": "Fertilit&auml;tsrate",
+   "type": "die",
+   "en": "fertility rate",
+   "exDe": "Eine Fertilit&auml;tsrate von 2,1 h&auml;lt die Bev&ouml;lkerung stabil.",
+   "exEn": "A fertility rate of 2.1 keeps a population stable."
+  },
+  {
+   "n": 3,
+   "de": "Geburtenziffer",
+   "type": "die",
+   "en": "birth figure",
+   "exDe": "Die Geburtenziffer schwankt st&auml;rker als erwartet.",
+   "exEn": "The birth figure fluctuates more than expected."
+  },
+  {
+   "n": 4,
+   "de": "Kinderlosigkeit",
+   "type": "die",
+   "en": "childlessness",
+   "exDe": "Kinderlosigkeit ist selten eine einmalige Entscheidung.",
+   "exEn": "Childlessness is rarely a single decision."
+  },
+  {
+   "n": 5,
+   "de": "Familiengr&uuml;ndung",
+   "type": "die",
+   "en": "starting a family",
+   "exDe": "Die Familiengr&uuml;ndung verschiebt sich um durchschnittlich sechs Jahre.",
+   "exEn": "Starting a family is postponed by an average of six years."
+  },
+  {
+   "n": 6,
+   "de": "Altersstruktur",
+   "type": "die",
+   "en": "age structure",
+   "exDe": "Die Altersstruktur entscheidet &uuml;ber den Sozialstaat.",
+   "exEn": "The age structure determines the welfare state."
+  },
+  {
+   "n": 7,
+   "de": "Altenquotient",
+   "type": "der",
+   "en": "old-age dependency ratio",
+   "exDe": "Der Altenquotient verdoppelt sich bis 2050.",
+   "exEn": "The old-age dependency ratio will double by 2050."
+  },
+  {
+   "n": 8,
+   "de": "Bev&ouml;lkerungspyramide",
+   "type": "die",
+   "en": "population pyramid",
+   "exDe": "Die Bev&ouml;lkerungspyramide ist l&auml;ngst keine Pyramide mehr.",
+   "exEn": "The population pyramid has long ceased to be a pyramid."
+  },
+  {
+   "n": 9,
+   "de": "Bev&ouml;lkerungsr&uuml;ckgang",
+   "type": "der",
+   "en": "population decline",
+   "exDe": "Der Bev&ouml;lkerungsr&uuml;ckgang trifft l&auml;ndliche Regionen zuerst.",
+   "exEn": "Population decline hits rural regions first."
+  },
+  {
+   "n": 10,
+   "de": "Sterberate",
+   "type": "die",
+   "en": "mortality rate",
+   "exDe": "Die Sterberate &uuml;bersteigt seit Jahren die Geburtenrate.",
+   "exEn": "The mortality rate has exceeded the birth rate for years."
+  },
+  {
+   "n": 11,
+   "de": "Zuwanderungsbedarf",
+   "type": "der",
+   "en": "need for immigration",
+   "exDe": "&Uuml;ber den Zuwanderungsbedarf herrscht selten Einigkeit.",
+   "exEn": "There is rarely agreement about the need for immigration."
+  },
+  {
+   "n": 12,
+   "de": "Generationengerechtigkeit",
+   "type": "die",
+   "en": "intergenerational fairness",
+   "exDe": "Generationengerechtigkeit ist leicht gefordert, schwer definiert.",
+   "exEn": "Intergenerational fairness is easily demanded, hard to define."
+  },
+  {
+   "n": 13,
+   "de": "Rentenl&uuml;cke",
+   "type": "die",
+   "en": "pension gap",
+   "exDe": "Die Rentenl&uuml;cke trifft Frauen deutlich st&auml;rker.",
+   "exEn": "The pension gap affects women considerably more."
+  },
+  {
+   "n": 14,
+   "de": "Pflegebedarf",
+   "type": "der",
+   "en": "need for care",
+   "exDe": "Der Pflegebedarf w&auml;chst schneller als das Personal.",
+   "exEn": "The need for care grows faster than staff numbers."
+  },
+  {
+   "n": 15,
+   "de": "Betreuungsquote",
+   "type": "die",
+   "en": "childcare coverage rate",
+   "exDe": "Die Betreuungsquote entscheidet &uuml;ber Erwerbst&auml;tigkeit.",
+   "exEn": "The childcare rate determines whether people can work."
+  },
+  {
+   "n": 16,
+   "de": "Erwerbsunterbrechung",
+   "type": "die",
+   "en": "career break",
+   "exDe": "Jede Erwerbsunterbrechung kostet sp&auml;ter Rente.",
+   "exEn": "Every career break costs pension later."
+  },
+  {
+   "n": 17,
+   "de": "Sozialisationsinstanz",
+   "type": "die",
+   "en": "agent of socialisation",
+   "exDe": "Familie und Schule sind die st&auml;rksten Sozialisationsinstanzen.",
+   "exEn": "Family and school are the strongest agents of socialisation."
+  },
+  {
+   "n": 18,
+   "de": "Bindungstheorie",
+   "type": "die",
+   "en": "attachment theory",
+   "exDe": "Die Bindungstheorie erkl&auml;rt vieles, aber nicht alles.",
+   "exEn": "Attachment theory explains much, but not everything."
+  },
+  {
+   "n": 19,
+   "de": "Fr&uuml;hf&ouml;rderung",
+   "type": "die",
+   "en": "early support",
+   "exDe": "Fr&uuml;hf&ouml;rderung wirkt nachweislich l&auml;nger als sp&auml;tere Ma&szlig;nahmen.",
+   "exEn": "Early support demonstrably has longer effects than later measures."
+  },
+  {
+   "n": 20,
+   "de": "Herkunftsmilieu",
+   "type": "das",
+   "en": "milieu of origin",
+   "exDe": "Das Herkunftsmilieu sagt mehr voraus als die Begabung.",
+   "exEn": "Milieu of origin predicts more than talent."
+  },
+  {
+   "n": 21,
+   "de": "Bildungsn&auml;he",
+   "type": "die",
+   "en": "closeness to education",
+   "exDe": "Bildungsn&auml;he vererbt sich zuverl&auml;ssiger als Verm&ouml;gen.",
+   "exEn": "Closeness to education is inherited more reliably than wealth."
+  },
+  {
+   "n": 22,
+   "de": "Bildungsferne",
+   "type": "die",
+   "en": "distance from education",
+   "exDe": "Bildungsferne ist kein Vorwurf, sondern ein Befund.",
+   "exEn": "Distance from education is not an accusation but a finding."
+  },
+  {
+   "n": 23,
+   "de": "Autorit&auml;tsverh&auml;ltnis",
+   "type": "das",
+   "en": "relation of authority",
+   "exDe": "Das Autorit&auml;tsverh&auml;ltnis hat sich grundlegend ver&auml;ndert.",
+   "exEn": "The relation of authority has fundamentally changed."
+  },
+  {
+   "n": 24,
+   "de": "Kindeswohl",
+   "type": "das",
+   "en": "welfare of the child",
+   "exDe": "Das Kindeswohl steht &uuml;ber dem Elternrecht.",
+   "exEn": "The welfare of the child takes precedence over parental rights."
+  },
+  {
+   "n": 25,
+   "de": "&uuml;beraltern",
+   "type": "untr. &middot; ist &uuml;beraltert",
+   "en": "to become overaged",
+   "exDe": "Ganze Landkreise sind &uuml;beraltert.",
+   "exEn": "Whole districts have become overaged."
+  },
+  {
+   "n": 26,
+   "de": "schwinden",
+   "type": "untr. &middot; ist geschwunden",
+   "en": "to dwindle",
+   "exDe": "Die Zahl der Erwerbst&auml;tigen schwindet.",
+   "exEn": "The number of people in work is dwindling."
+  },
+  {
+   "n": 27,
+   "de": "entv&ouml;lkern",
+   "type": "refl. &middot; entv&ouml;lkert sich",
+   "en": "to become depopulated",
+   "exDe": "Der Landstrich entv&ouml;lkert sich seit den Neunzigern.",
+   "exEn": "The region has been depopulating since the nineties."
+  },
+  {
+   "n": 28,
+   "de": "zuwandern",
+   "type": "untr. &middot; ist zugewandert",
+   "en": "to immigrate",
+   "exDe": "Ohne Zugewanderte schrumpft die Erwerbsbev&ouml;lkerung.",
+   "exEn": "Without immigrants the working population shrinks."
+  },
+  {
+   "n": 29,
+   "de": "anwerben",
+   "type": "tr. &middot; wirbt an",
+   "en": "to recruit (from abroad)",
+   "exDe": "Pflegekr&auml;fte werden weltweit angeworben.",
+   "exEn": "Care workers are recruited worldwide."
+  },
+  {
+   "n": 30,
+   "de": "hinausz&ouml;gern",
+   "type": "tr. &middot; z&ouml;gert hinaus",
+   "en": "to delay, to put off",
+   "exDe": "Viele z&ouml;gern die Familiengr&uuml;ndung hinaus.",
+   "exEn": "Many put off starting a family."
+  },
+  {
+   "n": 31,
+   "de": "vorsorgen",
+   "type": "tr. &middot; sorgt vor",
+   "en": "to make provision",
+   "exDe": "Privat vorsorgen kann nur, wer Spielraum hat.",
+   "exEn": "Only those with room to manoeuvre can make private provision."
+  },
+  {
+   "n": 32,
+   "de": "umschichten",
+   "type": "tr. &middot; schichtet um",
+   "en": "to redistribute, to shift",
+   "exDe": "Mittel werden von der Bildung in die Pflege umgeschichtet.",
+   "exEn": "Funds are shifted from education to care."
+  },
+  {
+   "n": 33,
+   "de": "bereitstellen",
+   "type": "tr. &middot; stellt bereit",
+   "en": "to provide",
+   "exDe": "Betreuungspl&auml;tze muss die Kommune bereitstellen.",
+   "exEn": "The municipality has to provide childcare places."
+  },
+  {
+   "n": 34,
+   "de": "betreuen",
+   "type": "untr. &middot; hat betreut",
+   "en": "to look after, to care for",
+   "exDe": "Eine Fachkraft betreut zehn Kinder.",
+   "exEn": "One qualified worker looks after ten children."
+  },
+  {
+   "n": 35,
+   "de": "heranwachsen",
+   "type": "untr. &middot; ist herangewachsen",
+   "en": "to grow up",
+   "exDe": "Sie ist in zwei Sprachen herangewachsen.",
+   "exEn": "She grew up in two languages."
+  },
+  {
+   "n": 36,
+   "de": "nachwachsen",
+   "type": "untr. &middot; ist nachgewachsen",
+   "en": "to come up (of a generation)",
+   "exDe": "Es w&auml;chst zu wenig nach.",
+   "exEn": "Too few are coming up behind."
+  },
+  {
+   "n": 37,
+   "de": "vererben",
+   "type": "refl. &middot; vererbt sich",
+   "en": "to be passed on, to be inherited",
+   "exDe": "Bildungsn&auml;he vererbt sich &uuml;ber Generationen.",
+   "exEn": "Closeness to education is passed on across generations."
+  },
+  {
+   "n": 38,
+   "de": "beg&uuml;nstigen",
+   "type": "untr. &middot; hat beg&uuml;nstigt",
+   "en": "to favour",
+   "exDe": "Das Steuersystem beg&uuml;nstigt ein &uuml;berholtes Modell.",
+   "exEn": "The tax system favours an outdated model."
+  },
+  {
+   "n": 39,
+   "de": "hemmen",
+   "type": "untr. &middot; hat gehemmt",
+   "en": "to inhibit",
+   "exDe": "Fehlende Betreuung hemmt die Erwerbst&auml;tigkeit.",
+   "exEn": "A lack of childcare inhibits employment."
+  },
+  {
+   "n": 40,
+   "de": "entkoppeln",
+   "type": "tr. &middot; koppelt ab",
+   "en": "to decouple",
+   "exDe": "Bildungserfolg l&auml;sst sich von der Herkunft nicht entkoppeln.",
+   "exEn": "Educational success cannot be decoupled from origin."
+  },
+  {
+   "n": 41,
+   "de": "verstetigen",
+   "type": "untr. &middot; hat verstetigt",
+   "en": "to make permanent",
+   "exDe": "Aus Projekten muss man Strukturen verstetigen.",
+   "exEn": "Projects have to be turned into permanent structures."
+  },
+  {
+   "n": 42,
+   "de": "unterfordern",
+   "type": "untr. &middot; hat unterfordert",
+   "en": "to under-challenge",
+   "exDe": "Unterfordert zu werden schadet ebenso wie &Uuml;berforderung.",
+   "exEn": "Being under-challenged is as harmful as being overburdened."
+  },
+  {
+   "n": 43,
+   "de": "demografisch",
+   "type": "adj.",
+   "en": "demographic",
+   "exDe": "Der demografische Wandel ist kein Ereignis, sondern ein Prozess.",
+   "exEn": "Demographic change is not an event but a process."
+  },
+  {
+   "n": 44,
+   "de": "geburtenschwach",
+   "type": "adj.",
+   "en": "with low birth rates",
+   "exDe": "Die geburtenschwachen Jahrg&auml;nge kommen jetzt ins Berufsleben.",
+   "exEn": "The low-birth-rate cohorts are now entering working life."
+  },
+  {
+   "n": 45,
+   "de": "geburtenstark",
+   "type": "adj.",
+   "en": "with high birth rates",
+   "exDe": "Die geburtenstarken Jahrg&auml;nge gehen bald in Rente.",
+   "exEn": "The baby-boom cohorts will soon retire."
+  },
+  {
+   "n": 46,
+   "de": "alternd",
+   "type": "adj.",
+   "en": "ageing",
+   "exDe": "Eine alternde Gesellschaft braucht andere St&auml;dte.",
+   "exEn": "An ageing society needs different cities."
+  },
+  {
+   "n": 47,
+   "de": "erwerbst&auml;tig",
+   "type": "adj.",
+   "en": "in gainful employment",
+   "exDe": "Erwerbst&auml;tige Eltern brauchen verl&auml;ssliche Zeiten.",
+   "exEn": "Working parents need reliable hours."
+  },
+  {
+   "n": 48,
+   "de": "kinderreich",
+   "type": "adj.",
+   "en": "with many children",
+   "exDe": "Kinderreiche Familien tragen ein h&ouml;heres Armutsrisiko.",
+   "exEn": "Families with many children carry a higher risk of poverty."
+  },
+  {
+   "n": 49,
+   "de": "fr&uuml;hkindlich",
+   "type": "adj.",
+   "en": "early-childhood",
+   "exDe": "Fr&uuml;hkindliche Bildung ist die wirksamste Investition.",
+   "exEn": "Early-childhood education is the most effective investment."
+  },
+  {
+   "n": 50,
+   "de": "bildungsnah",
+   "type": "adj.",
+   "en": "close to education",
+   "exDe": "Bildungsnahe Eltern navigieren das System sicherer.",
+   "exEn": "Parents close to education navigate the system more confidently."
+  },
+  {
+   "n": 51,
+   "de": "bildungsfern",
+   "type": "adj.",
+   "en": "distant from education",
+   "exDe": "Bildungsferne Haushalte erreichen die Angebote seltener.",
+   "exEn": "Households distant from education reach the services less often."
+  },
+  {
+   "n": 52,
+   "de": "generations&uuml;bergreifend",
+   "type": "adj.",
+   "en": "across generations",
+   "exDe": "Generations&uuml;bergreifende Projekte wirken in beide Richtungen.",
+   "exEn": "Projects across generations work in both directions."
+  },
+  {
+   "n": 53,
+   "de": "eine Familie gr&uuml;nden",
+   "type": "N+V &middot; gr&uuml;ndet eine Familie",
+   "en": "to start a family",
+   "exDe": "Eine Familie gr&uuml;ndet man heute sp&auml;ter und bewusster.",
+   "exEn": "Families today are started later and more deliberately."
+  },
+  {
+   "n": 54,
+   "de": "Kinder bekommen",
+   "type": "N+V &middot; bekommt Kinder",
+   "en": "to have children",
+   "exDe": "Kinder bekommt man nicht wegen einer Pr&auml;mie.",
+   "exEn": "People do not have children because of a bonus."
+  },
+  {
+   "n": 55,
+   "de": "Beruf und Familie vereinbaren",
+   "type": "N+V &middot; vereinbart Beruf und Familie",
+   "en": "to combine work and family",
+   "exDe": "Beruf und Familie vereinbaren nach wie vor meist Frauen.",
+   "exEn": "It is still mostly women who combine work and family."
+  },
+  {
+   "n": 56,
+   "de": "in Rente gehen",
+   "type": "N+V &middot; geht in Rente",
+   "en": "to retire",
+   "exDe": "In Rente gehen bald mehr, als nachkommen.",
+   "exEn": "Soon more will retire than come up behind."
+  },
+  {
+   "n": 57,
+   "de": "Kinder f&ouml;rdern",
+   "type": "N+V &middot; f&ouml;rdert Kinder",
+   "en": "to support children's development",
+   "exDe": "Kinder f&ouml;rdert man am wirksamsten vor der Einschulung.",
+   "exEn": "Children are supported most effectively before school age."
+  },
+  {
+   "n": 58,
+   "de": "aus dem Haus gehen",
+   "type": "N+V &middot; geht aus dem Haus",
+   "en": "to leave home",
+   "exDe": "Aus dem Haus gehen die Kinder immer sp&auml;ter.",
+   "exEn": "Children leave home later and later."
+  },
+  {
+   "n": 59,
+   "de": "das Kindeswohl sch&uuml;tzen",
+   "type": "N+V &middot; sch&uuml;tzt das Kindeswohl",
+   "en": "to protect the child's welfare",
+   "exDe": "Das Kindeswohl zu sch&uuml;tzen ist staatliche Aufgabe.",
+   "exEn": "Protecting the child's welfare is a task of the state."
+  },
+  {
+   "n": 60,
+   "de": "Chancen er&ouml;ffnen",
+   "type": "N+V &middot; er&ouml;ffnet Chancen",
+   "en": "to open up opportunities",
+   "exDe": "Chancen er&ouml;ffnet fr&uuml;he Bildung, nicht sp&auml;te Reparatur.",
+   "exEn": "Opportunities are opened by early education, not late repair."
+  }
+ ],
+ "groups": [
+  "Demografischer Wandel &middot; The Numbers Behind It",
+  "Kindheit &amp; Pr&auml;gung &middot; What Decides Early",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

@@ -1,0 +1,491 @@
+{
+ "unit": 9,
+ "title_de": "Weltwirtschaft &amp; Inflation",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Wertsch&ouml;pfungstiefe",
+   "type": "die",
+   "en": "depth of value creation",
+   "exDe": "Die Wertsch&ouml;pfungstiefe ist &uuml;ber Jahrzehnte gesunken.",
+   "exEn": "The depth of value creation has fallen over decades."
+  },
+  {
+   "n": 2,
+   "de": "Vorleistung",
+   "type": "die",
+   "en": "intermediate input",
+   "exDe": "Ohne Vorleistungen aus Asien steht die Produktion still.",
+   "exEn": "Without intermediate inputs from Asia production stops."
+  },
+  {
+   "n": 3,
+   "de": "Beschaffungsrisiko",
+   "type": "das",
+   "en": "procurement risk",
+   "exDe": "Das Beschaffungsrisiko wurde jahrelang untersch&auml;tzt.",
+   "exEn": "Procurement risk was underestimated for years."
+  },
+  {
+   "n": 4,
+   "de": "Klumpenrisiko",
+   "type": "das",
+   "en": "concentration risk",
+   "exDe": "Ein Lieferant f&uuml;r alles ist ein Klumpenrisiko.",
+   "exEn": "One supplier for everything is a concentration risk."
+  },
+  {
+   "n": 5,
+   "de": "Lagerhaltung",
+   "type": "die",
+   "en": "stockkeeping",
+   "exDe": "Lagerhaltung galt als Verschwendung &mdash; bis sie fehlte.",
+   "exEn": "Stockkeeping was considered waste — until it was missing."
+  },
+  {
+   "n": 6,
+   "de": "Diversifizierung",
+   "type": "die",
+   "en": "diversification",
+   "exDe": "Diversifizierung kostet Marge und kauft Sicherheit.",
+   "exEn": "Diversification costs margin and buys security."
+  },
+  {
+   "n": 7,
+   "de": "Nearshoring",
+   "type": "das",
+   "en": "nearshoring",
+   "exDe": "Nearshoring verlagert die Produktion n&auml;her, nicht zur&uuml;ck.",
+   "exEn": "Nearshoring moves production closer, not back."
+  },
+  {
+   "n": 8,
+   "de": "Ausweichroute",
+   "type": "die",
+   "en": "alternative route",
+   "exDe": "Jede Ausweichroute verl&auml;ngert die Lieferzeit.",
+   "exEn": "Every alternative route lengthens delivery times."
+  },
+  {
+   "n": 9,
+   "de": "Lieferkettengesetz",
+   "type": "das",
+   "en": "supply chain due diligence act",
+   "exDe": "Das Lieferkettengesetz verpflichtet auch zu Kontrollen im Ausland.",
+   "exEn": "The supply chain act also requires checks abroad."
+  },
+  {
+   "n": 10,
+   "de": "Verwundbarkeit",
+   "type": "die",
+   "en": "vulnerability",
+   "exDe": "Die Verwundbarkeit zeigt sich erst in der St&ouml;rung.",
+   "exEn": "Vulnerability only shows in a disruption."
+  },
+  {
+   "n": 11,
+   "de": "Exportabh&auml;ngigkeit",
+   "type": "die",
+   "en": "dependence on exports",
+   "exDe": "Die Exportabh&auml;ngigkeit ist St&auml;rke und Schwachstelle zugleich.",
+   "exEn": "Dependence on exports is both a strength and a weak point."
+  },
+  {
+   "n": 12,
+   "de": "Rohstoffabh&auml;ngigkeit",
+   "type": "die",
+   "en": "dependence on raw materials",
+   "exDe": "Die Rohstoffabh&auml;ngigkeit l&auml;sst sich nicht wegverhandeln.",
+   "exEn": "Dependence on raw materials cannot be negotiated away."
+  },
+  {
+   "n": 13,
+   "de": "Protektionismus",
+   "type": "der",
+   "en": "protectionism",
+   "exDe": "Protektionismus wirkt kurzfristig und kostet langfristig.",
+   "exEn": "Protectionism works in the short term and costs in the long term."
+  },
+  {
+   "n": 14,
+   "de": "Zollschranke",
+   "type": "die",
+   "en": "tariff barrier",
+   "exDe": "Neue Zollschranken treffen zuerst kleine Anbieter.",
+   "exEn": "New tariff barriers hit small suppliers first."
+  },
+  {
+   "n": 15,
+   "de": "Freihandelsabkommen",
+   "type": "das",
+   "en": "free trade agreement",
+   "exDe": "Ein Freihandelsabkommen regelt mehr als Z&ouml;lle.",
+   "exEn": "A free trade agreement regulates more than tariffs."
+  },
+  {
+   "n": 16,
+   "de": "Weltmarktpreis",
+   "type": "der",
+   "en": "world market price",
+   "exDe": "Der Weltmarktpreis entsteht weit entfernt von den Betroffenen.",
+   "exEn": "The world market price is formed far from those affected."
+  },
+  {
+   "n": 17,
+   "de": "Teuerungsrate",
+   "type": "die",
+   "en": "rate of price increase",
+   "exDe": "Die Teuerungsrate trifft Haushalte sehr unterschiedlich.",
+   "exEn": "The rate of price increase affects households very differently."
+  },
+  {
+   "n": 18,
+   "de": "Kerninflation",
+   "type": "die",
+   "en": "core inflation",
+   "exDe": "Die Kerninflation rechnet Energie und Nahrung heraus.",
+   "exEn": "Core inflation excludes energy and food."
+  },
+  {
+   "n": 19,
+   "de": "Preisniveau",
+   "type": "das",
+   "en": "price level",
+   "exDe": "Ein gesunkenes Preisniveau bedeutet nicht sinkende Preise.",
+   "exEn": "A fallen inflation rate does not mean falling prices."
+  },
+  {
+   "n": 20,
+   "de": "Geldpolitik",
+   "type": "die",
+   "en": "monetary policy",
+   "exDe": "Geldpolitik wirkt mit einer Verz&ouml;gerung von Quartalen.",
+   "exEn": "Monetary policy works with a delay of quarters."
+  },
+  {
+   "n": 21,
+   "de": "Zinswende",
+   "type": "die",
+   "en": "turn in interest rates",
+   "exDe": "Die Zinswende entwertete alte Anleihen &uuml;ber Nacht.",
+   "exEn": "The turn in interest rates devalued old bonds overnight."
+  },
+  {
+   "n": 22,
+   "de": "Notenbank",
+   "type": "die",
+   "en": "central bank",
+   "exDe": "Die Notenbank hat ein Ziel und mehrere Nebenwirkungen.",
+   "exEn": "The central bank has one aim and several side effects."
+  },
+  {
+   "n": 23,
+   "de": "Lohn-Preis-Spirale",
+   "type": "die",
+   "en": "wage-price spiral",
+   "exDe": "Von einer Lohn-Preis-Spirale spricht man schneller, als es Belege gibt.",
+   "exEn": "People speak of a wage-price spiral faster than the evidence allows."
+  },
+  {
+   "n": 24,
+   "de": "Reallohnverlust",
+   "type": "der",
+   "en": "loss of real wages",
+   "exDe": "Der Reallohnverlust wirkt Jahre nach der Inflation nach.",
+   "exEn": "The loss of real wages has effects years after the inflation."
+  },
+  {
+   "n": 25,
+   "de": "bevorraten",
+   "type": "refl. &middot; bevorratet sich",
+   "en": "to stockpile",
+   "exDe": "Wer sich bevorratet, bindet Kapital.",
+   "exEn": "Whoever stockpiles ties up capital."
+  },
+  {
+   "n": 26,
+   "de": "beschaffen",
+   "type": "untr. &middot; hat beschafft",
+   "en": "to procure",
+   "exDe": "Beschafft wird heute in drei L&auml;ndern statt in einem.",
+   "exEn": "Procurement now happens in three countries instead of one."
+  },
+  {
+   "n": 27,
+   "de": "verknappen",
+   "type": "refl. &middot; verknappt sich",
+   "en": "to become scarce",
+   "exDe": "Sobald sich Ware verknappt, steigt der Preis zuerst.",
+   "exEn": "As soon as goods become scarce the price rises first."
+  },
+  {
+   "n": 28,
+   "de": "rei&szlig;en",
+   "type": "untr. &middot; ist gerissen",
+   "en": "to break (of a chain)",
+   "exDe": "Rei&szlig;t die Kette an einer Stelle, steht alles.",
+   "exEn": "If the chain breaks at one point, everything stops."
+  },
+  {
+   "n": 29,
+   "de": "umschiffen",
+   "type": "untr. &middot; hat umschifft",
+   "en": "to circumvent",
+   "exDe": "Sanktionen werden &uuml;ber Drittstaaten umschifft.",
+   "exEn": "Sanctions are circumvented via third countries."
+  },
+  {
+   "n": 30,
+   "de": "abschotten",
+   "type": "refl. &middot; schottet sich ab",
+   "en": "to seal oneself off",
+   "exDe": "Ein Markt, der sich abschottet, verliert die Innovation.",
+   "exEn": "A market that seals itself off loses innovation."
+  },
+  {
+   "n": 31,
+   "de": "abriegeln",
+   "type": "tr. &middot; riegelt ab",
+   "en": "to close off",
+   "exDe": "Ganze H&auml;fen wurden wochenlang abgeriegelt.",
+   "exEn": "Whole ports were closed off for weeks."
+  },
+  {
+   "n": 32,
+   "de": "zur&uuml;ckverlagern",
+   "type": "tr. &middot; verlagert zur&uuml;ck",
+   "en": "to relocate back",
+   "exDe": "Zur&uuml;ckverlagert wird nur, was sich rechnet.",
+   "exEn": "Only what pays off is relocated back."
+  },
+  {
+   "n": 33,
+   "de": "antizipieren",
+   "type": "untr. &middot; hat antizipiert",
+   "en": "to anticipate",
+   "exDe": "Der Markt hat die Zinserh&ouml;hung l&auml;ngst antizipiert.",
+   "exEn": "The market has long anticipated the rate rise."
+  },
+  {
+   "n": 34,
+   "de": "&uuml;berw&auml;lzen",
+   "type": "tr. &middot; w&auml;lzt &uuml;ber",
+   "en": "to pass on (costs)",
+   "exDe": "Kosten &uuml;berw&auml;lzt man, solange der Markt es zul&auml;sst.",
+   "exEn": "Costs are passed on as long as the market allows."
+  },
+  {
+   "n": 35,
+   "de": "durchreichen",
+   "type": "tr. &middot; reicht durch",
+   "en": "to pass down the chain",
+   "exDe": "Der Zulieferer reicht den Preis nach unten durch.",
+   "exEn": "The supplier passes the price down the chain."
+  },
+  {
+   "n": 36,
+   "de": "anheben",
+   "type": "tr. &middot; hebt an",
+   "en": "to raise",
+   "exDe": "Der Zins wurde in sieben Schritten angehoben.",
+   "exEn": "The rate was raised in seven steps."
+  },
+  {
+   "n": 37,
+   "de": "straffen",
+   "type": "tr. &middot; strafft",
+   "en": "to tighten (policy)",
+   "exDe": "Gestrafft wird, bis die Nachfrage nachgibt.",
+   "exEn": "Policy is tightened until demand gives way."
+  },
+  {
+   "n": 38,
+   "de": "&uuml;berhitzen",
+   "type": "untr. &middot; ist &uuml;berhitzt",
+   "en": "to overheat",
+   "exDe": "Eine &uuml;berhitzte Wirtschaft k&uuml;hlt selten sanft ab.",
+   "exEn": "An overheated economy rarely cools gently."
+  },
+  {
+   "n": 39,
+   "de": "normalisieren",
+   "type": "refl. &middot; normalisiert sich",
+   "en": "to return to normal",
+   "exDe": "Die Preise normalisieren sich, das Niveau bleibt.",
+   "exEn": "Prices return to normal, the level remains."
+  },
+  {
+   "n": 40,
+   "de": "verbilligen",
+   "type": "refl. &middot; verbilligt sich",
+   "en": "to become cheaper",
+   "exDe": "Kaum eine Ware verbilligt sich nach einer Krise wieder.",
+   "exEn": "Hardly any product becomes cheaper again after a crisis."
+  },
+  {
+   "n": 41,
+   "de": "bezuschussen",
+   "type": "untr. &middot; hat bezuschusst",
+   "en": "to subsidise, to give a grant to",
+   "exDe": "Bezuschusst wird meist, was politisch sichtbar ist.",
+   "exEn": "What is subsidised is usually what is politically visible."
+  },
+  {
+   "n": 42,
+   "de": "entgegenwirken",
+   "type": "verb + Dat.",
+   "en": "to counteract",
+   "exDe": "Der Entwicklung wirkt die Notenbank sp&auml;t entgegen.",
+   "exEn": "The central bank counteracts the trend late."
+  },
+  {
+   "n": 43,
+   "de": "global vernetzt",
+   "type": "adj.",
+   "en": "globally interconnected",
+   "exDe": "Eine global vernetzte Produktion ist effizient und fragil.",
+   "exEn": "Globally interconnected production is efficient and fragile."
+  },
+  {
+   "n": 44,
+   "de": "exponiert",
+   "type": "adj.",
+   "en": "exposed",
+   "exDe": "Exponiert ist, wer nur eine Quelle hat.",
+   "exEn": "Whoever has only one source is exposed."
+  },
+  {
+   "n": 45,
+   "de": "strategisch",
+   "type": "adj.",
+   "en": "strategic",
+   "exDe": "Strategische G&uuml;ter unterliegt man ungern dem Markt.",
+   "exEn": "Strategic goods are reluctantly left to the market."
+  },
+  {
+   "n": 46,
+   "de": "importabh&auml;ngig",
+   "type": "adj.",
+   "en": "dependent on imports",
+   "exDe": "Importabh&auml;ngige Branchen sp&uuml;ren jede Wechselkurs&auml;nderung.",
+   "exEn": "Import-dependent sectors feel every exchange-rate change."
+  },
+  {
+   "n": 47,
+   "de": "exportstark",
+   "type": "adj.",
+   "en": "export-strong",
+   "exDe": "Exportstarke L&auml;nder sind besonders konjunkturabh&auml;ngig.",
+   "exEn": "Export-strong countries are especially dependent on the cycle."
+  },
+  {
+   "n": 48,
+   "de": "zollfrei",
+   "type": "adj.",
+   "en": "duty-free",
+   "exDe": "Zollfreier Handel ist die Ausnahme, nicht die Regel.",
+   "exEn": "Duty-free trade is the exception, not the rule."
+  },
+  {
+   "n": 49,
+   "de": "inflationstreibend",
+   "type": "adj.",
+   "en": "inflationary",
+   "exDe": "Inflationstreibend wirkt vor allem die Erwartung.",
+   "exEn": "What is most inflationary is the expectation itself."
+  },
+  {
+   "n": 50,
+   "de": "kaufkraftmindernd",
+   "type": "adj.",
+   "en": "reducing purchasing power",
+   "exDe": "Kaufkraftmindernde Effekte treffen untere Einkommen doppelt.",
+   "exEn": "Effects that reduce purchasing power hit lower incomes twice."
+  },
+  {
+   "n": 51,
+   "de": "zinssensibel",
+   "type": "adj.",
+   "en": "interest-rate sensitive",
+   "exDe": "Der Bausektor ist am zinssensibelsten.",
+   "exEn": "Construction is the most interest-rate sensitive sector."
+  },
+  {
+   "n": 52,
+   "de": "geldpolitisch",
+   "type": "adj.",
+   "en": "in monetary policy terms",
+   "exDe": "Geldpolitisch ist der Spielraum begrenzt.",
+   "exEn": "In monetary policy terms the room for manoeuvre is limited."
+  },
+  {
+   "n": 53,
+   "de": "Lieferketten absichern",
+   "type": "N+V &middot; sichert Lieferketten ab",
+   "en": "to secure supply chains",
+   "exDe": "Lieferketten absichern hei&szlig;t, teurer einzukaufen.",
+   "exEn": "Securing supply chains means buying more expensively."
+  },
+  {
+   "n": 54,
+   "de": "Abh&auml;ngigkeiten verringern",
+   "type": "N+V &middot; verringert Abh&auml;ngigkeiten",
+   "en": "to reduce dependencies",
+   "exDe": "Abh&auml;ngigkeiten verringern dauert Jahre, nicht Quartale.",
+   "exEn": "Reducing dependencies takes years, not quarters."
+  },
+  {
+   "n": 55,
+   "de": "Kosten weitergeben",
+   "type": "N+V &middot; gibt Kosten weiter",
+   "en": "to pass on costs",
+   "exDe": "Kosten weitergeben kann nur, wer Marktmacht hat.",
+   "exEn": "Only those with market power can pass on costs."
+  },
+  {
+   "n": 56,
+   "de": "die Zinsen erh&ouml;hen",
+   "type": "N+V &middot; erh&ouml;ht die Zinsen",
+   "en": "to raise interest rates",
+   "exDe": "Die Zinsen erh&ouml;ht man gegen die Erwartung, nicht gegen die Preise.",
+   "exEn": "Rates are raised against expectations, not against prices."
+  },
+  {
+   "n": 57,
+   "de": "die Inflation bek&auml;mpfen",
+   "type": "N+V &middot; bek&auml;mpft die Inflation",
+   "en": "to fight inflation",
+   "exDe": "Die Inflation bek&auml;mpft man auf Kosten der Besch&auml;ftigung.",
+   "exEn": "Inflation is fought at the cost of employment."
+  },
+  {
+   "n": 58,
+   "de": "Kaufkraft einb&uuml;&szlig;en",
+   "type": "N+V &middot; b&uuml;&szlig;t Kaufkraft ein",
+   "en": "to lose purchasing power",
+   "exDe": "Kaufkraft b&uuml;&szlig;t ein, wer feste Bez&uuml;ge hat.",
+   "exEn": "Those with fixed incomes lose purchasing power."
+  },
+  {
+   "n": 59,
+   "de": "Lasten verteilen",
+   "type": "N+V &middot; verteilt Lasten",
+   "en": "to distribute burdens",
+   "exDe": "Lasten verteilt man selten dort, wo sie entstanden sind.",
+   "exEn": "Burdens are rarely distributed where they arose."
+  },
+  {
+   "n": 60,
+   "de": "die Konjunktur d&auml;mpfen",
+   "type": "N+V &middot; d&auml;mpft die Konjunktur",
+   "en": "to dampen the economy",
+   "exDe": "Die Konjunktur d&auml;mpfen ist das erkl&auml;rte Mittel, nicht der Kollateralschaden.",
+   "exEn": "Dampening the economy is the declared means, not collateral damage."
+  }
+ ],
+ "groups": [
+  "Lieferketten &amp; Welthandel &middot; How Fragile the System Is",
+  "Inflation &amp; Geldpolitik &middot; Who Pays for It",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

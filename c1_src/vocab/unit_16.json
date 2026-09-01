@@ -1,0 +1,491 @@
+{
+ "unit": 16,
+ "title_de": "Energie &amp; Kreislauf",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Residuallast",
+   "type": "die",
+   "en": "residual load",
+   "exDe": "Die Residuallast ist das eigentliche Problem der Energiewende.",
+   "exEn": "Residual load is the real problem of the energy transition."
+  },
+  {
+   "n": 2,
+   "de": "Dunkelflaute",
+   "type": "die",
+   "en": "period with no wind or sun",
+   "exDe": "Eine Dunkelflaute dauert Tage, nicht Stunden.",
+   "exEn": "A dark doldrums period lasts days, not hours."
+  },
+  {
+   "n": 3,
+   "de": "Speicherkapazit&auml;t",
+   "type": "die",
+   "en": "storage capacity",
+   "exDe": "Die Speicherkapazit&auml;t entscheidet, ob der Ausbau wirkt.",
+   "exEn": "Storage capacity decides whether expansion works."
+  },
+  {
+   "n": 4,
+   "de": "Lastmanagement",
+   "type": "das",
+   "en": "load management",
+   "exDe": "Lastmanagement ist billiger als jedes zus&auml;tzliche Kraftwerk.",
+   "exEn": "Load management is cheaper than any additional power plant."
+  },
+  {
+   "n": 5,
+   "de": "Sektorkopplung",
+   "type": "die",
+   "en": "sector coupling",
+   "exDe": "Sektorkopplung verbindet Strom, W&auml;rme und Verkehr.",
+   "exEn": "Sector coupling links electricity, heat and transport."
+  },
+  {
+   "n": 6,
+   "de": "Kraftwerksreserve",
+   "type": "die",
+   "en": "power plant reserve",
+   "exDe": "Die Kraftwerksreserve steht still und kostet trotzdem.",
+   "exEn": "The reserve stands idle and still costs money."
+  },
+  {
+   "n": 7,
+   "de": "Ausbaupfad",
+   "type": "der",
+   "en": "expansion pathway",
+   "exDe": "Der Ausbaupfad ist beschlossen, die Genehmigung nicht.",
+   "exEn": "The expansion pathway is agreed, the permit is not."
+  },
+  {
+   "n": 8,
+   "de": "Akzeptanzproblem",
+   "type": "das",
+   "en": "problem of public acceptance",
+   "exDe": "Das Akzeptanzproblem entsteht vor Ort, nicht im Ministerium.",
+   "exEn": "The acceptance problem arises locally, not in the ministry."
+  },
+  {
+   "n": 9,
+   "de": "Ressourcenproduktivit&auml;t",
+   "type": "die",
+   "en": "resource productivity",
+   "exDe": "Die Ressourcenproduktivit&auml;t steigt langsamer als der Verbrauch.",
+   "exEn": "Resource productivity rises more slowly than consumption."
+  },
+  {
+   "n": 10,
+   "de": "Materialeffizienz",
+   "type": "die",
+   "en": "material efficiency",
+   "exDe": "Materialeffizienz spart mehr als jede Recyclingquote.",
+   "exEn": "Material efficiency saves more than any recycling rate."
+  },
+  {
+   "n": 11,
+   "de": "Stoffstrom",
+   "type": "der",
+   "en": "material flow",
+   "exDe": "Jeder Stoffstrom endet irgendwo &mdash; die Frage ist wo.",
+   "exEn": "Every material flow ends somewhere — the question is where."
+  },
+  {
+   "n": 12,
+   "de": "Prim&auml;rrohstoff",
+   "type": "der",
+   "en": "primary raw material",
+   "exDe": "Prim&auml;rrohstoffe sind noch immer billiger als Sekund&auml;rrohstoffe.",
+   "exEn": "Primary raw materials are still cheaper than secondary ones."
+  },
+  {
+   "n": 13,
+   "de": "Sekund&auml;rrohstoff",
+   "type": "der",
+   "en": "secondary raw material",
+   "exDe": "Sekund&auml;rrohstoffe brauchen einen verl&auml;sslichen Markt.",
+   "exEn": "Secondary raw materials need a reliable market."
+  },
+  {
+   "n": 14,
+   "de": "Rezyklat",
+   "type": "das",
+   "en": "recyclate",
+   "exDe": "Rezyklat wird eingesetzt, wenn es vorgeschrieben ist.",
+   "exEn": "Recyclate is used when it is prescribed."
+  },
+  {
+   "n": 15,
+   "de": "R&uuml;ckgewinnung",
+   "type": "die",
+   "en": "recovery of materials",
+   "exDe": "Die R&uuml;ckgewinnung seltener Metalle lohnt sich erst bei Menge.",
+   "exEn": "Recovery of rare metals only pays off at scale."
+  },
+  {
+   "n": 16,
+   "de": "Recyclingf&auml;higkeit",
+   "type": "die",
+   "en": "recyclability",
+   "exDe": "Die Recyclingf&auml;higkeit entscheidet sich beim Entwurf.",
+   "exEn": "Recyclability is decided at the design stage."
+  },
+  {
+   "n": 17,
+   "de": "Reparaturf&auml;higkeit",
+   "type": "die",
+   "en": "repairability",
+   "exDe": "Die Reparaturf&auml;higkeit wurde jahrzehntelang wegkonstruiert.",
+   "exEn": "Repairability was designed out over decades."
+  },
+  {
+   "n": 18,
+   "de": "Obsoleszenz",
+   "type": "die",
+   "en": "obsolescence",
+   "exDe": "Geplante Obsoleszenz ist schwer zu beweisen und leicht zu vermuten.",
+   "exEn": "Planned obsolescence is hard to prove and easy to suspect."
+  },
+  {
+   "n": 19,
+   "de": "Produktverantwortung",
+   "type": "die",
+   "en": "producer responsibility",
+   "exDe": "Produktverantwortung endet nicht an der Kasse.",
+   "exEn": "Producer responsibility does not end at the checkout."
+  },
+  {
+   "n": 20,
+   "de": "R&uuml;cknahmepflicht",
+   "type": "die",
+   "en": "take-back obligation",
+   "exDe": "Die R&uuml;cknahmepflicht gilt, wird aber selten genutzt.",
+   "exEn": "The take-back obligation applies but is rarely used."
+  },
+  {
+   "n": 21,
+   "de": "Lebenszyklusanalyse",
+   "type": "die",
+   "en": "life-cycle assessment",
+   "exDe": "Eine Lebenszyklusanalyse dreht manches Urteil um.",
+   "exEn": "A life-cycle assessment reverses some judgements."
+  },
+  {
+   "n": 22,
+   "de": "Kaskadennutzung",
+   "type": "die",
+   "en": "cascading use",
+   "exDe": "Kaskadennutzung hei&szlig;t: erst bauen, dann verbrennen.",
+   "exEn": "Cascading use means: build first, burn later."
+  },
+  {
+   "n": 23,
+   "de": "Verwertungsquote",
+   "type": "die",
+   "en": "recovery rate",
+   "exDe": "Die Verwertungsquote misst Sammlung, nicht Wiederverwendung.",
+   "exEn": "The recovery rate measures collection, not reuse."
+  },
+  {
+   "n": 24,
+   "de": "Rohstoffrisiko",
+   "type": "das",
+   "en": "raw material risk",
+   "exDe": "Das Rohstoffrisiko verschiebt sich, es verschwindet nicht.",
+   "exEn": "The raw material risk shifts, it does not disappear."
+  },
+  {
+   "n": 25,
+   "de": "zwischenspeichern",
+   "type": "tr. &middot; speichert zwischen",
+   "en": "to store temporarily",
+   "exDe": "Zwischengespeichert wird bislang nur ein Bruchteil.",
+   "exEn": "Only a fraction is temporarily stored so far."
+  },
+  {
+   "n": 26,
+   "de": "puffern",
+   "type": "untr. &middot; hat gepuffert",
+   "en": "to buffer",
+   "exDe": "Batterien puffern Stunden, nicht Wochen.",
+   "exEn": "Batteries buffer hours, not weeks."
+  },
+  {
+   "n": 27,
+   "de": "ausregeln",
+   "type": "tr. &middot; regelt aus",
+   "en": "to balance out",
+   "exDe": "Ausgeregelt werden Schwankungen im Sekundentakt.",
+   "exEn": "Fluctuations are balanced out second by second."
+  },
+  {
+   "n": 28,
+   "de": "gl&auml;tten",
+   "type": "tr. &middot; gl&auml;ttet",
+   "en": "to smooth",
+   "exDe": "Gegl&auml;ttet wird die Spitze, nicht der Bedarf.",
+   "exEn": "It is the peak that is smoothed, not the demand."
+  },
+  {
+   "n": 29,
+   "de": "hochregeln",
+   "type": "tr. &middot; regelt hoch",
+   "en": "to ramp up output",
+   "exDe": "Hochgeregelt wird, was schnell reagiert.",
+   "exEn": "What reacts quickly gets ramped up."
+  },
+  {
+   "n": 30,
+   "de": "herunterfahren",
+   "type": "tr. &middot; f&auml;hrt herunter",
+   "en": "to power down",
+   "exDe": "Ein Kraftwerk herunterzufahren dauert Stunden.",
+   "exEn": "Powering down a plant takes hours."
+  },
+  {
+   "n": 31,
+   "de": "anfahren",
+   "type": "tr. &middot; f&auml;hrt an",
+   "en": "to start up",
+   "exDe": "Angefahren wird selten, weil es teuer ist.",
+   "exEn": "Start-ups are rare because they are expensive."
+  },
+  {
+   "n": 32,
+   "de": "bereithalten",
+   "type": "tr. &middot; h&auml;lt bereit",
+   "en": "to keep in reserve",
+   "exDe": "Bereitgehalten wird Leistung, die niemand nutzt.",
+   "exEn": "Capacity is kept in reserve that nobody uses."
+  },
+  {
+   "n": 33,
+   "de": "dimensionieren",
+   "type": "untr. &middot; hat dimensioniert",
+   "en": "to size, to dimension",
+   "exDe": "Falsch dimensionierte Netze bremsen den Ausbau.",
+   "exEn": "Wrongly sized grids slow down expansion."
+  },
+  {
+   "n": 34,
+   "de": "wiederverwenden",
+   "type": "tr. &middot; verwendet wieder",
+   "en": "to reuse",
+   "exDe": "Wiederverwendet ist besser als recycelt.",
+   "exEn": "Reused is better than recycled."
+  },
+  {
+   "n": 35,
+   "de": "weiterverwenden",
+   "type": "tr. &middot; verwendet weiter",
+   "en": "to continue using",
+   "exDe": "Weiterverwendet wird, was sich &ouml;ffnen l&auml;sst.",
+   "exEn": "What can be opened gets used further."
+  },
+  {
+   "n": 36,
+   "de": "wiederaufbereiten",
+   "type": "tr. &middot; bereitet wieder auf",
+   "en": "to refurbish, to recondition",
+   "exDe": "Wiederaufbereitete Ger&auml;te halten oft l&auml;nger als neue.",
+   "exEn": "Reconditioned devices often last longer than new ones."
+  },
+  {
+   "n": 37,
+   "de": "r&uuml;ckf&uuml;hren",
+   "type": "tr. &middot; f&uuml;hrt zur&uuml;ck",
+   "en": "to return into the cycle",
+   "exDe": "Zur&uuml;ckgef&uuml;hrt wird nur, was getrennt gesammelt wurde.",
+   "exEn": "Only what was collected separately is returned."
+  },
+  {
+   "n": 38,
+   "de": "einsammeln",
+   "type": "tr. &middot; sammelt ein",
+   "en": "to collect",
+   "exDe": "Eingesammelt wird viel, sortiert wird wenig.",
+   "exEn": "A lot is collected, little is sorted."
+  },
+  {
+   "n": 39,
+   "de": "demontieren",
+   "type": "untr. &middot; hat demontiert",
+   "en": "to dismantle",
+   "exDe": "Von Hand demontiert wird nur, wo L&ouml;hne niedrig sind.",
+   "exEn": "Manual dismantling happens only where wages are low."
+  },
+  {
+   "n": 40,
+   "de": "schreddern",
+   "type": "untr. &middot; hat geschreddert",
+   "en": "to shred",
+   "exDe": "Geschreddert ist ein Ger&auml;t endg&uuml;ltig verloren.",
+   "exEn": "Once shredded a device is finally lost."
+  },
+  {
+   "n": 41,
+   "de": "einschmelzen",
+   "type": "untr. &middot; hat eingeschmolzen",
+   "en": "to melt down",
+   "exDe": "Eingeschmolzen wird Metall, verloren geht die Legierung.",
+   "exEn": "Metal is melted down, the alloy is lost."
+  },
+  {
+   "n": 42,
+   "de": "kaskadieren",
+   "type": "untr. &middot; hat kaskadiert",
+   "en": "to use in cascades",
+   "exDe": "Kaskadiert wird Holz vom Balken bis zum Brennstoff.",
+   "exEn": "Wood is cascaded from beam to fuel."
+  },
+  {
+   "n": 43,
+   "de": "volatil",
+   "type": "adj.",
+   "en": "volatile, fluctuating",
+   "exDe": "Volatile Erzeugung braucht flexible Nachfrage.",
+   "exEn": "Volatile generation needs flexible demand."
+  },
+  {
+   "n": 44,
+   "de": "netzdienlich",
+   "type": "adj.",
+   "en": "grid-supportive",
+   "exDe": "Netzdienliches Laden entlastet ohne Verzicht.",
+   "exEn": "Grid-supportive charging relieves without sacrifice."
+  },
+  {
+   "n": 45,
+   "de": "speicherbar",
+   "type": "adj.",
+   "en": "storable",
+   "exDe": "Wasserstoff ist speicherbar, Strom kaum.",
+   "exEn": "Hydrogen is storable, electricity hardly."
+  },
+  {
+   "n": 46,
+   "de": "genehmigungspflichtig",
+   "type": "adj.",
+   "en": "subject to approval",
+   "exDe": "Genehmigungspflichtig ist fast jede Leitung.",
+   "exEn": "Almost every power line is subject to approval."
+  },
+  {
+   "n": 47,
+   "de": "kreislauff&auml;hig",
+   "type": "adj.",
+   "en": "suitable for a circular economy",
+   "exDe": "Kreislauff&auml;hig wird ein Produkt am Rei&szlig;brett.",
+   "exEn": "A product becomes circular at the drawing board."
+  },
+  {
+   "n": 48,
+   "de": "recyclingf&auml;hig",
+   "type": "adj.",
+   "en": "recyclable",
+   "exDe": "Recyclingf&auml;hig hei&szlig;t nicht recycelt.",
+   "exEn": "Recyclable does not mean recycled."
+  },
+  {
+   "n": 49,
+   "de": "reparierbar",
+   "type": "adj.",
+   "en": "repairable",
+   "exDe": "Reparierbare Ger&auml;te brauchen Ersatzteile und Anleitungen.",
+   "exEn": "Repairable devices need spare parts and instructions."
+  },
+  {
+   "n": 50,
+   "de": "langlebig",
+   "type": "adj.",
+   "en": "durable",
+   "exDe": "Langlebig zu bauen widerspricht dem Absatz.",
+   "exEn": "Building durably contradicts sales."
+  },
+  {
+   "n": 51,
+   "de": "rohstoffintensiv",
+   "type": "adj.",
+   "en": "raw-material-intensive",
+   "exDe": "Rohstoffintensive Technik verlagert das Problem.",
+   "exEn": "Raw-material-intensive technology shifts the problem."
+  },
+  {
+   "n": 52,
+   "de": "&ouml;kobilanziell",
+   "type": "adj.",
+   "en": "in life-cycle terms",
+   "exDe": "&Ouml;kobilanziell schneidet manches Naheliegende schlecht ab.",
+   "exEn": "In life-cycle terms some obvious choices do badly."
+  },
+  {
+   "n": 53,
+   "de": "Lasten ausgleichen",
+   "type": "N+V &middot; gleicht Lasten aus",
+   "en": "to balance loads",
+   "exDe": "Lasten ausgleichen ersetzt teure Reservekraftwerke.",
+   "exEn": "Balancing loads replaces expensive reserve plants."
+  },
+  {
+   "n": 54,
+   "de": "Netze ausbauen",
+   "type": "N+V &middot; baut Netze aus",
+   "en": "to expand the grid",
+   "exDe": "Netze ausbauen dauert l&auml;nger als Anlagen bauen.",
+   "exEn": "Expanding the grid takes longer than building plants."
+  },
+  {
+   "n": 55,
+   "de": "Abh&auml;ngigkeiten streuen",
+   "type": "N+V &middot; streut Abh&auml;ngigkeiten",
+   "en": "to spread dependencies",
+   "exDe": "Abh&auml;ngigkeiten streuen kostet Marge und kauft Ruhe.",
+   "exEn": "Spreading dependencies costs margin and buys calm."
+  },
+  {
+   "n": 56,
+   "de": "den Verbrauch senken",
+   "type": "N+V &middot; senkt den Verbrauch",
+   "en": "to reduce consumption",
+   "exDe": "Den Verbrauch senken bleibt die billigste Ma&szlig;nahme.",
+   "exEn": "Reducing consumption remains the cheapest measure."
+  },
+  {
+   "n": 57,
+   "de": "Kreisl&auml;ufe schlie&szlig;en",
+   "type": "N+V &middot; schlie&szlig;t Kreisl&auml;ufe",
+   "en": "to close material loops",
+   "exDe": "Kreisl&auml;ufe schlie&szlig;en beginnt beim Produktentwurf.",
+   "exEn": "Closing loops begins with product design."
+  },
+  {
+   "n": 58,
+   "de": "Produkte l&auml;nger nutzen",
+   "type": "N+V &middot; nutzt Produkte l&auml;nger",
+   "en": "to use products longer",
+   "exDe": "Produkte l&auml;nger nutzen spart mehr als jede Sammelquote.",
+   "exEn": "Using products longer saves more than any collection rate."
+  },
+  {
+   "n": 59,
+   "de": "Rohstoffe zur&uuml;ckholen",
+   "type": "N+V &middot; holt Rohstoffe zur&uuml;ck",
+   "en": "to recover raw materials",
+   "exDe": "Rohstoffe zur&uuml;ckholen lohnt sich erst bei hohen Preisen.",
+   "exEn": "Recovering raw materials only pays at high prices."
+  },
+  {
+   "n": 60,
+   "de": "Standards setzen",
+   "type": "N+V &middot; setzt Standards",
+   "en": "to set standards",
+   "exDe": "Standards setzen wirkt schneller als appellieren.",
+   "exEn": "Setting standards works faster than appealing."
+  }
+ ],
+ "groups": [
+  "Energiewende &middot; Keeping the Lights On",
+  "Ressourcen &amp; Kreislauf &middot; What Happens After Use",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "units": {
+  "1": "Identidade e Liberdade",
+  "2": "Mudança de Valores e Papéis Sociais",
+  "3": "Demografia e Infância",
+  "4": "Educação e Justiça",
+  "5": "Pressão de Desempenho e Ciência",
+  "6": "Aprendizagem e Transformação",
+  "7": "Mão de Obra Qualificada e Liderança",
+  "8": "Sobrecarga e Precariedade",
+  "9": "Economia Mundial e Inflação",
+  "10": "Impostos e Distribuição",
+  "11": "Habitação e Desenvolvimento Urbano",
+  "12": "Mobilidade e Turismo",
+  "13": "Alimentação e Cuidados de Saúde",
+  "14": "Saúde Mental e Ética Médica",
+  "15": "Crise Climática e Justiça",
+  "16": "Energia e Economia Circular",
+  "17": "Biodiversidade e Gestão de Crises",
+  "18": "IA e Algoritmos",
+  "19": "Dados e Cibersegurança",
+  "20": "Polarização e Desinformação",
+  "21": "Imprensa e Liberdade Artística",
+  "22": "Língua e Pertença",
+  "23": "Democracia e Ordem Mundial",
+  "24": "Guerra, Paz e Direitos Humanos",
+  "25": "Exploração Espacial e Futuro",
+  "26": "Ciência e Responsabilidade"
+ },
+ "groups": {
+  "1": [
+   "Identidade e Globalização · Quem Sou Eu, e Quem Decide",
+   "Liberdade e Responsabilidade · Onde Uma Termina e a Outra Começa",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "2": [
+   "Mudança de Valores · O Que Uma Sociedade Dá Como Garantido",
+   "Papéis Sociais · O Que Se Espera de Ti",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "3": [
+   "Mudança Demográfica · Os Números Por Trás Disso",
+   "Infância e Formação · O Que Se Decide Cedo",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "4": [
+   "Educação e Mobilidade · A Promessa",
+   "Seleção e Desvantagem · O Que Realmente Acontece",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "5": [
+   "Pressão de Desempenho · O Que o Sistema Exige",
+   "Trabalho Científico · Como Se Faz Corretamente",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "6": [
+   "Aprendizagem ao Longo da Vida · Aprender Depois da Escola",
+   "Transformação · O Que Está a Mudar no Trabalho",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "7": [
+   "Escassez de Mão de Obra Qualificada e Migração · Quem Vem, Quem Fica",
+   "Liderança e Cultura · Como as Pessoas São Lideradas",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "8": [
+   "Produtividade e Esgotamento · O Que o Ritmo Custa",
+   "Trabalho em Plataformas e Precariedade · Trabalho Sem Rede de Proteção",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "9": [
+   "Cadeias de Abastecimento e Comércio Mundial · Quão Frágil É o Sistema",
+   "Inflação e Política Monetária · Quem Paga Por Isso",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "10": [
+   "Política Fiscal · Quem Paga o Quê",
+   "Riqueza e Pobreza · Quem Possui o Quê",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "11": [
+   "Mercado da Habitação · Renda, Direitos e Deslocação",
+   "Desenvolvimento Urbano · Solo, Densidade e Clima",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "12": [
+   "Mobilidade · O Que Realmente Muda as Viagens",
+   "Turismo · Quando Um Lugar Atinge o Seu Limite",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "13": [
+   "Alimentação Global · Comida Suficiente, Distribuição Errada",
+   "Saúde e Cuidados · Onde o Sistema Se Esgota",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "14": [
+   "Saúde Mental · Uma Questão de Condições",
+   "Medicina e Ética · O Que É Permitido, O Que É Certo",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "15": [
+   "Orçamentos e Mecanismos · A Aritmética",
+   "Justiça e Responsabilidade · Quem Deve a Quem",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "16": [
+   "Transição Energética · Manter as Luzes Acesas",
+   "Recursos e Circularidade · O Que Acontece Depois do Uso",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "17": [
+   "Biodiversidade · O Que Mantém Um Sistema Coeso",
+   "Catástrofes e Gestão de Crises · Quando Falha",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "18": [
+   "IA e Transformação · Quem Ganha, Quem Decide",
+   "Decisões Algorítmicas · Quando o Software Julga",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "19": [
+   "Big Data e Privacidade · O Que É Recolhido",
+   "Cibersegurança · O Que Pode Ser Roubado",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "20": [
+   "Redes Sociais e Polarização · Como Isso Se Agrava",
+   "Desinformação e Manipulação · Quem Define o Enquadramento",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "21": [
+   "Liberdade de Imprensa · O Que Protege o Jornalismo",
+   "Arte e Protesto · O Que Pode Ofender",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "22": [
+   "Língua e Poder · O Que as Palavras Fazem",
+   "Migração e Pertença · Chegar e Pertencer",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "23": [
+   "Democracia Sob Pressão · O Que Fica Esvaziado",
+   "Cooperação Internacional · Lenta e Sem Alternativa",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "24": [
+   "Conflito e Diplomacia · Falar Antes e Depois",
+   "Direitos Humanos e Aplicação da Lei · A Lei e os Seus Limites",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "25": [
+   "Exploração Espacial · Chegar Lá e Voltar",
+   "Futuro e Responsabilidade · Pensar em Séculos",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ],
+  "26": [
+   "Conhecimento e Método · Como Funciona o Saber",
+   "Sistema Científico e Opinião Pública · Entre o Laboratório e a Manchete",
+   "Verbos, Adjetivos e Expressões · Falar Sobre Isso"
+  ]
+ },
+ "grammar": {
+  "1": {
+   "t": "Moldura Verbal e Campo Médio",
+   "s": "TeKaMoLo, Verbgruppen, Ausklammerung",
+   "tag": "como se mantém coesa uma frase alemã longa"
+  },
+  "2": {
+   "t": "Estilo Nominal e Estilo Verbal",
+   "s": "aufgrund em vez de weil, Prüfung em vez de prüfen",
+   "tag": "construir a frase em torno de um substantivo em vez de um verbo"
+  },
+  "3": {
+   "t": "Construções com Verbo-Suporte",
+   "s": "o sistema por trás de Entscheidung treffen",
+   "tag": "porque é que o alemão divide um verbo em substantivo mais verbo-suporte"
+  },
+  "4": {
+   "t": "Formas de Substituição da Passiva",
+   "s": "lässt sich lösen, ist zu lösen, ist lösbar",
+   "tag": "cinco formas de exprimir a passiva sem werden"
+  },
+  "5": {
+   "t": "Modalidade e Suposição",
+   "s": "dürfte, müsste, scheint zu, droht zu",
+   "tag": "quão certo estou, e quem o diz"
+  },
+  "6": {
+   "t": "Konjunktiv I em Relatos",
+   "s": "sei, habe, werde — e quando entra o K II",
+   "tag": "relatar sem garantir a veracidade do conteúdo"
+  },
+  "7": {
+   "t": "Orações Relativas e Atributivas",
+   "s": "dessen, deren, was, wer, preposição + pronome",
+   "tag": "as quatro formas que não são apenas artigos"
+  },
+  "8": {
+   "t": "Atributos Participiais",
+   "s": "die von der Kommission untersuchten Fälle",
+   "tag": "uma oração relativa condensada e colocada antes do substantivo"
+  },
+  "9": {
+   "t": "Coesão e Conectores",
+   "s": "folglich, dennoch, hingegen, diesbezüglich",
+   "tag": "três classes de conectores e onde se coloca o verbo"
+  },
+  "10": {
+   "t": "Foco e Ênfase",
+   "s": "Was … betrifft, Es ist … der, Entscheidend ist",
+   "tag": "como o alemão dá ênfase sem levantar a voz"
+  }
+ }
+}

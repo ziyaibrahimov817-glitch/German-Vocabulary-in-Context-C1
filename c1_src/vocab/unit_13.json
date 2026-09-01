@@ -1,0 +1,491 @@
+{
+ "unit": 13,
+ "title_de": "Ern&auml;hrung &amp; Versorgung",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Welternährung",
+   "type": "die",
+   "en": "world food supply",
+   "exDe": "Die Welternährung scheitert an der Verteilung, nicht an der Menge.",
+   "exEn": "World food supply fails on distribution, not on quantity."
+  },
+  {
+   "n": 2,
+   "de": "Ernährungssouveränität",
+   "type": "die",
+   "en": "food sovereignty",
+   "exDe": "Ernährungssouveränität meint das Recht, selbst zu entscheiden, was angebaut wird.",
+   "exEn": "Food sovereignty means the right to decide oneself what is grown."
+  },
+  {
+   "n": 3,
+   "de": "Verteilungsproblem",
+   "type": "das",
+   "en": "problem of distribution",
+   "exDe": "Hunger ist ein Verteilungsproblem mit politischen Ursachen.",
+   "exEn": "Hunger is a distribution problem with political causes."
+  },
+  {
+   "n": 4,
+   "de": "Agrarhandel",
+   "type": "der",
+   "en": "agricultural trade",
+   "exDe": "Der Agrarhandel liegt in wenigen H&auml;nden.",
+   "exEn": "Agricultural trade lies in few hands."
+  },
+  {
+   "n": 5,
+   "de": "Nahrungsmittelspekulation",
+   "type": "die",
+   "en": "speculation on food",
+   "exDe": "Nahrungsmittelspekulation verteuert, was ohnehin knapp ist.",
+   "exEn": "Speculation on food makes scarce goods dearer still."
+  },
+  {
+   "n": 6,
+   "de": "Saatgutkonzern",
+   "type": "der",
+   "en": "seed corporation",
+   "exDe": "Vier Saatgutkonzerne beherrschen den Weltmarkt.",
+   "exEn": "Four seed corporations dominate the world market."
+  },
+  {
+   "n": 7,
+   "de": "Kleinbauer",
+   "type": "der",
+   "en": "smallholder",
+   "exDe": "Kleinbauern erzeugen einen Gro&szlig;teil der Nahrung weltweit.",
+   "exEn": "Smallholders produce a large share of the world's food."
+  },
+  {
+   "n": 8,
+   "de": "Bodendegradation",
+   "type": "die",
+   "en": "soil degradation",
+   "exDe": "Bodendegradation ist schwerer umkehrbar als Klimawandel.",
+   "exEn": "Soil degradation is harder to reverse than climate change."
+  },
+  {
+   "n": 9,
+   "de": "Ertragsl&uuml;cke",
+   "type": "die",
+   "en": "yield gap",
+   "exDe": "Die Ertragsl&uuml;cke ist gr&ouml;&szlig;er als jede Gentechnik sie schlie&szlig;en k&ouml;nnte.",
+   "exEn": "The yield gap is larger than any genetic engineering could close."
+  },
+  {
+   "n": 10,
+   "de": "Nutztierhaltung",
+   "type": "die",
+   "en": "livestock farming",
+   "exDe": "Die Nutztierhaltung bindet zwei Drittel der Agrarfl&auml;che.",
+   "exEn": "Livestock farming ties up two thirds of agricultural land."
+  },
+  {
+   "n": 11,
+   "de": "Futtermittelimport",
+   "type": "der",
+   "en": "import of animal feed",
+   "exDe": "Der Futtermittelimport verlagert den Fl&auml;chenverbrauch ins Ausland.",
+   "exEn": "Feed imports shift land use abroad."
+  },
+  {
+   "n": 12,
+   "de": "Nahrungskonkurrenz",
+   "type": "die",
+   "en": "competition between food and fuel",
+   "exDe": "Zwischen Teller und Tank besteht Nahrungskonkurrenz.",
+   "exEn": "There is competition between plate and fuel tank."
+  },
+  {
+   "n": 13,
+   "de": "Unterern&auml;hrung",
+   "type": "die",
+   "en": "undernourishment",
+   "exDe": "Unterern&auml;hrung und &Uuml;bergewicht wachsen im selben Land.",
+   "exEn": "Undernourishment and obesity grow in the same country."
+  },
+  {
+   "n": 14,
+   "de": "Fehlern&auml;hrung",
+   "type": "die",
+   "en": "malnutrition",
+   "exDe": "Fehlern&auml;hrung ist nicht dasselbe wie zu wenig Essen.",
+   "exEn": "Malnutrition is not the same as too little food."
+  },
+  {
+   "n": 15,
+   "de": "N&auml;hrstoffdichte",
+   "type": "die",
+   "en": "nutrient density",
+   "exDe": "Billige Kalorien haben die geringste N&auml;hrstoffdichte.",
+   "exEn": "Cheap calories have the lowest nutrient density."
+  },
+  {
+   "n": 16,
+   "de": "Personalschl&uuml;ssel",
+   "type": "der",
+   "en": "staffing ratio",
+   "exDe": "Der Personalschl&uuml;ssel steht auf dem Papier, nicht im Dienstplan.",
+   "exEn": "The staffing ratio exists on paper, not in the rota."
+  },
+  {
+   "n": 17,
+   "de": "Betreuungsschl&uuml;ssel",
+   "type": "der",
+   "en": "care ratio",
+   "exDe": "Ein besserer Betreuungsschl&uuml;ssel senkt die Fehlerquote messbar.",
+   "exEn": "A better care ratio measurably lowers the error rate."
+  },
+  {
+   "n": 18,
+   "de": "Fachkraftquote",
+   "type": "die",
+   "en": "proportion of qualified staff",
+   "exDe": "Die Fachkraftquote wird bei Personalmangel stillschweigend gesenkt.",
+   "exEn": "The qualified staff quota is quietly lowered when staff are short."
+  },
+  {
+   "n": 19,
+   "de": "Unterversorgung",
+   "type": "die",
+   "en": "undersupply of services",
+   "exDe": "Unterversorgung beginnt dort, wo die Statistik endet.",
+   "exEn": "Undersupply begins where the statistics end."
+  },
+  {
+   "n": 20,
+   "de": "Zweiklassenmedizin",
+   "type": "die",
+   "en": "two-tier medicine",
+   "exDe": "&Uuml;ber Zweiklassenmedizin spricht niemand gern, alle kennen sie.",
+   "exEn": "Nobody likes talking about two-tier medicine; everyone knows it."
+  },
+  {
+   "n": 21,
+   "de": "Klinikschlie&szlig;ung",
+   "type": "die",
+   "en": "hospital closure",
+   "exDe": "Jede Klinikschlie&szlig;ung verl&auml;ngert den Weg zur Notaufnahme.",
+   "exEn": "Every hospital closure lengthens the way to emergency care."
+  },
+  {
+   "n": 22,
+   "de": "Priorisierung",
+   "type": "die",
+   "en": "prioritisation",
+   "exDe": "Priorisierung findet st&auml;ndig statt, nur unausgesprochen.",
+   "exEn": "Prioritisation happens constantly, just unspoken."
+  },
+  {
+   "n": 23,
+   "de": "Angeh&ouml;rigenpflege",
+   "type": "die",
+   "en": "care by relatives",
+   "exDe": "Die Angeh&ouml;rigenpflege tr&auml;gt das System und wird nicht gez&auml;hlt.",
+   "exEn": "Care by relatives carries the system and is not counted."
+  },
+  {
+   "n": 24,
+   "de": "Eigenanteil",
+   "type": "der",
+   "en": "co-payment",
+   "exDe": "Der Eigenanteil im Heim steigt schneller als die Rente.",
+   "exEn": "The co-payment in a care home rises faster than pensions."
+  },
+  {
+   "n": 25,
+   "de": "ern&auml;hren",
+   "type": "tr. &middot; ern&auml;hrt",
+   "en": "to feed",
+   "exDe": "Die Erde ern&auml;hrt zehn Milliarden &mdash; wenn man will.",
+   "exEn": "The earth feeds ten billion — if there is the will."
+  },
+  {
+   "n": 26,
+   "de": "&uuml;bernutzen",
+   "type": "untr. &middot; hat &uuml;bernutzt",
+   "en": "to overuse",
+   "exDe": "&Uuml;bernutzte B&ouml;den erholen sich &uuml;ber Jahrzehnte.",
+   "exEn": "Overused soils recover over decades."
+  },
+  {
+   "n": 27,
+   "de": "&uuml;berd&uuml;ngen",
+   "type": "untr. &middot; hat &uuml;berd&uuml;ngt",
+   "en": "to over-fertilise",
+   "exDe": "&Uuml;berd&uuml;ngt wird, wo der Ertrag z&auml;hlt und das Wasser nicht.",
+   "exEn": "Over-fertilising happens where yield counts and water does not."
+  },
+  {
+   "n": 28,
+   "de": "degradieren",
+   "type": "untr. &middot; ist degradiert",
+   "en": "to become degraded",
+   "exDe": "Ein Drittel der B&ouml;den ist bereits degradiert.",
+   "exEn": "A third of soils are already degraded."
+  },
+  {
+   "n": 29,
+   "de": "veredeln",
+   "type": "untr. &middot; hat veredelt",
+   "en": "to process into higher-value goods",
+   "exDe": "Getreide zu Fleisch zu veredeln kostet neun Zehntel der Energie.",
+   "exEn": "Turning grain into meat costs nine tenths of the energy."
+  },
+  {
+   "n": 30,
+   "de": "weiterverarbeiten",
+   "type": "tr. &middot; verarbeitet weiter",
+   "en": "to process further",
+   "exDe": "Weiterverarbeitet wird dort, wo die Marge entsteht.",
+   "exEn": "Further processing happens where the margin arises."
+  },
+  {
+   "n": 31,
+   "de": "monopolisieren",
+   "type": "untr. &middot; hat monopolisiert",
+   "en": "to monopolise",
+   "exDe": "Ein monopolisierter Markt kennt keine Alternative.",
+   "exEn": "A monopolised market knows no alternative."
+  },
+  {
+   "n": 32,
+   "de": "zentralisieren",
+   "type": "untr. &middot; hat zentralisiert",
+   "en": "to centralise",
+   "exDe": "Zentralisiert wird mit dem Argument der Qualit&auml;t.",
+   "exEn": "Centralisation is justified with the argument of quality."
+  },
+  {
+   "n": 33,
+   "de": "dezentralisieren",
+   "type": "untr. &middot; hat dezentralisiert",
+   "en": "to decentralise",
+   "exDe": "Dezentralisieren kostet mehr und rettet mehr.",
+   "exEn": "Decentralising costs more and saves more."
+  },
+  {
+   "n": 34,
+   "de": "unterversorgen",
+   "type": "untr. &middot; hat unterversorgt",
+   "en": "to leave undersupplied",
+   "exDe": "Unterversorgt sind vor allem l&auml;ndliche Regionen.",
+   "exEn": "It is mainly rural regions that are left undersupplied."
+  },
+  {
+   "n": 35,
+   "de": "abweisen",
+   "type": "tr. &middot; weist ab",
+   "en": "to turn away",
+   "exDe": "Abgewiesen wird niemand offiziell &mdash; nur vertr&ouml;stet.",
+   "exEn": "Nobody is officially turned away — only put off."
+  },
+  {
+   "n": 36,
+   "de": "triagieren",
+   "type": "untr. &middot; hat triagiert",
+   "en": "to triage",
+   "exDe": "Triagiert wird nach Dringlichkeit, nicht nach Ankunft.",
+   "exEn": "Triage goes by urgency, not by arrival."
+  },
+  {
+   "n": 37,
+   "de": "abstufen",
+   "type": "tr. &middot; stuft ab",
+   "en": "to grade, to downgrade",
+   "exDe": "Abgestuft wird die Versorgung, nicht der Bedarf.",
+   "exEn": "Provision is graded down, not the need."
+  },
+  {
+   "n": 38,
+   "de": "ausd&uuml;nnen",
+   "type": "tr. &middot; d&uuml;nnt aus",
+   "en": "to thin out",
+   "exDe": "Ausged&uuml;nnt wird zuerst in der Fl&auml;che.",
+   "exEn": "Thinning out starts in the countryside."
+  },
+  {
+   "n": 39,
+   "de": "zusammenstreichen",
+   "type": "tr. &middot; streicht zusammen",
+   "en": "to slash",
+   "exDe": "Zusammengestrichen wird, was sich schlecht abrechnen l&auml;sst.",
+   "exEn": "What is hard to bill gets slashed."
+  },
+  {
+   "n": 40,
+   "de": "einspringen",
+   "type": "untr. &middot; ist eingesprungen",
+   "en": "to step in, to cover a shift",
+   "exDe": "Wer st&auml;ndig einspringt, k&uuml;ndigt irgendwann.",
+   "exEn": "Whoever constantly covers shifts eventually resigns."
+  },
+  {
+   "n": 41,
+   "de": "honorieren",
+   "type": "untr. &middot; hat honoriert",
+   "en": "to reward, to remunerate",
+   "exDe": "Honoriert wird die Anwesenheit, nicht die Zuwendung.",
+   "exEn": "What is rewarded is presence, not attention."
+  },
+  {
+   "n": 42,
+   "de": "fr&uuml;hzeitig eingreifen",
+   "type": "N+V &middot; greift fr&uuml;hzeitig ein",
+   "en": "to intervene early",
+   "exDe": "Fr&uuml;hzeitig einzugreifen ist billiger und wird zuletzt bezahlt.",
+   "exEn": "Intervening early is cheaper and is paid for last."
+  },
+  {
+   "n": 43,
+   "de": "ern&auml;hrungssicher",
+   "type": "adj.",
+   "en": "food-secure",
+   "exDe": "Kein Land ist dauerhaft ern&auml;hrungssicher.",
+   "exEn": "No country is permanently food-secure."
+  },
+  {
+   "n": 44,
+   "de": "selbstversorgend",
+   "type": "adj.",
+   "en": "self-sufficient",
+   "exDe": "Selbstversorgende Regionen sind krisenfester.",
+   "exEn": "Self-sufficient regions are more crisis-resistant."
+  },
+  {
+   "n": 45,
+   "de": "kleinb&auml;uerlich",
+   "type": "adj.",
+   "en": "smallholder",
+   "exDe": "Kleinb&auml;uerliche Landwirtschaft ist arbeitsintensiv und fl&auml;chensparend.",
+   "exEn": "Smallholder farming is labour-intensive and land-saving."
+  },
+  {
+   "n": 46,
+   "de": "ertragsschwach",
+   "type": "adj.",
+   "en": "low-yielding",
+   "exDe": "Ertragsschwache B&ouml;den werden zuerst aufgegeben.",
+   "exEn": "Low-yielding soils are abandoned first."
+  },
+  {
+   "n": 47,
+   "de": "spekulationsanf&auml;llig",
+   "type": "adj.",
+   "en": "prone to speculation",
+   "exDe": "Grundnahrungsmittel sind besonders spekulationsanf&auml;llig.",
+   "exEn": "Staple foods are especially prone to speculation."
+  },
+  {
+   "n": 48,
+   "de": "unterern&auml;hrt",
+   "type": "adj.",
+   "en": "undernourished",
+   "exDe": "Unterern&auml;hrte Kinder holen den R&uuml;ckstand nie ganz auf.",
+   "exEn": "Undernourished children never fully catch up."
+  },
+  {
+   "n": 49,
+   "de": "unterfinanziert",
+   "type": "adj.",
+   "en": "underfunded",
+   "exDe": "Ein unterfinanziertes System spart an den Leisesten.",
+   "exEn": "An underfunded system economises on the quietest."
+  },
+  {
+   "n": 50,
+   "de": "personalintensiv",
+   "type": "adj.",
+   "en": "labour-intensive (in staff)",
+   "exDe": "Pflege ist personalintensiv und l&auml;sst sich nicht beschleunigen.",
+   "exEn": "Care is staff-intensive and cannot be speeded up."
+  },
+  {
+   "n": 51,
+   "de": "vollstation&auml;r",
+   "type": "adj.",
+   "en": "full inpatient",
+   "exDe": "Vollstation&auml;re Behandlung ist teurer und oft vermeidbar.",
+   "exEn": "Full inpatient treatment is dearer and often avoidable."
+  },
+  {
+   "n": 52,
+   "de": "tagesklinisch",
+   "type": "adj.",
+   "en": "day-clinic",
+   "exDe": "Tagesklinische Behandlung gilt seit dreissig Jahren als Ziel.",
+   "exEn": "Day-clinic treatment has been the aim for thirty years."
+  },
+  {
+   "n": 53,
+   "de": "Hunger bek&auml;mpfen",
+   "type": "N+V &middot; bek&auml;mpft Hunger",
+   "en": "to combat hunger",
+   "exDe": "Hunger bek&auml;mpft man mit Rechten, nicht nur mit Getreide.",
+   "exEn": "Hunger is combated with rights, not only with grain."
+  },
+  {
+   "n": 54,
+   "de": "B&ouml;den erhalten",
+   "type": "N+V &middot; erh&auml;lt B&ouml;den",
+   "en": "to preserve soils",
+   "exDe": "B&ouml;den erhalten dauert Generationen, sie zu zerst&ouml;ren eine Saison.",
+   "exEn": "Preserving soils takes generations, destroying them one season."
+  },
+  {
+   "n": 55,
+   "de": "Abh&auml;ngigkeit vermeiden",
+   "type": "N+V &middot; vermeidet Abh&auml;ngigkeit",
+   "en": "to avoid dependence",
+   "exDe": "Abh&auml;ngigkeit vermeiden hei&szlig;t, mehrere Quellen zu halten.",
+   "exEn": "Avoiding dependence means keeping several sources."
+  },
+  {
+   "n": 56,
+   "de": "die Grundversorgung sichern",
+   "type": "N+V &middot; sichert die Grundversorgung",
+   "en": "to secure basic provision",
+   "exDe": "Die Grundversorgung sichert man in der Fl&auml;che, nicht in Zentren.",
+   "exEn": "Basic basic provision is secured across the area, not in centres."
+  },
+  {
+   "n": 57,
+   "de": "Personal gewinnen",
+   "type": "N+V &middot; gewinnt Personal",
+   "en": "to attract staff",
+   "exDe": "Personal gewinnt man &uuml;ber Dienstpl&auml;ne, nicht &uuml;ber Pr&auml;mien.",
+   "exEn": "Staff are attracted through rotas, not bonuses."
+  },
+  {
+   "n": 58,
+   "de": "Angeh&ouml;rige entlasten",
+   "type": "N+V &middot; entlastet Angeh&ouml;rige",
+   "en": "to relieve relatives",
+   "exDe": "Angeh&ouml;rige entlasten w&auml;re die billigste Reform.",
+   "exEn": "Relieving relatives would be the cheapest reform."
+  },
+  {
+   "n": 59,
+   "de": "Kosten begrenzen",
+   "type": "N+V &middot; begrenzt Kosten",
+   "en": "to contain costs",
+   "exDe": "Kosten begrenzen und Qualit&auml;t halten schlie&szlig;t sich nicht aus.",
+   "exEn": "Containing costs and keeping quality are not mutually exclusive."
+  },
+  {
+   "n": 60,
+   "de": "Zugang sichern",
+   "type": "N+V &middot; sichert Zugang",
+   "en": "to guarantee access",
+   "exDe": "Zugang sichern hei&szlig;t Wege, Zeiten und Sprache mitzudenken.",
+   "exEn": "Guaranteeing access means considering routes, times and language."
+  }
+ ],
+ "groups": [
+  "Globale Ern&auml;hrung &middot; Enough Food, Wrong Distribution",
+  "Gesundheit &amp; Pflege &middot; Where the System Thins Out",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

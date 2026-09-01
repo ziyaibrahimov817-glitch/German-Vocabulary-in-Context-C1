@@ -1,0 +1,491 @@
+{
+ "unit": 18,
+ "title_de": "KI &amp; Algorithmen",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Automatisierungsschub",
+   "type": "der",
+   "en": "surge in automation",
+   "exDe": "Jeder Automatisierungsschub traf bisher andere Berufe.",
+   "exEn": "Every surge in automation has so far hit different occupations."
+  },
+  {
+   "n": 2,
+   "de": "Arbeitsplatzeffekt",
+   "type": "der",
+   "en": "effect on employment",
+   "exDe": "Der Arbeitsplatzeffekt zeigt sich erst nach Jahren.",
+   "exEn": "The effect on employment only shows after years."
+  },
+  {
+   "n": 3,
+   "de": "Produktivit&auml;tssprung",
+   "type": "der",
+   "en": "leap in productivity",
+   "exDe": "Ein Produktivit&auml;tssprung landet nicht automatisch bei den Besch&auml;ftigten.",
+   "exEn": "A leap in productivity does not automatically reach the workforce."
+  },
+  {
+   "n": 4,
+   "de": "Automatisierungsdividende",
+   "type": "die",
+   "en": "automation dividend",
+   "exDe": "Wer die Automatisierungsdividende erh&auml;lt, ist eine Verteilungsfrage.",
+   "exEn": "Who receives the automation dividend is a distributive question."
+  },
+  {
+   "n": 5,
+   "de": "Wertsch&ouml;pfungsverlagerung",
+   "type": "die",
+   "en": "shift in value creation",
+   "exDe": "Die Wertsch&ouml;pfungsverlagerung geht Richtung Software.",
+   "exEn": "Value creation is shifting towards software."
+  },
+  {
+   "n": 6,
+   "de": "Trainingskorpus",
+   "type": "der",
+   "en": "training corpus",
+   "exDe": "Was im Trainingskorpus fehlt, kann das Modell nicht.",
+   "exEn": "What is missing from the training corpus the model cannot do."
+  },
+  {
+   "n": 7,
+   "de": "Vortraining",
+   "type": "das",
+   "en": "pre-training",
+   "exDe": "Das Vortraining kostet mehr als alles Weitere zusammen.",
+   "exEn": "Pre-training costs more than everything else together."
+  },
+  {
+   "n": 8,
+   "de": "Feinjustierung",
+   "type": "die",
+   "en": "fine-tuning",
+   "exDe": "Die Feinjustierung entscheidet &uuml;ber Ton und Grenzen.",
+   "exEn": "Fine-tuning decides tone and limits."
+  },
+  {
+   "n": 9,
+   "de": "Modellg&uuml;te",
+   "type": "die",
+   "en": "model quality",
+   "exDe": "Die Modellg&uuml;te misst man an Aufgaben, nicht an Gr&ouml;&szlig;e.",
+   "exEn": "Model quality is measured by tasks, not by size."
+  },
+  {
+   "n": 10,
+   "de": "Modellzugang",
+   "type": "der",
+   "en": "access to a model",
+   "exDe": "Der Modellzugang entscheidet, wer forschen kann.",
+   "exEn": "Access to the model decides who can do research."
+  },
+  {
+   "n": 11,
+   "de": "Quelloffenheit",
+   "type": "die",
+   "en": "open-source availability",
+   "exDe": "Quelloffenheit erlaubt Pr&uuml;fung und Missbrauch zugleich.",
+   "exEn": "Open source allows scrutiny and misuse alike."
+  },
+  {
+   "n": 12,
+   "de": "Marktkonzentration",
+   "type": "die",
+   "en": "market concentration",
+   "exDe": "Die Marktkonzentration ist gr&ouml;&szlig;er als bei jeder fr&uuml;heren Technologie.",
+   "exEn": "Market concentration is greater than with any earlier technology."
+  },
+  {
+   "n": 13,
+   "de": "Plattformmacht",
+   "type": "die",
+   "en": "platform power",
+   "exDe": "Plattformmacht wirkt &uuml;ber Standards, nicht &uuml;ber Preise.",
+   "exEn": "Platform power works through standards, not prices."
+  },
+  {
+   "n": 14,
+   "de": "Datenherrschaft",
+   "type": "die",
+   "en": "control over data",
+   "exDe": "Datenherrschaft ist der eigentliche Wettbewerbsvorteil.",
+   "exEn": "Control over data is the real competitive advantage."
+  },
+  {
+   "n": 15,
+   "de": "Entscheidungsautomat",
+   "type": "der",
+   "en": "automated decision system",
+   "exDe": "Ein Entscheidungsautomat kennt keinen Einzelfall.",
+   "exEn": "An automated decision system knows no individual case."
+  },
+  {
+   "n": 16,
+   "de": "Scoring",
+   "type": "das",
+   "en": "scoring",
+   "exDe": "Beim Scoring z&auml;hlt, was messbar ist, nicht was wichtig ist.",
+   "exEn": "In scoring what is measurable counts, not what matters."
+  },
+  {
+   "n": 17,
+   "de": "Bonit&auml;tspr&uuml;fung",
+   "type": "die",
+   "en": "credit assessment",
+   "exDe": "Die Bonit&auml;tspr&uuml;fung nutzt Merkmale, die niemand nennt.",
+   "exEn": "Credit assessment uses features nobody names."
+  },
+  {
+   "n": 18,
+   "de": "Fehlklassifikation",
+   "type": "die",
+   "en": "misclassification",
+   "exDe": "Eine Fehlklassifikation trifft immer dieselben Gruppen.",
+   "exEn": "Misclassification always hits the same groups."
+  },
+  {
+   "n": 19,
+   "de": "Falschpositivrate",
+   "type": "die",
+   "en": "false positive rate",
+   "exDe": "Eine niedrige Falschpositivrate klingt gut und kostet Menschen.",
+   "exEn": "A low false positive rate sounds good and costs people."
+  },
+  {
+   "n": 20,
+   "de": "Trainingsverzerrung",
+   "type": "die",
+   "en": "training bias",
+   "exDe": "Die Trainingsverzerrung steckt in den Daten, nicht im Code.",
+   "exEn": "Training bias sits in the data, not in the code."
+  },
+  {
+   "n": 21,
+   "de": "Erkl&auml;rbarkeit",
+   "type": "die",
+   "en": "explainability",
+   "exDe": "Erkl&auml;rbarkeit ist Voraussetzung f&uuml;r Widerspruch.",
+   "exEn": "Explainability is the precondition for objection."
+  },
+  {
+   "n": 22,
+   "de": "Begr&uuml;ndungspflicht",
+   "type": "die",
+   "en": "duty to give reasons",
+   "exDe": "Die Begr&uuml;ndungspflicht gilt auch f&uuml;r Maschinen.",
+   "exEn": "The duty to give reasons applies to machines too."
+  },
+  {
+   "n": 23,
+   "de": "Widerspruchsrecht",
+   "type": "das",
+   "en": "right of objection",
+   "exDe": "Ein Widerspruchsrecht ohne Erkl&auml;rung ist wertlos.",
+   "exEn": "A right of objection without explanation is worthless."
+  },
+  {
+   "n": 24,
+   "de": "Letztentscheidung",
+   "type": "die",
+   "en": "final decision",
+   "exDe": "Die Letztentscheidung muss ein Mensch treffen und verantworten.",
+   "exEn": "The final decision must be made and answered for by a human."
+  },
+  {
+   "n": 25,
+   "de": "vortrainieren",
+   "type": "tr. &middot; trainiert vor",
+   "en": "to pre-train",
+   "exDe": "Vortrainiert wird einmal, angepasst laufend.",
+   "exEn": "Pre-training happens once, adaptation continually."
+  },
+  {
+   "n": 26,
+   "de": "feinjustieren",
+   "type": "tr. &middot; justiert fein",
+   "en": "to fine-tune",
+   "exDe": "Feinjustiert wird auf Sicherheit, nicht auf Wahrheit.",
+   "exEn": "Fine-tuning is for safety, not for truth."
+  },
+  {
+   "n": 27,
+   "de": "einsortieren",
+   "type": "tr. &middot; sortiert ein",
+   "en": "to sort into categories",
+   "exDe": "Eingesortiert wird jeder, auch ohne Anlass.",
+   "exEn": "Everyone is sorted into a category, even without cause."
+  },
+  {
+   "n": 28,
+   "de": "filtern",
+   "type": "untr. &middot; hat gefiltert",
+   "en": "to filter",
+   "exDe": "Gefiltert wird vor der Entscheidung, nicht danach.",
+   "exEn": "Filtering happens before the decision, not after."
+  },
+  {
+   "n": 29,
+   "de": "diskriminieren",
+   "type": "untr. &middot; hat diskriminiert",
+   "en": "to discriminate",
+   "exDe": "Ein System diskriminiert auch ohne Absicht.",
+   "exEn": "A system discriminates even without intent."
+  },
+  {
+   "n": 30,
+   "de": "verallgemeinern",
+   "type": "untr. &middot; hat verallgemeinert",
+   "en": "to generalise",
+   "exDe": "Verallgemeinert wird aus wenigen F&auml;llen sehr viel.",
+   "exEn": "A great deal is generalised from few cases."
+  },
+  {
+   "n": 31,
+   "de": "vorausberechnen",
+   "type": "tr. &middot; berechnet voraus",
+   "en": "to compute in advance",
+   "exDe": "Vorausberechnet wird Verhalten, gemessen wird Vergangenheit.",
+   "exEn": "Behaviour is computed in advance, the past is measured."
+  },
+  {
+   "n": 32,
+   "de": "abnicken",
+   "type": "tr. &middot; nickt ab",
+   "en": "to rubber-stamp",
+   "exDe": "Abgenickt wird, was der Rechner vorschl&auml;gt.",
+   "exEn": "What the computer suggests gets rubber-stamped."
+  },
+  {
+   "n": 33,
+   "de": "durchwinken",
+   "type": "tr. &middot; winkt durch",
+   "en": "to wave through",
+   "exDe": "Durchgewinkt wird aus Zeitmangel, nicht aus &Uuml;berzeugung.",
+   "exEn": "Things are waved through for lack of time, not conviction."
+  },
+  {
+   "n": 34,
+   "de": "verifizieren",
+   "type": "untr. &middot; hat verifiziert",
+   "en": "to verify",
+   "exDe": "Verifiziert wird nur bei Beschwerden.",
+   "exEn": "Verification happens only after complaints."
+  },
+  {
+   "n": 35,
+   "de": "auditieren",
+   "type": "untr. &middot; hat auditiert",
+   "en": "to audit",
+   "exDe": "Auditiert wird das Ergebnis, selten das Verfahren.",
+   "exEn": "The result is audited, rarely the procedure."
+  },
+  {
+   "n": 36,
+   "de": "&uuml;berstimmen",
+   "type": "untr. &middot; hat &uuml;berstimmt",
+   "en": "to override",
+   "exDe": "&Uuml;berstimmt wird die Maschine selten, obwohl man d&uuml;rfte.",
+   "exEn": "The machine is rarely overridden, although one may."
+  },
+  {
+   "n": 37,
+   "de": "darlegen",
+   "type": "tr. &middot; legt dar",
+   "en": "to set out, to explain",
+   "exDe": "Dargelegt werden muss auch eine automatische Absage.",
+   "exEn": "Even an automated rejection has to be explained."
+  },
+  {
+   "n": 38,
+   "de": "stattgeben",
+   "type": "verb + Dat.",
+   "en": "to grant, to uphold",
+   "exDe": "Stattgegeben wird nach Punkten, abgelehnt ohne Gespr&auml;ch.",
+   "exEn": "Applications are granted by points, rejected without a conversation."
+  },
+  {
+   "n": 39,
+   "de": "aktivieren",
+   "type": "untr. &middot; hat aktiviert",
+   "en": "to activate",
+   "exDe": "Aktiviert wird nach Pr&uuml;fung, gesperrt sofort.",
+   "exEn": "Activation follows a check, blocking is immediate."
+  },
+  {
+   "n": 40,
+   "de": "belangen",
+   "type": "untr. &middot; hat belangt",
+   "en": "to hold liable",
+   "exDe": "Belangt wird bislang niemand.",
+   "exEn": "So far nobody is held liable."
+  },
+  {
+   "n": 41,
+   "de": "harmonisieren",
+   "type": "untr. &middot; hat harmonisiert",
+   "en": "to harmonise",
+   "exDe": "Harmonisiert werden Regeln erst nach dem Schaden.",
+   "exEn": "Rules are harmonised only after the damage."
+  },
+  {
+   "n": 42,
+   "de": "zur&uuml;ckholen",
+   "type": "tr. &middot; holt zur&uuml;ck",
+   "en": "to bring back in-house",
+   "exDe": "Zur&uuml;ckgeholt wird, was sich als unkontrollierbar erwies.",
+   "exEn": "What proved uncontrollable is brought back in-house."
+  },
+  {
+   "n": 43,
+   "de": "algorithmisch",
+   "type": "adj.",
+   "en": "algorithmic",
+   "exDe": "Algorithmische Entscheidungen wirken objektiv.",
+   "exEn": "Algorithmic decisions appear objective."
+  },
+  {
+   "n": 44,
+   "de": "datengetrieben",
+   "type": "adj.",
+   "en": "data-driven",
+   "exDe": "Datengetrieben hei&szlig;t nicht vorurteilsfrei.",
+   "exEn": "Data-driven does not mean free of prejudice."
+  },
+  {
+   "n": 45,
+   "de": "intransparent",
+   "type": "adj.",
+   "en": "non-transparent",
+   "exDe": "Intransparente Verfahren entziehen sich der Kontrolle.",
+   "exEn": "Non-transparent procedures escape scrutiny."
+  },
+  {
+   "n": 46,
+   "de": "undurchsichtig",
+   "type": "adj.",
+   "en": "opaque",
+   "exDe": "Undurchsichtig ist nicht dasselbe wie kompliziert.",
+   "exEn": "Opaque is not the same as complicated."
+  },
+  {
+   "n": 47,
+   "de": "anfechtbar",
+   "type": "adj.",
+   "en": "open to challenge",
+   "exDe": "Anfechtbar ist nur, was begr&uuml;ndet wurde.",
+   "exEn": "Only what has been justified is open to challenge."
+  },
+  {
+   "n": 48,
+   "de": "begr&uuml;ndungspflichtig",
+   "type": "adj.",
+   "en": "requiring justification",
+   "exDe": "Begr&uuml;ndungspflichtig sind auch maschinelle Bescheide.",
+   "exEn": "Machine-issued decisions also require justification."
+  },
+  {
+   "n": 49,
+   "de": "folgenschwer",
+   "type": "adj.",
+   "en": "momentous",
+   "exDe": "Folgenschwere Entscheidungen geh&ouml;ren nicht allein in Software.",
+   "exEn": "Momentous decisions do not belong to software alone."
+  },
+  {
+   "n": 50,
+   "de": "hochautomatisiert",
+   "type": "adj.",
+   "en": "highly automated",
+   "exDe": "Hochautomatisierte Verfahren brauchen mehr Aufsicht, nicht weniger.",
+   "exEn": "Highly automated procedures need more supervision, not less."
+  },
+  {
+   "n": 51,
+   "de": "menschenzentriert",
+   "type": "adj.",
+   "en": "human-centred",
+   "exDe": "Menschenzentriert ist ein Anspruch, kein Zustand.",
+   "exEn": "Human-centred is an aspiration, not a state."
+  },
+  {
+   "n": 52,
+   "de": "fehlertolerant",
+   "type": "adj.",
+   "en": "fault-tolerant",
+   "exDe": "Fehlertolerante Systeme sind nicht fehlerfrei.",
+   "exEn": "Fault-tolerant systems are not error-free."
+  },
+  {
+   "n": 53,
+   "de": "Entscheidungen automatisieren",
+   "type": "N+V &middot; automatisiert Entscheidungen",
+   "en": "to automate decisions",
+   "exDe": "Entscheidungen automatisieren spart Zeit und verlagert Verantwortung.",
+   "exEn": "Automating decisions saves time and shifts responsibility."
+  },
+  {
+   "n": 54,
+   "de": "den Menschen im Verfahren halten",
+   "type": "N+V &middot; h&auml;lt den Menschen im Verfahren",
+   "en": "to keep a human in the loop",
+   "exDe": "Den Menschen im Verfahren halten hei&szlig;t nicht, ihn danebenzusetzen.",
+   "exEn": "Keeping a human in the loop does not mean seating them alongside."
+  },
+  {
+   "n": 55,
+   "de": "Kriterien offenlegen",
+   "type": "N+V &middot; legt Kriterien offen",
+   "en": "to disclose criteria",
+   "exDe": "Kriterien offenlegen kostet Gesch&auml;ftsgeheimnis und schafft Vertrauen.",
+   "exEn": "Disclosing criteria costs trade secrets and creates trust."
+  },
+  {
+   "n": 56,
+   "de": "Einspruch erheben",
+   "type": "N+V &middot; erhebt Einspruch",
+   "en": "to lodge an objection",
+   "exDe": "Einspruch erheben kann nur, wer die Gr&uuml;nde kennt.",
+   "exEn": "Only those who know the reasons can lodge an objection."
+  },
+  {
+   "n": 57,
+   "de": "Verantwortung zuweisen",
+   "type": "N+V &middot; weist Verantwortung zu",
+   "en": "to assign responsibility",
+   "exDe": "Verantwortung zuweisen ist die offene Frage der Regulierung.",
+   "exEn": "Assigning responsibility is the open question of regulation."
+  },
+  {
+   "n": 58,
+   "de": "Daten repr&auml;sentativ machen",
+   "type": "N+V &middot; macht Daten repr&auml;sentativ",
+   "en": "to make data representative",
+   "exDe": "Daten repr&auml;sentativ machen ist teurer als das Modell.",
+   "exEn": "Making data representative is dearer than the model."
+  },
+  {
+   "n": 59,
+   "de": "Wirkung &uuml;berpr&uuml;fen",
+   "type": "N+V &middot; &uuml;berpr&uuml;ft die Wirkung",
+   "en": "to review the impact",
+   "exDe": "Die Wirkung &uuml;berpr&uuml;fen muss jemand, der nichts verkauft.",
+   "exEn": "The impact must be reviewed by somebody who sells nothing."
+  },
+  {
+   "n": 60,
+   "de": "Grenzen des Einsatzes ziehen",
+   "type": "N+V &middot; zieht Grenzen des Einsatzes",
+   "en": "to set limits on deployment",
+   "exDe": "Grenzen des Einsatzes zieht man vorher oder gar nicht.",
+   "exEn": "Limits on deployment are set beforehand or not at all."
+  }
+ ],
+ "groups": [
+  "KI &amp; Transformation &middot; Who Gains, Who Decides",
+  "Algorithmische Entscheidungen &middot; When Software Judges",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

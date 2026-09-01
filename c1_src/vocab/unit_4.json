@@ -1,0 +1,491 @@
+{
+ "unit": 4,
+ "title_de": "Bildung &amp; Gerechtigkeit",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Bildungsaufstieg",
+   "type": "der",
+   "en": "educational advancement",
+   "exDe": "Der Bildungsaufstieg gelingt seltener als das Versprechen nahelegt.",
+   "exEn": "Educational advancement succeeds less often than the promise suggests."
+  },
+  {
+   "n": 2,
+   "de": "Aufstiegsmobilit&auml;t",
+   "type": "die",
+   "en": "upward mobility",
+   "exDe": "Die Aufstiegsmobilit&auml;t ist seit den Achtzigern gesunken.",
+   "exEn": "Upward mobility has declined since the eighties."
+  },
+  {
+   "n": 3,
+   "de": "Durchl&auml;ssigkeit",
+   "type": "die",
+   "en": "permeability (of a school system)",
+   "exDe": "Die Durchl&auml;ssigkeit des Systems ist auf dem Papier gr&ouml;&szlig;er als in der Praxis.",
+   "exEn": "The permeability of the system is greater on paper than in practice."
+  },
+  {
+   "n": 4,
+   "de": "Bildungsexpansion",
+   "type": "die",
+   "en": "expansion of education",
+   "exDe": "Die Bildungsexpansion hat die Ungleichheit verschoben, nicht beseitigt.",
+   "exEn": "The expansion of education shifted inequality rather than removing it."
+  },
+  {
+   "n": 5,
+   "de": "Bildungsbeteiligung",
+   "type": "die",
+   "en": "participation in education",
+   "exDe": "Die Bildungsbeteiligung ist gestiegen, die Verteilung kaum.",
+   "exEn": "Participation in education has risen, its distribution hardly."
+  },
+  {
+   "n": 6,
+   "de": "Bildungsrendite",
+   "type": "die",
+   "en": "returns on education",
+   "exDe": "Die Bildungsrendite f&auml;llt je nach Abschluss sehr unterschiedlich aus.",
+   "exEn": "Returns on education differ greatly by qualification."
+  },
+  {
+   "n": 7,
+   "de": "Statuserhalt",
+   "type": "der",
+   "en": "preservation of status",
+   "exDe": "Vielen Eltern geht es weniger um Aufstieg als um Statuserhalt.",
+   "exEn": "For many parents it is less about advancement than about preserving status."
+  },
+  {
+   "n": 8,
+   "de": "Erstakademiker",
+   "type": "der",
+   "en": "first-generation graduate",
+   "exDe": "Erstakademiker berichten von Fremdheit an der Universit&auml;t.",
+   "exEn": "First-generation graduates report a sense of strangeness at university."
+  },
+  {
+   "n": 9,
+   "de": "Arbeiterkind",
+   "type": "das",
+   "en": "working-class child",
+   "exDe": "Von hundert Arbeiterkindern promovieren zwei.",
+   "exEn": "Of a hundred working-class children two take a doctorate."
+  },
+  {
+   "n": 10,
+   "de": "&Uuml;bergangsempfehlung",
+   "type": "die",
+   "en": "school transfer recommendation",
+   "exDe": "Die &Uuml;bergangsempfehlung f&auml;llt mit zehn Jahren.",
+   "exEn": "The transfer recommendation is made at the age of ten."
+  },
+  {
+   "n": 11,
+   "de": "Schulempfehlung",
+   "type": "die",
+   "en": "school recommendation",
+   "exDe": "Bei gleicher Leistung f&auml;llt die Schulempfehlung unterschiedlich aus.",
+   "exEn": "With equal performance the school recommendation differs."
+  },
+  {
+   "n": 12,
+   "de": "Selektion",
+   "type": "die",
+   "en": "selection",
+   "exDe": "Fr&uuml;he Selektion verst&auml;rkt, was sie messen will.",
+   "exEn": "Early selection reinforces what it claims to measure."
+  },
+  {
+   "n": 13,
+   "de": "Bildungsbenachteiligung",
+   "type": "die",
+   "en": "educational disadvantage",
+   "exDe": "Bildungsbenachteiligung beginnt vor der Einschulung.",
+   "exEn": "Educational disadvantage begins before school entry."
+  },
+  {
+   "n": 14,
+   "de": "Bildungsvererbung",
+   "type": "die",
+   "en": "inheritance of educational status",
+   "exDe": "Bildungsvererbung ist der stabilste Befund der Ungleichheitsforschung.",
+   "exEn": "Inheritance of educational status is the most stable finding in inequality research."
+  },
+  {
+   "n": 15,
+   "de": "Startchance",
+   "type": "die",
+   "en": "starting opportunity",
+   "exDe": "Ungleiche Startchancen lassen sich sp&auml;ter kaum ausgleichen.",
+   "exEn": "Unequal starting opportunities can hardly be evened out later."
+  },
+  {
+   "n": 16,
+   "de": "Leistungsschere",
+   "type": "die",
+   "en": "performance gap",
+   "exDe": "Die Leistungsschere &ouml;ffnet sich schon in der Grundschule.",
+   "exEn": "The performance gap opens up as early as primary school."
+  },
+  {
+   "n": 17,
+   "de": "Kompetenzstufe",
+   "type": "die",
+   "en": "competence level",
+   "exDe": "Ein F&uuml;nftel erreicht die unterste Kompetenzstufe nicht.",
+   "exEn": "A fifth do not reach the lowest competence level."
+  },
+  {
+   "n": 18,
+   "de": "Abbruchquote",
+   "type": "die",
+   "en": "dropout rate",
+   "exDe": "Die Abbruchquote h&auml;ngt st&auml;rker vom Elternhaus ab als von der Note.",
+   "exEn": "The dropout rate depends more on family background than on grades."
+  },
+  {
+   "n": 19,
+   "de": "Sitzenbleiben",
+   "type": "das",
+   "en": "repeating a year",
+   "exDe": "Sitzenbleiben gilt heute als teuer und wirkungslos.",
+   "exEn": "Repeating a year is now considered expensive and ineffective."
+  },
+  {
+   "n": 20,
+   "de": "Segregation",
+   "type": "die",
+   "en": "segregation",
+   "exDe": "Segregation im Wohnviertel setzt sich in der Schule fort.",
+   "exEn": "Segregation in the neighbourhood continues in the school."
+  },
+  {
+   "n": 21,
+   "de": "Brennpunktschule",
+   "type": "die",
+   "en": "school in a deprived area",
+   "exDe": "Brennpunktschulen brauchen mehr Personal, nicht weniger.",
+   "exEn": "Schools in deprived areas need more staff, not less."
+  },
+  {
+   "n": 22,
+   "de": "Nachteilsausgleich",
+   "type": "der",
+   "en": "compensation for disadvantage",
+   "exDe": "Der Nachteilsausgleich muss beantragt werden &mdash; das wissen nicht alle.",
+   "exEn": "Compensation for disadvantage must be applied for — not everyone knows that."
+  },
+  {
+   "n": 23,
+   "de": "Bildungsverlierer",
+   "type": "der",
+   "en": "educational loser",
+   "exDe": "Von Bildungsverlierern spricht man ungern, aber es gibt sie.",
+   "exEn": "People are reluctant to speak of educational losers, but they exist."
+  },
+  {
+   "n": 24,
+   "de": "Ungleichheitsforschung",
+   "type": "die",
+   "en": "inequality research",
+   "exDe": "Die Ungleichheitsforschung liefert seit Jahrzehnten dieselben Befunde.",
+   "exEn": "Inequality research has produced the same findings for decades."
+  },
+  {
+   "n": 25,
+   "de": "selektieren",
+   "type": "untr. &middot; hat selektiert",
+   "en": "to select out",
+   "exDe": "Ein System, das fr&uuml;h selektiert, verschenkt Begabung.",
+   "exEn": "A system that selects early wastes talent."
+  },
+  {
+   "n": 26,
+   "de": "aussieben",
+   "type": "tr. &middot; siebt aus",
+   "en": "to weed out",
+   "exDe": "Die Pr&uuml;fung siebt aus, statt zu f&ouml;rdern.",
+   "exEn": "The exam weeds out instead of supporting."
+  },
+  {
+   "n": 27,
+   "de": "abschulen",
+   "type": "tr. &middot; schult ab",
+   "en": "to move down a school type",
+   "exDe": "Abgeschult wird meist nach unten, nie nach oben.",
+   "exEn": "Pupils are moved down, never up."
+  },
+  {
+   "n": 28,
+   "de": "zur&uuml;ckstufen",
+   "type": "tr. &middot; stuft zur&uuml;ck",
+   "en": "to downgrade",
+   "exDe": "Wer zur&uuml;ckgestuft wird, holt das selten auf.",
+   "exEn": "Whoever is downgraded rarely catches up."
+  },
+  {
+   "n": 29,
+   "de": "hochstufen",
+   "type": "tr. &middot; stuft hoch",
+   "en": "to upgrade",
+   "exDe": "Hochgestuft wird nur auf Antrag der Eltern.",
+   "exEn": "Upgrading happens only on the parents' application."
+  },
+  {
+   "n": 30,
+   "de": "&uuml;berspringen",
+   "type": "untr. &middot; hat &uuml;bersprungen",
+   "en": "to skip (a year)",
+   "exDe": "Eine Klasse zu &uuml;berspringen l&ouml;st selten das Problem.",
+   "exEn": "Skipping a year rarely solves the problem."
+  },
+  {
+   "n": 31,
+   "de": "segregieren",
+   "type": "untr. &middot; hat segregiert",
+   "en": "to segregate",
+   "exDe": "Der Wohnungsmarkt segregiert, die Schule bildet es ab.",
+   "exEn": "The housing market segregates, the school reflects it."
+  },
+  {
+   "n": 32,
+   "de": "durchmischen",
+   "type": "tr. &middot; mischt durch",
+   "en": "to mix socially",
+   "exDe": "Klassen bewusst durchmischen wirkt nachweislich.",
+   "exEn": "Deliberately mixing classes demonstrably works."
+  },
+  {
+   "n": 33,
+   "de": "abbilden",
+   "type": "tr. &middot; bildet ab",
+   "en": "to reflect, to mirror",
+   "exDe": "Die Statistik bildet die Herkunft ab, nicht die Begabung.",
+   "exEn": "The statistics reflect origin, not talent."
+  },
+  {
+   "n": 34,
+   "de": "nachzeichnen",
+   "type": "tr. &middot; zeichnet nach",
+   "en": "to trace",
+   "exDe": "Die Studie zeichnet den Weg von der Kita bis zum Abschluss nach.",
+   "exEn": "The study traces the path from nursery to qualification."
+  },
+  {
+   "n": 35,
+   "de": "festschreiben",
+   "type": "tr. &middot; schreibt fest",
+   "en": "to lock in",
+   "exDe": "Fr&uuml;he Entscheidungen schreiben sp&auml;tere Chancen fest.",
+   "exEn": "Early decisions lock in later opportunities."
+  },
+  {
+   "n": 36,
+   "de": "fortschreiben",
+   "type": "tr. &middot; schreibt fort",
+   "en": "to perpetuate, to carry forward",
+   "exDe": "Das System schreibt Ungleichheit fort.",
+   "exEn": "The system carries inequality forward."
+  },
+  {
+   "n": 37,
+   "de": "zur&uuml;ckwerfen",
+   "type": "tr. &middot; wirft zur&uuml;ck",
+   "en": "to set back",
+   "exDe": "Ein Schulwechsel wirft manche um Jahre zur&uuml;ck.",
+   "exEn": "Changing school sets some back by years."
+  },
+  {
+   "n": 38,
+   "de": "nachsteuern",
+   "type": "tr. &middot; steuert nach",
+   "en": "to make corrective adjustments",
+   "exDe": "Wer nicht nachsteuert, verwaltet nur.",
+   "exEn": "Whoever does not make adjustments is merely administering."
+  },
+  {
+   "n": 39,
+   "de": "begradigen",
+   "type": "tr. &middot; begradigt",
+   "en": "to straighten out",
+   "exDe": "Man kann Bildungswege nicht nachtr&auml;glich begradigen.",
+   "exEn": "Educational paths cannot be straightened out afterwards."
+  },
+  {
+   "n": 40,
+   "de": "vergr&ouml;&szlig;ern",
+   "type": "refl. &middot; vergr&ouml;&szlig;ert sich",
+   "en": "to widen",
+   "exDe": "Der Abstand vergr&ouml;&szlig;ert sich mit jedem Schuljahr.",
+   "exEn": "The gap widens with every school year."
+  },
+  {
+   "n": 41,
+   "de": "herabsetzen",
+   "type": "tr. &middot; setzt herab",
+   "en": "to lower",
+   "exDe": "Die H&uuml;rde herabzusetzen hei&szlig;t nicht, das Niveau zu senken.",
+   "exEn": "Lowering the barrier does not mean lowering the standard."
+  },
+  {
+   "n": 42,
+   "de": "aufweisen",
+   "type": "tr. &middot; weist auf",
+   "en": "to show, to exhibit",
+   "exDe": "Der Jahrgang weist deutliche Unterschiede auf.",
+   "exEn": "The cohort shows marked differences."
+  },
+  {
+   "n": 43,
+   "de": "durchl&auml;ssig",
+   "type": "adj.",
+   "en": "permeable",
+   "exDe": "Ein durchl&auml;ssiges System korrigiert fr&uuml;he Fehlurteile.",
+   "exEn": "A permeable system corrects early misjudgements."
+  },
+  {
+   "n": 44,
+   "de": "selektiv",
+   "type": "adj.",
+   "en": "selective",
+   "exDe": "Das deutsche System gilt als besonders selektiv.",
+   "exEn": "The German system is considered particularly selective."
+  },
+  {
+   "n": 45,
+   "de": "sozial selektiv",
+   "type": "adj.",
+   "en": "socially selective",
+   "exDe": "Sozial selektive Verfahren wirken neutral und sind es nicht.",
+   "exEn": "Socially selective procedures look neutral and are not."
+  },
+  {
+   "n": 46,
+   "de": "herkunftsabh&auml;ngig",
+   "type": "adj.",
+   "en": "dependent on background",
+   "exDe": "Bildungserfolg ist in Deutschland stark herkunftsabh&auml;ngig.",
+   "exEn": "Educational success in Germany strongly depends on background."
+  },
+  {
+   "n": 47,
+   "de": "strukturell",
+   "type": "adj.",
+   "en": "structural",
+   "exDe": "Strukturelle Benachteiligung braucht keine b&ouml;se Absicht.",
+   "exEn": "Structural disadvantage requires no bad intent."
+  },
+  {
+   "n": 48,
+   "de": "privilegiert",
+   "type": "adj.",
+   "en": "privileged",
+   "exDe": "Privilegierte Familien nutzen jede Regel besser.",
+   "exEn": "Privileged families make better use of every rule."
+  },
+  {
+   "n": 49,
+   "de": "chancengerecht",
+   "type": "adj.",
+   "en": "equitable in opportunity",
+   "exDe": "Ein chancengerechtes System ist nicht dasselbe wie ein gleiches.",
+   "exEn": "An equitable system is not the same as an equal one."
+  },
+  {
+   "n": 50,
+   "de": "kompensatorisch",
+   "type": "adj.",
+   "en": "compensatory",
+   "exDe": "Kompensatorische Ma&szlig;nahmen kommen meist zu sp&auml;t.",
+   "exEn": "Compensatory measures usually come too late."
+  },
+  {
+   "n": 51,
+   "de": "meritokratisch",
+   "type": "adj.",
+   "en": "meritocratic",
+   "exDe": "Das meritokratische Versprechen h&auml;lt der Pr&uuml;fung nicht stand.",
+   "exEn": "The meritocratic promise does not withstand scrutiny."
+  },
+  {
+   "n": 52,
+   "de": "segregiert",
+   "type": "adj.",
+   "en": "segregated",
+   "exDe": "Segregierte Schulen entstehen ohne ausdr&uuml;ckliche Entscheidung.",
+   "exEn": "Segregated schools arise without any explicit decision."
+  },
+  {
+   "n": 53,
+   "de": "den Aufstieg schaffen",
+   "type": "N+V &middot; schafft den Aufstieg",
+   "en": "to make it up the ladder",
+   "exDe": "Den Aufstieg schaffen wenige und werden dann als Beweis zitiert.",
+   "exEn": "Few make it up the ladder and are then cited as proof."
+  },
+  {
+   "n": 54,
+   "de": "Perspektiven schaffen",
+   "type": "N+V &middot; schafft Perspektiven",
+   "en": "to create prospects",
+   "exDe": "Perspektiven schafft man fr&uuml;h oder gar nicht.",
+   "exEn": "Prospects are created early or not at all."
+  },
+  {
+   "n": 55,
+   "de": "Barrieren abbauen",
+   "type": "N+V &middot; baut Barrieren ab",
+   "en": "to dismantle barriers",
+   "exDe": "Barrieren abzubauen kostet weniger als Reparatur.",
+   "exEn": "Dismantling barriers costs less than repair."
+  },
+  {
+   "n": 56,
+   "de": "Bildung finanzieren",
+   "type": "N+V &middot; finanziert Bildung",
+   "en": "to fund education",
+   "exDe": "Bildung finanziert man am besten dort, wo am wenigsten da ist.",
+   "exEn": "Education is best funded where there is least."
+  },
+  {
+   "n": 57,
+   "de": "eine Empfehlung aussprechen",
+   "type": "N+V &middot; spricht eine Empfehlung aus",
+   "en": "to issue a recommendation",
+   "exDe": "Eine Empfehlung spricht die Lehrkraft aus, entscheiden die Eltern.",
+   "exEn": "The teacher issues a recommendation, the parents decide."
+  },
+  {
+   "n": 58,
+   "de": "den Abschluss erwerben",
+   "type": "N+V &middot; erwirbt den Abschluss",
+   "en": "to obtain the qualification",
+   "exDe": "Den Abschluss erwerben viele auf dem zweiten Bildungsweg.",
+   "exEn": "Many obtain the qualification through adult education."
+  },
+  {
+   "n": 59,
+   "de": "Ungleichheit reproduzieren",
+   "type": "N+V &middot; reproduziert Ungleichheit",
+   "en": "to reproduce inequality",
+   "exDe": "Ungleichheit reproduziert das System, ohne sie zu wollen.",
+   "exEn": "The system reproduces inequality without intending it."
+  },
+  {
+   "n": 60,
+   "de": "Zugang erm&ouml;glichen",
+   "type": "N+V &middot; erm&ouml;glicht Zugang",
+   "en": "to enable access",
+   "exDe": "Zugang erm&ouml;glichen hei&szlig;t auch: Formulare verst&auml;ndlich machen.",
+   "exEn": "Enabling access also means making forms comprehensible."
+  }
+ ],
+ "groups": [
+  "Bildung &amp; Mobilit&auml;t &middot; The Promise",
+  "Selektion &amp; Benachteiligung &middot; What Actually Happens",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

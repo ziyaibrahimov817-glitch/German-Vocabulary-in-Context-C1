@@ -1,0 +1,491 @@
+{
+ "unit": 17,
+ "title_de": "Artenvielfalt &amp; Krisen",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "&Ouml;kosystemleistung",
+   "type": "die",
+   "en": "ecosystem service",
+   "exDe": "&Ouml;kosystemleistungen sind gratis, bis sie ausfallen.",
+   "exEn": "Ecosystem services are free until they fail."
+  },
+  {
+   "n": 2,
+   "de": "Best&auml;ubungsleistung",
+   "type": "die",
+   "en": "pollination service",
+   "exDe": "Die Best&auml;ubungsleistung l&auml;sst sich beziffern, aber nicht ersetzen.",
+   "exEn": "Pollination can be quantified but not replaced."
+  },
+  {
+   "n": 3,
+   "de": "Nahrungsnetz",
+   "type": "das",
+   "en": "food web",
+   "exDe": "Ein Nahrungsnetz rei&szlig;t nicht an einer Stelle.",
+   "exEn": "A food web does not tear at one point only."
+  },
+  {
+   "n": 4,
+   "de": "Schl&uuml;sselart",
+   "type": "die",
+   "en": "keystone species",
+   "exDe": "F&auml;llt eine Schl&uuml;sselart aus, kippt das System.",
+   "exEn": "If a keystone species is lost, the system tips."
+  },
+  {
+   "n": 5,
+   "de": "Zeigerart",
+   "type": "die",
+   "en": "indicator species",
+   "exDe": "Zeigerarten verraten den Zustand vor jeder Messung.",
+   "exEn": "Indicator species reveal the condition before any measurement."
+  },
+  {
+   "n": 6,
+   "de": "Endemismus",
+   "type": "der",
+   "en": "endemism",
+   "exDe": "Hoher Endemismus bedeutet hohes Risiko.",
+   "exEn": "High endemism means high risk."
+  },
+  {
+   "n": 7,
+   "de": "Habitatverlust",
+   "type": "der",
+   "en": "habitat loss",
+   "exDe": "Habitatverlust wirkt st&auml;rker als jede einzelne Schadstoffquelle.",
+   "exEn": "Habitat loss has more effect than any single pollutant."
+  },
+  {
+   "n": 8,
+   "de": "Lebensraumzerschneidung",
+   "type": "die",
+   "en": "habitat fragmentation",
+   "exDe": "Lebensraumzerschneidung trennt Populationen dauerhaft.",
+   "exEn": "Habitat fragmentation separates populations permanently."
+  },
+  {
+   "n": 9,
+   "de": "Wanderkorridor",
+   "type": "der",
+   "en": "wildlife corridor",
+   "exDe": "Ein Wanderkorridor verbindet, was Stra&szlig;en getrennt haben.",
+   "exEn": "A wildlife corridor connects what roads have separated."
+  },
+  {
+   "n": 10,
+   "de": "Trittsteinbiotop",
+   "type": "das",
+   "en": "stepping-stone habitat",
+   "exDe": "Trittsteinbiotope ersetzen keinen gro&szlig;en Lebensraum.",
+   "exEn": "Stepping-stone habitats do not replace a large habitat."
+  },
+  {
+   "n": 11,
+   "de": "Renaturierung",
+   "type": "die",
+   "en": "restoration of nature",
+   "exDe": "Renaturierung kostet ein Vielfaches der Zerst&ouml;rung.",
+   "exEn": "Restoration costs many times more than destruction."
+  },
+  {
+   "n": 12,
+   "de": "Wiedervern&auml;ssung",
+   "type": "die",
+   "en": "rewetting of peatland",
+   "exDe": "Wiedervern&auml;ssung ist die billigste Klimama&szlig;nahme &uuml;berhaupt.",
+   "exEn": "Rewetting is the cheapest climate measure of all."
+  },
+  {
+   "n": 13,
+   "de": "Schutzgebietsnetz",
+   "type": "das",
+   "en": "network of protected areas",
+   "exDe": "Ein Schutzgebietsnetz wirkt nur zusammenh&auml;ngend.",
+   "exEn": "A network of protected areas only works when connected."
+  },
+  {
+   "n": 14,
+   "de": "Populationsdichte",
+   "type": "die",
+   "en": "population density",
+   "exDe": "Unter einer Mindestdichte hilft auch Schutz nicht mehr.",
+   "exEn": "Below a minimum density even protection no longer helps."
+  },
+  {
+   "n": 15,
+   "de": "Genpool",
+   "type": "der",
+   "en": "gene pool",
+   "exDe": "Ein kleiner Genpool macht anf&auml;llig f&uuml;r alles.",
+   "exEn": "A small gene pool makes a species vulnerable to everything."
+  },
+  {
+   "n": 16,
+   "de": "Artenschwund",
+   "type": "der",
+   "en": "loss of species",
+   "exDe": "Der Artenschwund verl&auml;uft leiser als der Klimawandel.",
+   "exEn": "The loss of species proceeds more quietly than climate change."
+  },
+  {
+   "n": 17,
+   "de": "Neobiota",
+   "type": "die (pl)",
+   "en": "non-native species",
+   "exDe": "Neobiota sind meist harmlos und manchmal nicht.",
+   "exEn": "Non-native species are mostly harmless and sometimes not."
+  },
+  {
+   "n": 18,
+   "de": "Monitoringprogramm",
+   "type": "das",
+   "en": "monitoring programme",
+   "exDe": "Ohne Monitoringprogramm merkt man den Verlust zu sp&auml;t.",
+   "exEn": "Without a monitoring programme the loss is noticed too late."
+  },
+  {
+   "n": 19,
+   "de": "Krisenstab",
+   "type": "der",
+   "en": "crisis management team",
+   "exDe": "Der Krisenstab tagt, bevor die Lage eskaliert.",
+   "exEn": "The crisis team meets before the situation escalates."
+  },
+  {
+   "n": 20,
+   "de": "Lagebild",
+   "type": "das",
+   "en": "situation report, common operating picture",
+   "exDe": "Ein gemeinsames Lagebild fehlt meist in den ersten Stunden.",
+   "exEn": "A common picture is usually missing in the first hours."
+  },
+  {
+   "n": 21,
+   "de": "Meldekette",
+   "type": "die",
+   "en": "reporting chain",
+   "exDe": "Die Meldekette bricht dort, wo niemand zust&auml;ndig ist.",
+   "exEn": "The reporting chain breaks where nobody is responsible."
+  },
+  {
+   "n": 22,
+   "de": "Rettungskette",
+   "type": "die",
+   "en": "chain of rescue",
+   "exDe": "Die Rettungskette ist so schnell wie ihr langsamstes Glied.",
+   "exEn": "The chain of rescue is as fast as its slowest link."
+  },
+  {
+   "n": 23,
+   "de": "Kritische Infrastruktur",
+   "type": "die",
+   "en": "critical infrastructure",
+   "exDe": "Kritische Infrastruktur f&auml;llt selten allein aus.",
+   "exEn": "Critical infrastructure rarely fails alone."
+  },
+  {
+   "n": 24,
+   "de": "Vorsorgeplanung",
+   "type": "die",
+   "en": "contingency planning",
+   "exDe": "Vorsorgeplanung kostet, solange nichts passiert.",
+   "exEn": "Contingency planning costs while nothing happens."
+  },
+  {
+   "n": 25,
+   "de": "besiedeln",
+   "type": "untr. &middot; hat besiedelt",
+   "en": "to colonise",
+   "exDe": "Neu besiedelt wird, was warm genug geworden ist.",
+   "exEn": "What has become warm enough is newly colonised."
+  },
+  {
+   "n": 26,
+   "de": "einschleppen",
+   "type": "tr. &middot; schleppt ein",
+   "en": "to introduce (a species)",
+   "exDe": "Eingeschleppt wird meist unbeabsichtigt.",
+   "exEn": "Introduction usually happens unintentionally."
+  },
+  {
+   "n": 27,
+   "de": "ausbreiten",
+   "type": "refl. &middot; breitet sich aus",
+   "en": "to spread",
+   "exDe": "Eine Art breitet sich aus, wenn nichts sie bremst.",
+   "exEn": "A species spreads when nothing checks it."
+  },
+  {
+   "n": 28,
+   "de": "&uuml;berwuchern",
+   "type": "untr. &middot; hat &uuml;berwuchert",
+   "en": "to overgrow",
+   "exDe": "&Uuml;berwuchert wird, was langsam w&auml;chst.",
+   "exEn": "What grows slowly gets overgrown."
+  },
+  {
+   "n": 29,
+   "de": "verinseln",
+   "type": "untr. &middot; ist verinselt",
+   "en": "to become fragmented into islands",
+   "exDe": "Verinselte Populationen sterben lokal aus.",
+   "exEn": "Island-like populations die out locally."
+  },
+  {
+   "n": 30,
+   "de": "zerschneiden",
+   "type": "tr. &middot; zerschneidet",
+   "en": "to fragment, to cut through",
+   "exDe": "Zerschnitten wird die Landschaft von Stra&szlig;en, nicht von Zeit.",
+   "exEn": "The landscape is fragmented by roads, not by time."
+  },
+  {
+   "n": 31,
+   "de": "zusammenschlie&szlig;en",
+   "type": "tr. &middot; schlie&szlig;t zusammen",
+   "en": "to join up",
+   "exDe": "Zusammengeschlossene Fl&auml;chen wirken gr&ouml;&szlig;er als ihre Summe.",
+   "exEn": "Joined-up areas act larger than their sum."
+  },
+  {
+   "n": 32,
+   "de": "versiegen",
+   "type": "untr. &middot; ist versiegt",
+   "en": "to dry up",
+   "exDe": "Versiegt ein Bach, verschwindet die halbe Fauna.",
+   "exEn": "If a stream dries up, half the fauna disappears."
+  },
+  {
+   "n": 33,
+   "de": "&uuml;berfluten",
+   "type": "untr. &middot; hat &uuml;berflutet",
+   "en": "to flood",
+   "exDe": "&Uuml;berflutet wird, wo man gebaut hat.",
+   "exEn": "Flooding happens where building took place."
+  },
+  {
+   "n": 34,
+   "de": "stauen",
+   "type": "untr. &middot; hat gestaut",
+   "en": "to dam up, to hold back",
+   "exDe": "Gestaut wird das Wasser, verschoben die Welle.",
+   "exEn": "The water is held back, the wave is postponed."
+  },
+  {
+   "n": 35,
+   "de": "alarmieren",
+   "type": "untr. &middot; hat alarmiert",
+   "en": "to alert",
+   "exDe": "Alarmiert wurde sp&auml;t und unvollst&auml;ndig.",
+   "exEn": "The alert came late and incomplete."
+  },
+  {
+   "n": 36,
+   "de": "ausrufen",
+   "type": "tr. &middot; ruft aus",
+   "en": "to declare (a state of emergency)",
+   "exDe": "Der Katastrophenfall wird selten fr&uuml;h genug ausgerufen.",
+   "exEn": "A state of disaster is rarely declared early enough."
+  },
+  {
+   "n": 37,
+   "de": "absperren",
+   "type": "tr. &middot; sperrt ab",
+   "en": "to cordon off",
+   "exDe": "Abgesperrt wird gro&szlig;fl&auml;chig und ungern.",
+   "exEn": "Cordoning off is done widely and reluctantly."
+  },
+  {
+   "n": 38,
+   "de": "zusammenziehen",
+   "type": "tr. &middot; zieht zusammen",
+   "en": "to concentrate (forces)",
+   "exDe": "Kr&auml;fte zusammenziehen kostet Zeit, die niemand hat.",
+   "exEn": "Concentrating forces costs time nobody has."
+  },
+  {
+   "n": 39,
+   "de": "hochskalieren",
+   "type": "tr. &middot; skaliert hoch",
+   "en": "to scale up",
+   "exDe": "Hochskaliert wird, was vorher ge&uuml;bt wurde.",
+   "exEn": "What was practised beforehand gets scaled up."
+  },
+  {
+   "n": 40,
+   "de": "sicherstellen",
+   "type": "tr. &middot; stellt sicher",
+   "en": "to ensure",
+   "exDe": "Sichergestellt sein muss die Versorgung, nicht die Zust&auml;ndigkeit.",
+   "exEn": "Supply must be ensured, not responsibility."
+  },
+  {
+   "n": 41,
+   "de": "abdichten",
+   "type": "tr. &middot; dichtet ab",
+   "en": "to seal",
+   "exDe": "Abgedichtet wird, bevor das Wasser steigt.",
+   "exEn": "Sealing is done before the water rises."
+  },
+  {
+   "n": 42,
+   "de": "nachbereiten",
+   "type": "tr. &middot; bereitet nach",
+   "en": "to review afterwards",
+   "exDe": "Nachbereitet wird selten, gelernt entsprechend wenig.",
+   "exEn": "Reviews are rare, and accordingly little is learnt."
+  },
+  {
+   "n": 43,
+   "de": "artenarm",
+   "type": "adj.",
+   "en": "species-poor",
+   "exDe": "Artenarme Fl&auml;chen wirken gepflegt und sind es nicht.",
+   "exEn": "Species-poor areas look tidy and are not."
+  },
+  {
+   "n": 44,
+   "de": "&ouml;kologisch wertvoll",
+   "type": "adj.",
+   "en": "ecologically valuable",
+   "exDe": "&Ouml;kologisch wertvoll ist oft, was ungepflegt aussieht.",
+   "exEn": "What looks untended is often ecologically valuable."
+  },
+  {
+   "n": 45,
+   "de": "zerschnitten",
+   "type": "adj.",
+   "en": "fragmented",
+   "exDe": "Zerschnittene Lebensr&auml;ume verlieren zuerst die gro&szlig;en Arten.",
+   "exEn": "Fragmented habitats lose the large species first."
+  },
+  {
+   "n": 46,
+   "de": "vernetzt",
+   "type": "adj.",
+   "en": "connected",
+   "exDe": "Vernetzte Schutzgebiete halten mehr aus.",
+   "exEn": "Connected protected areas withstand more."
+  },
+  {
+   "n": 47,
+   "de": "standorttreu",
+   "type": "adj.",
+   "en": "site-faithful",
+   "exDe": "Standorttreue Arten k&ouml;nnen nicht ausweichen.",
+   "exEn": "Site-faithful species cannot move away."
+  },
+  {
+   "n": 48,
+   "de": "w&auml;rmeliebend",
+   "type": "adj.",
+   "en": "thermophilic",
+   "exDe": "W&auml;rmeliebende Arten r&uuml;cken nach Norden.",
+   "exEn": "Thermophilic species are moving northwards."
+  },
+  {
+   "n": 49,
+   "de": "invasiv",
+   "type": "adj.",
+   "en": "invasive",
+   "exDe": "Invasiv ist eine Art erst, wenn sie andere verdr&auml;ngt.",
+   "exEn": "A species is invasive only when it displaces others."
+  },
+  {
+   "n": 50,
+   "de": "gro&szlig;fl&auml;chig",
+   "type": "adj.",
+   "en": "large-scale",
+   "exDe": "Gro&szlig;fl&auml;chige Sch&auml;den &uuml;berfordern jede Kommune.",
+   "exEn": "Large-scale damage overwhelms any municipality."
+  },
+  {
+   "n": 51,
+   "de": "krisenerprobt",
+   "type": "adj.",
+   "en": "tested by crisis",
+   "exDe": "Krisenerprobte Strukturen improvisieren besser.",
+   "exEn": "Structures tested by crisis improvise better."
+  },
+  {
+   "n": 52,
+   "de": "redundant",
+   "type": "adj.",
+   "en": "redundant, with backup",
+   "exDe": "Redundante Systeme kosten doppelt und retten einmal.",
+   "exEn": "Redundant systems cost twice and save once."
+  },
+  {
+   "n": 53,
+   "de": "Habitate sch&uuml;tzen",
+   "type": "N+V &middot; sch&uuml;tzt Habitate",
+   "en": "to protect habitats",
+   "exDe": "Habitate sch&uuml;tzen ist billiger als sie wiederherzustellen.",
+   "exEn": "Protecting habitats is cheaper than restoring them."
+  },
+  {
+   "n": 54,
+   "de": "Fl&auml;chen verbinden",
+   "type": "N+V &middot; verbindet Fl&auml;chen",
+   "en": "to connect areas",
+   "exDe": "Fl&auml;chen verbinden wirkt st&auml;rker als sie zu vergr&ouml;&szlig;ern.",
+   "exEn": "Connecting areas works better than enlarging them."
+  },
+  {
+   "n": 55,
+   "de": "Best&auml;nde &uuml;berwachen",
+   "type": "N+V &middot; &uuml;berwacht Best&auml;nde",
+   "en": "to monitor populations",
+   "exDe": "Best&auml;nde &uuml;berwachen hei&szlig;t, den Verlust rechtzeitig zu sehen.",
+   "exEn": "Monitoring populations means seeing the loss in time."
+  },
+  {
+   "n": 56,
+   "de": "Arten wiederansiedeln",
+   "type": "N+V &middot; siedelt Arten wieder an",
+   "en": "to reintroduce species",
+   "exDe": "Arten wiederansiedeln gelingt nur mit dem Lebensraum.",
+   "exEn": "Reintroducing species only works together with the habitat."
+  },
+  {
+   "n": 57,
+   "de": "Vorsorge treffen",
+   "type": "N+V &middot; trifft Vorsorge",
+   "en": "to take precautions",
+   "exDe": "Vorsorge trifft man vor der Lage, nicht in ihr.",
+   "exEn": "Precautions are taken before the situation, not during it."
+  },
+  {
+   "n": 58,
+   "de": "die Lage einsch&auml;tzen",
+   "type": "N+V &middot; sch&auml;tzt die Lage ein",
+   "en": "to assess the situation",
+   "exDe": "Die Lage einsch&auml;tzen kann nur, wer vor Ort ist.",
+   "exEn": "Only those on the ground can assess the situation."
+  },
+  {
+   "n": 59,
+   "de": "Kr&auml;fte b&uuml;ndeln",
+   "type": "N+V &middot; b&uuml;ndelt Kr&auml;fte",
+   "en": "to pool resources",
+   "exDe": "Kr&auml;fte b&uuml;ndeln setzt eine klare F&uuml;hrung voraus.",
+   "exEn": "Pooling resources presupposes clear leadership."
+  },
+  {
+   "n": 60,
+   "de": "aus Fehlern lernen",
+   "type": "N+V &middot; lernt aus Fehlern",
+   "en": "to learn from mistakes",
+   "exDe": "Aus Fehlern lernen setzt voraus, dass man sie benennt.",
+   "exEn": "Learning from mistakes presupposes naming them."
+  }
+ ],
+ "groups": [
+  "Artenvielfalt &middot; What Holds a System Together",
+  "Katastrophen &amp; Krisenmanagement &middot; When It Fails",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

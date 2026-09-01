@@ -1,0 +1,491 @@
+{
+ "unit": 26,
+ "title_de": "Wissenschaft &amp; Verantwortung",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Erkenntnisinteresse",
+   "type": "das",
+   "en": "research interest, cognitive interest",
+   "exDe": "Jede Studie hat ein Erkenntnisinteresse, nicht jede nennt es.",
+   "exEn": "Every study has a research interest; not every one names it."
+  },
+  {
+   "n": 2,
+   "de": "Erkenntnisgewinn",
+   "type": "der",
+   "en": "gain in knowledge",
+   "exDe": "Der Erkenntnisgewinn liegt oft in der widerlegten Annahme.",
+   "exEn": "The gain in knowledge often lies in the refuted assumption."
+  },
+  {
+   "n": 3,
+   "de": "Falsifizierbarkeit",
+   "type": "die",
+   "en": "falsifiability",
+   "exDe": "Ohne Falsifizierbarkeit ist eine Aussage nicht wissenschaftlich.",
+   "exEn": "Without falsifiability a statement is not scientific."
+  },
+  {
+   "n": 4,
+   "de": "Widerlegung",
+   "type": "die",
+   "en": "refutation",
+   "exDe": "Eine Widerlegung ist ein Ergebnis, kein Scheitern.",
+   "exEn": "A refutation is a result, not a failure."
+  },
+  {
+   "n": 5,
+   "de": "Evidenzgrad",
+   "type": "der",
+   "en": "level of evidence",
+   "exDe": "Der Evidenzgrad sagt mehr als die Zahl der Studien.",
+   "exEn": "The level of evidence says more than the number of studies."
+  },
+  {
+   "n": 6,
+   "de": "Metaanalyse",
+   "type": "die",
+   "en": "meta-analysis",
+   "exDe": "Eine Metaanalyse ist nur so gut wie ihre schlechteste Studie.",
+   "exEn": "A meta-analysis is only as good as its worst study."
+  },
+  {
+   "n": 7,
+   "de": "Signifikanz",
+   "type": "die",
+   "en": "statistical significance",
+   "exDe": "Signifikanz bedeutet nicht Bedeutsamkeit.",
+   "exEn": "Statistical significance does not mean importance."
+  },
+  {
+   "n": 8,
+   "de": "Effektst&auml;rke",
+   "type": "die",
+   "en": "effect size",
+   "exDe": "Die Effektst&auml;rke entscheidet, ob ein Ergebnis z&auml;hlt.",
+   "exEn": "The effect size decides whether a result matters."
+  },
+  {
+   "n": 9,
+   "de": "Stichprobengr&ouml;&szlig;e",
+   "type": "die",
+   "en": "sample size",
+   "exDe": "Eine kleine Stichprobengr&ouml;&szlig;e macht jedes Ergebnis fragw&uuml;rdig.",
+   "exEn": "A small sample size makes any result questionable."
+  },
+  {
+   "n": 10,
+   "de": "Scheinkorrelation",
+   "type": "die",
+   "en": "spurious correlation",
+   "exDe": "Eine Scheinkorrelation sieht &uuml;berzeugender aus als die Wahrheit.",
+   "exEn": "A spurious correlation looks more convincing than the truth."
+  },
+  {
+   "n": 11,
+   "de": "Kausalzusammenhang",
+   "type": "der",
+   "en": "causal relationship",
+   "exDe": "Ein Kausalzusammenhang muss gezeigt und nicht behauptet werden.",
+   "exEn": "A causal relationship has to be shown, not asserted."
+  },
+  {
+   "n": 12,
+   "de": "Erkenntnisgrenze",
+   "type": "die",
+   "en": "limit of knowledge",
+   "exDe": "Die Erkenntnisgrenze zu benennen ist selbst eine Leistung.",
+   "exEn": "Naming the limit of knowledge is itself an achievement."
+  },
+  {
+   "n": 13,
+   "de": "Replikationskrise",
+   "type": "die",
+   "en": "replication crisis",
+   "exDe": "Die Replikationskrise betrifft ganze Fachgebiete.",
+   "exEn": "The replication crisis affects entire fields."
+  },
+  {
+   "n": 14,
+   "de": "Publikationsbias",
+   "type": "der",
+   "en": "publication bias",
+   "exDe": "Publikationsbias entsteht, weil Nullergebnisse niemand druckt.",
+   "exEn": "Publication bias arises because nobody prints null results."
+  },
+  {
+   "n": 15,
+   "de": "Begutachtung",
+   "type": "die",
+   "en": "peer review",
+   "exDe": "Die Begutachtung ist unbezahlt und unverzichtbar.",
+   "exEn": "Peer review is unpaid and indispensable."
+  },
+  {
+   "n": 16,
+   "de": "Vorabdruck",
+   "type": "der",
+   "en": "preprint",
+   "exDe": "Ein Vorabdruck ist ein Entwurf und wird als Befund zitiert.",
+   "exEn": "A preprint is a draft and gets cited as a finding."
+  },
+  {
+   "n": 17,
+   "de": "Interessenkonflikt",
+   "type": "der",
+   "en": "conflict of interest",
+   "exDe": "Ein Interessenkonflikt macht ein Ergebnis nicht falsch, nur pr&uuml;fbed&uuml;rftig.",
+   "exEn": "A conflict of interest does not make a result wrong, only in need of checking."
+  },
+  {
+   "n": 18,
+   "de": "Auftragsforschung",
+   "type": "die",
+   "en": "commissioned research",
+   "exDe": "Auftragsforschung ist zul&auml;ssig und geh&ouml;rt offengelegt.",
+   "exEn": "Commissioned research is permissible and belongs disclosed."
+  },
+  {
+   "n": 19,
+   "de": "Wissenschaftsfreiheit",
+   "type": "die",
+   "en": "academic freedom",
+   "exDe": "Wissenschaftsfreiheit sch&uuml;tzt die Frage, nicht die Antwort.",
+   "exEn": "Academic freedom protects the question, not the answer."
+  },
+  {
+   "n": 20,
+   "de": "Wissenschaftskommunikation",
+   "type": "die",
+   "en": "science communication",
+   "exDe": "Wissenschaftskommunikation scheitert an der Vereinfachung oder an der Genauigkeit.",
+   "exEn": "Science communication fails either on simplification or on precision."
+  },
+  {
+   "n": 21,
+   "de": "Unsicherheitsangabe",
+   "type": "die",
+   "en": "statement of uncertainty",
+   "exDe": "Eine Unsicherheitsangabe wird beim Zitieren zuerst gestrichen.",
+   "exEn": "A statement of uncertainty is the first thing cut when quoting."
+  },
+  {
+   "n": 22,
+   "de": "Minderheitsmeinung",
+   "type": "die",
+   "en": "minority view",
+   "exDe": "Eine Minderheitsmeinung ist nicht deshalb richtig, weil sie klein ist.",
+   "exEn": "A minority view is not right because it is small."
+  },
+  {
+   "n": 23,
+   "de": "Wissenschaftsskepsis",
+   "type": "die",
+   "en": "scepticism towards science",
+   "exDe": "Wissenschaftsskepsis beginnt mit einer berechtigten Frage.",
+   "exEn": "Scepticism towards science begins with a legitimate question."
+  },
+  {
+   "n": 24,
+   "de": "Expertise",
+   "type": "die",
+   "en": "expertise",
+   "exDe": "Expertise gilt f&uuml;r ein Fach, nicht f&uuml;r alle Fragen.",
+   "exEn": "Expertise applies to one field, not to all questions."
+  },
+  {
+   "n": 25,
+   "de": "operationalisieren",
+   "type": "untr. &middot; hat operationalisiert",
+   "en": "to operationalise",
+   "exDe": "Operationalisiert wird ein Begriff, gemessen wird ein Ersatz.",
+   "exEn": "A concept is operationalised, a proxy is measured."
+  },
+  {
+   "n": 26,
+   "de": "quantifizieren",
+   "type": "untr. &middot; hat quantifiziert",
+   "en": "to quantify",
+   "exDe": "Quantifiziert wird auch, was sich nicht messen l&auml;sst.",
+   "exEn": "Even what cannot be measured gets quantified."
+  },
+  {
+   "n": 27,
+   "de": "pr&auml;zisieren",
+   "type": "untr. &middot; hat pr&auml;zisiert",
+   "en": "to make more precise",
+   "exDe": "Pr&auml;zisiert wird auf Nachfrage, selten vorher.",
+   "exEn": "Things are made more precise on request, rarely beforehand."
+  },
+  {
+   "n": 28,
+   "de": "vorregistrieren",
+   "type": "tr. &middot; registriert vor",
+   "en": "to pre-register",
+   "exDe": "Vorregistriert wird die Frage, bevor die Daten da sind.",
+   "exEn": "The question is pre-registered before the data exist."
+  },
+  {
+   "n": 29,
+   "de": "nachstellen",
+   "type": "tr. &middot; stellt nach",
+   "en": "to reproduce, to recreate",
+   "exDe": "Nachgestellt wird ein Versuch selten und dann oft erfolglos.",
+   "exEn": "An experiment is rarely reproduced and then often unsuccessfully."
+  },
+  {
+   "n": 30,
+   "de": "peer-reviewen",
+   "type": "tr. &middot; peer-reviewt",
+   "en": "to peer-review",
+   "exDe": "Peer-reviewt wird von Kollegen, die selbst publizieren wollen.",
+   "exEn": "Peer review is done by colleagues who want to publish themselves."
+  },
+  {
+   "n": 31,
+   "de": "herauspicken",
+   "type": "tr. &middot; pickt heraus",
+   "en": "to cherry-pick",
+   "exDe": "Herausgepickt wird die eine passende Studie.",
+   "exEn": "The one convenient study gets cherry-picked."
+  },
+  {
+   "n": 32,
+   "de": "auslassen",
+   "type": "tr. &middot; l&auml;sst aus",
+   "en": "to omit",
+   "exDe": "Ausgelassen wird, was die Geschichte st&ouml;rt.",
+   "exEn": "What disturbs the story gets omitted."
+  },
+  {
+   "n": 33,
+   "de": "frisieren",
+   "type": "untr. &middot; hat frisiert",
+   "en": "to doctor (data)",
+   "exDe": "Frisiert wird selten, sch&ouml;ngerechnet oft.",
+   "exEn": "Data are rarely doctored, often just flattered."
+  },
+  {
+   "n": 34,
+   "de": "sch&ouml;nen",
+   "type": "untr. &middot; hat gesch&ouml;nt",
+   "en": "to embellish, to present favourably",
+   "exDe": "Gesch&ouml;nt wird durch Weglassen, nicht durch Erfinden.",
+   "exEn": "Embellishment works by omission, not by invention."
+  },
+  {
+   "n": 35,
+   "de": "runden",
+   "type": "untr. &middot; hat gerundet",
+   "en": "to round (figures)",
+   "exDe": "Gerundet wird immer in die gew&uuml;nschte Richtung.",
+   "exEn": "Rounding always goes in the desired direction."
+  },
+  {
+   "n": 36,
+   "de": "zurechtlegen",
+   "type": "refl. &middot; legt sich zurecht",
+   "en": "to arrange to suit oneself",
+   "exDe": "Wer sich die Daten zurechtlegt, findet immer etwas.",
+   "exEn": "Whoever arranges the data to suit themselves always finds something."
+  },
+  {
+   "n": 37,
+   "de": "aufbauschen",
+   "type": "tr. &middot; bauscht auf",
+   "en": "to blow out of proportion",
+   "exDe": "Aufgebauscht wird ein Zwischenergebnis zur Sensation.",
+   "exEn": "An interim result gets blown up into a sensation."
+  },
+  {
+   "n": 38,
+   "de": "herunterspielen",
+   "type": "tr. &middot; spielt herunter",
+   "en": "to play down",
+   "exDe": "Heruntergespielt wird, was teuer w&uuml;rde.",
+   "exEn": "What would be expensive gets played down."
+  },
+  {
+   "n": 39,
+   "de": "untertreiben",
+   "type": "untr. &middot; hat untertrieben",
+   "en": "to understate",
+   "exDe": "Untertrieben wird aus Vorsicht und wirkt wie Entwarnung.",
+   "exEn": "Understating is done out of caution and sounds like the all-clear."
+  },
+  {
+   "n": 40,
+   "de": "in den Zusammenhang stellen",
+   "type": "N+V &middot; stellt in den Zusammenhang",
+   "en": "to put into context",
+   "exDe": "In den Zusammenhang gestellt liest sich jede Zahl anders.",
+   "exEn": "Put into context, every figure reads differently."
+  },
+  {
+   "n": 41,
+   "de": "offen aussprechen",
+   "type": "N+V &middot; spricht offen aus",
+   "en": "to state openly",
+   "exDe": "Offen ausgesprochen wird die Unsicherheit meist im letzten Absatz.",
+   "exEn": "Uncertainty is usually stated openly only in the last paragraph."
+  },
+  {
+   "n": 42,
+   "de": "nachpr&uuml;fen",
+   "type": "tr. &middot; pr&uuml;ft nach",
+   "en": "to check, to verify",
+   "exDe": "Nachgepr&uuml;ft wird, was jemanden st&ouml;rt.",
+   "exEn": "What bothers somebody gets checked."
+  },
+  {
+   "n": 43,
+   "de": "evidenzbasiert",
+   "type": "adj.",
+   "en": "evidence-based",
+   "exDe": "Evidenzbasiert hei&szlig;t nicht endg&uuml;ltig.",
+   "exEn": "Evidence-based does not mean final."
+  },
+  {
+   "n": 44,
+   "de": "begutachtet",
+   "type": "adj.",
+   "en": "peer-reviewed",
+   "exDe": "Begutachtet ist besser als zitiert.",
+   "exEn": "Peer-reviewed is better than cited."
+  },
+  {
+   "n": 45,
+   "de": "interessengeleitet",
+   "type": "adj.",
+   "en": "driven by interests",
+   "exDe": "Interessengeleitete Forschung ist nicht automatisch schlechte Forschung.",
+   "exEn": "Research driven by interests is not automatically bad research."
+  },
+  {
+   "n": 46,
+   "de": "vorschnell",
+   "type": "adj.",
+   "en": "premature",
+   "exDe": "Vorschnelle Schl&uuml;sse halten sich am l&auml;ngsten.",
+   "exEn": "Premature conclusions last the longest."
+  },
+  {
+   "n": 47,
+   "de": "nachrechenbar",
+   "type": "adj.",
+   "en": "able to be recalculated",
+   "exDe": "Nachrechenbar ist die Mindestanforderung, nicht das Ziel.",
+   "exEn": "Being able to recalculate is the minimum requirement, not the goal."
+  },
+  {
+   "n": 48,
+   "de": "methodisch sauber",
+   "type": "adj.",
+   "en": "methodologically sound",
+   "exDe": "Methodisch sauber ist unspektakul&auml;r und selten.",
+   "exEn": "Methodologically sound is unspectacular and rare."
+  },
+  {
+   "n": 49,
+   "de": "unstrittig",
+   "type": "adj.",
+   "en": "undisputed",
+   "exDe": "Unstrittig ist weniger, als die Debatte vermuten l&auml;sst.",
+   "exEn": "Less is undisputed than the debate suggests."
+  },
+  {
+   "n": 50,
+   "de": "umkehrbar",
+   "type": "adj.",
+   "en": "reversible in argument",
+   "exDe": "Ein umkehrbares Argument taugt f&uuml;r beide Seiten.",
+   "exEn": "A reversible argument serves both sides."
+  },
+  {
+   "n": 51,
+   "de": "gesichert",
+   "type": "adj.",
+   "en": "established",
+   "exDe": "Gesichertes Wissen bleibt vorl&auml;ufiges Wissen.",
+   "exEn": "Established knowledge remains provisional knowledge."
+  },
+  {
+   "n": 52,
+   "de": "auslegungsbed&uuml;rftig",
+   "type": "adj.",
+   "en": "open to interpretation",
+   "exDe": "Auslegungsbed&uuml;rftig ist meist die Deutung, nicht die Messung.",
+   "exEn": "What is open to interpretation is usually the reading, not the measurement."
+  },
+  {
+   "n": 53,
+   "de": "eine Annahme pr&uuml;fen",
+   "type": "N+V &middot; pr&uuml;ft eine Annahme",
+   "en": "to test an assumption",
+   "exDe": "Eine Annahme pr&uuml;fen hei&szlig;t, sie scheitern lassen zu k&ouml;nnen.",
+   "exEn": "Testing an assumption means being able to let it fail."
+  },
+  {
+   "n": 54,
+   "de": "Belege abw&auml;gen",
+   "type": "N+V &middot; w&auml;gt Belege ab",
+   "en": "to weigh up evidence",
+   "exDe": "Belege abw&auml;gen ist anstrengender als sie zu z&auml;hlen.",
+   "exEn": "Weighing up evidence is harder than counting it."
+  },
+  {
+   "n": 55,
+   "de": "Unsicherheit benennen",
+   "type": "N+V &middot; benennt Unsicherheit",
+   "en": "to state uncertainty",
+   "exDe": "Unsicherheit benennen kostet Glaubw&uuml;rdigkeit und schafft sie.",
+   "exEn": "Stating uncertainty costs credibility and creates it."
+  },
+  {
+   "n": 56,
+   "de": "Ergebnisse einordnen",
+   "type": "N+V &middot; ordnet Ergebnisse ein",
+   "en": "to put results in perspective",
+   "exDe": "Ergebnisse einordnen ist die eigentliche Aufgabe.",
+   "exEn": "Putting results in perspective is the actual task."
+  },
+  {
+   "n": 57,
+   "de": "aus Daten schlie&szlig;en",
+   "type": "N+V &middot; schlie&szlig;t aus Daten",
+   "en": "to infer from data",
+   "exDe": "Aus Daten schlie&szlig;en darf man nur so weit, wie sie reichen.",
+   "exEn": "One may infer from data only as far as they reach."
+  },
+  {
+   "n": 58,
+   "de": "Verantwortung f&uuml;r Folgen",
+   "type": "N+V &middot; tr&auml;gt Verantwortung f&uuml;r Folgen",
+   "en": "responsibility for consequences",
+   "exDe": "Die Verantwortung f&uuml;r Folgen endet nicht mit der Ver&ouml;ffentlichung.",
+   "exEn": "Responsibility for consequences does not end with publication."
+  },
+  {
+   "n": 59,
+   "de": "Wissen zug&auml;nglich machen",
+   "type": "N+V &middot; macht Wissen zug&auml;nglich",
+   "en": "to make knowledge accessible",
+   "exDe": "Wissen zug&auml;nglich machen ist die zweite H&auml;lfte der Arbeit.",
+   "exEn": "Making knowledge accessible is the second half of the work."
+  },
+  {
+   "n": 60,
+   "de": "den eigenen Irrtum einsehen",
+   "type": "N+V &middot; sieht den eigenen Irrtum ein",
+   "en": "to recognise one&rsquo;s own error",
+   "exDe": "Den eigenen Irrtum einzusehen ist die schwerste wissenschaftliche &Uuml;bung.",
+   "exEn": "Recognising one's own error is the hardest scientific exercise."
+  }
+ ],
+ "groups": [
+  "Erkenntnis &amp; Methode &middot; How Knowing Works",
+  "Wissenschaftsbetrieb &amp; &Ouml;ffentlichkeit &middot; Between Lab and Headline",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

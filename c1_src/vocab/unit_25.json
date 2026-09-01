@@ -1,0 +1,491 @@
+{
+ "unit": 25,
+ "title_de": "Raumfahrt &amp; Zukunft",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Raumfahrt",
+   "type": "die",
+   "en": "spaceflight",
+   "exDe": "Die Raumfahrt war nie nur Forschung.",
+   "exEn": "Spaceflight was never only research."
+  },
+  {
+   "n": 2,
+   "de": "Tr&auml;gerrakete",
+   "type": "die",
+   "en": "launch vehicle",
+   "exDe": "Eine Tr&auml;gerrakete besteht gr&ouml;&szlig;tenteils aus Treibstoff.",
+   "exEn": "A launch vehicle consists mostly of fuel."
+  },
+  {
+   "n": 3,
+   "de": "Nutzlast",
+   "type": "die",
+   "en": "payload",
+   "exDe": "Jedes Kilogramm Nutzlast kostet ein Vielfaches.",
+   "exEn": "Every kilogram of payload costs many times over."
+  },
+  {
+   "n": 4,
+   "de": "Startfenster",
+   "type": "das",
+   "en": "launch window",
+   "exDe": "Ein Startfenster &ouml;ffnet sich alle sechsundzwanzig Monate.",
+   "exEn": "A launch window opens every twenty-six months."
+  },
+  {
+   "n": 5,
+   "de": "Umlaufbahn",
+   "type": "die",
+   "en": "orbit",
+   "exDe": "Eine Umlaufbahn ist Gleichgewicht zwischen Fallen und Fliegen.",
+   "exEn": "An orbit is a balance between falling and flying."
+  },
+  {
+   "n": 6,
+   "de": "Erdorbit",
+   "type": "der",
+   "en": "Earth orbit",
+   "exDe": "Der niedrige Erdorbit ist inzwischen &uuml;berf&uuml;llt.",
+   "exEn": "Low Earth orbit is now overcrowded."
+  },
+  {
+   "n": 7,
+   "de": "Wiederverwendbarkeit",
+   "type": "die",
+   "en": "reusability",
+   "exDe": "Erst die Wiederverwendbarkeit hat die Preise gesenkt.",
+   "exEn": "Only reusability has brought prices down."
+  },
+  {
+   "n": 8,
+   "de": "Raumsonde",
+   "type": "die",
+   "en": "space probe",
+   "exDe": "Eine Raumsonde arbeitet Jahrzehnte nach dem Start.",
+   "exEn": "A space probe works for decades after launch."
+  },
+  {
+   "n": 9,
+   "de": "Bodenstation",
+   "type": "die",
+   "en": "ground station",
+   "exDe": "Ohne Bodenstation ist jede Mission blind.",
+   "exEn": "Without a ground station every mission is blind."
+  },
+  {
+   "n": 10,
+   "de": "Missionskontrolle",
+   "type": "die",
+   "en": "mission control",
+   "exDe": "Die Missionskontrolle entscheidet mit zwanzig Minuten Verz&ouml;gerung.",
+   "exEn": "Mission control decides with a twenty-minute delay."
+  },
+  {
+   "n": 11,
+   "de": "Weltraumschrott",
+   "type": "der",
+   "en": "space debris",
+   "exDe": "Weltraumschrott vermehrt sich durch sich selbst.",
+   "exEn": "Space debris multiplies itself."
+  },
+  {
+   "n": 12,
+   "de": "Kollisionsrisiko",
+   "type": "das",
+   "en": "collision risk",
+   "exDe": "Das Kollisionsrisiko w&auml;chst schneller als die Zahl der Satelliten.",
+   "exEn": "The collision risk grows faster than the number of satellites."
+  },
+  {
+   "n": 13,
+   "de": "Satellitenkonstellation",
+   "type": "die",
+   "en": "satellite constellation",
+   "exDe": "Eine Satellitenkonstellation ver&auml;ndert den Nachthimmel.",
+   "exEn": "A satellite constellation changes the night sky."
+  },
+  {
+   "n": 14,
+   "de": "Fernerkundung",
+   "type": "die",
+   "en": "remote sensing",
+   "exDe": "Fernerkundung liefert die Daten, &uuml;ber die gestritten wird.",
+   "exEn": "Remote sensing supplies the data that is argued about."
+  },
+  {
+   "n": 15,
+   "de": "Weltraumvertrag",
+   "type": "der",
+   "en": "Outer Space Treaty",
+   "exDe": "Der Weltraumvertrag stammt aus einer anderen Epoche.",
+   "exEn": "The Outer Space Treaty comes from a different era."
+  },
+  {
+   "n": 16,
+   "de": "Ressourcenabbau",
+   "type": "der",
+   "en": "resource extraction",
+   "exDe": "Ressourcenabbau im All ist rechtlich ungekl&auml;rt.",
+   "exEn": "Resource extraction in space is legally unresolved."
+  },
+  {
+   "n": 17,
+   "de": "Machbarkeitsdenken",
+   "type": "das",
+   "en": "can-do mentality",
+   "exDe": "Machbarkeitsdenken verwechselt m&ouml;glich mit sinnvoll.",
+   "exEn": "A can-do mentality confuses possible with sensible."
+  },
+  {
+   "n": 18,
+   "de": "Utopie",
+   "type": "die",
+   "en": "utopia",
+   "exDe": "Eine Utopie beschreibt weniger die Zukunft als die Gegenwart.",
+   "exEn": "A utopia describes the present more than the future."
+  },
+  {
+   "n": 19,
+   "de": "Dystopie",
+   "type": "die",
+   "en": "dystopia",
+   "exDe": "Jede Dystopie ist eine Warnung mit Unterhaltungswert.",
+   "exEn": "Every dystopia is a warning with entertainment value."
+  },
+  {
+   "n": 20,
+   "de": "Langzeitverantwortung",
+   "type": "die",
+   "en": "long-term responsibility",
+   "exDe": "Langzeitverantwortung passt in keine Wahlperiode.",
+   "exEn": "Long-term responsibility fits into no electoral term."
+  },
+  {
+   "n": 21,
+   "de": "Existenzrisiko",
+   "type": "das",
+   "en": "existential risk",
+   "exDe": "Ein Existenzrisiko ist selten, aber endg&uuml;ltig.",
+   "exEn": "An existential risk is rare but final."
+  },
+  {
+   "n": 22,
+   "de": "Menschheitsprojekt",
+   "type": "das",
+   "en": "project of humanity",
+   "exDe": "Ein Menschheitsprojekt braucht mehr als eine Generation.",
+   "exEn": "A project of humanity needs more than one generation."
+  },
+  {
+   "n": 23,
+   "de": "Selbsterhaltung",
+   "type": "die",
+   "en": "self-preservation",
+   "exDe": "Selbsterhaltung ist kein Argument gegen Verantwortung.",
+   "exEn": "Self-preservation is no argument against responsibility."
+  },
+  {
+   "n": 24,
+   "de": "Vorsorgeprinzip",
+   "type": "das",
+   "en": "precautionary principle",
+   "exDe": "Das Vorsorgeprinzip verlangt Handeln vor dem Beweis.",
+   "exEn": "The precautionary principle requires action before proof."
+  },
+  {
+   "n": 25,
+   "de": "z&uuml;nden",
+   "type": "untr. &middot; hat gez&uuml;ndet",
+   "en": "to ignite",
+   "exDe": "Gez&uuml;ndet wird die zweite Stufe erst nach zwei Minuten.",
+   "exEn": "The second stage ignites only after two minutes."
+  },
+  {
+   "n": 26,
+   "de": "ausklinken",
+   "type": "tr. &middot; klinkt aus",
+   "en": "to release, to detach",
+   "exDe": "Ausgeklinkt wird die Nutzlast &uuml;ber dem Pazifik.",
+   "exEn": "The payload is released over the Pacific."
+  },
+  {
+   "n": 27,
+   "de": "einschwenken",
+   "type": "verb + in + Akk.",
+   "en": "to enter an orbit",
+   "exDe": "In eine Umlaufbahn einschwenken kostet mehr Treibstoff als der Start.",
+   "exEn": "Entering an orbit costs more fuel than the launch."
+  },
+  {
+   "n": 28,
+   "de": "umkreisen",
+   "type": "untr. &middot; hat umkreist",
+   "en": "to orbit",
+   "exDe": "Umkreist wird der Planet in neunzig Minuten.",
+   "exEn": "The planet is orbited in ninety minutes."
+  },
+  {
+   "n": 29,
+   "de": "ansteuern",
+   "type": "tr. &middot; steuert an",
+   "en": "to head for",
+   "exDe": "Angesteuert wird ein Punkt, an dem der Mond erst sein wird.",
+   "exEn": "The target is a point where the moon will only later be."
+  },
+  {
+   "n": 30,
+   "de": "anpeilen",
+   "type": "tr. &middot; peilt an",
+   "en": "to take a bearing on",
+   "exDe": "Angepeilt wird das Signal, nicht das Objekt.",
+   "exEn": "The bearing is taken on the signal, not the object."
+  },
+  {
+   "n": 31,
+   "de": "navigieren",
+   "type": "untr. &middot; hat navigiert",
+   "en": "to navigate",
+   "exDe": "Navigiert wird nach Sternen, auch heute noch.",
+   "exEn": "Navigation is still done by the stars, even today."
+  },
+  {
+   "n": 32,
+   "de": "andocken",
+   "type": "untr. &middot; hat angedockt",
+   "en": "to dock",
+   "exDe": "Angedockt wird automatisch, kontrolliert wird von Hand.",
+   "exEn": "Docking is automatic, control is manual."
+  },
+  {
+   "n": 33,
+   "de": "abdocken",
+   "type": "untr. &middot; hat abgedockt",
+   "en": "to undock",
+   "exDe": "Abgedockt wird Stunden vor dem R&uuml;ckflug.",
+   "exEn": "Undocking happens hours before the return flight."
+  },
+  {
+   "n": 34,
+   "de": "funken",
+   "type": "untr. &middot; hat gefunkt",
+   "en": "to radio, to transmit",
+   "exDe": "Gefunkt wird alles, empfangen wird das meiste.",
+   "exEn": "Everything is transmitted, most of it is received."
+  },
+  {
+   "n": 35,
+   "de": "bemannen",
+   "type": "tr. &middot; bemannt",
+   "en": "to crew",
+   "exDe": "Bemannt wird eine Station dauerhaft, nicht dieselbe Besatzung.",
+   "exEn": "A station is permanently crewed, not by the same crew."
+  },
+  {
+   "n": 36,
+   "de": "erkunden",
+   "type": "untr. &middot; hat erkundet",
+   "en": "to explore",
+   "exDe": "Erkundet wird zuerst mit Sonden, dann mit Menschen.",
+   "exEn": "Exploration is first with probes, then with humans."
+  },
+  {
+   "n": 37,
+   "de": "verg&uuml;hen",
+   "type": "untr. &middot; ist verg&uuml;ht",
+   "en": "to burn up",
+   "exDe": "Verg&uuml;ht ist der Gro&szlig;teil, bevor er unten ankommt.",
+   "exEn": "Most of it burns up before it reaches the ground."
+  },
+  {
+   "n": 38,
+   "de": "ausmustern",
+   "type": "tr. &middot; mustert aus",
+   "en": "to decommission",
+   "exDe": "Ausgemustert wird ein Satellit kontrolliert oder gar nicht.",
+   "exEn": "A satellite is decommissioned in a controlled way or not at all."
+  },
+  {
+   "n": 39,
+   "de": "beanspruchen",
+   "type": "tr. &middot; beansprucht",
+   "en": "to lay claim to",
+   "exDe": "Beansprucht werden darf im All bislang nichts.",
+   "exEn": "So far nothing in space may be claimed."
+  },
+  {
+   "n": 40,
+   "de": "sch&uuml;rfen",
+   "type": "verb + nach + Dat.",
+   "en": "to mine, to prospect",
+   "exDe": "Nach Rohstoffen zu sch&uuml;rfen ist technisch fern und rechtlich offen.",
+   "exEn": "Mining for raw materials is technically distant and legally open."
+  },
+  {
+   "n": 41,
+   "de": "&uuml;berdauern",
+   "type": "untr. &middot; hat &uuml;berdauert",
+   "en": "to outlast",
+   "exDe": "&Uuml;berdauert haben Sonden ihre eigene Behörde.",
+   "exEn": "Probes have outlasted their own agency."
+  },
+  {
+   "n": 42,
+   "de": "weiterdenken",
+   "type": "tr. &middot; denkt weiter",
+   "en": "to think through further",
+   "exDe": "Weitergedacht wird selten bis zum Ende.",
+   "exEn": "Things are rarely thought through to the end."
+  },
+  {
+   "n": 43,
+   "de": "bemannt",
+   "type": "adj.",
+   "en": "crewed",
+   "exDe": "Bemannte Missionen kosten das Zwanzigfache.",
+   "exEn": "Crewed missions cost twenty times as much."
+  },
+  {
+   "n": 44,
+   "de": "erdnah",
+   "type": "adj.",
+   "en": "near-Earth",
+   "exDe": "Erdnahe Bahnen sind billig und &uuml;berf&uuml;llt.",
+   "exEn": "Near-Earth orbits are cheap and crowded."
+  },
+  {
+   "n": 45,
+   "de": "interplanetar",
+   "type": "adj.",
+   "en": "interplanetary",
+   "exDe": "Interplanetare Fl&uuml;ge dauern Monate, nicht Tage.",
+   "exEn": "Interplanetary flights take months, not days."
+  },
+  {
+   "n": 46,
+   "de": "wiederverwendbar",
+   "type": "adj.",
+   "en": "reusable",
+   "exDe": "Wiederverwendbare Stufen haben alles ver&auml;ndert.",
+   "exEn": "Reusable stages have changed everything."
+  },
+  {
+   "n": 47,
+   "de": "geostation&auml;r",
+   "type": "adj.",
+   "en": "geostationary",
+   "exDe": "Ein geostation&auml;rer Satellit steht scheinbar still.",
+   "exEn": "A geostationary satellite appears to stand still."
+  },
+  {
+   "n": 48,
+   "de": "vision&auml;r",
+   "type": "adj.",
+   "en": "visionary",
+   "exDe": "Vision&auml;r ist ein Wort f&uuml;r Pl&auml;ne ohne Zeitplan.",
+   "exEn": "Visionary is a word for plans without a schedule."
+  },
+  {
+   "n": 49,
+   "de": "technikgl&auml;ubig",
+   "type": "adj.",
+   "en": "having faith in technology",
+   "exDe": "Technikgl&auml;ubig ist, wer nur die L&ouml;sung sieht.",
+   "exEn": "Whoever sees only the solution has faith in technology."
+  },
+  {
+   "n": 50,
+   "de": "nicht r&uuml;ckholbar",
+   "type": "adj.",
+   "en": "not retrievable",
+   "exDe": "Nicht r&uuml;ckholbare Entscheidungen verlangen h&ouml;here Sicherheit.",
+   "exEn": "Decisions that cannot be retrieved demand greater certainty."
+  },
+  {
+   "n": 51,
+   "de": "generationen&uuml;bergreifend",
+   "type": "adj.",
+   "en": "spanning generations",
+   "exDe": "Generationen&uuml;bergreifende Projekte brauchen Institutionen.",
+   "exEn": "Projects spanning generations need institutions."
+  },
+  {
+   "n": 52,
+   "de": "ungel&ouml;st",
+   "type": "adj.",
+   "en": "unresolved",
+   "exDe": "Ungel&ouml;st ist nicht dasselbe wie unl&ouml;sbar.",
+   "exEn": "Unresolved is not the same as insoluble."
+  },
+  {
+   "n": 53,
+   "de": "eine Mission planen",
+   "type": "N+V &middot; plant eine Mission",
+   "en": "to plan a mission",
+   "exDe": "Eine Mission planen dauert l&auml;nger als sie fliegen.",
+   "exEn": "Planning a mission takes longer than flying it."
+  },
+  {
+   "n": 54,
+   "de": "Daten zur Erde senden",
+   "type": "N+V &middot; sendet Daten zur Erde",
+   "en": "to send data back to Earth",
+   "exDe": "Daten zur Erde senden ist die eigentliche Nutzlast.",
+   "exEn": "Sending data back to Earth is the real payload."
+  },
+  {
+   "n": 55,
+   "de": "den Orbit freihalten",
+   "type": "N+V &middot; h&auml;lt den Orbit frei",
+   "en": "to keep the orbit clear",
+   "exDe": "Den Orbit freihalten interessiert erst nach dem ersten Unfall.",
+   "exEn": "Keeping the orbit clear only interests people after the first accident."
+  },
+  {
+   "n": 56,
+   "de": "Regeln f&uuml;r das All schaffen",
+   "type": "N+V &middot; schafft Regeln f&uuml;r das All",
+   "en": "to create rules for space",
+   "exDe": "Regeln f&uuml;r das All schaffen m&uuml;sste man vor der Nutzung.",
+   "exEn": "Rules for space would have to be created before its use."
+  },
+  {
+   "n": 57,
+   "de": "in die Zukunft denken",
+   "type": "N+V &middot; denkt in die Zukunft",
+   "en": "to think into the future",
+   "exDe": "In die Zukunft denken hei&szlig;t, Interessen von Ungeborenen zu vertreten.",
+   "exEn": "Thinking into the future means representing the interests of the unborn."
+  },
+  {
+   "n": 58,
+   "de": "Risiken ernst nehmen",
+   "type": "N+V &middot; nimmt Risiken ernst",
+   "en": "to take risks seriously",
+   "exDe": "Risiken ernst nehmen ist nicht dasselbe wie Angst haben.",
+   "exEn": "Taking risks seriously is not the same as being afraid."
+  },
+  {
+   "n": 59,
+   "de": "Grenzen des Wachstums",
+   "type": "N+V &middot; die Grenzen des Wachstums",
+   "en": "limits to growth",
+   "exDe": "&Uuml;ber die Grenzen des Wachstums wird seit f&uuml;nfzig Jahren gestritten.",
+   "exEn": "The limits to growth have been argued about for fifty years."
+  },
+  {
+   "n": 60,
+   "de": "die Erde bewohnbar halten",
+   "type": "N+V &middot; h&auml;lt die Erde bewohnbar",
+   "en": "to keep the Earth habitable",
+   "exDe": "Die Erde bewohnbar halten ist das billigere Projekt.",
+   "exEn": "Keeping the Earth habitable is the cheaper project."
+  }
+ ],
+ "groups": [
+  "Raumfahrt &middot; Getting There and Back",
+  "Zukunft &amp; Verantwortung &middot; Thinking in Centuries",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

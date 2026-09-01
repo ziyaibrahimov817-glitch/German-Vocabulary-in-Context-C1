@@ -1,0 +1,35 @@
+{
+  "name": "German Vocabulary in Context — C1",
+  "short_name": "German C1",
+  "description": "Master German at C1 level: 10 grammar lessons and 26 topic units with 1,560 words, example sentences, reading texts, dialogues, exercises and German audio. Translations in English, Russian, Turkish, Azerbaijani, Spanish, French, Italian and Portuguese.",
+  "start_url": "./German-C1-Vocabulary.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1e1b4b",
+  "theme_color": "#1e1b4b",
+  "lang": "de",
+  "categories": [
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

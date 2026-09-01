@@ -1,0 +1,491 @@
+{
+ "unit": 1,
+ "title_de": "Identit&auml;t &amp; Freiheit",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Selbstverortung",
+   "type": "die",
+   "en": "self-positioning",
+   "exDe": "Die Selbstverortung f&auml;llt in der zweiten Generation schwerer.",
+   "exEn": "Self-positioning is harder in the second generation."
+  },
+  {
+   "n": 2,
+   "de": "Identit&auml;tskonstruktion",
+   "type": "die",
+   "en": "construction of identity",
+   "exDe": "Identit&auml;t ist keine Gegebenheit, sondern eine Konstruktion.",
+   "exEn": "Identity is not a given but a construction."
+  },
+  {
+   "n": 3,
+   "de": "Mehrfachzugeh&ouml;rigkeit",
+   "type": "die",
+   "en": "multiple belonging",
+   "exDe": "Mehrfachzugeh&ouml;rigkeit gilt l&auml;ngst als Normalfall.",
+   "exEn": "Multiple belonging has long been the normal case."
+  },
+  {
+   "n": 4,
+   "de": "Hybridit&auml;t",
+   "type": "die",
+   "en": "hybridity",
+   "exDe": "Hybridit&auml;t beschreibt das Dazwischen, nicht das Entweder-oder.",
+   "exEn": "Hybridity describes the in-between, not the either-or."
+  },
+  {
+   "n": 5,
+   "de": "Entwurzelung",
+   "type": "die",
+   "en": "uprooting",
+   "exDe": "Entwurzelung wirkt oft erst in der n&auml;chsten Generation nach.",
+   "exEn": "The effects of uprooting often only show in the next generation."
+  },
+  {
+   "n": 6,
+   "de": "Beheimatung",
+   "type": "die",
+   "en": "becoming at home",
+   "exDe": "Beheimatung braucht mehr als einen Pass.",
+   "exEn": "Becoming at home takes more than a passport."
+  },
+  {
+   "n": 7,
+   "de": "Diaspora",
+   "type": "die",
+   "en": "diaspora",
+   "exDe": "Die Diaspora pflegt Traditionen oft strenger als das Herkunftsland.",
+   "exEn": "The diaspora often keeps traditions more strictly than the country of origin."
+  },
+  {
+   "n": 8,
+   "de": "Akkulturation",
+   "type": "die",
+   "en": "acculturation",
+   "exDe": "Akkulturation verl&auml;uft selten in eine Richtung.",
+   "exEn": "Acculturation rarely runs in one direction only."
+  },
+  {
+   "n": 9,
+   "de": "Assimilationsdruck",
+   "type": "der",
+   "en": "pressure to assimilate",
+   "exDe": "Der Assimilationsdruck wird selten offen ausgesprochen.",
+   "exEn": "The pressure to assimilate is rarely stated openly."
+  },
+  {
+   "n": 10,
+   "de": "Transnationalit&auml;t",
+   "type": "die",
+   "en": "transnationality",
+   "exDe": "Transnationalit&auml;t ist f&uuml;r Millionen Alltag, nicht Theorie.",
+   "exEn": "For millions transnationality is everyday life, not theory."
+  },
+  {
+   "n": 11,
+   "de": "Kosmopolitismus",
+   "type": "der",
+   "en": "cosmopolitanism",
+   "exDe": "Kosmopolitismus setzt Mobilit&auml;t voraus &mdash; und damit Privilegien.",
+   "exEn": "Cosmopolitanism presupposes mobility — and thus privilege."
+  },
+  {
+   "n": 12,
+   "de": "Herkunftsnarrativ",
+   "type": "das",
+   "en": "narrative of origin",
+   "exDe": "Jede Familie tr&auml;gt ihr eigenes Herkunftsnarrativ weiter.",
+   "exEn": "Every family passes on its own narrative of origin."
+  },
+  {
+   "n": 13,
+   "de": "Zuschreibung",
+   "type": "die",
+   "en": "ascription, attribution",
+   "exDe": "Zuschreibungen von au&szlig;en pr&auml;gen st&auml;rker als das Selbstbild.",
+   "exEn": "Ascriptions from outside shape more strongly than one's self-image."
+  },
+  {
+   "n": 14,
+   "de": "Stereotypisierung",
+   "type": "die",
+   "en": "stereotyping",
+   "exDe": "Stereotypisierung beginnt bei der harmlos gemeinten Frage.",
+   "exEn": "Stereotyping starts with the question meant harmlessly."
+  },
+  {
+   "n": 15,
+   "de": "Fremdheit",
+   "type": "die",
+   "en": "strangeness, foreignness",
+   "exDe": "Fremdheit ist kein Zustand, sondern ein Verh&auml;ltnis.",
+   "exEn": "Foreignness is not a state but a relation."
+  },
+  {
+   "n": 16,
+   "de": "Deutungshoheit",
+   "type": "die",
+   "en": "interpretive authority",
+   "exDe": "Um die Deutungshoheit wird &ouml;ffentlich gerungen.",
+   "exEn": "Interpretive authority is publicly contested."
+  },
+  {
+   "n": 17,
+   "de": "Identit&auml;tspolitik",
+   "type": "die",
+   "en": "identity politics",
+   "exDe": "Identit&auml;tspolitik polarisiert in beide Richtungen.",
+   "exEn": "Identity politics polarises in both directions."
+  },
+  {
+   "n": 18,
+   "de": "Selbstbestimmung",
+   "type": "die",
+   "en": "self-determination",
+   "exDe": "Selbstbestimmung endet dort, wo sie andere gef&auml;hrdet.",
+   "exEn": "Self-determination ends where it endangers others."
+  },
+  {
+   "n": 19,
+   "de": "Autonomie",
+   "type": "die",
+   "en": "autonomy",
+   "exDe": "Autonomie setzt Information voraus.",
+   "exEn": "Autonomy presupposes information."
+  },
+  {
+   "n": 20,
+   "de": "Gemeinsinn",
+   "type": "der",
+   "en": "public spirit",
+   "exDe": "Ohne Gemeinsinn funktioniert kein Gemeinwesen.",
+   "exEn": "No polity functions without public spirit."
+  },
+  {
+   "n": 21,
+   "de": "Gesellschaftsvertrag",
+   "type": "der",
+   "en": "social contract",
+   "exDe": "Der Gesellschaftsvertrag wird stillschweigend erneuert.",
+   "exEn": "The social contract is renewed tacitly."
+  },
+  {
+   "n": 22,
+   "de": "Verh&auml;ltnism&auml;&szlig;igkeit",
+   "type": "die",
+   "en": "proportionality",
+   "exDe": "Die Verh&auml;ltnism&auml;&szlig;igkeit pr&uuml;ft jedes Gericht zuerst.",
+   "exEn": "Every court examines proportionality first."
+  },
+  {
+   "n": 23,
+   "de": "Grundrechtseingriff",
+   "type": "der",
+   "en": "interference with fundamental rights",
+   "exDe": "Jeder Grundrechtseingriff braucht eine Begr&uuml;ndung.",
+   "exEn": "Every interference with fundamental rights needs justification."
+  },
+  {
+   "n": 24,
+   "de": "Paternalismus",
+   "type": "der",
+   "en": "paternalism",
+   "exDe": "Wo Schutz endet und Paternalismus beginnt, ist umstritten.",
+   "exEn": "Where protection ends and paternalism begins is contested."
+  },
+  {
+   "n": 25,
+   "de": "verorten",
+   "type": "refl. &middot; verortet sich",
+   "en": "to position oneself",
+   "exDe": "Viele verorten sich zwischen zwei Kulturen.",
+   "exEn": "Many position themselves between two cultures."
+  },
+  {
+   "n": 26,
+   "de": "zuschreiben",
+   "type": "tr. &middot; schreibt zu",
+   "en": "to ascribe, to attribute",
+   "exDe": "Man schreibt ihm eine Herkunft zu, die er nie hatte.",
+   "exEn": "He is ascribed an origin he never had."
+  },
+  {
+   "n": 27,
+   "de": "konstituieren",
+   "type": "untr. &middot; hat konstituiert",
+   "en": "to constitute",
+   "exDe": "Sprache konstituiert Zugeh&ouml;rigkeit mit.",
+   "exEn": "Language helps constitute belonging."
+  },
+  {
+   "n": 28,
+   "de": "ausdifferenzieren",
+   "type": "refl. &middot; differenziert sich aus",
+   "en": "to become differentiated",
+   "exDe": "Milieus haben sich weiter ausdifferenziert.",
+   "exEn": "Social milieus have become further differentiated."
+  },
+  {
+   "n": 29,
+   "de": "pluralisieren",
+   "type": "refl. &middot; pluralisiert sich",
+   "en": "to become plural",
+   "exDe": "Lebensformen pluralisieren sich seit Jahrzehnten.",
+   "exEn": "Ways of life have been diversifying for decades."
+  },
+  {
+   "n": 30,
+   "de": "homogenisieren",
+   "type": "untr. &middot; hat homogenisiert",
+   "en": "to homogenise",
+   "exDe": "Globale Marken homogenisieren den Alltag.",
+   "exEn": "Global brands homogenise everyday life."
+  },
+  {
+   "n": 31,
+   "de": "vereinnahmen",
+   "type": "untr. &middot; hat vereinnahmt",
+   "en": "to co-opt, to appropriate",
+   "exDe": "Der Begriff wurde politisch vereinnahmt.",
+   "exEn": "The term was politically co-opted."
+  },
+  {
+   "n": 32,
+   "de": "relativieren",
+   "type": "untr. &middot; hat relativiert",
+   "en": "to relativise",
+   "exDe": "Wer alles relativiert, sagt am Ende nichts.",
+   "exEn": "Whoever relativises everything says nothing in the end."
+  },
+  {
+   "n": 33,
+   "de": "verabsolutieren",
+   "type": "untr. &middot; hat verabsolutiert",
+   "en": "to make absolute",
+   "exDe": "Einzelne Werte darf man nicht verabsolutieren.",
+   "exEn": "Individual values must not be made absolute."
+  },
+  {
+   "n": 34,
+   "de": "kontextualisieren",
+   "type": "untr. &middot; hat kontextualisiert",
+   "en": "to contextualise",
+   "exDe": "Aussagen muss man historisch kontextualisieren.",
+   "exEn": "Statements have to be contextualised historically."
+  },
+  {
+   "n": 35,
+   "de": "problematisieren",
+   "type": "untr. &middot; hat problematisiert",
+   "en": "to problematise",
+   "exDe": "Der Beitrag problematisiert den Begriff selbst.",
+   "exEn": "The article problematises the term itself."
+  },
+  {
+   "n": 36,
+   "de": "reflektieren",
+   "type": "untr. &middot; hat reflektiert",
+   "en": "to reflect on",
+   "exDe": "Eigene Vorurteile zu reflektieren ist unbequem.",
+   "exEn": "Reflecting on one's own prejudices is uncomfortable."
+  },
+  {
+   "n": 37,
+   "de": "emanzipieren",
+   "type": "refl. &middot; emanzipiert sich",
+   "en": "to emancipate oneself",
+   "exDe": "Sie emanzipierte sich von den Erwartungen der Familie.",
+   "exEn": "She emancipated herself from her family's expectations."
+  },
+  {
+   "n": 38,
+   "de": "legitimieren",
+   "type": "untr. &middot; hat legitimiert",
+   "en": "to legitimise",
+   "exDe": "Ein Eingriff muss sich legitimieren lassen.",
+   "exEn": "An intervention has to be capable of legitimation."
+  },
+  {
+   "n": 39,
+   "de": "gewichten",
+   "type": "untr. &middot; hat gewichtet",
+   "en": "to weight, to prioritise",
+   "exDe": "Beide Rechte sind zu gewichten, nicht zu addieren.",
+   "exEn": "Both rights are to be weighted, not added up."
+  },
+  {
+   "n": 40,
+   "de": "zur&uuml;ckstellen",
+   "type": "tr. &middot; stellt zur&uuml;ck",
+   "en": "to set aside temporarily",
+   "exDe": "Eigene Interessen stellt man selten freiwillig zur&uuml;ck.",
+   "exEn": "People rarely set aside their own interests voluntarily."
+  },
+  {
+   "n": 41,
+   "de": "solidarisieren",
+   "type": "refl. &middot; solidarisiert sich",
+   "en": "to show solidarity",
+   "exDe": "Die Belegschaft solidarisierte sich mit den Gek&uuml;ndigten.",
+   "exEn": "The workforce showed solidarity with those dismissed."
+  },
+  {
+   "n": 42,
+   "de": "unterlaufen",
+   "type": "untr. &middot; hat unterlaufen",
+   "en": "to circumvent, to undermine",
+   "exDe": "Die Regel wird systematisch unterlaufen.",
+   "exEn": "The rule is systematically circumvented."
+  },
+  {
+   "n": 43,
+   "de": "identit&auml;tsstiftend",
+   "type": "adj.",
+   "en": "identity-forming",
+   "exDe": "Sprache wirkt identit&auml;tsstiftend.",
+   "exEn": "Language has an identity-forming effect."
+  },
+  {
+   "n": 44,
+   "de": "kulturell gepr&auml;gt",
+   "type": "adj.",
+   "en": "culturally shaped",
+   "exDe": "Auch das Selbstverst&auml;ndliche ist kulturell gepr&auml;gt.",
+   "exEn": "Even the self-evident is culturally shaped."
+  },
+  {
+   "n": 45,
+   "de": "kultur&uuml;bergreifend",
+   "type": "adj.",
+   "en": "cross-cultural",
+   "exDe": "Manche Werte gelten kultur&uuml;bergreifend.",
+   "exEn": "Some values apply across cultures."
+  },
+  {
+   "n": 46,
+   "de": "pluralistisch",
+   "type": "adj.",
+   "en": "pluralist",
+   "exDe": "Eine pluralistische Gesellschaft h&auml;lt Widerspruch aus.",
+   "exEn": "A pluralist society can bear contradiction."
+  },
+  {
+   "n": 47,
+   "de": "m&uuml;ndig",
+   "type": "adj.",
+   "en": "of age, capable of judgement",
+   "exDe": "Der m&uuml;ndige B&uuml;rger ist ein Anspruch, kein Befund.",
+   "exEn": "The citizen capable of judgement is an aspiration, not a fact."
+  },
+  {
+   "n": 48,
+   "de": "eigenverantwortlich",
+   "type": "adj.",
+   "en": "self-responsible",
+   "exDe": "Eigenverantwortliches Handeln setzt Wahlfreiheit voraus.",
+   "exEn": "Acting on one's own responsibility presupposes choice."
+  },
+  {
+   "n": 49,
+   "de": "gemeinwohlorientiert",
+   "type": "adj.",
+   "en": "oriented to the common good",
+   "exDe": "Gemeinwohlorientiertes Handeln zahlt sich selten sofort aus.",
+   "exEn": "Acting for the common good rarely pays off immediately."
+  },
+  {
+   "n": 50,
+   "de": "paternalistisch",
+   "type": "adj.",
+   "en": "paternalistic",
+   "exDe": "Gut gemeinte Regeln wirken schnell paternalistisch.",
+   "exEn": "Well-meant rules quickly seem paternalistic."
+  },
+  {
+   "n": 51,
+   "de": "verh&auml;ltnism&auml;&szlig;ig",
+   "type": "adj.",
+   "en": "proportionate",
+   "exDe": "Die Ma&szlig;nahme war weder geeignet noch verh&auml;ltnism&auml;&szlig;ig.",
+   "exEn": "The measure was neither suitable nor proportionate."
+  },
+  {
+   "n": 52,
+   "de": "normativ",
+   "type": "adj.",
+   "en": "normative",
+   "exDe": "Die Frage ist nicht empirisch, sondern normativ.",
+   "exEn": "The question is not empirical but normative."
+  },
+  {
+   "n": 53,
+   "de": "Identit&auml;t aushandeln",
+   "type": "N+V &middot; handelt Identit&auml;t aus",
+   "en": "to negotiate identity",
+   "exDe": "Identit&auml;t handelt man ein Leben lang aus.",
+   "exEn": "Identity is negotiated throughout a lifetime."
+  },
+  {
+   "n": 54,
+   "de": "sich zugeh&ouml;rig f&uuml;hlen",
+   "type": "N+V &middot; f&uuml;hlt sich zugeh&ouml;rig",
+   "en": "to feel a sense of belonging",
+   "exDe": "Sich zugeh&ouml;rig zu f&uuml;hlen l&auml;sst sich nicht verordnen.",
+   "exEn": "A sense of belonging cannot be decreed."
+  },
+  {
+   "n": 55,
+   "de": "sich abgrenzen von",
+   "type": "N+V &middot; grenzt sich ab von",
+   "en": "to distance oneself from",
+   "exDe": "Wer sich abgrenzt, definiert sich mit.",
+   "exEn": "Whoever draws a line also defines themselves."
+  },
+  {
+   "n": 56,
+   "de": "Grenzen ziehen",
+   "type": "N+V &middot; zieht Grenzen",
+   "en": "to draw boundaries",
+   "exDe": "Grenzen zieht jede Gemeinschaft, offen oder verdeckt.",
+   "exEn": "Every community draws boundaries, openly or covertly."
+  },
+  {
+   "n": 57,
+   "de": "Position beziehen",
+   "type": "N+V &middot; bezieht Position",
+   "en": "to take a stance",
+   "exDe": "In dieser Frage muss man Position beziehen.",
+   "exEn": "On this question one has to take a stance."
+  },
+  {
+   "n": 58,
+   "de": "Interessen abw&auml;gen",
+   "type": "N+V &middot; w&auml;gt Interessen ab",
+   "en": "to weigh up interests",
+   "exDe": "Interessen abzuw&auml;gen ist die eigentliche Arbeit.",
+   "exEn": "Weighing up interests is the actual work."
+  },
+  {
+   "n": 59,
+   "de": "Freiheit einschr&auml;nken",
+   "type": "N+V &middot; schr&auml;nkt Freiheit ein",
+   "en": "to restrict freedom",
+   "exDe": "Freiheit einschr&auml;nken darf nur das Gesetz.",
+   "exEn": "Only the law may restrict freedom."
+  },
+  {
+   "n": 60,
+   "de": "zur Debatte stellen",
+   "type": "N+V &middot; stellt zur Debatte",
+   "en": "to open up for debate",
+   "exDe": "Grundrechte stellt man nicht leichtfertig zur Debatte.",
+   "exEn": "Fundamental rights are not put up for debate lightly."
+  }
+ ],
+ "groups": [
+  "Identit&auml;t &amp; Globalisierung &middot; Who Am I, and Who Decides",
+  "Freiheit &amp; Verantwortung &middot; Where One Ends and the Other Begins",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

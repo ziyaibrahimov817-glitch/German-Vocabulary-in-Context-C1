@@ -1,0 +1,491 @@
+{
+ "unit": 7,
+ "title_de": "Fachkr&auml;fte &amp; F&uuml;hrung",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Arbeitskr&auml;ftemangel",
+   "type": "der",
+   "en": "labour shortage",
+   "exDe": "Der Arbeitskr&auml;ftemangel bremst inzwischen ganze Branchen.",
+   "exEn": "The labour shortage is now slowing down whole sectors."
+  },
+  {
+   "n": 2,
+   "de": "Mangelberuf",
+   "type": "der",
+   "en": "shortage occupation",
+   "exDe": "F&uuml;r Mangelberufe gelten erleichterte Verfahren.",
+   "exEn": "Simplified procedures apply to shortage occupations."
+  },
+  {
+   "n": 3,
+   "de": "Personalgewinnung",
+   "type": "die",
+   "en": "staff recruitment",
+   "exDe": "Personalgewinnung ist teurer geworden als Personalbindung.",
+   "exEn": "Recruiting staff has become more expensive than keeping them."
+  },
+  {
+   "n": 4,
+   "de": "Fachkr&auml;fteeinwanderung",
+   "type": "die",
+   "en": "skilled immigration",
+   "exDe": "Die Fachkr&auml;fteeinwanderung scheitert selten am Willen, oft am Formular.",
+   "exEn": "Skilled immigration rarely fails on willingness, often on the form."
+  },
+  {
+   "n": 5,
+   "de": "Anwerbeabkommen",
+   "type": "das",
+   "en": "recruitment agreement",
+   "exDe": "Das Anwerbeabkommen von 1961 pr&auml;gt bis heute ganze Regionen.",
+   "exEn": "The 1961 recruitment agreement still shapes whole regions."
+  },
+  {
+   "n": 6,
+   "de": "Visumsverfahren",
+   "type": "das",
+   "en": "visa procedure",
+   "exDe": "Das Visumsverfahren dauert l&auml;nger als die Einarbeitung.",
+   "exEn": "The visa procedure takes longer than the induction."
+  },
+  {
+   "n": 7,
+   "de": "Blaue Karte",
+   "type": "die",
+   "en": "EU Blue Card",
+   "exDe": "Die Blaue Karte setzt ein Mindestgehalt voraus.",
+   "exEn": "The Blue Card requires a minimum salary."
+  },
+  {
+   "n": 8,
+   "de": "Arbeitsmigration",
+   "type": "die",
+   "en": "labour migration",
+   "exDe": "Arbeitsmigration ist selten endg&uuml;ltig gedacht.",
+   "exEn": "Labour migration is rarely intended as permanent."
+  },
+  {
+   "n": 9,
+   "de": "Braindrain",
+   "type": "der",
+   "en": "brain drain",
+   "exDe": "Der Braindrain trifft die Herkunftsl&auml;nder h&auml;rter als die Statistik zeigt.",
+   "exEn": "The brain drain hits the countries of origin harder than statistics show."
+  },
+  {
+   "n": 10,
+   "de": "R&uuml;ckkehrmigration",
+   "type": "die",
+   "en": "return migration",
+   "exDe": "R&uuml;ckkehrmigration wird politisch selten mitgedacht.",
+   "exEn": "Return migration is rarely considered politically."
+  },
+  {
+   "n": 11,
+   "de": "Zielland",
+   "type": "das",
+   "en": "destination country",
+   "exDe": "Jedes Zielland konkurriert inzwischen um dieselben Leute.",
+   "exEn": "Every destination country now competes for the same people."
+  },
+  {
+   "n": 12,
+   "de": "Entsendung",
+   "type": "die",
+   "en": "posting abroad",
+   "exDe": "Bei einer Entsendung gilt weiter das Recht des Heimatlandes.",
+   "exEn": "In a posting the law of the home country continues to apply."
+  },
+  {
+   "n": 13,
+   "de": "F&uuml;hrungskultur",
+   "type": "die",
+   "en": "leadership culture",
+   "exDe": "Die F&uuml;hrungskultur erkennt man daran, wie schlechte Nachrichten nach oben kommen.",
+   "exEn": "Leadership culture is recognised by how bad news travels upwards."
+  },
+  {
+   "n": 14,
+   "de": "F&uuml;hrungsverst&auml;ndnis",
+   "type": "das",
+   "en": "conception of leadership",
+   "exDe": "Das F&uuml;hrungsverst&auml;ndnis hat sich in zwanzig Jahren st&auml;rker gewandelt als die Technik.",
+   "exEn": "Conceptions of leadership have changed more in twenty years than technology."
+  },
+  {
+   "n": 15,
+   "de": "F&uuml;hrungsspanne",
+   "type": "die",
+   "en": "span of control",
+   "exDe": "Eine zu gro&szlig;e F&uuml;hrungsspanne macht Zuwendung unm&ouml;glich.",
+   "exEn": "Too wide a span of control makes real attention impossible."
+  },
+  {
+   "n": 16,
+   "de": "Werteorientierung",
+   "type": "die",
+   "en": "value orientation",
+   "exDe": "Werteorientierung zeigt sich im Konflikt, nicht im Leitbild.",
+   "exEn": "Value orientation shows in conflict, not in the mission statement."
+  },
+  {
+   "n": 17,
+   "de": "Compliance",
+   "type": "die",
+   "en": "compliance",
+   "exDe": "Compliance ersetzt kein Urteilsverm&ouml;gen.",
+   "exEn": "Compliance is no substitute for judgement."
+  },
+  {
+   "n": 18,
+   "de": "Delegation",
+   "type": "die",
+   "en": "delegation",
+   "exDe": "Delegation ohne Befugnis ist nur Arbeitsverlagerung.",
+   "exEn": "Delegation without authority is merely shifting work."
+  },
+  {
+   "n": 19,
+   "de": "Augenh&ouml;he",
+   "type": "die",
+   "en": "equal footing",
+   "exDe": "Auf Augenh&ouml;he redet man &uuml;ber Fehler, nicht &uuml;ber Schuld.",
+   "exEn": "On an equal footing you talk about mistakes, not blame."
+  },
+  {
+   "n": 20,
+   "de": "Entscheidungsfreude",
+   "type": "die",
+   "en": "decisiveness",
+   "exDe": "Entscheidungsfreude wird gelobt und selten belohnt.",
+   "exEn": "Decisiveness is praised and rarely rewarded."
+  },
+  {
+   "n": 21,
+   "de": "Kontrollbed&uuml;rfnis",
+   "type": "das",
+   "en": "need for control",
+   "exDe": "Ein hohes Kontrollbed&uuml;rfnis kostet mehr als jeder Fehler.",
+   "exEn": "A high need for control costs more than any mistake."
+  },
+  {
+   "n": 22,
+   "de": "Mitarbeiterbindung",
+   "type": "die",
+   "en": "staff retention",
+   "exDe": "Mitarbeiterbindung entsteht durch Vorgesetzte, nicht durch Obstk&ouml;rbe.",
+   "exEn": "Staff retention comes from supervisors, not fruit baskets."
+  },
+  {
+   "n": 23,
+   "de": "Nachfolgeplanung",
+   "type": "die",
+   "en": "succession planning",
+   "exDe": "Nachfolgeplanung beginnt drei Jahre vor dem Ausscheiden.",
+   "exEn": "Succession planning begins three years before departure."
+  },
+  {
+   "n": 24,
+   "de": "Diversit&auml;t",
+   "type": "die",
+   "en": "diversity",
+   "exDe": "Diversit&auml;t bringt nur etwas, wenn Widerspruch erlaubt ist.",
+   "exEn": "Diversity only helps if contradiction is allowed."
+  },
+  {
+   "n": 25,
+   "de": "rekrutieren",
+   "type": "untr. &middot; hat rekrutiert",
+   "en": "to recruit",
+   "exDe": "Rekrutiert wird inzwischen weltweit.",
+   "exEn": "Recruitment now happens worldwide."
+  },
+  {
+   "n": 26,
+   "de": "akquirieren",
+   "type": "untr. &middot; hat akquiriert",
+   "en": "to acquire, to win over",
+   "exDe": "Fachkr&auml;fte akquiriert man nicht mit Anzeigen allein.",
+   "exEn": "Skilled workers are not won over by adverts alone."
+  },
+  {
+   "n": 27,
+   "de": "umwerben",
+   "type": "untr. &middot; hat umworben",
+   "en": "to court, to woo",
+   "exDe": "Umworben wird dort, wo ausgebildet wurde.",
+   "exEn": "People are courted where training took place."
+  },
+  {
+   "n": 28,
+   "de": "locken",
+   "type": "untr. &middot; hat gelockt",
+   "en": "to attract, to lure",
+   "exDe": "Mit Gehalt allein lockt man niemanden mehr.",
+   "exEn": "Salary alone no longer attracts anyone."
+  },
+  {
+   "n": 29,
+   "de": "vergraulen",
+   "type": "untr. &middot; hat vergrault",
+   "en": "to drive away",
+   "exDe": "Gute Leute vergrault man in den ersten Wochen.",
+   "exEn": "Good people are driven away in the first few weeks."
+  },
+  {
+   "n": 30,
+   "de": "niederlassen",
+   "type": "refl. &middot; l&auml;sst sich nieder",
+   "en": "to settle",
+   "exDe": "Wer sich niederl&auml;sst, bringt eine Familie mit.",
+   "exEn": "Whoever settles brings a family with them."
+  },
+  {
+   "n": 31,
+   "de": "verbleiben",
+   "type": "untr. &middot; ist verblieben",
+   "en": "to remain",
+   "exDe": "Nur die H&auml;lfte verbleibt nach f&uuml;nf Jahren im Land.",
+   "exEn": "Only half remain in the country after five years."
+  },
+  {
+   "n": 32,
+   "de": "lotsen",
+   "type": "untr. &middot; hat gelotst",
+   "en": "to guide, to steer through",
+   "exDe": "Jemand muss die Bewerber durch die Beh&ouml;rden lotsen.",
+   "exEn": "Somebody has to guide applicants through the authorities."
+  },
+  {
+   "n": 33,
+   "de": "platzieren",
+   "type": "untr. &middot; hat platziert",
+   "en": "to place",
+   "exDe": "Bewerber platziert man dort, wo sie bleiben k&ouml;nnen.",
+   "exEn": "Applicants are placed where they can stay."
+  },
+  {
+   "n": 34,
+   "de": "abdecken",
+   "type": "tr. &middot; deckt ab",
+   "en": "to cover",
+   "exDe": "Zuwanderung deckt nur einen Teil des Bedarfs ab.",
+   "exEn": "Immigration covers only part of the need."
+  },
+  {
+   "n": 35,
+   "de": "einbeziehen",
+   "type": "tr. &middot; bezieht ein",
+   "en": "to involve",
+   "exDe": "Wer einbezieht, muss auch zuh&ouml;ren k&ouml;nnen.",
+   "exEn": "Whoever involves people must also be able to listen."
+  },
+  {
+   "n": 36,
+   "de": "vorangehen",
+   "type": "untr. &middot; ist vorangegangen",
+   "en": "to lead by going first",
+   "exDe": "F&uuml;hren hei&szlig;t vorangehen, nicht vorschreiben.",
+   "exEn": "Leading means going first, not prescribing."
+  },
+  {
+   "n": 37,
+   "de": "coachen",
+   "type": "untr. &middot; hat gecoacht",
+   "en": "to coach",
+   "exDe": "Wer gecoacht wird, entscheidet weiter selbst.",
+   "exEn": "Whoever is coached still decides for themselves."
+  },
+  {
+   "n": 38,
+   "de": "anspornen",
+   "type": "untr. &middot; hat angespornt",
+   "en": "to spur on",
+   "exDe": "Anspornen wirkt kurz, &Uuml;berzeugen wirkt l&auml;nger.",
+   "exEn": "Spurring on works briefly, convincing works longer."
+  },
+  {
+   "n": 39,
+   "de": "zur&uuml;cknehmen",
+   "type": "refl. &middot; nimmt sich zur&uuml;ck",
+   "en": "to hold back",
+   "exDe": "Gute F&uuml;hrung nimmt sich im richtigen Moment zur&uuml;ck.",
+   "exEn": "Good leadership holds back at the right moment."
+  },
+  {
+   "n": 40,
+   "de": "durchgreifen",
+   "type": "untr. &middot; hat durchgegriffen",
+   "en": "to take firm action",
+   "exDe": "Wer nie durchgreift, sch&uuml;tzt am Ende die Falschen.",
+   "exEn": "Whoever never takes firm action ends up protecting the wrong people."
+  },
+  {
+   "n": 41,
+   "de": "geradestehen",
+   "type": "verb + f&uuml;r + Akk.",
+   "en": "to take responsibility for",
+   "exDe": "F&uuml;r Fehler steht die F&uuml;hrung gerade.",
+   "exEn": "Management takes responsibility for mistakes."
+  },
+  {
+   "n": 42,
+   "de": "zusammenf&uuml;hren",
+   "type": "tr. &middot; f&uuml;hrt zusammen",
+   "en": "to bring together",
+   "exDe": "Zwei Abteilungen zusammenzuf&uuml;hren dauert l&auml;nger als geplant.",
+   "exEn": "Bringing two departments together takes longer than planned."
+  },
+  {
+   "n": 43,
+   "de": "mangelbedingt",
+   "type": "adj.",
+   "en": "caused by shortage",
+   "exDe": "Mangelbedingte L&ouml;hne steigen zuerst.",
+   "exEn": "Wages driven by shortage rise first."
+  },
+  {
+   "n": 44,
+   "de": "zuwanderungsabh&auml;ngig",
+   "type": "adj.",
+   "en": "dependent on immigration",
+   "exDe": "Die Pflege ist l&auml;ngst zuwanderungsabh&auml;ngig.",
+   "exEn": "Care work has long been dependent on immigration."
+  },
+  {
+   "n": 45,
+   "de": "angeworben",
+   "type": "adj.",
+   "en": "recruited from abroad",
+   "exDe": "Angeworbene Fachkr&auml;fte brauchen mehr als einen Vertrag.",
+   "exEn": "Recruited professionals need more than a contract."
+  },
+  {
+   "n": 46,
+   "de": "integrativ",
+   "type": "adj.",
+   "en": "integrative",
+   "exDe": "Ein integratives Team entsteht nicht von selbst.",
+   "exEn": "An integrative team does not arise by itself."
+  },
+  {
+   "n": 47,
+   "de": "divers",
+   "type": "adj.",
+   "en": "diverse",
+   "exDe": "Diverse Teams entscheiden langsamer und besser.",
+   "exEn": "Diverse teams decide more slowly and better."
+  },
+  {
+   "n": 48,
+   "de": "partizipativ",
+   "type": "adj.",
+   "en": "participative",
+   "exDe": "Partizipative F&uuml;hrung kostet Zeit, spart aber Reibung.",
+   "exEn": "Participative leadership costs time but saves friction."
+  },
+  {
+   "n": 49,
+   "de": "wertorientiert",
+   "type": "adj.",
+   "en": "value-oriented",
+   "exDe": "Wertorientierte F&uuml;hrung h&auml;lt auch schlechte Quartale aus.",
+   "exEn": "Value-oriented leadership survives bad quarters too."
+  },
+  {
+   "n": 50,
+   "de": "vertrauensbasiert",
+   "type": "adj.",
+   "en": "based on trust",
+   "exDe": "Vertrauensbasierte Zusammenarbeit braucht klare Regeln.",
+   "exEn": "Cooperation based on trust needs clear rules."
+  },
+  {
+   "n": 51,
+   "de": "f&uuml;hrungsstark",
+   "type": "adj.",
+   "en": "strong in leadership",
+   "exDe": "F&uuml;hrungsstark ist nicht, wer am lautesten spricht.",
+   "exEn": "Being strong in leadership is not about speaking loudest."
+  },
+  {
+   "n": 52,
+   "de": "empathisch",
+   "type": "adj.",
+   "en": "empathetic",
+   "exDe": "Empathisch f&uuml;hren hei&szlig;t nicht, alles zu erlauben.",
+   "exEn": "Leading empathetically does not mean allowing everything."
+  },
+  {
+   "n": 53,
+   "de": "Stellen besetzen",
+   "type": "N+V &middot; besetzt Stellen",
+   "en": "to fill positions",
+   "exDe": "Stellen besetzt man heute in Monaten, nicht in Wochen.",
+   "exEn": "Positions are now filled in months, not weeks."
+  },
+  {
+   "n": 54,
+   "de": "Abschl&uuml;sse anerkennen",
+   "type": "N+V &middot; erkennt Abschl&uuml;sse an",
+   "en": "to recognise qualifications",
+   "exDe": "Abschl&uuml;sse anerkennen dauert oft l&auml;nger als das Studium selbst.",
+   "exEn": "Recognising qualifications often takes longer than the degree."
+  },
+  {
+   "n": 55,
+   "de": "Befugnisse abgeben",
+   "type": "N+V &middot; gibt Befugnisse ab",
+   "en": "to hand over authority",
+   "exDe": "Befugnisse gibt man samt der Verantwortung ab.",
+   "exEn": "Authority is handed over together with the responsibility."
+  },
+  {
+   "n": 56,
+   "de": "Vertrauen schaffen",
+   "type": "N+V &middot; schafft Vertrauen",
+   "en": "to create trust",
+   "exDe": "Vertrauen schafft man langsam und verliert es in einer Sitzung.",
+   "exEn": "Trust is created slowly and lost in one meeting."
+  },
+  {
+   "n": 57,
+   "de": "Fehler eingestehen",
+   "type": "N+V &middot; gesteht Fehler ein",
+   "en": "to admit mistakes",
+   "exDe": "Fehler eingestehen k&ouml;nnen nur die, die sicher sitzen.",
+   "exEn": "Only those who feel secure can admit mistakes."
+  },
+  {
+   "n": 58,
+   "de": "Konflikte ansprechen",
+   "type": "N+V &middot; spricht Konflikte an",
+   "en": "to address conflicts",
+   "exDe": "Konflikte spricht man fr&uuml;h an oder gar nicht.",
+   "exEn": "Conflicts are addressed early or not at all."
+  },
+  {
+   "n": 59,
+   "de": "Talente halten",
+   "type": "N+V &middot; h&auml;lt Talente",
+   "en": "to retain talent",
+   "exDe": "Talente h&auml;lt man mit Perspektive, nicht mit Pr&auml;mien.",
+   "exEn": "Talent is retained with prospects, not bonuses."
+  },
+  {
+   "n": 60,
+   "de": "Ma&szlig;st&auml;be setzen",
+   "type": "N+V &middot; setzt Ma&szlig;st&auml;be",
+   "en": "to set the standard",
+   "exDe": "Ma&szlig;st&auml;be setzt die Spitze, ob sie will oder nicht.",
+   "exEn": "The top sets the standard, whether it wants to or not."
+  }
+ ],
+ "groups": [
+  "Fachkr&auml;ftemangel &amp; Migration &middot; Who Comes, Who Stays",
+  "F&uuml;hrung &amp; Kultur &middot; How People Are Led",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

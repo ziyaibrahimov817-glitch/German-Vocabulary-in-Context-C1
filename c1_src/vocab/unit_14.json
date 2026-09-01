@@ -1,0 +1,491 @@
+{
+ "unit": 14,
+ "title_de": "Psyche &amp; Medizinethik",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Entstigmatisierung",
+   "type": "die",
+   "en": "destigmatisation",
+   "exDe": "Die Entstigmatisierung ist weiter als die Versorgung.",
+   "exEn": "Destigmatisation has advanced further than provision."
+  },
+  {
+   "n": 2,
+   "de": "Pathologisierung",
+   "type": "die",
+   "en": "pathologisation",
+   "exDe": "Die Pathologisierung normaler Reaktionen ist selbst ein Problem.",
+   "exEn": "Pathologising normal reactions is itself a problem."
+  },
+  {
+   "n": 3,
+   "de": "Medikalisierung",
+   "type": "die",
+   "en": "medicalisation",
+   "exDe": "Medikalisierung verlagert eine soziale Frage in die Praxis.",
+   "exEn": "Medicalisation shifts a social question into the surgery."
+  },
+  {
+   "n": 4,
+   "de": "Versorgungsforschung",
+   "type": "die",
+   "en": "health services research",
+   "exDe": "Die Versorgungsforschung zeigt L&uuml;cken, die Statistiken verdecken.",
+   "exEn": "Health services research shows gaps that statistics conceal."
+  },
+  {
+   "n": 5,
+   "de": "Krankheitslast",
+   "type": "die",
+   "en": "burden of disease",
+   "exDe": "Die Krankheitslast psychischer Erkrankungen wird untersch&auml;tzt.",
+   "exEn": "The burden of mental illness is underestimated."
+  },
+  {
+   "n": 6,
+   "de": "Fr&uuml;hwarnzeichen",
+   "type": "das",
+   "en": "early warning sign",
+   "exDe": "Fr&uuml;hwarnzeichen erkennt das Umfeld oft vor dem Betroffenen.",
+   "exEn": "Those around often notice early warning signs before the person does."
+  },
+  {
+   "n": 7,
+   "de": "Schutzfaktor",
+   "type": "der",
+   "en": "protective factor",
+   "exDe": "Ein stabiles Umfeld ist der wirksamste Schutzfaktor.",
+   "exEn": "A stable environment is the most effective protective factor."
+  },
+  {
+   "n": 8,
+   "de": "Resilienzfaktor",
+   "type": "der",
+   "en": "resilience factor",
+   "exDe": "Resilienzfaktoren lassen sich f&ouml;rdern, nicht verordnen.",
+   "exEn": "Resilience factors can be promoted, not prescribed."
+  },
+  {
+   "n": 9,
+   "de": "Leistungsnorm",
+   "type": "die",
+   "en": "performance norm",
+   "exDe": "Die Leistungsnorm verschiebt sich, die Belastbarkeit nicht.",
+   "exEn": "The performance norm shifts, resilience does not."
+  },
+  {
+   "n": 10,
+   "de": "Selbstoptimierungsdruck",
+   "type": "der",
+   "en": "pressure to optimise oneself",
+   "exDe": "Selbstoptimierungsdruck verkauft sich als Freiheit.",
+   "exEn": "The pressure to optimise oneself is sold as freedom."
+  },
+  {
+   "n": 11,
+   "de": "Achtsamkeitsangebot",
+   "type": "das",
+   "en": "mindfulness programme",
+   "exDe": "Ein Achtsamkeitsangebot ersetzt keinen Personalschl&uuml;ssel.",
+   "exEn": "A mindfulness programme is no substitute for staffing levels."
+  },
+  {
+   "n": 12,
+   "de": "Betriebliche Pr&auml;vention",
+   "type": "die",
+   "en": "workplace prevention",
+   "exDe": "Betriebliche Pr&auml;vention wirkt nur mit ver&auml;nderten Bedingungen.",
+   "exEn": "Workplace prevention only works with changed conditions."
+  },
+  {
+   "n": 13,
+   "de": "Patientenautonomie",
+   "type": "die",
+   "en": "patient autonomy",
+   "exDe": "Patientenautonomie gilt auch gegen den &auml;rztlichen Rat.",
+   "exEn": "Patient autonomy applies even against medical advice."
+  },
+  {
+   "n": 14,
+   "de": "Einwilligungsf&auml;higkeit",
+   "type": "die",
+   "en": "capacity to consent",
+   "exDe": "Die Einwilligungsf&auml;higkeit wird im Einzelfall gepr&uuml;ft.",
+   "exEn": "Capacity to consent is assessed case by case."
+  },
+  {
+   "n": 15,
+   "de": "Aufkl&auml;rungspflicht",
+   "type": "die",
+   "en": "duty to inform",
+   "exDe": "Die Aufkl&auml;rungspflicht endet nicht bei der Unterschrift.",
+   "exEn": "The duty to inform does not end at the signature."
+  },
+  {
+   "n": 16,
+   "de": "Behandlungsverzicht",
+   "type": "der",
+   "en": "withholding of treatment",
+   "exDe": "Behandlungsverzicht ist eine Entscheidung, keine Unterlassung.",
+   "exEn": "Withholding treatment is a decision, not an omission."
+  },
+  {
+   "n": 17,
+   "de": "Palliativversorgung",
+   "type": "die",
+   "en": "palliative care",
+   "exDe": "Palliativversorgung verl&auml;ngert oft, was sie nicht verl&auml;ngern will.",
+   "exEn": "Palliative care often prolongs what it does not aim to prolong."
+  },
+  {
+   "n": 18,
+   "de": "Transplantationsmedizin",
+   "type": "die",
+   "en": "transplant medicine",
+   "exDe": "Die Transplantationsmedizin lebt von einer knappen Ressource.",
+   "exEn": "Transplant medicine lives on a scarce resource."
+  },
+  {
+   "n": 19,
+   "de": "Ressourcenallokation",
+   "type": "die",
+   "en": "allocation of resources",
+   "exDe": "Ressourcenallokation ist ein ethisches Problem, kein rechnerisches.",
+   "exEn": "Allocation of resources is an ethical problem, not an arithmetical one."
+  },
+  {
+   "n": 20,
+   "de": "Gentherapie",
+   "type": "die",
+   "en": "gene therapy",
+   "exDe": "Eine Gentherapie kann heilen und kostet ein Verm&ouml;gen.",
+   "exEn": "A gene therapy can cure and costs a fortune."
+  },
+  {
+   "n": 21,
+   "de": "Keimbahneingriff",
+   "type": "der",
+   "en": "germline intervention",
+   "exDe": "Der Keimbahneingriff betrifft Menschen, die nicht zustimmen k&ouml;nnen.",
+   "exEn": "Germline intervention affects people who cannot consent."
+  },
+  {
+   "n": 22,
+   "de": "Pr&auml;implantationsdiagnostik",
+   "type": "die",
+   "en": "preimplantation diagnosis",
+   "exDe": "Die Pr&auml;implantationsdiagnostik ist eng geregelt und umstritten.",
+   "exEn": "Preimplantation diagnosis is tightly regulated and contested."
+  },
+  {
+   "n": 23,
+   "de": "Reproduktionsmedizin",
+   "type": "die",
+   "en": "reproductive medicine",
+   "exDe": "Die Reproduktionsmedizin wirft Fragen auf, die sie nicht beantworten kann.",
+   "exEn": "Reproductive medicine raises questions it cannot answer."
+  },
+  {
+   "n": 24,
+   "de": "Ethikkommission",
+   "type": "die",
+   "en": "ethics committee",
+   "exDe": "Ohne Votum der Ethikkommission beginnt keine Studie.",
+   "exEn": "No study begins without the ethics committee's opinion."
+  },
+  {
+   "n": 25,
+   "de": "entstigmatisieren",
+   "type": "untr. &middot; hat entstigmatisiert",
+   "en": "to destigmatise",
+   "exDe": "Entstigmatisiert wird &uuml;ber Sprache, nicht &uuml;ber Kampagnen.",
+   "exEn": "Destigmatisation works through language, not campaigns."
+  },
+  {
+   "n": 26,
+   "de": "enttabuisieren",
+   "type": "untr. &middot; hat enttabuisiert",
+   "en": "to remove a taboo from",
+   "exDe": "Enttabuisiert ist nicht dasselbe wie verstanden.",
+   "exEn": "Freed from taboo is not the same as understood."
+  },
+  {
+   "n": 27,
+   "de": "tabuisieren",
+   "type": "untr. &middot; hat tabuisiert",
+   "en": "to make a taboo of",
+   "exDe": "Was tabuisiert wird, verschwindet nicht.",
+   "exEn": "What is made taboo does not disappear."
+  },
+  {
+   "n": 28,
+   "de": "thematisieren",
+   "type": "untr. &middot; hat thematisiert",
+   "en": "to raise as a topic",
+   "exDe": "Thematisiert wird es erst, wenn jemand ausf&auml;llt.",
+   "exEn": "It is only raised as a topic when somebody drops out."
+  },
+  {
+   "n": 29,
+   "de": "benennen",
+   "type": "tr. &middot; benennt",
+   "en": "to name, to identify",
+   "exDe": "Wer die Ursache benennt, wird unbequem.",
+   "exEn": "Whoever names the cause becomes inconvenient."
+  },
+  {
+   "n": 30,
+   "de": "pathologisieren",
+   "type": "untr. &middot; hat pathologisiert",
+   "en": "to pathologise",
+   "exDe": "Pathologisiert wird schnell, behandelt wird sp&auml;t.",
+   "exEn": "Pathologising is quick, treatment is late."
+  },
+  {
+   "n": 31,
+   "de": "medikalisieren",
+   "type": "untr. &middot; hat medikalisiert",
+   "en": "to medicalise",
+   "exDe": "Eine medikalisierte Antwort ist die einfachere.",
+   "exEn": "A medicalised answer is the easier one."
+  },
+  {
+   "n": 32,
+   "de": "vermessen",
+   "type": "untr. &middot; hat vermessen",
+   "en": "to measure, to quantify",
+   "exDe": "Was sich vermessen l&auml;sst, gilt als real.",
+   "exEn": "What can be measured counts as real."
+  },
+  {
+   "n": 33,
+   "de": "&uuml;berbr&uuml;cken",
+   "type": "untr. &middot; hat &uuml;berbr&uuml;ckt",
+   "en": "to bridge",
+   "exDe": "Die Wartezeit &uuml;berbr&uuml;ckt niemand allein.",
+   "exEn": "Nobody bridges the waiting time alone."
+  },
+  {
+   "n": 34,
+   "de": "beforschen",
+   "type": "untr. &middot; hat beforscht",
+   "en": "to research (a field)",
+   "exDe": "Beforscht wird, wof&uuml;r es Geld gibt.",
+   "exEn": "What gets researched is what there is money for."
+  },
+  {
+   "n": 35,
+   "de": "lindern",
+   "type": "untr. &middot; hat gelindert",
+   "en": "to alleviate",
+   "exDe": "Lindern ist ein Ziel, nicht ein Scheitern.",
+   "exEn": "Alleviating is an aim, not a failure."
+  },
+  {
+   "n": 36,
+   "de": "zuvorkommen",
+   "type": "verb + Dat.",
+   "en": "to forestall",
+   "exDe": "Einer Krise kommt selten jemand zuvor, obwohl sie sichtbar war.",
+   "exEn": "A crisis is rarely forestalled although it was visible."
+  },
+  {
+   "n": 37,
+   "de": "absehen",
+   "type": "verb + von + Dat.",
+   "en": "to refrain from",
+   "exDe": "Von einer Operation sieht man selten freiwillig ab.",
+   "exEn": "One rarely refrains from an operation voluntarily."
+  },
+  {
+   "n": 38,
+   "de": "davon Abstand nehmen",
+   "type": "N+V &middot; nimmt davon Abstand",
+   "en": "to refrain from it",
+   "exDe": "Davon Abstand zu nehmen kann so folgenreich sein wie Handeln.",
+   "exEn": "Refraining can have as many consequences as acting."
+  },
+  {
+   "n": 39,
+   "de": "fortf&uuml;hren",
+   "type": "tr. &middot; f&uuml;hrt fort",
+   "en": "to continue",
+   "exDe": "Fortgef&uuml;hrt wird, solange jemand widerspricht.",
+   "exEn": "Treatment continues as long as somebody objects."
+  },
+  {
+   "n": 40,
+   "de": "regeln",
+   "type": "untr. &middot; hat geregelt",
+   "en": "to regulate",
+   "exDe": "Geregelt ist vieles, entschieden wenig.",
+   "exEn": "Much is regulated, little decided."
+  },
+  {
+   "n": 41,
+   "de": "entpflichten",
+   "type": "tr. &middot; entpflichtet",
+   "en": "to release from an obligation",
+   "exDe": "Niemand entpflichtet die Angeh&ouml;rigen von der Entscheidung.",
+   "exEn": "Nobody releases the relatives from the decision."
+  },
+  {
+   "n": 42,
+   "de": "austragen",
+   "type": "tr. &middot; tr&auml;gt aus",
+   "en": "to fight out, to resolve",
+   "exDe": "Diesen Konflikt tr&auml;gt die Gesellschaft aus, nicht die Medizin.",
+   "exEn": "Society fights out this conflict, not medicine."
+  },
+  {
+   "n": 43,
+   "de": "psychisch belastet",
+   "type": "adj.",
+   "en": "under psychological strain",
+   "exDe": "Psychisch belastete Besch&auml;ftigte melden sich zuletzt.",
+   "exEn": "Employees under psychological strain report last."
+  },
+  {
+   "n": 44,
+   "de": "therapiebed&uuml;rftig",
+   "type": "adj.",
+   "en": "in need of therapy",
+   "exDe": "Therapiebed&uuml;rftig zu sein hei&szlig;t nicht, einen Platz zu bekommen.",
+   "exEn": "Needing therapy does not mean getting a place."
+  },
+  {
+   "n": 45,
+   "de": "entstigmatisiert",
+   "type": "adj.",
+   "en": "destigmatised",
+   "exDe": "Ein entstigmatisiertes Thema ist noch kein gel&ouml;stes.",
+   "exEn": "A destigmatised topic is not yet a solved one."
+  },
+  {
+   "n": 46,
+   "de": "einwilligungsf&auml;hig",
+   "type": "adj.",
+   "en": "capable of giving consent",
+   "exDe": "Einwilligungsf&auml;hig ist, wer Tragweite und Folgen versteht.",
+   "exEn": "Whoever understands scope and consequences is capable of consent."
+  },
+  {
+   "n": 47,
+   "de": "unheilbar",
+   "type": "adj.",
+   "en": "incurable",
+   "exDe": "Unheilbar hei&szlig;t nicht unbehandelbar.",
+   "exEn": "Incurable does not mean untreatable."
+  },
+  {
+   "n": 48,
+   "de": "lebensverl&auml;ngernd",
+   "type": "adj.",
+   "en": "life-prolonging",
+   "exDe": "Lebensverl&auml;ngernde Ma&szlig;nahmen sind nicht immer lebenserhaltend.",
+   "exEn": "Life-prolonging measures are not always life-sustaining."
+  },
+  {
+   "n": 49,
+   "de": "ethisch vertretbar",
+   "type": "adj.",
+   "en": "ethically defensible",
+   "exDe": "Ethisch vertretbar ist enger als rechtlich erlaubt.",
+   "exEn": "Ethically defensible is narrower than legally permitted."
+  },
+  {
+   "n": 50,
+   "de": "irreversibel",
+   "type": "adj.",
+   "en": "irreversible",
+   "exDe": "Irreversible Eingriffe verlangen h&ouml;here Sicherheit.",
+   "exEn": "Irreversible interventions demand greater certainty."
+  },
+  {
+   "n": 51,
+   "de": "reversibel",
+   "type": "adj.",
+   "en": "reversible",
+   "exDe": "Reversible Verfahren lassen Korrekturen zu.",
+   "exEn": "Reversible procedures allow corrections."
+  },
+  {
+   "n": 52,
+   "de": "strittig",
+   "type": "adj.",
+   "en": "in dispute",
+   "exDe": "Strittig ist nicht das Verfahren, sondern die Grenze.",
+   "exEn": "What is in dispute is not the procedure but the limit."
+  },
+  {
+   "n": 53,
+   "de": "Unterst&uuml;tzung annehmen",
+   "type": "N+V &middot; nimmt Unterst&uuml;tzung an",
+   "en": "to accept support",
+   "exDe": "Unterst&uuml;tzung anzunehmen f&auml;llt leichter, wenn andere es tun.",
+   "exEn": "Accepting support is easier when others do it."
+  },
+  {
+   "n": 54,
+   "de": "&uuml;ber Belastung sprechen",
+   "type": "N+V &middot; spricht &uuml;ber Belastung",
+   "en": "to talk about strain",
+   "exDe": "&Uuml;ber Belastung sprechen ver&auml;ndert erst etwas, wenn zugeh&ouml;rt wird.",
+   "exEn": "Talking about strain only changes something when it is heard."
+  },
+  {
+   "n": 55,
+   "de": "Bedingungen ver&auml;ndern",
+   "type": "N+V &middot; ver&auml;ndert Bedingungen",
+   "en": "to change the conditions",
+   "exDe": "Bedingungen ver&auml;ndern wirkt l&auml;nger als jedes Seminar.",
+   "exEn": "Changing conditions works longer than any seminar."
+  },
+  {
+   "n": 56,
+   "de": "eine Grenze ziehen",
+   "type": "N+V &middot; zieht eine Grenze",
+   "en": "to draw a line",
+   "exDe": "Eine Grenze ziehen muss der Gesetzgeber, nicht der Markt.",
+   "exEn": "It is the legislator who must draw the line, not the market."
+  },
+  {
+   "n": 57,
+   "de": "den Willen respektieren",
+   "type": "N+V &middot; respektiert den Willen",
+   "en": "to respect a person's will",
+   "exDe": "Den Willen respektieren hei&szlig;t manchmal, nichts zu tun.",
+   "exEn": "Respecting a person's will sometimes means doing nothing."
+  },
+  {
+   "n": 58,
+   "de": "Risiken abw&auml;gen",
+   "type": "N+V &middot; w&auml;gt Risiken ab",
+   "en": "to weigh up risks",
+   "exDe": "Risiken abw&auml;gen kann nur, wer sie kennt.",
+   "exEn": "Only those who know the risks can weigh them up."
+  },
+  {
+   "n": 59,
+   "de": "Forschung begrenzen",
+   "type": "N+V &middot; begrenzt Forschung",
+   "en": "to limit research",
+   "exDe": "Forschung begrenzen hei&szlig;t nicht, sie zu verhindern.",
+   "exEn": "Limiting research does not mean preventing it."
+  },
+  {
+   "n": 60,
+   "de": "Verantwortung teilen",
+   "type": "N+V &middot; teilt Verantwortung",
+   "en": "to share responsibility",
+   "exDe": "Verantwortung teilen entlastet den Einzelnen und niemanden sonst.",
+   "exEn": "Sharing responsibility relieves the individual and nobody else."
+  }
+ ],
+ "groups": [
+  "Psychische Gesundheit &middot; A Question About Conditions",
+  "Medizin &amp; Ethik &middot; What Is Allowed, What Is Right",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

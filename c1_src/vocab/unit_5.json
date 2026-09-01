@@ -1,0 +1,491 @@
+{
+ "unit": 5,
+ "title_de": "Leistungsdruck &amp; Wissenschaft",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Notendruck",
+   "type": "der",
+   "en": "pressure of grades",
+   "exDe": "Der Notendruck beginnt heute in der Grundschule.",
+   "exEn": "The pressure of grades now begins in primary school."
+  },
+  {
+   "n": 2,
+   "de": "Perfektionsanspruch",
+   "type": "der",
+   "en": "demand for perfection",
+   "exDe": "Der eigene Perfektionsanspruch wiegt schwerer als jede Pr&uuml;fung.",
+   "exEn": "One's own demand for perfection weighs more than any exam."
+  },
+  {
+   "n": 3,
+   "de": "Pr&uuml;fungslast",
+   "type": "die",
+   "en": "examination burden",
+   "exDe": "Die Pr&uuml;fungslast verteilt sich &uuml;ber das Semester ungleich.",
+   "exEn": "The examination burden is spread unevenly over the semester."
+  },
+  {
+   "n": 4,
+   "de": "Bewertungsma&szlig;stab",
+   "type": "der",
+   "en": "assessment criterion",
+   "exDe": "Ein transparenter Bewertungsma&szlig;stab nimmt viel Druck heraus.",
+   "exEn": "A transparent assessment criterion removes a lot of pressure."
+  },
+  {
+   "n": 5,
+   "de": "Notenspiegel",
+   "type": "der",
+   "en": "distribution of grades",
+   "exDe": "Der Notenspiegel sagt mehr &uuml;ber die Pr&uuml;fung als &uuml;ber die Studierenden.",
+   "exEn": "The grade distribution says more about the exam than about the students."
+  },
+  {
+   "n": 6,
+   "de": "Leistungsnachweis",
+   "type": "der",
+   "en": "proof of academic achievement",
+   "exDe": "Ohne Leistungsnachweis wird das Semester nicht angerechnet.",
+   "exEn": "Without proof of achievement the semester is not credited."
+  },
+  {
+   "n": 7,
+   "de": "Zulassungsbeschr&auml;nkung",
+   "type": "die",
+   "en": "admission restriction",
+   "exDe": "Die Zulassungsbeschr&auml;nkung entscheidet &uuml;ber ganze Lebenswege.",
+   "exEn": "Admission restrictions decide entire life paths."
+  },
+  {
+   "n": 8,
+   "de": "Denkleistung",
+   "type": "die",
+   "en": "intellectual achievement",
+   "exDe": "Eine Denkleistung l&auml;sst sich schwer in Punkten abbilden.",
+   "exEn": "Intellectual achievement is hard to express in points."
+  },
+  {
+   "n": 9,
+   "de": "Forschungsstand",
+   "type": "der",
+   "en": "state of research",
+   "exDe": "Jede Arbeit beginnt mit dem Forschungsstand.",
+   "exEn": "Every piece of work begins with the state of research."
+  },
+  {
+   "n": 10,
+   "de": "Forschungsl&uuml;cke",
+   "type": "die",
+   "en": "research gap",
+   "exDe": "Die Forschungsl&uuml;cke muss man benennen, nicht behaupten.",
+   "exEn": "A research gap has to be identified, not asserted."
+  },
+  {
+   "n": 11,
+   "de": "Desiderat",
+   "type": "das",
+   "en": "desideratum, open research need",
+   "exDe": "Der Autor formuliert am Schluss ein Desiderat.",
+   "exEn": "The author formulates a desideratum at the end."
+  },
+  {
+   "n": 12,
+   "de": "Literaturrecherche",
+   "type": "die",
+   "en": "literature search",
+   "exDe": "Eine gr&uuml;ndliche Literaturrecherche spart sp&auml;ter Wochen.",
+   "exEn": "A thorough literature search saves weeks later."
+  },
+  {
+   "n": 13,
+   "de": "Zitierweise",
+   "type": "die",
+   "en": "citation style",
+   "exDe": "Die Zitierweise muss durchg&auml;ngig einheitlich sein.",
+   "exEn": "The citation style must be consistent throughout."
+  },
+  {
+   "n": 14,
+   "de": "Fu&szlig;note",
+   "type": "die",
+   "en": "footnote",
+   "exDe": "In die Fu&szlig;note geh&ouml;rt der Beleg, nicht das Argument.",
+   "exEn": "The footnote is for the reference, not the argument."
+  },
+  {
+   "n": 15,
+   "de": "Literaturverzeichnis",
+   "type": "das",
+   "en": "bibliography",
+   "exDe": "Das Literaturverzeichnis enth&auml;lt nur zitierte Titel.",
+   "exEn": "The bibliography contains only cited works."
+  },
+  {
+   "n": 16,
+   "de": "Kenntlichmachung",
+   "type": "die",
+   "en": "proper acknowledgement",
+   "exDe": "Ohne Kenntlichmachung wird aus &Uuml;bernahme ein Plagiat.",
+   "exEn": "Without acknowledgement borrowing becomes plagiarism."
+  },
+  {
+   "n": 17,
+   "de": "Plagiat",
+   "type": "das",
+   "en": "plagiarism",
+   "exDe": "Ein Plagiat kostet den Titel, auch nach Jahren.",
+   "exEn": "Plagiarism costs the degree, even years later."
+  },
+  {
+   "n": 18,
+   "de": "Redlichkeit",
+   "type": "die",
+   "en": "integrity",
+   "exDe": "Wissenschaftliche Redlichkeit l&auml;sst sich nicht pr&uuml;fen, nur voraussetzen.",
+   "exEn": "Academic integrity cannot be tested, only presupposed."
+  },
+  {
+   "n": 19,
+   "de": "Eigenleistung",
+   "type": "die",
+   "en": "one's own contribution",
+   "exDe": "Die Eigenleistung muss erkennbar bleiben.",
+   "exEn": "One's own contribution must remain recognisable."
+  },
+  {
+   "n": 20,
+   "de": "Argumentationsgang",
+   "type": "der",
+   "en": "line of argument",
+   "exDe": "Der Argumentationsgang tr&auml;gt die Arbeit, nicht die Materialf&uuml;lle.",
+   "exEn": "The line of argument carries the work, not the mass of material."
+  },
+  {
+   "n": 21,
+   "de": "Herleitung",
+   "type": "die",
+   "en": "derivation",
+   "exDe": "Die Herleitung &uuml;berzeugt, das Ergebnis allein nicht.",
+   "exEn": "The derivation convinces, the result alone does not."
+  },
+  {
+   "n": 22,
+   "de": "Fachterminologie",
+   "type": "die",
+   "en": "specialist terminology",
+   "exDe": "Fachterminologie ersetzt kein Argument.",
+   "exEn": "Specialist terminology is no substitute for an argument."
+  },
+  {
+   "n": 23,
+   "de": "Diskurs",
+   "type": "der",
+   "en": "discourse",
+   "exDe": "In den Diskurs tritt man ein, man er&ouml;ffnet ihn selten.",
+   "exEn": "One enters a discourse; one rarely opens it."
+  },
+  {
+   "n": 24,
+   "de": "Kolloquium",
+   "type": "das",
+   "en": "colloquium",
+   "exDe": "Im Kolloquium verteidigt man die eigene Fragestellung.",
+   "exEn": "In the colloquium you defend your own research question."
+  },
+  {
+   "n": 25,
+   "de": "sondieren",
+   "type": "untr. &middot; hat sondiert",
+   "en": "to explore, to scope out",
+   "exDe": "Zuerst sondiert man das Feld, dann grenzt man ein.",
+   "exEn": "First you scope out the field, then you narrow it down."
+  },
+  {
+   "n": 26,
+   "de": "exzerpieren",
+   "type": "untr. &middot; hat exzerpiert",
+   "en": "to make excerpts",
+   "exDe": "Wer exzerpiert, liest zweimal und schreibt einmal.",
+   "exEn": "Whoever makes excerpts reads twice and writes once."
+  },
+  {
+   "n": 27,
+   "de": "paraphrasieren",
+   "type": "untr. &middot; hat paraphrasiert",
+   "en": "to paraphrase",
+   "exDe": "Paraphrasieren hei&szlig;t umformulieren, nicht W&ouml;rter tauschen.",
+   "exEn": "Paraphrasing means rewording, not swapping words."
+  },
+  {
+   "n": 28,
+   "de": "kenntlich machen",
+   "type": "tr. &middot; macht kenntlich",
+   "en": "to mark, to acknowledge",
+   "exDe": "Jede &Uuml;bernahme ist kenntlich zu machen.",
+   "exEn": "Every borrowing must be acknowledged."
+  },
+  {
+   "n": 29,
+   "de": "plagiieren",
+   "type": "untr. &middot; hat plagiiert",
+   "en": "to plagiarise",
+   "exDe": "Wer plagiiert, verliert mehr als die Note.",
+   "exEn": "Whoever plagiarises loses more than the grade."
+  },
+  {
+   "n": 30,
+   "de": "fu&szlig;en",
+   "type": "verb + auf + Dat.",
+   "en": "to be based on",
+   "exDe": "Die These fu&szlig;t auf drei Studien.",
+   "exEn": "The thesis is based on three studies."
+  },
+  {
+   "n": 31,
+   "de": "ankn&uuml;pfen",
+   "type": "verb + an + Akk.",
+   "en": "to build on",
+   "exDe": "Die Arbeit kn&uuml;pft an eine &auml;ltere Debatte an.",
+   "exEn": "The work builds on an older debate."
+  },
+  {
+   "n": 32,
+   "de": "einbetten",
+   "type": "tr. &middot; bettet ein",
+   "en": "to embed",
+   "exDe": "Die Ergebnisse muss man in den Forschungsstand einbetten.",
+   "exEn": "The results have to be embedded in the state of research."
+  },
+  {
+   "n": 33,
+   "de": "er&ouml;rtern",
+   "type": "untr. &middot; hat er&ouml;rtert",
+   "en": "to discuss, to examine",
+   "exDe": "Der Beitrag er&ouml;rtert drei Erkl&auml;rungsans&auml;tze.",
+   "exEn": "The article examines three explanatory approaches."
+  },
+  {
+   "n": 34,
+   "de": "gegen&uuml;berstellen",
+   "type": "tr. &middot; stellt gegen&uuml;ber",
+   "en": "to contrast",
+   "exDe": "Beide Positionen werden systematisch gegen&uuml;bergestellt.",
+   "exEn": "Both positions are systematically contrasted."
+  },
+  {
+   "n": 35,
+   "de": "ableiten",
+   "type": "tr. &middot; leitet ab",
+   "en": "to derive",
+   "exDe": "Daraus l&auml;sst sich keine Verallgemeinerung ableiten.",
+   "exEn": "No generalisation can be derived from this."
+  },
+  {
+   "n": 36,
+   "de": "schlussfolgern",
+   "type": "untr. &middot; hat gefolgert",
+   "en": "to conclude",
+   "exDe": "Vorsichtig schlussfolgern ist besser als &uuml;berzeugt irren.",
+   "exEn": "Concluding cautiously is better than being confidently wrong."
+  },
+  {
+   "n": 37,
+   "de": "systematisieren",
+   "type": "untr. &middot; hat systematisiert",
+   "en": "to systematise",
+   "exDe": "Das Material muss man erst systematisieren.",
+   "exEn": "The material has to be systematised first."
+  },
+  {
+   "n": 38,
+   "de": "ausarbeiten",
+   "type": "tr. &middot; arbeitet aus",
+   "en": "to work out in detail",
+   "exDe": "Die Gliederung arbeitet man vor dem Schreiben aus.",
+   "exEn": "The outline is worked out before writing."
+  },
+  {
+   "n": 39,
+   "de": "rezipieren",
+   "type": "untr. &middot; hat rezipiert",
+   "en": "to receive, to take up (a work)",
+   "exDe": "Der Aufsatz wurde international breit rezipiert.",
+   "exEn": "The article was widely taken up internationally."
+  },
+  {
+   "n": 40,
+   "de": "referieren",
+   "type": "untr. &middot; hat referiert",
+   "en": "to report on, to summarise",
+   "exDe": "Zuerst referiert man die Position, dann kritisiert man sie.",
+   "exEn": "First you summarise the position, then you criticise it."
+  },
+  {
+   "n": 41,
+   "de": "abheben",
+   "type": "verb + auf + Akk.",
+   "en": "to focus on, to be aimed at",
+   "exDe": "Die Kritik hebt auf die Methode ab, nicht auf das Ergebnis.",
+   "exEn": "The criticism is aimed at the method, not the result."
+  },
+  {
+   "n": 42,
+   "de": "b&uuml;ffeln",
+   "type": "untr. &middot; hat geb&uuml;ffelt",
+   "en": "to swot, to cram",
+   "exDe": "Drei Tage b&uuml;ffeln ersetzt kein Semester.",
+   "exEn": "Three days of cramming does not replace a semester."
+  },
+  {
+   "n": 43,
+   "de": "stringent",
+   "type": "adj.",
+   "en": "rigorous, tightly argued",
+   "exDe": "Eine stringente Arbeit &uuml;berzeugt auch ohne neue Daten.",
+   "exEn": "A tightly argued piece convinces even without new data."
+  },
+  {
+   "n": 44,
+   "de": "schl&uuml;ssig",
+   "type": "adj.",
+   "en": "coherent, conclusive",
+   "exDe": "Die Herleitung ist schl&uuml;ssig, die Datenbasis d&uuml;nn.",
+   "exEn": "The derivation is coherent, the data base thin."
+  },
+  {
+   "n": 45,
+   "de": "belegbar",
+   "type": "adj.",
+   "en": "documentable",
+   "exDe": "Nur Belegbares geh&ouml;rt in den Text.",
+   "exEn": "Only what can be documented belongs in the text."
+  },
+  {
+   "n": 46,
+   "de": "zitierf&auml;hig",
+   "type": "adj.",
+   "en": "citable",
+   "exDe": "Ein Blogeintrag ist selten zitierf&auml;hig.",
+   "exEn": "A blog post is rarely citable."
+  },
+  {
+   "n": 47,
+   "de": "methodisch",
+   "type": "adj.",
+   "en": "methodological",
+   "exDe": "Der methodische Teil entscheidet &uuml;ber die Bewertung.",
+   "exEn": "The methodological part determines the mark."
+  },
+  {
+   "n": 48,
+   "de": "argumentativ",
+   "type": "adj.",
+   "en": "in terms of argument",
+   "exDe": "Argumentativ ist die Arbeit stark, sprachlich schwach.",
+   "exEn": "In terms of argument the work is strong, linguistically weak."
+  },
+  {
+   "n": 49,
+   "de": "wissenschaftlich fundiert",
+   "type": "adj.",
+   "en": "academically grounded",
+   "exDe": "Wissenschaftlich fundiert hei&szlig;t nicht unwiderlegbar.",
+   "exEn": "Academically grounded does not mean irrefutable."
+  },
+  {
+   "n": 50,
+   "de": "fachlich fundiert",
+   "type": "adj.",
+   "en": "professionally well-founded",
+   "exDe": "Die Kritik war fachlich fundiert und h&ouml;flich formuliert.",
+   "exEn": "The criticism was well-founded and politely phrased."
+  },
+  {
+   "n": 51,
+   "de": "redlich",
+   "type": "adj.",
+   "en": "honest, with integrity",
+   "exDe": "Redliches Arbeiten f&auml;llt erst auf, wenn es fehlt.",
+   "exEn": "Working with integrity is only noticed when it is absent."
+  },
+  {
+   "n": 52,
+   "de": "formal korrekt",
+   "type": "adj.",
+   "en": "formally correct",
+   "exDe": "Formal korrekt ist die Arbeit &mdash; inhaltlich d&uuml;nn.",
+   "exEn": "The work is formally correct — thin in content."
+  },
+  {
+   "n": 53,
+   "de": "eine Fragestellung entwickeln",
+   "type": "N+V &middot; entwickelt eine Fragestellung",
+   "en": "to develop a research question",
+   "exDe": "Eine gute Fragestellung entwickelt man &uuml;ber Wochen.",
+   "exEn": "A good research question is developed over weeks."
+  },
+  {
+   "n": 54,
+   "de": "den Forschungsstand aufarbeiten",
+   "type": "N+V &middot; arbeitet den Forschungsstand auf",
+   "en": "to review the state of research",
+   "exDe": "Den Forschungsstand aufarbeiten hei&szlig;t auswerten, nicht auflisten.",
+   "exEn": "Reviewing the state of research means evaluating, not listing."
+  },
+  {
+   "n": 55,
+   "de": "Belege anf&uuml;hren",
+   "type": "N+V &middot; f&uuml;hrt Belege an",
+   "en": "to cite evidence",
+   "exDe": "Belege f&uuml;hrt man an, auch wenn niemand nachpr&uuml;ft.",
+   "exEn": "Evidence is cited even if nobody checks."
+  },
+  {
+   "n": 56,
+   "de": "eine These vertreten",
+   "type": "N+V &middot; vertritt eine These",
+   "en": "to argue a thesis",
+   "exDe": "Eine These vertreten hei&szlig;t, Einw&auml;nde vorwegzunehmen.",
+   "exEn": "Arguing a thesis means anticipating objections."
+  },
+  {
+   "n": 57,
+   "de": "Kritik &auml;u&szlig;ern",
+   "type": "N+V &middot; &auml;u&szlig;ert Kritik",
+   "en": "to voice criticism",
+   "exDe": "Kritik &auml;u&szlig;ert man an der Sache, nicht an der Person.",
+   "exEn": "Criticism is voiced on the matter, not the person."
+  },
+  {
+   "n": 58,
+   "de": "dem Druck standhalten",
+   "type": "N+V &middot; h&auml;lt dem Druck stand",
+   "en": "to withstand the pressure",
+   "exDe": "Dem Druck standzuhalten lernt man nicht im Seminar.",
+   "exEn": "Withstanding the pressure is not learnt in a seminar."
+  },
+  {
+   "n": 59,
+   "de": "fristgerecht einreichen",
+   "type": "N+V &middot; reicht fristgerecht ein",
+   "en": "to submit on time",
+   "exDe": "Fristgerecht einzureichen ist die halbe Note.",
+   "exEn": "Submitting on time is half the grade."
+  },
+  {
+   "n": 60,
+   "de": "sich der Kritik stellen",
+   "type": "N+V &middot; stellt sich der Kritik",
+   "en": "to face the criticism",
+   "exDe": "Der Kritik stellt man sich im Kolloquium.",
+   "exEn": "One faces the criticism in the colloquium."
+  }
+ ],
+ "groups": [
+  "Leistungsdruck &middot; What the System Demands",
+  "Wissenschaftliches Arbeiten &middot; How It Is Done Properly",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

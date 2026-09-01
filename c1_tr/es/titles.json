@@ -1,0 +1,214 @@
+{
+ "units": {
+  "1": "Identidad y libertad",
+  "2": "Cambio de valores y roles",
+  "3": "Demografía e infancia",
+  "4": "Educación y justicia",
+  "5": "Presión por el rendimiento y ciencia",
+  "6": "Aprendizaje y transformación",
+  "7": "Personal cualificado y liderazgo",
+  "8": "Sobrecarga y precariedad",
+  "9": "Economía mundial e inflación",
+  "10": "Impuestos y distribución",
+  "11": "Vivienda y desarrollo urbano",
+  "12": "Movilidad y turismo",
+  "13": "Alimentación y sanidad",
+  "14": "Psique y ética médica",
+  "15": "Crisis climática y justicia",
+  "16": "Energía y economía circular",
+  "17": "Biodiversidad y gestión de crisis",
+  "18": "IA y algoritmos",
+  "19": "Datos y ciberseguridad",
+  "20": "Polarización y desinformación",
+  "21": "Prensa y libertad artística",
+  "22": "Lengua y pertenencia",
+  "23": "Democracia y orden mundial",
+  "24": "Guerra, paz y derechos humanos",
+  "25": "Exploración espacial y futuro",
+  "26": "Ciencia y responsabilidad"
+ },
+ "groups": {
+  "1": [
+   "Identidad y globalización · Quién soy y quién decide",
+   "Libertad y responsabilidad · Dónde termina una y empieza la otra",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "2": [
+   "Cambio de valores · Lo que una sociedad da por sentado",
+   "Roles sociales · Lo que se espera de ti",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "3": [
+   "Cambio demográfico · Las cifras detrás",
+   "Infancia y formación temprana · Lo que se decide pronto",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "4": [
+   "Educación y movilidad social · La promesa",
+   "Selección y desventaja · Lo que ocurre en realidad",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "5": [
+   "Presión por el rendimiento · Lo que exige el sistema",
+   "Trabajo científico · Cómo se hace correctamente",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "6": [
+   "Aprendizaje permanente · Aprender después de la escuela",
+   "Transformación · Lo que está cambiando en el trabajo",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "7": [
+   "Escasez de personal cualificado y migración · Quién llega, quién se queda",
+   "Liderazgo y cultura · Cómo se dirige a las personas",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "8": [
+   "Productividad y agotamiento · Lo que cuesta el ritmo",
+   "Trabajo de plataformas y precariedad · Trabajo sin red de protección",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "9": [
+   "Cadenas de suministro y comercio mundial · Cuán frágil es el sistema",
+   "Inflación y política monetaria · Quién lo paga",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "10": [
+   "Política fiscal · Quién paga qué",
+   "Riqueza y pobreza · Quién posee qué",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "11": [
+   "Mercado de la vivienda · Alquiler, derechos y desplazamiento",
+   "Desarrollo urbano · Suelo, densidad y clima",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "12": [
+   "Movilidad · Lo que realmente cambia los viajes",
+   "Turismo · Cuando un lugar llega a su límite",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "13": [
+   "Alimentación mundial · Suficiente comida, mala distribución",
+   "Salud y cuidados · Donde el sistema se debilita",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "14": [
+   "Salud mental · Una pregunta sobre las condiciones",
+   "Medicina y ética · Lo permitido y lo correcto",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "15": [
+   "Presupuestos y mecanismos · La aritmética",
+   "Justicia y responsabilidad · Quién le debe a quién",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "16": [
+   "Transición energética · Mantener las luces encendidas",
+   "Recursos y economía circular · Qué pasa después del uso",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "17": [
+   "Biodiversidad · Lo que mantiene unido a un sistema",
+   "Catástrofes y gestión de crisis · Cuando algo falla",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "18": [
+   "IA y transformación · Quién gana, quién decide",
+   "Decisiones algorítmicas · Cuando el software juzga",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "19": [
+   "Big data y privacidad · Lo que se recopila",
+   "Ciberseguridad · Lo que se puede robar",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "20": [
+   "Redes sociales y polarización · Cómo se caldea el ambiente",
+   "Desinformación y manipulación · Quién marca el relato",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "21": [
+   "Libertad de prensa · Qué protege al periodismo",
+   "Arte y protesta · Lo que se permite que ofenda",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "22": [
+   "Lengua y poder · Lo que hacen las palabras",
+   "Migración y pertenencia · Llegar y pertenecer",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "23": [
+   "Democracia bajo presión · Lo que se vacía de contenido",
+   "Cooperación internacional · Lenta y sin alternativa",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "24": [
+   "Conflicto y diplomacia · Hablar antes y después",
+   "Derechos humanos y aplicación de la ley · La ley y sus límites",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "25": [
+   "Exploración espacial · Llegar y volver",
+   "Futuro y responsabilidad · Pensar en siglos",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ],
+  "26": [
+   "Conocimiento y método · Cómo funciona el saber",
+   "Sistema científico y opinión pública · Entre el laboratorio y el titular",
+   "Verbos, adjetivos y expresiones · Para hablar del tema"
+  ]
+ },
+ "grammar": {
+  "1": {
+   "t": "El marco oracional y el campo medio",
+   "s": "TeKaMoLo, grupos verbales, extraposición",
+   "tag": "cómo se sostiene una oración larga en alemán"
+  },
+  "2": {
+   "t": "Estilo nominal y estilo verbal",
+   "s": "aufgrund en vez de weil, Prüfung en vez de prüfen",
+   "tag": "cómo construir la oración en torno a un sustantivo en vez de un verbo"
+  },
+  "3": {
+   "t": "Construcciones de verbo funcional (Funktionsverbgefüge)",
+   "s": "el sistema detrás de Entscheidung treffen (tomar una decisión)",
+   "tag": "por qué el alemán divide un verbo en sustantivo más verbo de apoyo"
+  },
+  "4": {
+   "t": "Formas alternativas a la voz pasiva",
+   "s": "lässt sich lösen, ist zu lösen, ist lösbar",
+   "tag": "cinco maneras de expresar una pasiva sin werden"
+  },
+  "5": {
+   "t": "Modalidad y conjetura",
+   "s": "dürfte, müsste, scheint zu, droht zu",
+   "tag": "qué tan seguro estoy, y quién lo afirma"
+  },
+  "6": {
+   "t": "El Konjunktiv I en los reportajes",
+   "s": "sei, habe, werde — y cuándo entra el Konjunktiv II",
+   "tag": "informar sin responder por la veracidad del contenido"
+  },
+  "7": {
+   "t": "Oraciones relativas y atributivas",
+   "s": "dessen, deren, was, wer, preposición + pronombre",
+   "tag": "las cuatro formas que no son simples artículos"
+  },
+  "8": {
+   "t": "Atributos participiales",
+   "s": "die von der Kommission untersuchten Fälle (los casos investigados por la comisión)",
+   "tag": "una oración relativa plegada delante del sustantivo"
+  },
+  "9": {
+   "t": "Cohesión y conectores",
+   "s": "folglich, dennoch, hingegen, diesbezüglich",
+   "tag": "tres clases de conectores y dónde va el verbo"
+  },
+  "10": {
+   "t": "Foco y énfasis",
+   "s": "Was … betrifft, Es ist … der, Entscheidend ist",
+   "tag": "cómo el alemán da énfasis sin alzar la voz"
+  }
+ }
+}

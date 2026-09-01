@@ -1,0 +1,491 @@
+{
+ "unit": 2,
+ "title_de": "Wertewandel &amp; Rollen",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Werteordnung",
+   "type": "die",
+   "en": "system of values",
+   "exDe": "Jede Werteordnung h&auml;lt sich f&uuml;r selbstverst&auml;ndlich.",
+   "exEn": "Every system of values takes itself to be self-evident."
+  },
+  {
+   "n": 2,
+   "de": "Wertehierarchie",
+   "type": "die",
+   "en": "hierarchy of values",
+   "exDe": "Konflikte entstehen, wo sich Wertehierarchien &uuml;berschneiden.",
+   "exEn": "Conflicts arise where hierarchies of values overlap."
+  },
+  {
+   "n": 3,
+   "de": "Wertepluralismus",
+   "type": "der",
+   "en": "value pluralism",
+   "exDe": "Wertepluralismus ist anstrengender als eine Leitkultur.",
+   "exEn": "Value pluralism is more demanding than one leading culture."
+  },
+  {
+   "n": 4,
+   "de": "Normverschiebung",
+   "type": "die",
+   "en": "shift in norms",
+   "exDe": "Die Normverschiebung bemerkt man erst im R&uuml;ckblick.",
+   "exEn": "A shift in norms is only noticed in retrospect."
+  },
+  {
+   "n": 5,
+   "de": "Traditionsbruch",
+   "type": "der",
+   "en": "break with tradition",
+   "exDe": "Der Traditionsbruch vollzog sich innerhalb einer Generation.",
+   "exEn": "The break with tradition took place within one generation."
+  },
+  {
+   "n": 6,
+   "de": "S&auml;kularisierung",
+   "type": "die",
+   "en": "secularisation",
+   "exDe": "S&auml;kularisierung hei&szlig;t nicht das Ende der Sinnfrage.",
+   "exEn": "Secularisation does not mean the end of the question of meaning."
+  },
+  {
+   "n": 7,
+   "de": "Individualisierung",
+   "type": "die",
+   "en": "individualisation",
+   "exDe": "Individualisierung befreit und &uuml;berfordert zugleich.",
+   "exEn": "Individualisation liberates and overburdens at the same time."
+  },
+  {
+   "n": 8,
+   "de": "Sinnstiftung",
+   "type": "die",
+   "en": "creation of meaning",
+   "exDe": "Sinnstiftung leisten heute Marken, nicht mehr Institutionen.",
+   "exEn": "Meaning is created today by brands, no longer by institutions."
+  },
+  {
+   "n": 9,
+   "de": "Sinnangebot",
+   "type": "das",
+   "en": "offer of meaning",
+   "exDe": "Der Markt h&auml;lt f&uuml;r jedes Bed&uuml;rfnis ein Sinnangebot bereit.",
+   "exEn": "The market has an offer of meaning for every need."
+  },
+  {
+   "n": 10,
+   "de": "Leitkultur",
+   "type": "die",
+   "en": "leading culture",
+   "exDe": "&Uuml;ber den Begriff Leitkultur wird seit Jahren gestritten.",
+   "exEn": "The term leading culture has been disputed for years."
+  },
+  {
+   "n": 11,
+   "de": "Konvention",
+   "type": "die",
+   "en": "convention",
+   "exDe": "Konventionen wirken am st&auml;rksten, solange niemand sie benennt.",
+   "exEn": "Conventions work most strongly as long as nobody names them."
+  },
+  {
+   "n": 12,
+   "de": "Tabubruch",
+   "type": "der",
+   "en": "breaking of a taboo",
+   "exDe": "Der Tabubruch von gestern ist die Normalit&auml;t von morgen.",
+   "exEn": "Yesterday's broken taboo is tomorrow's normality."
+  },
+  {
+   "n": 13,
+   "de": "Moralvorstellung",
+   "type": "die",
+   "en": "moral conception",
+   "exDe": "Moralvorstellungen &auml;ndern sich schneller als Gesetze.",
+   "exEn": "Moral conceptions change faster than laws."
+  },
+  {
+   "n": 14,
+   "de": "Zeitgeist",
+   "type": "der",
+   "en": "spirit of the age",
+   "exDe": "Der Zeitgeist l&auml;sst sich schwer beschreiben und leicht sp&uuml;ren.",
+   "exEn": "The spirit of the age is hard to describe and easy to sense."
+  },
+  {
+   "n": 15,
+   "de": "Postmaterialismus",
+   "type": "der",
+   "en": "postmaterialism",
+   "exDe": "Postmaterialismus setzt materielle Sicherheit voraus.",
+   "exEn": "Postmaterialism presupposes material security."
+  },
+  {
+   "n": 16,
+   "de": "Konformit&auml;tsdruck",
+   "type": "der",
+   "en": "pressure to conform",
+   "exDe": "Konformit&auml;tsdruck wirkt in jeder Gruppe.",
+   "exEn": "Pressure to conform operates in every group."
+  },
+  {
+   "n": 17,
+   "de": "Rollenerwartung",
+   "type": "die",
+   "en": "role expectation",
+   "exDe": "Rollenerwartungen sind selten ausgesprochen.",
+   "exEn": "Role expectations are rarely spoken aloud."
+  },
+  {
+   "n": 18,
+   "de": "Rollenkonflikt",
+   "type": "der",
+   "en": "role conflict",
+   "exDe": "Der Rollenkonflikt trifft Pflegende besonders h&auml;ufig.",
+   "exEn": "Role conflict particularly often affects carers."
+  },
+  {
+   "n": 19,
+   "de": "Geschlechterrolle",
+   "type": "die",
+   "en": "gender role",
+   "exDe": "Geschlechterrollen sind z&auml;her als jede Statistik vermuten l&auml;sst.",
+   "exEn": "Gender roles are more persistent than any statistic suggests."
+  },
+  {
+   "n": 20,
+   "de": "Sozialisation",
+   "type": "die",
+   "en": "socialisation",
+   "exDe": "Sozialisation wirkt lange vor der ersten Entscheidung.",
+   "exEn": "Socialisation is at work long before the first decision."
+  },
+  {
+   "n": 21,
+   "de": "Milieu",
+   "type": "das",
+   "en": "social milieu",
+   "exDe": "Das Milieu pr&auml;gt Geschmack, Sprache und Berufswahl.",
+   "exEn": "Milieu shapes taste, language and career choice."
+  },
+  {
+   "n": 22,
+   "de": "Habitus",
+   "type": "der",
+   "en": "habitus, ingrained manner",
+   "exDe": "Der Habitus verr&auml;t die Herkunft zuverl&auml;ssiger als das Einkommen.",
+   "exEn": "Habitus reveals origin more reliably than income."
+  },
+  {
+   "n": 23,
+   "de": "Distinktion",
+   "type": "die",
+   "en": "distinction, setting oneself apart",
+   "exDe": "Distinktion funktioniert nur, solange andere nicht mitkommen.",
+   "exEn": "Distinction works only as long as others cannot follow."
+  },
+  {
+   "n": 24,
+   "de": "Anpassungsleistung",
+   "type": "die",
+   "en": "effort of adaptation",
+   "exDe": "Die Anpassungsleistung erbringen immer dieselben.",
+   "exEn": "The effort of adaptation is always made by the same people."
+  },
+  {
+   "n": 25,
+   "de": "tradieren",
+   "type": "untr. &middot; hat tradiert",
+   "en": "to hand down",
+   "exDe": "Rollenbilder werden unbewusst tradiert.",
+   "exEn": "Role models are handed down unconsciously."
+  },
+  {
+   "n": 26,
+   "de": "verankern",
+   "type": "untr. &middot; hat verankert",
+   "en": "to anchor",
+   "exDe": "Manche Erwartung ist tief verankert.",
+   "exEn": "Some expectations are deeply anchored."
+  },
+  {
+   "n": 27,
+   "de": "zementieren",
+   "type": "untr. &middot; hat zementiert",
+   "en": "to cement, to entrench",
+   "exDe": "Steuerregeln zementieren alte Rollenverteilungen.",
+   "exEn": "Tax rules entrench old distributions of roles."
+  },
+  {
+   "n": 28,
+   "de": "reproduzieren",
+   "type": "untr. &middot; hat reproduziert",
+   "en": "to reproduce",
+   "exDe": "Schulen reproduzieren soziale Unterschiede.",
+   "exEn": "Schools reproduce social differences."
+  },
+  {
+   "n": 29,
+   "de": "perpetuieren",
+   "type": "untr. &middot; hat perpetuiert",
+   "en": "to perpetuate",
+   "exDe": "Gut gemeinte Programme perpetuieren manchmal das Problem.",
+   "exEn": "Well-meant programmes sometimes perpetuate the problem."
+  },
+  {
+   "n": 30,
+   "de": "normieren",
+   "type": "untr. &middot; hat normiert",
+   "en": "to standardise, to set norms for",
+   "exDe": "Was normiert wird, gilt bald als nat&uuml;rlich.",
+   "exEn": "What is set as a norm soon counts as natural."
+  },
+  {
+   "n": 31,
+   "de": "s&auml;kularisieren",
+   "type": "refl. &middot; s&auml;kularisiert sich",
+   "en": "to become secular",
+   "exDe": "Die Gesellschaft hat sich rasch s&auml;kularisiert.",
+   "exEn": "Society became secular rapidly."
+  },
+  {
+   "n": 32,
+   "de": "individualisieren",
+   "type": "refl. &middot; individualisiert sich",
+   "en": "to become individualised",
+   "exDe": "Lebensl&auml;ufe individualisieren sich seit den Siebzigern.",
+   "exEn": "Biographies have been individualising since the seventies."
+  },
+  {
+   "n": 33,
+   "de": "ein&uuml;ben",
+   "type": "tr. &middot; &uuml;bt ein",
+   "en": "to practise, to drill in",
+   "exDe": "H&ouml;flichkeitsformen werden fr&uuml;h einge&uuml;bt.",
+   "exEn": "Forms of politeness are drilled in early."
+  },
+  {
+   "n": 34,
+   "de": "auferlegen",
+   "type": "tr. &middot; erlegt auf",
+   "en": "to impose on",
+   "exDe": "Erwartungen erlegt man vor allem den Jungen auf.",
+   "exEn": "Expectations are imposed above all on the young."
+  },
+  {
+   "n": 35,
+   "de": "unterwerfen",
+   "type": "refl. &middot; unterwirft sich",
+   "en": "to submit to",
+   "exDe": "Niemand unterwirft sich gern einer fremden Norm.",
+   "exEn": "Nobody likes submitting to somebody else's norm."
+  },
+  {
+   "n": 36,
+   "de": "&auml;chten",
+   "type": "untr. &middot; hat ge&auml;chtet",
+   "en": "to ostracise, to outlaw",
+   "exDe": "Fr&uuml;her ge&auml;chtete Lebensformen sind heute Alltag.",
+   "exEn": "Ways of life once ostracised are now everyday."
+  },
+  {
+   "n": 37,
+   "de": "tolerieren",
+   "type": "untr. &middot; hat toleriert",
+   "en": "to tolerate",
+   "exDe": "Tolerieren ist weniger als anerkennen.",
+   "exEn": "Tolerating is less than recognising."
+  },
+  {
+   "n": 38,
+   "de": "aufweichen",
+   "type": "untr. &middot; hat aufgeweicht",
+   "en": "to soften, to erode",
+   "exDe": "Die Grenze zwischen Beruf und Privatem weicht auf.",
+   "exEn": "The line between work and private life is eroding."
+  },
+  {
+   "n": 39,
+   "de": "kaschieren",
+   "type": "untr. &middot; hat kaschiert",
+   "en": "to cover up, to disguise",
+   "exDe": "Die Statistik kaschiert die eigentliche Entwicklung.",
+   "exEn": "The statistics disguise the actual trend."
+  },
+  {
+   "n": 40,
+   "de": "stilisieren",
+   "type": "untr. &middot; hat stilisiert",
+   "en": "to stylise, to build up as",
+   "exDe": "Man stilisiert ihn zum Vorbild einer ganzen Generation.",
+   "exEn": "He is built up as a model for a whole generation."
+  },
+  {
+   "n": 41,
+   "de": "konterkarieren",
+   "type": "untr. &middot; hat konterkariert",
+   "en": "to counteract, to thwart",
+   "exDe": "Die Ma&szlig;nahme konterkariert das eigene Ziel.",
+   "exEn": "The measure thwarts its own aim."
+  },
+  {
+   "n": 42,
+   "de": "abstreifen",
+   "type": "tr. &middot; streift ab",
+   "en": "to shed, to cast off",
+   "exDe": "Eine zugewiesene Rolle streift man nicht einfach ab.",
+   "exEn": "An assigned role is not simply cast off."
+  },
+  {
+   "n": 43,
+   "de": "&uuml;berkommen",
+   "type": "adj.",
+   "en": "inherited, outdated",
+   "exDe": "&Uuml;berkommene Vorstellungen halten sich hartn&auml;ckig.",
+   "exEn": "Outdated notions persist stubbornly."
+  },
+  {
+   "n": 44,
+   "de": "tradiert",
+   "type": "adj.",
+   "en": "handed down",
+   "exDe": "Tradierte Muster wirken auch ohne Zustimmung.",
+   "exEn": "Handed-down patterns work even without consent."
+  },
+  {
+   "n": 45,
+   "de": "s&auml;kular",
+   "type": "adj.",
+   "en": "secular",
+   "exDe": "Eine s&auml;kulare Gesellschaft braucht andere Rituale.",
+   "exEn": "A secular society needs different rituals."
+  },
+  {
+   "n": 46,
+   "de": "normiert",
+   "type": "adj.",
+   "en": "standardised, normed",
+   "exDe": "Normierte Lebensl&auml;ufe gibt es kaum noch.",
+   "exEn": "Standardised biographies hardly exist any more."
+  },
+  {
+   "n": 47,
+   "de": "normabweichend",
+   "type": "adj.",
+   "en": "deviating from the norm",
+   "exDe": "Normabweichendes Verhalten wird still sanktioniert.",
+   "exEn": "Behaviour deviating from the norm is quietly sanctioned."
+  },
+  {
+   "n": 48,
+   "de": "unangepasst",
+   "type": "adj.",
+   "en": "nonconformist",
+   "exDe": "Unangepasste Menschen zahlen einen Preis daf&uuml;r.",
+   "exEn": "Nonconformist people pay a price for it."
+  },
+  {
+   "n": 49,
+   "de": "konformistisch",
+   "type": "adj.",
+   "en": "conformist",
+   "exDe": "Konformistisches Verhalten wird selten hinterfragt.",
+   "exEn": "Conformist behaviour is rarely questioned."
+  },
+  {
+   "n": 50,
+   "de": "milieuspezifisch",
+   "type": "adj.",
+   "en": "specific to a social milieu",
+   "exDe": "Sprachgebrauch ist stark milieuspezifisch.",
+   "exEn": "Language use is strongly milieu-specific."
+  },
+  {
+   "n": 51,
+   "de": "statusbewusst",
+   "type": "adj.",
+   "en": "status-conscious",
+   "exDe": "Statusbewusste Milieus meiden auff&auml;llige Zeichen.",
+   "exEn": "Status-conscious milieus avoid conspicuous signs."
+  },
+  {
+   "n": 52,
+   "de": "tonangebend",
+   "type": "adj.",
+   "en": "setting the tone, dominant",
+   "exDe": "Tonangebend sind wenige, angepasst sind viele.",
+   "exEn": "Few set the tone, many conform."
+  },
+  {
+   "n": 53,
+   "de": "Werte vermitteln",
+   "type": "N+V &middot; vermittelt Werte",
+   "en": "to convey values",
+   "exDe": "Werte vermittelt man durch Verhalten, nicht durch Reden.",
+   "exEn": "Values are conveyed by behaviour, not by speeches."
+  },
+  {
+   "n": 54,
+   "de": "mit der Tradition brechen",
+   "type": "N+V &middot; bricht mit der Tradition",
+   "en": "to break with tradition",
+   "exDe": "Mit der Tradition zu brechen kostet mehr, als es scheint.",
+   "exEn": "Breaking with tradition costs more than it seems."
+  },
+  {
+   "n": 55,
+   "de": "Normen infrage stellen",
+   "type": "N+V &middot; stellt Normen infrage",
+   "en": "to question norms",
+   "exDe": "Normen infrage zu stellen ist unbequem, aber n&ouml;tig.",
+   "exEn": "Questioning norms is uncomfortable but necessary."
+  },
+  {
+   "n": 56,
+   "de": "eine Rolle erf&uuml;llen",
+   "type": "N+V &middot; erf&uuml;llt eine Rolle",
+   "en": "to fulfil a role",
+   "exDe": "Eine Rolle erf&uuml;llt man selten ohne Kosten.",
+   "exEn": "A role is rarely fulfilled without cost."
+  },
+  {
+   "n": 57,
+   "de": "aus der Rolle fallen",
+   "type": "N+V &middot; f&auml;llt aus der Rolle",
+   "en": "to step out of line",
+   "exDe": "Wer aus der Rolle f&auml;llt, wird schnell erinnert.",
+   "exEn": "Whoever steps out of line is quickly reminded."
+  },
+  {
+   "n": 58,
+   "de": "Erwartungen entt&auml;uschen",
+   "type": "N+V &middot; entt&auml;uscht Erwartungen",
+   "en": "to disappoint expectations",
+   "exDe": "Erwartungen zu entt&auml;uschen ist manchmal die reifere Wahl.",
+   "exEn": "Disappointing expectations is sometimes the more mature choice."
+  },
+  {
+   "n": 59,
+   "de": "sich anpassen an",
+   "type": "N+V &middot; passt sich an",
+   "en": "to adapt to",
+   "exDe": "Sich anzupassen ist keine Schw&auml;che, sondern eine Strategie.",
+   "exEn": "Adapting is not weakness but a strategy."
+  },
+  {
+   "n": 60,
+   "de": "unter Druck geraten",
+   "type": "N+V &middot; ger&auml;t unter Druck",
+   "en": "to come under pressure",
+   "exDe": "Unter Druck ger&auml;t, wer sichtbar abweicht.",
+   "exEn": "Those who visibly deviate come under pressure."
+  }
+ ],
+ "groups": [
+  "Wertewandel &middot; What a Society Takes for Granted",
+  "Soziale Rollen &middot; What Is Expected of You",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

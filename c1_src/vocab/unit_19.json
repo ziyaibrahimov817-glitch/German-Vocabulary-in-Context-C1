@@ -1,0 +1,491 @@
+{
+ "unit": 19,
+ "title_de": "Daten &amp; Cybersicherheit",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Zweckbindung",
+   "type": "die",
+   "en": "purpose limitation",
+   "exDe": "Die Zweckbindung ist der wichtigste und meistignorierte Grundsatz.",
+   "exEn": "Purpose limitation is the most important and most ignored principle."
+  },
+  {
+   "n": 2,
+   "de": "Datenminimierung",
+   "type": "die",
+   "en": "data minimisation",
+   "exDe": "Datenminimierung hei&szlig;t: erst gar nicht erheben.",
+   "exEn": "Data minimisation means: do not collect in the first place."
+  },
+  {
+   "n": 3,
+   "de": "Einwilligungserkl&auml;rung",
+   "type": "die",
+   "en": "declaration of consent",
+   "exDe": "Eine Einwilligungserkl&auml;rung liest niemand und alle unterschreiben sie.",
+   "exEn": "Nobody reads a consent form and everybody signs it."
+  },
+  {
+   "n": 4,
+   "de": "Auskunftsanspruch",
+   "type": "der",
+   "en": "right of access to data",
+   "exDe": "Der Auskunftsanspruch ist wirksam und wird kaum genutzt.",
+   "exEn": "The right of access is effective and hardly used."
+  },
+  {
+   "n": 5,
+   "de": "L&ouml;schfrist",
+   "type": "die",
+   "en": "deletion deadline",
+   "exDe": "Die L&ouml;schfrist beginnt, wenn der Zweck entf&auml;llt.",
+   "exEn": "The deletion period starts when the purpose ceases."
+  },
+  {
+   "n": 6,
+   "de": "Metadaten",
+   "type": "die (pl)",
+   "en": "metadata",
+   "exDe": "Metadaten verraten mehr als der Inhalt.",
+   "exEn": "Metadata reveal more than the content."
+  },
+  {
+   "n": 7,
+   "de": "Datenspur",
+   "type": "die",
+   "en": "data trail",
+   "exDe": "Jede Datenspur bleibt l&auml;nger, als man denkt.",
+   "exEn": "Every data trail lasts longer than one thinks."
+  },
+  {
+   "n": 8,
+   "de": "Verhaltensprofil",
+   "type": "das",
+   "en": "behavioural profile",
+   "exDe": "Ein Verhaltensprofil entsteht ohne einen einzigen Namen.",
+   "exEn": "A behavioural profile arises without a single name."
+  },
+  {
+   "n": 9,
+   "de": "Verkn&uuml;pfung",
+   "type": "die",
+   "en": "linking of data sets",
+   "exDe": "Erst die Verkn&uuml;pfung macht harmlose Daten gef&auml;hrlich.",
+   "exEn": "Only linking makes harmless data dangerous."
+  },
+  {
+   "n": 10,
+   "de": "Re-Identifizierung",
+   "type": "die",
+   "en": "re-identification",
+   "exDe": "Re-Identifizierung gelingt mit erstaunlich wenigen Merkmalen.",
+   "exEn": "Re-identification succeeds with astonishingly few features."
+  },
+  {
+   "n": 11,
+   "de": "Auftragsverarbeitung",
+   "type": "die",
+   "en": "processing on behalf of another",
+   "exDe": "Bei der Auftragsverarbeitung haftet, wer beauftragt.",
+   "exEn": "In processing on behalf, the client is liable."
+  },
+  {
+   "n": 12,
+   "de": "Datenschutzfolgenabsch&auml;tzung",
+   "type": "die",
+   "en": "data protection impact assessment",
+   "exDe": "Die Datenschutzfolgenabsch&auml;tzung kommt meist nach der Einf&uuml;hrung.",
+   "exEn": "The impact assessment usually comes after the launch."
+  },
+  {
+   "n": 13,
+   "de": "Ende-zu-Ende-Verschl&uuml;sselung",
+   "type": "die",
+   "en": "end-to-end encryption",
+   "exDe": "Ende-zu-Ende-Verschl&uuml;sselung sch&uuml;tzt den Inhalt, nicht die Metadaten.",
+   "exEn": "End-to-end encryption protects the content, not the metadata."
+  },
+  {
+   "n": 14,
+   "de": "Hintert&uuml;r",
+   "type": "die",
+   "en": "backdoor",
+   "exDe": "Eine Hintert&uuml;r f&uuml;r die Guten ist eine f&uuml;r alle.",
+   "exEn": "A backdoor for the good guys is one for everybody."
+  },
+  {
+   "n": 15,
+   "de": "Angriffsvektor",
+   "type": "der",
+   "en": "attack vector",
+   "exDe": "Der h&auml;ufigste Angriffsvektor ist noch immer die E-Mail.",
+   "exEn": "The commonest attack vector is still email."
+  },
+  {
+   "n": 16,
+   "de": "Erpressungssoftware",
+   "type": "die",
+   "en": "ransomware",
+   "exDe": "Erpressungssoftware trifft Kommunen h&auml;rter als Konzerne.",
+   "exEn": "Ransomware hits municipalities harder than corporations."
+  },
+  {
+   "n": 17,
+   "de": "Abwehrf&auml;higkeit",
+   "type": "die",
+   "en": "defensive capability",
+   "exDe": "Die Abwehrf&auml;higkeit misst sich an der Wiederherstellung.",
+   "exEn": "Defensive capability is measured by recovery."
+  },
+  {
+   "n": 18,
+   "de": "Sicherheitsarchitektur",
+   "type": "die",
+   "en": "security architecture",
+   "exDe": "Eine Sicherheitsarchitektur w&auml;chst nicht nebenbei.",
+   "exEn": "A security architecture does not grow on the side."
+  },
+  {
+   "n": 19,
+   "de": "Sabotage",
+   "type": "die",
+   "en": "sabotage",
+   "exDe": "Sabotage l&auml;sst sich als Panne tarnen.",
+   "exEn": "Sabotage can be disguised as a malfunction."
+  },
+  {
+   "n": 20,
+   "de": "Spionage",
+   "type": "die",
+   "en": "espionage",
+   "exDe": "Spionage f&auml;llt erst Jahre sp&auml;ter auf.",
+   "exEn": "Espionage is noticed only years later."
+  },
+  {
+   "n": 21,
+   "de": "Hybride Bedrohung",
+   "type": "die",
+   "en": "hybrid threat",
+   "exDe": "Eine hybride Bedrohung liegt unter der Schwelle des Krieges.",
+   "exEn": "A hybrid threat lies below the threshold of war."
+  },
+  {
+   "n": 22,
+   "de": "Desinformationskampagne",
+   "type": "die",
+   "en": "disinformation campaign",
+   "exDe": "Eine Desinformationskampagne braucht keine L&uuml;gen, nur Zweifel.",
+   "exEn": "A disinformation campaign needs no lies, only doubt."
+  },
+  {
+   "n": 23,
+   "de": "Zurechenbarkeit",
+   "type": "die",
+   "en": "attributability",
+   "exDe": "Die Zurechenbarkeit eines Angriffs ist technisch und politisch schwierig.",
+   "exEn": "Attributing an attack is technically and politically difficult."
+  },
+  {
+   "n": 24,
+   "de": "Wiederanlauf",
+   "type": "der",
+   "en": "restart, recovery of operations",
+   "exDe": "Der Wiederanlauf dauerte drei Wochen.",
+   "exEn": "The restart of operations took three weeks."
+  },
+  {
+   "n": 25,
+   "de": "aggregieren",
+   "type": "untr. &middot; hat aggregiert",
+   "en": "to aggregate",
+   "exDe": "Aggregiert wirken Daten harmlos.",
+   "exEn": "Aggregated, data look harmless."
+  },
+  {
+   "n": 26,
+   "de": "hinzukaufen",
+   "type": "tr. &middot; kauft hinzu",
+   "en": "to buy in addition",
+   "exDe": "Hinzugekauft werden Merkmale, die man selbst nicht hat.",
+   "exEn": "Attributes one does not hold oneself are bought in."
+  },
+  {
+   "n": 27,
+   "de": "pseudonymisieren",
+   "type": "untr. &middot; hat pseudonymisiert",
+   "en": "to pseudonymise",
+   "exDe": "Pseudonymisiert ist nicht anonym.",
+   "exEn": "Pseudonymised is not anonymous."
+  },
+  {
+   "n": 28,
+   "de": "tracken",
+   "type": "untr. &middot; hat getrackt",
+   "en": "to track",
+   "exDe": "Getrackt wird auch, wer nichts anklickt.",
+   "exEn": "Even those who click nothing are tracked."
+  },
+  {
+   "n": 29,
+   "de": "nachverfolgen",
+   "type": "tr. &middot; verfolgt nach",
+   "en": "to trace",
+   "exDe": "Nachverfolgt wird &uuml;ber Ger&auml;te, nicht &uuml;ber Namen.",
+   "exEn": "Tracing happens via devices, not names."
+  },
+  {
+   "n": 30,
+   "de": "abgreifen",
+   "type": "tr. &middot; greift ab",
+   "en": "to siphon off",
+   "exDe": "Abgegriffen wird, was unverschl&uuml;sselt liegt.",
+   "exEn": "What lies unencrypted gets siphoned off."
+  },
+  {
+   "n": 31,
+   "de": "abflie&szlig;en",
+   "type": "untr. &middot; ist abgeflossen",
+   "en": "to leak out",
+   "exDe": "Abgeflossen sind Daten von vier Millionen Nutzern.",
+   "exEn": "Data of four million users leaked out."
+  },
+  {
+   "n": 32,
+   "de": "entwenden",
+   "type": "untr. &middot; hat entwendet",
+   "en": "to steal",
+   "exDe": "Entwendet wurden Zugangsdaten, nicht Geld.",
+   "exEn": "Access credentials were stolen, not money."
+  },
+  {
+   "n": 33,
+   "de": "aushebeln",
+   "type": "tr. &middot; hebelt aus",
+   "en": "to circumvent, to defeat",
+   "exDe": "Ausgehebelt wird der Schutz meist &uuml;ber den Menschen.",
+   "exEn": "Protection is usually defeated via the human being."
+  },
+  {
+   "n": 34,
+   "de": "kompromittieren",
+   "type": "untr. &middot; hat kompromittiert",
+   "en": "to compromise",
+   "exDe": "Ein kompromittiertes Konto merkt niemand sofort.",
+   "exEn": "Nobody notices a compromised account immediately."
+  },
+  {
+   "n": 35,
+   "de": "h&auml;rten",
+   "type": "untr. &middot; hat geh&auml;rtet",
+   "en": "to harden (a system)",
+   "exDe": "Geh&auml;rtet wird nach dem Vorfall, nicht davor.",
+   "exEn": "Hardening happens after the incident, not before."
+  },
+  {
+   "n": 36,
+   "de": "abschirmen",
+   "type": "tr. &middot; schirmt ab",
+   "en": "to shield",
+   "exDe": "Abgeschirmt wird das Netz, offen bleibt der Zugang.",
+   "exEn": "The network is shielded, access stays open."
+  },
+  {
+   "n": 37,
+   "de": "isolieren",
+   "type": "untr. &middot; hat isoliert",
+   "en": "to isolate",
+   "exDe": "Isoliert wurde das System nach vier Stunden.",
+   "exEn": "The system was isolated after four hours."
+  },
+  {
+   "n": 38,
+   "de": "attribuieren",
+   "type": "untr. &middot; hat attribuiert",
+   "en": "to attribute (an attack)",
+   "exDe": "Attribuiert wird selten &ouml;ffentlich.",
+   "exEn": "Attribution rarely happens publicly."
+  },
+  {
+   "n": 39,
+   "de": "tarnen",
+   "type": "refl. &middot; tarnt sich",
+   "en": "to disguise oneself",
+   "exDe": "Der Angriff tarnte sich als Wartungszugriff.",
+   "exEn": "The attack disguised itself as maintenance access."
+  },
+  {
+   "n": 40,
+   "de": "infiltrieren",
+   "type": "untr. &middot; hat infiltriert",
+   "en": "to infiltrate",
+   "exDe": "Infiltriert wird &uuml;ber Zulieferer, nicht &uuml;ber die Firewall.",
+   "exEn": "Infiltration happens via suppliers, not the firewall."
+  },
+  {
+   "n": 41,
+   "de": "lancieren",
+   "type": "untr. &middot; hat lanciert",
+   "en": "to plant (a story)",
+   "exDe": "Lanciert wird eine Meldung, verbreitet wird sie freiwillig.",
+   "exEn": "A report is planted and then spread voluntarily."
+  },
+  {
+   "n": 42,
+   "de": "anheizen",
+   "type": "tr. &middot; heizt an",
+   "en": "to stir up",
+   "exDe": "Angeheizt wird ein Konflikt, der ohnehin besteht.",
+   "exEn": "A conflict that already exists gets stirred up."
+  },
+  {
+   "n": 43,
+   "de": "datensparsam",
+   "type": "adj.",
+   "en": "data-minimising",
+   "exDe": "Datensparsame Systeme sind aufw&auml;ndiger und sicherer.",
+   "exEn": "Data-minimising systems are more laborious and safer."
+  },
+  {
+   "n": 44,
+   "de": "zuordenbar",
+   "type": "adj.",
+   "en": "attributable to an individual",
+   "exDe": "Zuordenbar ist mehr, als die meisten annehmen.",
+   "exEn": "More is attributable to an individual than most people assume."
+  },
+  {
+   "n": 45,
+   "de": "nachverfolgbar",
+   "type": "adj.",
+   "en": "traceable",
+   "exDe": "Nachverfolgbar ist fast jede Bewegung im Netz.",
+   "exEn": "Almost every movement online is traceable."
+  },
+  {
+   "n": 46,
+   "de": "auswertbar",
+   "type": "adj.",
+   "en": "analysable",
+   "exDe": "Auswertbar wird alles, was gespeichert bleibt.",
+   "exEn": "Everything that stays stored becomes analysable."
+  },
+  {
+   "n": 47,
+   "de": "abwehrbereit",
+   "type": "adj.",
+   "en": "prepared to defend",
+   "exDe": "Abwehrbereit ist, wer den Ernstfall ge&uuml;bt hat.",
+   "exEn": "Whoever has practised the emergency is prepared to defend."
+  },
+  {
+   "n": 48,
+   "de": "ungeh&auml;rtet",
+   "type": "adj.",
+   "en": "not hardened, unprotected",
+   "exDe": "Ungeh&auml;rtete Systeme sind das gr&ouml;&szlig;te Risiko.",
+   "exEn": "Systems that are not hardened are the greatest risk."
+  },
+  {
+   "n": 49,
+   "de": "staatlich gesteuert",
+   "type": "adj.",
+   "en": "state-directed",
+   "exDe": "Staatlich gesteuerte Angriffe zielen auf Infrastruktur.",
+   "exEn": "State-directed attacks target infrastructure."
+  },
+  {
+   "n": 50,
+   "de": "unterschwellig",
+   "type": "adj.",
+   "en": "below the threshold, subliminal",
+   "exDe": "Unterschwellige Angriffe l&ouml;sen keinen B&uuml;ndnisfall aus.",
+   "exEn": "Attacks below the threshold trigger no alliance clause."
+  },
+  {
+   "n": 51,
+   "de": "gezielt",
+   "type": "adj.",
+   "en": "targeted",
+   "exDe": "Gezielte Angriffe dauern Monate der Vorbereitung.",
+   "exEn": "Targeted attacks take months of preparation."
+  },
+  {
+   "n": 52,
+   "de": "wiederherstellbar",
+   "type": "adj.",
+   "en": "recoverable",
+   "exDe": "Wiederherstellbar ist nur, was getrennt gesichert wurde.",
+   "exEn": "Only what was backed up separately is recoverable."
+  },
+  {
+   "n": 53,
+   "de": "Daten sparsam erheben",
+   "type": "N+V &middot; erhebt Daten sparsam",
+   "en": "to collect data sparingly",
+   "exDe": "Daten sparsam erheben verhindert das meiste Sp&auml;tere.",
+   "exEn": "Collecting data sparingly prevents most of what comes later."
+  },
+  {
+   "n": 54,
+   "de": "Einwilligung einholen",
+   "type": "N+V &middot; holt eine Einwilligung ein",
+   "en": "to obtain consent",
+   "exDe": "Eine Einwilligung einholen ersetzt keine Notwendigkeit.",
+   "exEn": "Obtaining consent does not replace necessity."
+  },
+  {
+   "n": 55,
+   "de": "Daten l&ouml;schen",
+   "type": "N+V &middot; l&ouml;scht Daten",
+   "en": "to delete data",
+   "exDe": "Daten l&ouml;schen ist technisch schwerer als sie zu speichern.",
+   "exEn": "Deleting data is technically harder than storing it."
+  },
+  {
+   "n": 56,
+   "de": "die Privatsph&auml;re wahren",
+   "type": "N+V &middot; wahrt die Privatsph&auml;re",
+   "en": "to preserve privacy",
+   "exDe": "Die Privatsph&auml;re wahren ist eine Voreinstellung, keine Option.",
+   "exEn": "Preserving privacy is a default setting, not an option."
+  },
+  {
+   "n": 57,
+   "de": "Systeme absichern",
+   "type": "N+V &middot; sichert Systeme ab",
+   "en": "to secure systems",
+   "exDe": "Systeme absichern kostet weniger als ein Ausfall.",
+   "exEn": "Securing systems costs less than an outage."
+  },
+  {
+   "n": 58,
+   "de": "den Schaden begrenzen",
+   "type": "N+V &middot; begrenzt den Schaden",
+   "en": "to limit the damage",
+   "exDe": "Den Schaden begrenzen gelingt nur mit ge&uuml;bten Abl&auml;ufen.",
+   "exEn": "Limiting the damage only succeeds with practised procedures."
+  },
+  {
+   "n": 59,
+   "de": "den Notbetrieb aufnehmen",
+   "type": "N+V &middot; nimmt den Notbetrieb auf",
+   "en": "to switch to emergency operation",
+   "exDe": "Den Notbetrieb aufnehmen muss man geplant haben.",
+   "exEn": "Switching to emergency operation has to be planned in advance."
+  },
+  {
+   "n": 60,
+   "de": "Vertrauen untergraben",
+   "type": "N+V &middot; untergr&auml;bt Vertrauen",
+   "en": "to undermine trust",
+   "exDe": "Vertrauen untergraben ist billiger als es aufzubauen.",
+   "exEn": "Undermining trust is cheaper than building it."
+  }
+ ],
+ "groups": [
+  "Big Data &amp; Privatsph&auml;re &middot; What Is Collected",
+  "Cybersicherheit &middot; What Can Be Taken",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

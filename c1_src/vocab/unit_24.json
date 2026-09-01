@@ -1,0 +1,491 @@
+{
+ "unit": 24,
+ "title_de": "Krieg, Frieden &amp; Menschenrechte",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Konfliktpr&auml;vention",
+   "type": "die",
+   "en": "conflict prevention",
+   "exDe": "Konfliktpr&auml;vention ist billig und bekommt keine Schlagzeile.",
+   "exEn": "Conflict prevention is cheap and gets no headline."
+  },
+  {
+   "n": 2,
+   "de": "Verhandlungsmandat",
+   "type": "das",
+   "en": "negotiating mandate",
+   "exDe": "Ohne Verhandlungsmandat spricht niemand verbindlich.",
+   "exEn": "Without a negotiating mandate nobody speaks with authority."
+  },
+  {
+   "n": 3,
+   "de": "Friedensabkommen",
+   "type": "das",
+   "en": "peace agreement",
+   "exDe": "Ein Friedensabkommen h&auml;lt, wenn alle Seiten daran verlieren.",
+   "exEn": "A peace agreement holds when all sides lose something by it."
+  },
+  {
+   "n": 4,
+   "de": "Feuerpause",
+   "type": "die",
+   "en": "ceasefire, pause in fighting",
+   "exDe": "Eine Feuerpause ist kein Frieden, sondern eine Atemluft.",
+   "exEn": "A pause in fighting is not peace but a breathing space."
+  },
+  {
+   "n": 5,
+   "de": "&Uuml;bergangsjustiz",
+   "type": "die",
+   "en": "transitional justice",
+   "exDe": "&Uuml;bergangsjustiz muss Recht sprechen und Frieden erhalten.",
+   "exEn": "Transitional justice must deliver justice and preserve peace."
+  },
+  {
+   "n": 6,
+   "de": "Vers&ouml;hnungsprozess",
+   "type": "der",
+   "en": "reconciliation process",
+   "exDe": "Ein Vers&ouml;hnungsprozess dauert l&auml;nger als der Konflikt.",
+   "exEn": "A reconciliation process takes longer than the conflict."
+  },
+  {
+   "n": 7,
+   "de": "Wahrheitskommission",
+   "type": "die",
+   "en": "truth commission",
+   "exDe": "Eine Wahrheitskommission tauscht Strafe gegen Aussage.",
+   "exEn": "A truth commission exchanges punishment for testimony."
+  },
+  {
+   "n": 8,
+   "de": "Nachkriegsordnung",
+   "type": "die",
+   "en": "post-war order",
+   "exDe": "Jede Nachkriegsordnung tr&auml;gt den n&auml;chsten Konflikt in sich.",
+   "exEn": "Every post-war order carries the next conflict within it."
+  },
+  {
+   "n": 9,
+   "de": "V&ouml;lkermord",
+   "type": "der",
+   "en": "genocide",
+   "exDe": "V&ouml;lkermord ist ein Rechtsbegriff, kein Adjektiv.",
+   "exEn": "Genocide is a legal term, not an adjective."
+  },
+  {
+   "n": 10,
+   "de": "Strafgerichtshof",
+   "type": "der",
+   "en": "criminal court",
+   "exDe": "Der Strafgerichtshof kann anklagen und nicht verhaften.",
+   "exEn": "The criminal court can indict and cannot arrest."
+  },
+  {
+   "n": 11,
+   "de": "Ermittlungsverfahren",
+   "type": "das",
+   "en": "investigation proceedings",
+   "exDe": "Ein Ermittlungsverfahren dauert Jahre und endet oft ohne Prozess.",
+   "exEn": "Investigation proceedings take years and often end without a trial."
+  },
+  {
+   "n": 12,
+   "de": "Immunit&auml;t",
+   "type": "die",
+   "en": "immunity",
+   "exDe": "Immunit&auml;t sch&uuml;tzt das Amt und manchmal den T&auml;ter.",
+   "exEn": "Immunity protects the office and sometimes the perpetrator."
+  },
+  {
+   "n": 13,
+   "de": "Humanit&auml;rer Zugang",
+   "type": "der",
+   "en": "humanitarian access",
+   "exDe": "Humanit&auml;rer Zugang wird verhandelt, nicht gew&auml;hrt.",
+   "exEn": "Humanitarian access is negotiated, not granted."
+  },
+  {
+   "n": 14,
+   "de": "Hilfskorridor",
+   "type": "der",
+   "en": "humanitarian corridor",
+   "exDe": "Ein Hilfskorridor ist so sicher wie die Zusage dahinter.",
+   "exEn": "A humanitarian corridor is as safe as the promise behind it."
+  },
+  {
+   "n": 15,
+   "de": "Schutzzone",
+   "type": "die",
+   "en": "protected zone",
+   "exDe": "Eine Schutzzone ohne Schutz ist eine F&auml;lle.",
+   "exEn": "A protected zone without protection is a trap."
+  },
+  {
+   "n": 16,
+   "de": "Genfer Konvention",
+   "type": "die",
+   "en": "Geneva Convention",
+   "exDe": "Die Genfer Konvention gilt auch f&uuml;r die andere Seite.",
+   "exEn": "The Geneva Convention applies to the other side too."
+  },
+  {
+   "n": 17,
+   "de": "Kriegsrecht",
+   "type": "das",
+   "en": "law of war",
+   "exDe": "Das Kriegsrecht verbietet nicht den Krieg, sondern bestimmte Mittel.",
+   "exEn": "The law of war does not forbid war but certain means."
+  },
+  {
+   "n": 18,
+   "de": "Verh&auml;ltnism&auml;&szlig;igkeitsgrundsatz",
+   "type": "der",
+   "en": "principle of proportionality",
+   "exDe": "Der Verh&auml;ltnism&auml;&szlig;igkeitsgrundsatz ist die schwierigste Pr&uuml;fung.",
+   "exEn": "The principle of proportionality is the hardest test."
+  },
+  {
+   "n": 19,
+   "de": "Berichterstatter",
+   "type": "der",
+   "en": "rapporteur",
+   "exDe": "Der Berichterstatter darf feststellen und nicht entscheiden.",
+   "exEn": "The rapporteur may determine and not decide."
+  },
+  {
+   "n": 20,
+   "de": "Universalit&auml;t",
+   "type": "die",
+   "en": "universality",
+   "exDe": "Die Universalit&auml;t der Menschenrechte wird &ouml;fter bestritten als fr&uuml;her.",
+   "exEn": "The universality of human rights is contested more often than before."
+  },
+  {
+   "n": 21,
+   "de": "Durchsetzungsdefizit",
+   "type": "das",
+   "en": "enforcement gap",
+   "exDe": "Das Durchsetzungsdefizit ist das eigentliche Problem des V&ouml;lkerrechts.",
+   "exEn": "The enforcement gap is the real problem of international law."
+  },
+  {
+   "n": 22,
+   "de": "Doppelstandard",
+   "type": "der",
+   "en": "double standard",
+   "exDe": "Der Vorwurf des Doppelstandards trifft fast jeden Staat.",
+   "exEn": "The accusation of double standards hits almost every state."
+  },
+  {
+   "n": 23,
+   "de": "Interventionsdilemma",
+   "type": "das",
+   "en": "dilemma of intervention",
+   "exDe": "Das Interventionsdilemma kennt keine folgenlose Antwort.",
+   "exEn": "The dilemma of intervention has no consequence-free answer."
+  },
+  {
+   "n": 24,
+   "de": "Zivilschutz",
+   "type": "der",
+   "en": "civil protection",
+   "exDe": "Zivilschutz beginnt vor dem Konflikt oder gar nicht.",
+   "exEn": "Civil protection begins before the conflict or not at all."
+  },
+  {
+   "n": 25,
+   "de": "erwirken",
+   "type": "tr. &middot; erwirkt",
+   "en": "to obtain, to bring about",
+   "exDe": "Erwirkt wird, was beide Seiten nicht wollen.",
+   "exEn": "What both sides do not want gets brought about."
+  },
+  {
+   "n": 26,
+   "de": "garantieren",
+   "type": "untr. &middot; hat garantiert",
+   "en": "to guarantee",
+   "exDe": "Garantiert wird viel und abgesichert wenig.",
+   "exEn": "Much is guaranteed and little secured."
+  },
+  {
+   "n": 27,
+   "de": "niederlegen",
+   "type": "tr. &middot; legt nieder",
+   "en": "to lay down",
+   "exDe": "Niedergelegt werden Waffen nur gegen Sicherheit.",
+   "exEn": "Weapons are laid down only in exchange for safety."
+  },
+  {
+   "n": 28,
+   "de": "entmilitarisieren",
+   "type": "untr. &middot; hat entmilitarisiert",
+   "en": "to demilitarise",
+   "exDe": "Entmilitarisiert wird eine Zone, &uuml;berwacht wird sie selten.",
+   "exEn": "A zone is demilitarised and rarely monitored."
+  },
+  {
+   "n": 29,
+   "de": "demobilisieren",
+   "type": "untr. &middot; hat demobilisiert",
+   "en": "to demobilise",
+   "exDe": "Demobilisiert werden K&auml;mpfer, gebraucht werden Perspektiven.",
+   "exEn": "Fighters are demobilised; what is needed is prospects."
+  },
+  {
+   "n": 30,
+   "de": "befrieden",
+   "type": "untr. &middot; hat befriedet",
+   "en": "to pacify",
+   "exDe": "Befriedet ist eine Region erst nach einer Generation.",
+   "exEn": "A region is only pacified after a generation."
+  },
+  {
+   "n": 31,
+   "de": "beobachten",
+   "type": "untr. &middot; hat beobachtet",
+   "en": "to observe, to monitor",
+   "exDe": "Beobachtet wird von au&szlig;en, entschieden von innen.",
+   "exEn": "Observation comes from outside, decisions from inside."
+  },
+  {
+   "n": 32,
+   "de": "durchlassen",
+   "type": "tr. &middot; l&auml;sst durch",
+   "en": "to let through",
+   "exDe": "Durchgelassen wird, was politisch passt.",
+   "exEn": "What politically suits gets let through."
+  },
+  {
+   "n": 33,
+   "de": "verh&auml;ngen",
+   "type": "untr. &middot; hat verh&auml;ngt",
+   "en": "to impose",
+   "exDe": "Verh&auml;ngt werden Ma&szlig;nahmen schnell, aufgehoben werden sie sp&auml;t.",
+   "exEn": "Measures are imposed quickly and lifted late."
+  },
+  {
+   "n": 34,
+   "de": "festnehmen",
+   "type": "tr. &middot; nimmt fest",
+   "en": "to detain",
+   "exDe": "Festgenommen wird nur, wer reist.",
+   "exEn": "Only those who travel get detained."
+  },
+  {
+   "n": 35,
+   "de": "ausliefern",
+   "type": "tr. &middot; liefert aus",
+   "en": "to extradite",
+   "exDe": "Ausgeliefert wird selten der eigene Staatsb&uuml;rger.",
+   "exEn": "One's own citizen is rarely extradited."
+  },
+  {
+   "n": 36,
+   "de": "vorladen",
+   "type": "tr. &middot; l&auml;dt vor",
+   "en": "to summon",
+   "exDe": "Vorgeladen wird, wer erscheinen will.",
+   "exEn": "Only those willing to appear get summoned."
+  },
+  {
+   "n": 37,
+   "de": "freisprechen",
+   "type": "tr. &middot; spricht frei",
+   "en": "to acquit",
+   "exDe": "Freigesprochen wird im Zweifel, nicht aus &Uuml;berzeugung.",
+   "exEn": "Acquittal comes in case of doubt, not from conviction."
+  },
+  {
+   "n": 38,
+   "de": "zeugen",
+   "type": "verb + von + Dat.",
+   "en": "to testify to, to bear witness",
+   "exDe": "Die Akten zeugen von einem System, nicht von Einzelf&auml;llen.",
+   "exEn": "The files bear witness to a system, not to isolated cases."
+  },
+  {
+   "n": 39,
+   "de": "gedenken",
+   "type": "verb + Gen.",
+   "en": "to commemorate",
+   "exDe": "Der Opfer gedenkt man leichter als der Ursachen.",
+   "exEn": "It is easier to commemorate the victims than the causes."
+  },
+  {
+   "n": 40,
+   "de": "z&ouml;gern",
+   "type": "untr. &middot; hat gez&ouml;gert",
+   "en": "to hesitate",
+   "exDe": "Gez&ouml;gert wird, solange die Bilder fehlen.",
+   "exEn": "Hesitation lasts as long as the images are missing."
+  },
+  {
+   "n": 41,
+   "de": "wegsehen",
+   "type": "untr. &middot; hat weggesehen",
+   "en": "to look away",
+   "exDe": "Weggesehen wird gemeinsam und still.",
+   "exEn": "Looking away is done together and quietly."
+  },
+  {
+   "n": 42,
+   "de": "beistehen",
+   "type": "verb + Dat.",
+   "en": "to stand by somebody",
+   "exDe": "Beigestanden wird selten ohne eigenes Interesse.",
+   "exEn": "People rarely stand by others without their own interest."
+  },
+  {
+   "n": 43,
+   "de": "legitim",
+   "type": "adj.",
+   "en": "legitimate",
+   "exDe": "Legitim ist nicht dasselbe wie legal.",
+   "exEn": "Legitimate is not the same as legal."
+  },
+  {
+   "n": 44,
+   "de": "gerechtfertigt",
+   "type": "adj.",
+   "en": "justified",
+   "exDe": "Gerechtfertigt erscheint vieles im Nachhinein.",
+   "exEn": "Much appears justified in retrospect."
+  },
+  {
+   "n": 45,
+   "de": "universell",
+   "type": "adj.",
+   "en": "universal",
+   "exDe": "Universell gelten Rechte nur, wenn sie auch unbequem gelten.",
+   "exEn": "Rights are universal only if they also apply inconveniently."
+  },
+  {
+   "n": 46,
+   "de": "folgenlos",
+   "type": "adj.",
+   "en": "without consequences",
+   "exDe": "Folgenlose Verurteilungen sch&auml;digen das Recht selbst.",
+   "exEn": "Convictions without consequences damage the law itself."
+  },
+  {
+   "n": 47,
+   "de": "vollstreckbar",
+   "type": "adj.",
+   "en": "enforceable",
+   "exDe": "Vollstreckbar ist ein Urteil oft nicht, bindend schon.",
+   "exEn": "A judgement is often not enforceable, though it is binding."
+  },
+  {
+   "n": 48,
+   "de": "allparteilich",
+   "type": "adj.",
+   "en": "impartial towards all sides",
+   "exDe": "Allparteilich zu bleiben ist eine Entscheidung, keine Enthaltung.",
+   "exEn": "Staying impartial towards all sides is a decision, not an abstention."
+  },
+  {
+   "n": 49,
+   "de": "willentlich",
+   "type": "adj.",
+   "en": "wilful, deliberate",
+   "exDe": "Willentliche Angriffe auf Zivilisten sind verboten.",
+   "exEn": "Wilful attacks on civilians are prohibited."
+  },
+  {
+   "n": 50,
+   "de": "wahllos",
+   "type": "adj.",
+   "en": "indiscriminate",
+   "exDe": "Wahllose Waffen sind unabh&auml;ngig vom Ziel verboten.",
+   "exEn": "Indiscriminate weapons are banned regardless of target."
+  },
+  {
+   "n": 51,
+   "de": "verhandelbar",
+   "type": "adj.",
+   "en": "negotiable",
+   "exDe": "Verhandelbar ist alles au&szlig;er der W&uuml;rde.",
+   "exEn": "Everything is negotiable except dignity."
+  },
+  {
+   "n": 52,
+   "de": "unteilbar",
+   "type": "adj.",
+   "en": "indivisible",
+   "exDe": "Menschenrechte gelten als unteilbar und werden geteilt.",
+   "exEn": "Human rights count as indivisible and are divided up."
+  },
+  {
+   "n": 53,
+   "de": "Gespr&auml;che aufnehmen",
+   "type": "N+V &middot; nimmt Gespr&auml;che auf",
+   "en": "to enter into talks",
+   "exDe": "Gespr&auml;che aufnehmen hei&szlig;t noch nichts zuzugestehen.",
+   "exEn": "Entering into talks means conceding nothing yet."
+  },
+  {
+   "n": 54,
+   "de": "die Waffen schweigen lassen",
+   "type": "N+V &middot; l&auml;sst die Waffen schweigen",
+   "en": "to silence the guns",
+   "exDe": "Die Waffen schweigen zu lassen ist der schwerste Schritt.",
+   "exEn": "Silencing the guns is the hardest step."
+  },
+  {
+   "n": 55,
+   "de": "Zusagen absichern",
+   "type": "N+V &middot; sichert Zusagen ab",
+   "en": "to secure commitments",
+   "exDe": "Zusagen absichern braucht Dritte, nicht Vertrauen.",
+   "exEn": "Securing commitments needs third parties, not trust."
+  },
+  {
+   "n": 56,
+   "de": "Zivilisten verschonen",
+   "type": "N+V &middot; verschont Zivilisten",
+   "en": "to spare civilians",
+   "exDe": "Zivilisten verschonen ist Pflicht, nicht Gro&szlig;z&uuml;gigkeit.",
+   "exEn": "Sparing civilians is a duty, not generosity."
+  },
+  {
+   "n": 57,
+   "de": "Hilfe zulassen",
+   "type": "N+V &middot; l&auml;sst Hilfe zu",
+   "en": "to allow aid in",
+   "exDe": "Hilfe zulassen ist keine Konzession, sondern V&ouml;lkerrecht.",
+   "exEn": "Allowing aid in is not a concession but international law."
+  },
+  {
+   "n": 58,
+   "de": "Taten aufkl&auml;ren",
+   "type": "N+V &middot; kl&auml;rt Taten auf",
+   "en": "to investigate crimes",
+   "exDe": "Taten aufkl&auml;ren dauert l&auml;nger als sie zu begehen.",
+   "exEn": "Investigating crimes takes longer than committing them."
+  },
+  {
+   "n": 59,
+   "de": "Verantwortliche belangen",
+   "type": "N+V &middot; belangt Verantwortliche",
+   "en": "to hold perpetrators to account",
+   "exDe": "Verantwortliche belangen gelingt selten und wirkt lange.",
+   "exEn": "Holding perpetrators to account rarely succeeds and works for a long time."
+  },
+  {
+   "n": 60,
+   "de": "den Wiederaufbau tragen",
+   "type": "N+V &middot; tr&auml;gt den Wiederaufbau",
+   "en": "to support reconstruction",
+   "exDe": "Den Wiederaufbau tragen m&uuml;ssen die, die geblieben sind.",
+   "exEn": "Reconstruction has to be carried by those who stayed."
+  }
+ ],
+ "groups": [
+  "Konflikt &amp; Diplomatie &middot; Talking Before and After",
+  "Menschenrechte &amp; Durchsetzung &middot; The Law and Its Limits",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

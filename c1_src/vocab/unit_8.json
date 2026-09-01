@@ -1,0 +1,491 @@
+{
+ "unit": 8,
+ "title_de": "Belastung &amp; Prekarit&auml;t",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Arbeitsintensit&auml;t",
+   "type": "die",
+   "en": "work intensity",
+   "exDe": "Die Arbeitsintensit&auml;t ist gestiegen, die Arbeitszeit nicht.",
+   "exEn": "Work intensity has risen, working hours have not."
+  },
+  {
+   "n": 2,
+   "de": "Leistungsverdichtung",
+   "type": "die",
+   "en": "intensification of workload",
+   "exDe": "Leistungsverdichtung nennt man, was fr&uuml;her Personalabbau hie&szlig;.",
+   "exEn": "What used to be called staff cuts is now called intensification."
+  },
+  {
+   "n": 3,
+   "de": "Ersch&ouml;pfungszustand",
+   "type": "der",
+   "en": "state of exhaustion",
+   "exDe": "Ein Ersch&ouml;pfungszustand entwickelt sich &uuml;ber Monate.",
+   "exEn": "A state of exhaustion develops over months."
+  },
+  {
+   "n": 4,
+   "de": "Regenerationsphase",
+   "type": "die",
+   "en": "recovery phase",
+   "exDe": "Ohne Regenerationsphase sinkt die Leistung, nicht die Belastung.",
+   "exEn": "Without a recovery phase performance falls, not the strain."
+  },
+  {
+   "n": 5,
+   "de": "Erholungsf&auml;higkeit",
+   "type": "die",
+   "en": "ability to recover",
+   "exDe": "Die Erholungsf&auml;higkeit nimmt ab, bevor die Beschwerden beginnen.",
+   "exEn": "The ability to recover declines before the symptoms start."
+  },
+  {
+   "n": 6,
+   "de": "Pr&auml;sentismus",
+   "type": "der",
+   "en": "presenteeism",
+   "exDe": "Pr&auml;sentismus kostet mehr als Fehlzeiten.",
+   "exEn": "Presenteeism costs more than absences."
+  },
+  {
+   "n": 7,
+   "de": "Fehlzeitenquote",
+   "type": "die",
+   "en": "absence rate",
+   "exDe": "Eine niedrige Fehlzeitenquote sagt wenig &uuml;ber Gesundheit.",
+   "exEn": "A low absence rate says little about health."
+  },
+  {
+   "n": 8,
+   "de": "Verf&uuml;gbarkeitserwartung",
+   "type": "die",
+   "en": "expectation of availability",
+   "exDe": "Die unausgesprochene Verf&uuml;gbarkeitserwartung wirkt st&auml;rker als jede Regel.",
+   "exEn": "The unspoken expectation of availability works more strongly than any rule."
+  },
+  {
+   "n": 9,
+   "de": "Arbeitszufriedenheit",
+   "type": "die",
+   "en": "job satisfaction",
+   "exDe": "Arbeitszufriedenheit h&auml;ngt weniger am Gehalt als am Einfluss.",
+   "exEn": "Job satisfaction depends less on pay than on influence."
+  },
+  {
+   "n": 10,
+   "de": "Sinnerleben",
+   "type": "das",
+   "en": "sense of meaning",
+   "exDe": "Sinnerleben sch&uuml;tzt besser vor Ersch&ouml;pfung als jede Pause.",
+   "exEn": "A sense of meaning protects against exhaustion better than any break."
+  },
+  {
+   "n": 11,
+   "de": "Selbstwirksamkeit",
+   "type": "die",
+   "en": "sense of self-efficacy",
+   "exDe": "Selbstwirksamkeit entsteht dort, wo Entscheidungen wirken.",
+   "exEn": "Self-efficacy arises where decisions have effect."
+  },
+  {
+   "n": 12,
+   "de": "Gratifikationskrise",
+   "type": "die",
+   "en": "effort-reward imbalance",
+   "exDe": "Von einer Gratifikationskrise spricht man, wenn Einsatz und Anerkennung auseinanderfallen.",
+   "exEn": "An effort-reward imbalance is when effort and recognition diverge."
+  },
+  {
+   "n": 13,
+   "de": "Autonomiespielraum",
+   "type": "der",
+   "en": "scope for autonomy",
+   "exDe": "Der Autonomiespielraum entscheidet, ob Belastung krank macht.",
+   "exEn": "Scope for autonomy decides whether strain makes you ill."
+  },
+  {
+   "n": 14,
+   "de": "Plattformarbeit",
+   "type": "die",
+   "en": "platform work",
+   "exDe": "Plattformarbeit verlagert das Risiko vollst&auml;ndig nach unten.",
+   "exEn": "Platform work shifts the risk entirely downwards."
+  },
+  {
+   "n": 15,
+   "de": "Klickarbeit",
+   "type": "die",
+   "en": "clickwork, microwork",
+   "exDe": "Klickarbeit wird nach St&uuml;ck bezahlt, nicht nach Zeit.",
+   "exEn": "Clickwork is paid by the piece, not by the hour."
+  },
+  {
+   "n": 16,
+   "de": "Algorithmensteuerung",
+   "type": "die",
+   "en": "algorithmic management",
+   "exDe": "Bei Algorithmensteuerung gibt es keinen Vorgesetzten zum Widersprechen.",
+   "exEn": "With algorithmic management there is no supervisor to contradict."
+  },
+  {
+   "n": 17,
+   "de": "Bewertungssystem",
+   "type": "das",
+   "en": "rating system",
+   "exDe": "Das Bewertungssystem ersetzt das Zeugnis &mdash; und die K&uuml;ndigung.",
+   "exEn": "The rating system replaces the reference — and the dismissal."
+  },
+  {
+   "n": 18,
+   "de": "Auftragsvergabe",
+   "type": "die",
+   "en": "allocation of jobs",
+   "exDe": "Die Auftragsvergabe folgt einem Ranking, das niemand einsehen kann.",
+   "exEn": "Job allocation follows a ranking nobody can inspect."
+  },
+  {
+   "n": 19,
+   "de": "Solo-Selbstst&auml;ndigkeit",
+   "type": "die",
+   "en": "solo self-employment",
+   "exDe": "Solo-Selbstst&auml;ndigkeit ist selten frei gew&auml;hlt.",
+   "exEn": "Solo self-employment is rarely freely chosen."
+  },
+  {
+   "n": 20,
+   "de": "Scheinselbstst&auml;ndigkeit",
+   "type": "die",
+   "en": "bogus self-employment",
+   "exDe": "Scheinselbstst&auml;ndigkeit spart Beitr&auml;ge und verlagert Risiken.",
+   "exEn": "Bogus self-employment saves contributions and shifts risks."
+  },
+  {
+   "n": 21,
+   "de": "Werkvertrag",
+   "type": "der",
+   "en": "contract for work",
+   "exDe": "&Uuml;ber Werkvertr&auml;ge wird Stammpersonal ersetzt.",
+   "exEn": "Core staff are replaced via contracts for work."
+  },
+  {
+   "n": 22,
+   "de": "Leiharbeit",
+   "type": "die",
+   "en": "temporary agency work",
+   "exDe": "Leiharbeit war als Puffer gedacht, nicht als Dauerzustand.",
+   "exEn": "Agency work was meant as a buffer, not a permanent state."
+  },
+  {
+   "n": 23,
+   "de": "Prekarit&auml;t",
+   "type": "die",
+   "en": "precariousness",
+   "exDe": "Prekarit&auml;t hei&szlig;t nicht Armut, sondern Unsicherheit.",
+   "exEn": "Precariousness means not poverty but insecurity."
+  },
+  {
+   "n": 24,
+   "de": "Absicherungsl&uuml;cke",
+   "type": "die",
+   "en": "gap in social protection",
+   "exDe": "Die Absicherungsl&uuml;cke merkt man erst bei Krankheit.",
+   "exEn": "The gap in social protection is only noticed when you fall ill."
+  },
+  {
+   "n": 25,
+   "de": "aufreiben",
+   "type": "refl. &middot; reibt sich auf",
+   "en": "to wear oneself out",
+   "exDe": "Zwischen zwei Anspr&uuml;chen reibt man sich auf.",
+   "exEn": "Between two demands you wear yourself out."
+  },
+  {
+   "n": 26,
+   "de": "auszehren",
+   "type": "untr. &middot; hat ausgezehrt",
+   "en": "to drain, to exhaust",
+   "exDe": "St&auml;ndige Erreichbarkeit zehrt aus.",
+   "exEn": "Constant availability drains you."
+  },
+  {
+   "n": 27,
+   "de": "verschlei&szlig;en",
+   "type": "untr. &middot; hat verschlissen",
+   "en": "to wear out",
+   "exDe": "Schichtarbeit verschlei&szlig;t schneller als Nachtarbeit allein.",
+   "exEn": "Shift work wears you out faster than night work alone."
+  },
+  {
+   "n": 28,
+   "de": "abstumpfen",
+   "type": "untr. &middot; ist abgestumpft",
+   "en": "to become numb",
+   "exDe": "Wer t&auml;glich dasselbe entscheidet, stumpft ab.",
+   "exEn": "Whoever decides the same thing daily becomes numb."
+  },
+  {
+   "n": 29,
+   "de": "zerm&uuml;rben",
+   "type": "untr. &middot; hat zerm&uuml;rbt",
+   "en": "to wear down",
+   "exDe": "Die Unsicherheit zerm&uuml;rbt viele mehr als die Arbeit.",
+   "exEn": "The insecurity wears many down more than the work."
+  },
+  {
+   "n": 30,
+   "de": "antreiben",
+   "type": "untr. &middot; hat angetrieben",
+   "en": "to drive, to push",
+   "exDe": "Angetrieben wird heute durch Kennzahlen, nicht durch Vorgesetzte.",
+   "exEn": "Today people are driven by metrics, not supervisors."
+  },
+  {
+   "n": 31,
+   "de": "auspressen",
+   "type": "untr. &middot; hat ausgepresst",
+   "en": "to squeeze dry",
+   "exDe": "Ein System, das auspresst, verliert die Erfahrenen zuerst.",
+   "exEn": "A system that squeezes people dry loses the experienced first."
+  },
+  {
+   "n": 32,
+   "de": "abpuffern",
+   "type": "tr. &middot; puffert ab",
+   "en": "to cushion",
+   "exDe": "Die Belastung puffert das Team ab, solange es geht.",
+   "exEn": "The team cushions the strain as long as it can."
+  },
+  {
+   "n": 33,
+   "de": "nachhalten",
+   "type": "tr. &middot; h&auml;lt nach",
+   "en": "to follow up on",
+   "exDe": "Vereinbarungen muss jemand nachhalten.",
+   "exEn": "Somebody has to follow up on agreements."
+  },
+  {
+   "n": 34,
+   "de": "krankfeiern",
+   "type": "untr. &middot; hat krankgefeiert",
+   "en": "to skive off sick",
+   "exDe": "Der Vorwurf des Krankfeierns h&auml;lt viele von der Meldung ab.",
+   "exEn": "The accusation of skiving keeps many from reporting sick."
+  },
+  {
+   "n": 35,
+   "de": "zuteilen",
+   "type": "tr. &middot; teilt zu",
+   "en": "to allocate",
+   "exDe": "Auftr&auml;ge teilt ein Algorithmus zu.",
+   "exEn": "Jobs are allocated by an algorithm."
+  },
+  {
+   "n": 36,
+   "de": "zerst&uuml;ckeln",
+   "type": "untr. &middot; hat zerst&uuml;ckelt",
+   "en": "to break into pieces",
+   "exDe": "Zerst&uuml;ckelt wird die Arbeit, nicht das Ergebnis.",
+   "exEn": "It is the work that is broken into pieces, not the result."
+  },
+  {
+   "n": 37,
+   "de": "sperren",
+   "type": "untr. &middot; hat gesperrt",
+   "en": "to block, to suspend",
+   "exDe": "Gesperrt wird ohne Begr&uuml;ndung und ohne Widerspruch.",
+   "exEn": "Accounts are suspended without reason and without appeal."
+  },
+  {
+   "n": 38,
+   "de": "deaktivieren",
+   "type": "untr. &middot; hat deaktiviert",
+   "en": "to deactivate",
+   "exDe": "Ein deaktiviertes Konto ist faktisch eine K&uuml;ndigung.",
+   "exEn": "A deactivated account is in effect a dismissal."
+  },
+  {
+   "n": 39,
+   "de": "aush&ouml;hlen",
+   "type": "untr. &middot; hat ausgeh&ouml;hlt",
+   "en": "to hollow out",
+   "exDe": "Werkvertr&auml;ge h&ouml;hlen den Tarifvertrag aus.",
+   "exEn": "Contracts for work hollow out the collective agreement."
+  },
+  {
+   "n": 40,
+   "de": "aussteuern",
+   "type": "tr. &middot; steuert aus",
+   "en": "to remove from benefit",
+   "exDe": "Wer lange krank ist, wird irgendwann ausgesteuert.",
+   "exEn": "Whoever is ill for long is eventually removed from benefit."
+  },
+  {
+   "n": 41,
+   "de": "gegenrechnen",
+   "type": "tr. &middot; rechnet gegen",
+   "en": "to offset against",
+   "exDe": "Fahrtzeiten werden selten gegengerechnet.",
+   "exEn": "Travel times are rarely offset."
+  },
+  {
+   "n": 42,
+   "de": "aufrechnen",
+   "type": "tr. &middot; rechnet auf",
+   "en": "to set off against",
+   "exDe": "Krankheitstage rechnet man gegen den Bonus auf.",
+   "exEn": "Sick days are set off against the bonus."
+  },
+  {
+   "n": 43,
+   "de": "zerm&uuml;rbend",
+   "type": "adj.",
+   "en": "wearing, demoralising",
+   "exDe": "Das Warten auf den n&auml;chsten Auftrag ist zerm&uuml;rbend.",
+   "exEn": "Waiting for the next job is demoralising."
+  },
+  {
+   "n": 44,
+   "de": "zerrieben",
+   "type": "adj.",
+   "en": "ground down",
+   "exDe": "Zwischen Anspruch und Personalschl&uuml;ssel wird man zerrieben.",
+   "exEn": "Between expectations and staffing ratios you get ground down."
+  },
+  {
+   "n": 45,
+   "de": "fremdbestimmt",
+   "type": "adj.",
+   "en": "determined by others",
+   "exDe": "Fremdbestimmte Arbeit macht kranker als viel Arbeit.",
+   "exEn": "Work determined by others makes you iller than a lot of work."
+  },
+  {
+   "n": 46,
+   "de": "taktgebunden",
+   "type": "adj.",
+   "en": "tied to a set cycle",
+   "exDe": "Taktgebundene T&auml;tigkeiten erlauben keine Pause.",
+   "exEn": "Cycle-bound tasks allow no break."
+  },
+  {
+   "n": 47,
+   "de": "kleinteilig",
+   "type": "adj.",
+   "en": "fragmented",
+   "exDe": "Kleinteilige Auftr&auml;ge lassen sich schwer planen.",
+   "exEn": "Fragmented jobs are hard to plan."
+  },
+  {
+   "n": 48,
+   "de": "unplanbar",
+   "type": "adj.",
+   "en": "unpredictable",
+   "exDe": "Ein unplanbares Einkommen ver&auml;ndert jede Entscheidung.",
+   "exEn": "An unpredictable income changes every decision."
+  },
+  {
+   "n": 49,
+   "de": "auftragsabh&auml;ngig",
+   "type": "adj.",
+   "en": "dependent on orders",
+   "exDe": "Auftragsabh&auml;ngige Arbeit kennt keinen Feierabend.",
+   "exEn": "Order-dependent work knows no end of the working day."
+  },
+  {
+   "n": 50,
+   "de": "ungesch&uuml;tzt",
+   "type": "adj.",
+   "en": "unprotected",
+   "exDe": "Ungesch&uuml;tzte Besch&auml;ftigung w&auml;chst schneller als die Statistik zeigt.",
+   "exEn": "Unprotected employment grows faster than statistics show."
+  },
+  {
+   "n": 51,
+   "de": "atypisch",
+   "type": "adj.",
+   "en": "atypical (employment)",
+   "exDe": "Atypische Besch&auml;ftigung ist l&auml;ngst nicht mehr atypisch.",
+   "exEn": "Atypical employment is long since no longer atypical."
+  },
+  {
+   "n": 52,
+   "de": "dauerhaft verf&uuml;gbar",
+   "type": "adj.",
+   "en": "permanently available",
+   "exDe": "Wer dauerhaft verf&uuml;gbar ist, wird es bald m&uuml;ssen.",
+   "exEn": "Whoever is permanently available will soon have to be."
+  },
+  {
+   "n": 53,
+   "de": "an die Grenze kommen",
+   "type": "N+V &middot; kommt an die Grenze",
+   "en": "to reach one's limit",
+   "exDe": "An die Grenze kommt man nicht pl&ouml;tzlich.",
+   "exEn": "You do not reach your limit suddenly."
+  },
+  {
+   "n": 54,
+   "de": "sich verausgaben",
+   "type": "N+V &middot; verausgabt sich",
+   "en": "to overexert oneself",
+   "exDe": "Wer sich st&auml;ndig verausgabt, wird nicht belohnt, sondern ersetzt.",
+   "exEn": "Whoever constantly overexerts is not rewarded but replaced."
+  },
+  {
+   "n": 55,
+   "de": "Abstand gewinnen",
+   "type": "N+V &middot; gewinnt Abstand",
+   "en": "to gain distance",
+   "exDe": "Abstand gewinnt man nicht am Wochenende allein.",
+   "exEn": "You do not gain distance at the weekend alone."
+  },
+  {
+   "n": 56,
+   "de": "Grenzen respektieren",
+   "type": "N+V &middot; respektiert Grenzen",
+   "en": "to respect boundaries",
+   "exDe": "Grenzen respektiert ein Betrieb erst, wenn es teuer wird.",
+   "exEn": "A company respects boundaries only when it gets expensive."
+  },
+  {
+   "n": 57,
+   "de": "nach St&uuml;ck bezahlen",
+   "type": "N+V &middot; bezahlt nach St&uuml;ck",
+   "en": "to pay by the piece",
+   "exDe": "Nach St&uuml;ck bezahlt zu werden verlagert das Risiko.",
+   "exEn": "Being paid by the piece shifts the risk."
+  },
+  {
+   "n": 58,
+   "de": "Risiken verlagern",
+   "type": "N+V &middot; verlagert Risiken",
+   "en": "to shift risks",
+   "exDe": "Risiken verlagert man dorthin, wo am wenigsten Gegenwehr ist.",
+   "exEn": "Risks are shifted where there is least resistance."
+  },
+  {
+   "n": 59,
+   "de": "sozial absichern",
+   "type": "N+V &middot; sichert sozial ab",
+   "en": "to provide social protection",
+   "exDe": "Sozial absichern muss man auch die, die formal selbstst&auml;ndig sind.",
+   "exEn": "Social protection is needed even for the formally self-employed."
+  },
+  {
+   "n": 60,
+   "de": "Anspr&uuml;che durchsetzen",
+   "type": "N+V &middot; setzt Anspr&uuml;che durch",
+   "en": "to enforce one&rsquo;s claims",
+   "exDe": "Anspr&uuml;che durchsetzen kann nur, wer es sich leisten kann.",
+   "exEn": "Only those who can afford it can enforce their claims."
+  }
+ ],
+ "groups": [
+  "Produktivit&auml;t &amp; Ersch&ouml;pfung &middot; What the Pace Costs",
+  "Plattformarbeit &amp; Prekarit&auml;t &middot; Work Without a Floor",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

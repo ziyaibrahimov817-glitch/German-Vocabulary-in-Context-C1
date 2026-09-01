@@ -1,0 +1,214 @@
+{
+ "units": {
+  "1": "Identité & Liberté",
+  "2": "Évolution des valeurs & Rôles",
+  "3": "Démographie & Enfance",
+  "4": "Éducation & Justice",
+  "5": "Pression de performance & Science",
+  "6": "Apprentissage & Transformation",
+  "7": "Main-d'œuvre qualifiée & Direction",
+  "8": "Charge de travail & Précarité",
+  "9": "Économie mondiale & Inflation",
+  "10": "Fiscalité & Répartition",
+  "11": "Logement & Développement urbain",
+  "12": "Mobilité & Tourisme",
+  "13": "Alimentation & Système de santé",
+  "14": "Santé mentale & Éthique médicale",
+  "15": "Crise climatique & Justice",
+  "16": "Énergie & Économie circulaire",
+  "17": "Biodiversité & Crises",
+  "18": "IA & Algorithmes",
+  "19": "Données & Cybersécurité",
+  "20": "Polarisation & Désinformation",
+  "21": "Presse & Liberté artistique",
+  "22": "Langue & Appartenance",
+  "23": "Démocratie & Ordre mondial",
+  "24": "Guerre, paix & droits de l'homme",
+  "25": "Conquête spatiale & Avenir",
+  "26": "Science & Responsabilité"
+ },
+ "groups": {
+  "1": [
+   "Identité & mondialisation · Qui suis-je, et qui décide",
+   "Liberté & responsabilité · Où l'une s'arrête et où l'autre commence",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "2": [
+   "Évolution des valeurs · Ce qu'une société tient pour acquis",
+   "Rôles sociaux · Ce qu'on attend de vous",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "3": [
+   "Évolution démographique · Les chiffres qui se cachent derrière",
+   "Enfance & empreinte formatrice · Ce qui se joue tôt",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "4": [
+   "Éducation & mobilité sociale · La promesse",
+   "Sélection & désavantage · Ce qui se passe réellement",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "5": [
+   "Pression de performance · Ce que le système exige",
+   "Travail scientifique · Comment bien s'y prendre",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "6": [
+   "Apprentissage tout au long de la vie · Apprendre après l'école",
+   "Transformation · Ce qui change au travail",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "7": [
+   "Pénurie de main-d'œuvre qualifiée & migration · Qui vient, qui reste",
+   "Direction & culture d'entreprise · Comment on dirige les gens",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "8": [
+   "Productivité & épuisement · Ce que coûte le rythme",
+   "Travail de plateforme & précarité · Un travail sans filet",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "9": [
+   "Chaînes d'approvisionnement & commerce mondial · La fragilité du système",
+   "Inflation & politique monétaire · Qui en paie le prix",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "10": [
+   "Politique fiscale · Qui paie quoi",
+   "Richesse & pauvreté · Qui possède quoi",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "11": [
+   "Marché du logement · Loyers, droits et évictions",
+   "Développement urbain · Foncier, densité et climat",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "12": [
+   "Mobilité · Ce qui change vraiment les déplacements",
+   "Tourisme · Quand un lieu atteint ses limites",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "13": [
+   "Alimentation mondiale · Assez de nourriture, une mauvaise répartition",
+   "Santé & soins · Là où le système s'effrite",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "14": [
+   "Santé mentale · Une question de conditions de vie",
+   "Médecine & éthique · Ce qui est permis, ce qui est juste",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "15": [
+   "Budgets & mécanismes · Le calcul",
+   "Justice & responsabilité · Qui doit quoi à qui",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "16": [
+   "Transition énergétique · Garder la lumière allumée",
+   "Ressources & économie circulaire · Ce qui se passe après usage",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "17": [
+   "Biodiversité · Ce qui maintient un système en équilibre",
+   "Catastrophes & gestion de crise · Quand tout s'effondre",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "18": [
+   "IA & transformation · Qui en profite, qui décide",
+   "Décisions algorithmiques · Quand le logiciel juge",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "19": [
+   "Big Data & vie privée · Ce qui est collecté",
+   "Cybersécurité · Ce qui peut être dérobé",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "20": [
+   "Réseaux sociaux & polarisation · Comment le ton monte",
+   "Désinformation & manipulation · Qui impose le cadre",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "21": [
+   "Liberté de la presse · Ce qui protège le journalisme",
+   "Art & contestation · Ce qui a le droit de choquer",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "22": [
+   "Langue & pouvoir · Ce que font les mots",
+   "Migration & appartenance · Arriver et trouver sa place",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "23": [
+   "Démocratie sous pression · Ce qui se vide de sa substance",
+   "Coopération internationale · Lente mais sans alternative",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "24": [
+   "Conflit & diplomatie · Parler avant et après",
+   "Droits de l'homme & application · Le droit et ses limites",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "25": [
+   "Conquête spatiale · Aller et revenir",
+   "Avenir & responsabilité · Penser à l'échelle des siècles",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ],
+  "26": [
+   "Connaissance & méthode · Comment fonctionne le savoir",
+   "Recherche scientifique & opinion publique · Entre laboratoire et manchette",
+   "Verbes, adjectifs & expressions · Pour en parler"
+  ]
+ },
+ "grammar": {
+  "1": {
+   "t": "Cadre verbal & champ médian",
+   "s": "TeKaMoLo, groupes verbaux, extraposition",
+   "tag": "ce qui fait tenir une longue phrase allemande"
+  },
+  "2": {
+   "t": "Style nominal & style verbal",
+   "s": "aufgrund plutôt que weil, Prüfung plutôt que prüfen",
+   "tag": "construire une phrase autour d'un nom plutôt que d'un verbe"
+  },
+  "3": {
+   "t": "Constructions à verbe support",
+   "s": "le mécanisme derrière Entscheidung treffen",
+   "tag": "pourquoi l'allemand scinde un verbe en nom plus verbe support"
+  },
+  "4": {
+   "t": "Formes de substitution du passif",
+   "s": "lässt sich lösen, ist zu lösen, ist lösbar",
+   "tag": "cinq manières d'exprimer un passif sans werden"
+  },
+  "5": {
+   "t": "Modalité & supposition",
+   "s": "dürfte, müsste, scheint zu, droht zu",
+   "tag": "quel est mon degré de certitude, et qui le dit"
+  },
+  "6": {
+   "t": "Konjunktiv I dans les comptes rendus",
+   "s": "sei, habe, werde — et quand le K II prend le relais",
+   "tag": "rapporter des propos sans en garantir la véracité"
+  },
+  "7": {
+   "t": "Propositions relatives & subordonnées attributives",
+   "s": "dessen, deren, was, wer, préposition + pronom",
+   "tag": "les quatre formes qui ne sont pas de simples articles"
+  },
+  "8": {
+   "t": "Épithètes participiales",
+   "s": "die von der Kommission untersuchten Fälle",
+   "tag": "une proposition relative repliée devant le nom"
+  },
+  "9": {
+   "t": "Cohésion & connecteurs",
+   "s": "folglich, dennoch, hingegen, diesbezüglich",
+   "tag": "trois classes de connecteurs, et où va le verbe"
+  },
+  "10": {
+   "t": "Focalisation & mise en relief",
+   "s": "Was … betrifft, Es ist … der, Entscheidend ist",
+   "tag": "comment l'allemand met l'accent sans hausser le ton"
+  }
+ }
+}

@@ -1,0 +1,491 @@
+{
+ "unit": 12,
+ "title_de": "Mobilit&auml;t &amp; Tourismus",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Modal Split",
+   "type": "der",
+   "en": "modal split",
+   "exDe": "Der Modal Split zeigt, womit die Leute wirklich fahren.",
+   "exEn": "The modal split shows what people actually travel by."
+  },
+  {
+   "n": 2,
+   "de": "Antriebswende",
+   "type": "die",
+   "en": "shift in drive technology",
+   "exDe": "Die Antriebswende allein ist noch keine Verkehrswende.",
+   "exEn": "A shift in drive technology alone is not yet a transport transition."
+  },
+  {
+   "n": 3,
+   "de": "Elektrifizierung",
+   "type": "die",
+   "en": "electrification",
+   "exDe": "Die Elektrifizierung der Nebenstrecken kommt nur langsam voran.",
+   "exEn": "Electrification of branch lines is progressing only slowly."
+  },
+  {
+   "n": 4,
+   "de": "Brennstoffzelle",
+   "type": "die",
+   "en": "fuel cell",
+   "exDe": "Die Brennstoffzelle lohnt sich eher im Schwerlastverkehr.",
+   "exEn": "The fuel cell pays off rather in heavy goods transport."
+  },
+  {
+   "n": 5,
+   "de": "Reichweitenangst",
+   "type": "die",
+   "en": "range anxiety",
+   "exDe": "Reichweitenangst ist gr&ouml;&szlig;er als das tats&auml;chliche Problem.",
+   "exEn": "Range anxiety is bigger than the actual problem."
+  },
+  {
+   "n": 6,
+   "de": "Taktverdichtung",
+   "type": "die",
+   "en": "increase in service frequency",
+   "exDe": "Eine Taktverdichtung wirkt st&auml;rker als jede Werbekampagne.",
+   "exEn": "Increasing frequency works better than any advertising campaign."
+  },
+  {
+   "n": 7,
+   "de": "Verkehrsleistung",
+   "type": "die",
+   "en": "transport volume",
+   "exDe": "Die Verkehrsleistung steigt, obwohl die Fahrzeuge sauberer werden.",
+   "exEn": "Transport volume rises although vehicles are getting cleaner."
+  },
+  {
+   "n": 8,
+   "de": "Verkehrsverlagerung",
+   "type": "die",
+   "en": "modal shift",
+   "exDe": "Verkehrsverlagerung gelingt nur mit einem besseren Angebot.",
+   "exEn": "Modal shift only succeeds with a better offer."
+  },
+  {
+   "n": 9,
+   "de": "Fahrzeugflotte",
+   "type": "die",
+   "en": "vehicle fleet",
+   "exDe": "Die Fahrzeugflotte erneuert sich in fifteen Jahren, nicht in f&uuml;nf.",
+   "exEn": "A vehicle fleet renews itself in fifteen years, not five."
+  },
+  {
+   "n": 10,
+   "de": "Mikromobilit&auml;t",
+   "type": "die",
+   "en": "micromobility",
+   "exDe": "Mikromobilit&auml;t ersetzt kurze Autofahrten, keine langen.",
+   "exEn": "Micromobility replaces short car journeys, not long ones."
+  },
+  {
+   "n": 11,
+   "de": "Stra&szlig;enraum",
+   "type": "der",
+   "en": "street space",
+   "exDe": "Der Stra&szlig;enraum ist die knappste Ressource der Stadt.",
+   "exEn": "Street space is the scarcest resource in a city."
+  },
+  {
+   "n": 12,
+   "de": "Umstiegsangebot",
+   "type": "das",
+   "en": "interchange offer",
+   "exDe": "Ohne Umstiegsangebot bleibt das Auto die einfachste L&ouml;sung.",
+   "exEn": "Without an interchange offer the car remains the simplest solution."
+  },
+  {
+   "n": 13,
+   "de": "Nutzungskonflikt",
+   "type": "der",
+   "en": "conflict of use",
+   "exDe": "Jeder Radweg beginnt mit einem Nutzungskonflikt.",
+   "exEn": "Every cycle path begins with a conflict of use."
+  },
+  {
+   "n": 14,
+   "de": "Overtourism",
+   "type": "der",
+   "en": "overtourism",
+   "exDe": "Overtourism entsteht nicht durch Zahlen, sondern durch Konzentration.",
+   "exEn": "Overtourism arises not from numbers but from concentration."
+  },
+  {
+   "n": 15,
+   "de": "Tourismusintensit&auml;t",
+   "type": "die",
+   "en": "tourism intensity",
+   "exDe": "Die Tourismusintensit&auml;t misst G&auml;ste je Einwohner.",
+   "exEn": "Tourism intensity measures guests per inhabitant."
+  },
+  {
+   "n": 16,
+   "de": "Tragf&auml;higkeit",
+   "type": "die",
+   "en": "carrying capacity",
+   "exDe": "Die Tragf&auml;higkeit eines Ortes ist keine feste Zahl.",
+   "exEn": "The carrying capacity of a place is not a fixed number."
+  },
+  {
+   "n": 17,
+   "de": "&Uuml;bernachtungszahl",
+   "type": "die",
+   "en": "number of overnight stays",
+   "exDe": "Die &Uuml;bernachtungszahl sagt weniger als die Aufenthaltsdauer.",
+   "exEn": "The number of overnight stays says less than the length of stay."
+  },
+  {
+   "n": 18,
+   "de": "Tagesgast",
+   "type": "der",
+   "en": "day visitor",
+   "exDe": "Ein Tagesgast bringt Belastung ohne Wertsch&ouml;pfung.",
+   "exEn": "A day visitor brings strain without adding value."
+  },
+  {
+   "n": 19,
+   "de": "Saisonalit&auml;t",
+   "type": "die",
+   "en": "seasonality",
+   "exDe": "Die Saisonalit&auml;t macht ganzj&auml;hrige Besch&auml;ftigung unm&ouml;glich.",
+   "exEn": "Seasonality makes year-round employment impossible."
+  },
+  {
+   "n": 20,
+   "de": "Tourismusabgabe",
+   "type": "die",
+   "en": "tourism levy",
+   "exDe": "Die Tourismusabgabe flie&szlig;t selten dorthin, wo die Kosten entstehen.",
+   "exEn": "The tourism levy rarely flows to where the costs arise."
+  },
+  {
+   "n": 21,
+   "de": "Bettensteuer",
+   "type": "die",
+   "en": "bed tax",
+   "exDe": "&Uuml;ber die Bettensteuer streiten St&auml;dte und Hoteliers seit Jahren.",
+   "exEn": "Cities and hoteliers have argued about the bed tax for years."
+  },
+  {
+   "n": 22,
+   "de": "Ferienwohnungsvermietung",
+   "type": "die",
+   "en": "holiday letting",
+   "exDe": "Die Ferienwohnungsvermietung entzieht dem Markt ganze H&auml;user.",
+   "exEn": "Holiday letting removes whole buildings from the market."
+  },
+  {
+   "n": 23,
+   "de": "Anwohnerprotest",
+   "type": "der",
+   "en": "residents' protest",
+   "exDe": "Der Anwohnerprotest richtet sich gegen die Menge, nicht gegen G&auml;ste.",
+   "exEn": "Residents' protest targets the volume, not the guests."
+  },
+  {
+   "n": 24,
+   "de": "Kompensationszahlung",
+   "type": "die",
+   "en": "compensation payment",
+   "exDe": "Eine Kompensationszahlung ersetzt keine vermiedene Reise.",
+   "exEn": "A compensation payment does not replace an avoided journey."
+  },
+  {
+   "n": 25,
+   "de": "bepreisen",
+   "type": "untr. &middot; hat bepreist",
+   "en": "to put a price on",
+   "exDe": "Was bepreist wird, wird sparsamer genutzt.",
+   "exEn": "What is priced is used more sparingly."
+  },
+  {
+   "n": 26,
+   "de": "umlenken",
+   "type": "tr. &middot; lenkt um",
+   "en": "to redirect",
+   "exDe": "Str&ouml;me umlenken ist billiger als sie zu begrenzen.",
+   "exEn": "Redirecting flows is cheaper than limiting them."
+  },
+  {
+   "n": 27,
+   "de": "wegleiten",
+   "type": "tr. &middot; leitet weg",
+   "en": "to lead away",
+   "exDe": "Vom Zentrum weggeleitet wird selten freiwillig.",
+   "exEn": "People are rarely led away from the centre voluntarily."
+  },
+  {
+   "n": 28,
+   "de": "kanalisieren",
+   "type": "untr. &middot; hat kanalisiert",
+   "en": "to channel",
+   "exDe": "Besucherstr&ouml;me kanalisiert man &uuml;ber Zeitfenster.",
+   "exEn": "Visitor flows are channelled via time slots."
+  },
+  {
+   "n": 29,
+   "de": "kontingentieren",
+   "type": "untr. &middot; hat kontingentiert",
+   "en": "to limit by quota",
+   "exDe": "Kontingentiert wird erst, wenn nichts anderes hilft.",
+   "exEn": "Quotas come only when nothing else helps."
+  },
+  {
+   "n": 30,
+   "de": "beschr&auml;nken",
+   "type": "tr. &middot; beschr&auml;nkt",
+   "en": "to restrict",
+   "exDe": "Beschr&auml;nkt wird die Zahl, nicht der Zugang.",
+   "exEn": "It is the number that is restricted, not access."
+  },
+  {
+   "n": 31,
+   "de": "zweckbinden",
+   "type": "tr. &middot; bindet zweck",
+   "en": "to earmark",
+   "exDe": "Einnahmen sollte man zweckbinden, sonst versickern sie.",
+   "exEn": "Revenue should be earmarked, otherwise it seeps away."
+  },
+  {
+   "n": 32,
+   "de": "anlasten",
+   "type": "tr. &middot; lastet an",
+   "en": "to charge to, to attribute to",
+   "exDe": "Die Folgekosten lastet man selten den Verursachern an.",
+   "exEn": "Follow-up costs are rarely charged to those who cause them."
+  },
+  {
+   "n": 33,
+   "de": "auflasten",
+   "type": "tr. &middot; lastet auf",
+   "en": "to burden with",
+   "exDe": "Den Kommunen wird die Aufgabe aufgelastet, nicht das Geld.",
+   "exEn": "Municipalities are burdened with the task, not the money."
+  },
+  {
+   "n": 34,
+   "de": "entflechten",
+   "type": "tr. &middot; entflicht",
+   "en": "to disentangle",
+   "exDe": "Rad und Auto muss man r&auml;umlich entflechten.",
+   "exEn": "Bicycles and cars have to be spatially disentangled."
+  },
+  {
+   "n": 35,
+   "de": "r&uuml;ckbauen",
+   "type": "tr. &middot; baut zur&uuml;ck",
+   "en": "to remove, to dismantle",
+   "exDe": "Zur&uuml;ckgebaut wird eine Spur, gewonnen wird ein Platz.",
+   "exEn": "One lane is removed and a square is gained."
+  },
+  {
+   "n": 36,
+   "de": "neugestalten",
+   "type": "tr. &middot; gestaltet neu",
+   "en": "to redesign",
+   "exDe": "Neugestaltet wird der Stra&szlig;enraum, nicht die Fassade.",
+   "exEn": "It is the street space that is redesigned, not the facade."
+  },
+  {
+   "n": 37,
+   "de": "hochlaufen",
+   "type": "untr. &middot; ist hochgelaufen",
+   "en": "to ramp up",
+   "exDe": "Die Produktion l&auml;uft langsamer hoch als geplant.",
+   "exEn": "Production is ramping up more slowly than planned."
+  },
+  {
+   "n": 38,
+   "de": "vorziehen",
+   "type": "tr. &middot; zieht vor",
+   "en": "to bring forward, to give priority",
+   "exDe": "Vorgezogen wird, was politisch sichtbar ist.",
+   "exEn": "What is politically visible gets brought forward."
+  },
+  {
+   "n": 39,
+   "de": "&uuml;berfrachten",
+   "type": "untr. &middot; hat &uuml;berfrachtet",
+   "en": "to overload",
+   "exDe": "Ein &uuml;berfrachtetes Programm scheitert an sich selbst.",
+   "exEn": "An overloaded programme fails by itself."
+  },
+  {
+   "n": 40,
+   "de": "ausbluten",
+   "type": "untr. &middot; ist ausgeblutet",
+   "en": "to drain, to bleed dry",
+   "exDe": "Die Altstadt blutet aus, wenn nur noch G&auml;ste kommen.",
+   "exEn": "The old town bleeds dry if only guests come."
+  },
+  {
+   "n": 41,
+   "de": "vermieten",
+   "type": "untr. &middot; hat vermietet",
+   "en": "to let out",
+   "exDe": "Kurzfristig vermietet bringt das Dreifache.",
+   "exEn": "Letting short term brings three times as much."
+  },
+  {
+   "n": 42,
+   "de": "verpachten",
+   "type": "untr. &middot; hat verpachtet",
+   "en": "to lease out",
+   "exDe": "Verpachtet wird der Strand, gezahlt wird von allen.",
+   "exEn": "The beach is leased out and paid for by everyone."
+  },
+  {
+   "n": 43,
+   "de": "multimodal",
+   "type": "adj.",
+   "en": "multimodal",
+   "exDe": "Multimodal unterwegs ist, wer nicht mehr &uuml;berlegt.",
+   "exEn": "Whoever no longer has to think about it travels multimodally."
+  },
+  {
+   "n": 44,
+   "de": "schienengebunden",
+   "type": "adj.",
+   "en": "rail-bound",
+   "exDe": "Schienengebundener Verkehr ist trotz allem der effizienteste.",
+   "exEn": "Rail-bound transport is still the most efficient."
+  },
+  {
+   "n": 45,
+   "de": "autofrei",
+   "type": "adj.",
+   "en": "car-free",
+   "exDe": "Autofreie Zonen erh&ouml;hen den Umsatz, nicht umgekehrt.",
+   "exEn": "Car-free zones increase turnover, not the reverse."
+  },
+  {
+   "n": 46,
+   "de": "fahrradfreundlich",
+   "type": "adj.",
+   "en": "cycle-friendly",
+   "exDe": "Fahrradfreundlich ist eine Stadt erst ohne Mut zur L&uuml;cke.",
+   "exEn": "A city is only cycle-friendly when no gaps in the network remain."
+  },
+  {
+   "n": 47,
+   "de": "barrierefrei",
+   "type": "adj.",
+   "en": "barrier-free",
+   "exDe": "Barrierefrei nutzt allen, nicht nur wenigen.",
+   "exEn": "Barrier-free access benefits everyone, not just a few."
+  },
+  {
+   "n": 48,
+   "de": "ganzj&auml;hrig",
+   "type": "adj.",
+   "en": "year-round",
+   "exDe": "Ganzj&auml;hrige Angebote binden Personal besser.",
+   "exEn": "Year-round services retain staff better."
+  },
+  {
+   "n": 49,
+   "de": "touristisch gepr&auml;gt",
+   "type": "adj.",
+   "en": "shaped by tourism",
+   "exDe": "Touristisch gepr&auml;gte Orte verlieren ihre Grundversorgung.",
+   "exEn": "Places shaped by tourism lose their basic amenities."
+  },
+  {
+   "n": 50,
+   "de": "ortsvertr&auml;glich",
+   "type": "adj.",
+   "en": "compatible with the place",
+   "exDe": "Ortsvertr&auml;glicher Tourismus ist messbar, nicht nur behauptet.",
+   "exEn": "Tourism compatible with a place is measurable, not just claimed."
+  },
+  {
+   "n": 51,
+   "de": "wachstumsgetrieben",
+   "type": "adj.",
+   "en": "growth-driven",
+   "exDe": "Wachstumsgetriebene Konzepte kennen keine Obergrenze.",
+   "exEn": "Growth-driven concepts know no upper limit."
+  },
+  {
+   "n": 52,
+   "de": "besucherintensiv",
+   "type": "adj.",
+   "en": "visitor-intensive",
+   "exDe": "Besucherintensive Monate tragen das ganze Jahr.",
+   "exEn": "Visitor-intensive months carry the whole year."
+  },
+  {
+   "n": 53,
+   "de": "auf die Schiene verlagern",
+   "type": "N+V &middot; verlagert auf die Schiene",
+   "en": "to shift to rail",
+   "exDe": "Auf die Schiene verlagern kann man nur, was dort Platz findet.",
+   "exEn": "Only what fits on the rails can be shifted to them."
+  },
+  {
+   "n": 54,
+   "de": "den Takt verdichten",
+   "type": "N+V &middot; verdichtet den Takt",
+   "en": "to run services more often",
+   "exDe": "Den Takt verdichten &uuml;berzeugt mehr Menschen als jede Kampagne.",
+   "exEn": "Running services more often convinces more people than any campaign."
+  },
+  {
+   "n": 55,
+   "de": "Wege verk&uuml;rzen",
+   "type": "N+V &middot; verk&uuml;rzt Wege",
+   "en": "to shorten distances",
+   "exDe": "Wege verk&uuml;rzen ist die billigste Verkehrspolitik.",
+   "exEn": "Shortening distances is the cheapest transport policy."
+  },
+  {
+   "n": 56,
+   "de": "Emissionen senken",
+   "type": "N+V &middot; senkt Emissionen",
+   "en": "to reduce emissions",
+   "exDe": "Emissionen senkt man &uuml;ber weniger Fahrten, nicht nur andere Antriebe.",
+   "exEn": "Emissions are reduced through fewer journeys, not just other engines."
+  },
+  {
+   "n": 57,
+   "de": "Besucher lenken",
+   "type": "N+V &middot; lenkt Besucher",
+   "en": "to steer visitors",
+   "exDe": "Besucher lenken ist wirksamer als sie abzuweisen.",
+   "exEn": "Steering visitors is more effective than turning them away."
+  },
+  {
+   "n": 58,
+   "de": "die Belastung verteilen",
+   "type": "N+V &middot; verteilt die Belastung",
+   "en": "to spread the load",
+   "exDe": "Die Belastung verteilt man &uuml;ber Jahreszeiten und Orte.",
+   "exEn": "The load is spread over seasons and places."
+  },
+  {
+   "n": 59,
+   "de": "Wertsch&ouml;pfung im Ort halten",
+   "type": "N+V &middot; h&auml;lt die Wertsch&ouml;pfung im Ort",
+   "en": "to keep value creation local",
+   "exDe": "Wertsch&ouml;pfung im Ort halten entscheidet, ob Tourismus tr&auml;gt.",
+   "exEn": "Keeping value creation local decides whether tourism pays."
+  },
+  {
+   "n": 60,
+   "de": "Natur sch&uuml;tzen und zeigen",
+   "type": "N+V &middot; sch&uuml;tzt und zeigt Natur",
+   "en": "to protect and present nature",
+   "exDe": "Natur sch&uuml;tzen und zeigen schlie&szlig;t sich nicht aus.",
+   "exEn": "Protecting and presenting nature are not mutually exclusive."
+  }
+ ],
+ "groups": [
+  "Mobilit&auml;t &middot; What Actually Changes Travel",
+  "Tourismus &middot; When a Place Reaches Its Limit",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

@@ -1,0 +1,491 @@
+{
+ "unit": 6,
+ "title_de": "Lernen &amp; Transformation",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Weiterbildungsbereitschaft",
+   "type": "die",
+   "en": "willingness to undertake further training",
+   "exDe": "Die Weiterbildungsbereitschaft sinkt mit dem Alter und dem Einkommen.",
+   "exEn": "Willingness to train further falls with age and income."
+  },
+  {
+   "n": 2,
+   "de": "Weiterbildungsquote",
+   "type": "die",
+   "en": "further-training participation rate",
+   "exDe": "Die Weiterbildungsquote ist bei Geringqualifizierten am niedrigsten.",
+   "exEn": "The training rate is lowest among the low-qualified."
+  },
+  {
+   "n": 3,
+   "de": "Qualifizierungsbedarf",
+   "type": "der",
+   "en": "need for qualification",
+   "exDe": "Den Qualifizierungsbedarf erkennt der Betrieb meist zu sp&auml;t.",
+   "exEn": "Companies usually recognise the need for qualification too late."
+  },
+  {
+   "n": 4,
+   "de": "Nachqualifizierung",
+   "type": "die",
+   "en": "subsequent qualification",
+   "exDe": "Nachqualifizierung ist billiger als Neueinstellung.",
+   "exEn": "Subsequent qualification is cheaper than new recruitment."
+  },
+  {
+   "n": 5,
+   "de": "Aufstiegsfortbildung",
+   "type": "die",
+   "en": "advanced vocational training",
+   "exDe": "Die Aufstiegsfortbildung ersetzt in Deutschland oft das Studium.",
+   "exEn": "Advanced vocational training often replaces a degree in Germany."
+  },
+  {
+   "n": 6,
+   "de": "Kompetenzprofil",
+   "type": "das",
+   "en": "competence profile",
+   "exDe": "Das Kompetenzprofil z&auml;hlt heute mehr als der Abschluss.",
+   "exEn": "The competence profile counts today more than the qualification."
+  },
+  {
+   "n": 7,
+   "de": "Kompetenzerwerb",
+   "type": "der",
+   "en": "acquisition of competence",
+   "exDe": "Kompetenzerwerb findet gr&ouml;&szlig;tenteils am Arbeitsplatz statt.",
+   "exEn": "Competence is acquired largely at the workplace."
+  },
+  {
+   "n": 8,
+   "de": "Selbstlernkompetenz",
+   "type": "die",
+   "en": "ability to learn independently",
+   "exDe": "Ohne Selbstlernkompetenz n&uuml;tzt das beste Angebot nichts.",
+   "exEn": "Without the ability to learn independently the best offer is useless."
+  },
+  {
+   "n": 9,
+   "de": "Lernkultur",
+   "type": "die",
+   "en": "learning culture",
+   "exDe": "Eine gute Lernkultur erlaubt Fehler.",
+   "exEn": "A good learning culture allows mistakes."
+  },
+  {
+   "n": 10,
+   "de": "Lernbiografie",
+   "type": "die",
+   "en": "learning biography",
+   "exDe": "Jede Lernbiografie hat Br&uuml;che &mdash; das ist normal.",
+   "exEn": "Every learning biography has breaks — that is normal."
+  },
+  {
+   "n": 11,
+   "de": "Wissensveralterung",
+   "type": "die",
+   "en": "obsolescence of knowledge",
+   "exDe": "Die Wissensveralterung beschleunigt sich in jedem Fach.",
+   "exEn": "The obsolescence of knowledge is accelerating in every field."
+  },
+  {
+   "n": 12,
+   "de": "Modularisierung",
+   "type": "die",
+   "en": "modularisation",
+   "exDe": "Die Modularisierung macht Weiterbildung anschlussf&auml;hig.",
+   "exEn": "Modularisation makes further training compatible."
+  },
+  {
+   "n": 13,
+   "de": "Zertifizierung",
+   "type": "die",
+   "en": "certification",
+   "exDe": "Eine Zertifizierung belegt Teilnahme, nicht immer K&ouml;nnen.",
+   "exEn": "Certification proves attendance, not always ability."
+  },
+  {
+   "n": 14,
+   "de": "Qualifikationsniveau",
+   "type": "das",
+   "en": "level of qualification",
+   "exDe": "Das Qualifikationsniveau entscheidet, wer den Wandel &uuml;bersteht.",
+   "exEn": "The level of qualification decides who survives the change."
+  },
+  {
+   "n": 15,
+   "de": "Transformationsdruck",
+   "type": "der",
+   "en": "pressure to transform",
+   "exDe": "Der Transformationsdruck trifft ganze Branchen gleichzeitig.",
+   "exEn": "The pressure to transform hits whole sectors at once."
+  },
+  {
+   "n": 16,
+   "de": "Disruption",
+   "type": "die",
+   "en": "disruption",
+   "exDe": "Von Disruption spricht man erst hinterher.",
+   "exEn": "People only speak of disruption afterwards."
+  },
+  {
+   "n": 17,
+   "de": "Substituierbarkeit",
+   "type": "die",
+   "en": "substitutability",
+   "exDe": "Die Substituierbarkeit einzelner T&auml;tigkeiten l&auml;sst sich berechnen.",
+   "exEn": "The substitutability of individual tasks can be calculated."
+  },
+  {
+   "n": 18,
+   "de": "T&auml;tigkeitsprofil",
+   "type": "das",
+   "en": "job profile",
+   "exDe": "Nicht Berufe verschwinden, sondern T&auml;tigkeitsprofile &auml;ndern sich.",
+   "exEn": "Occupations do not disappear; job profiles change."
+  },
+  {
+   "n": 19,
+   "de": "Routinet&auml;tigkeit",
+   "type": "die",
+   "en": "routine task",
+   "exDe": "Routinet&auml;tigkeiten fallen zuerst weg.",
+   "exEn": "Routine tasks are the first to go."
+  },
+  {
+   "n": 20,
+   "de": "Wissensarbeit",
+   "type": "die",
+   "en": "knowledge work",
+   "exDe": "Wissensarbeit l&auml;sst sich schlecht in Stunden messen.",
+   "exEn": "Knowledge work is hard to measure in hours."
+  },
+  {
+   "n": 21,
+   "de": "Besch&auml;ftigungsf&auml;higkeit",
+   "type": "die",
+   "en": "employability",
+   "exDe": "Besch&auml;ftigungsf&auml;higkeit ersetzt die Sicherheit der Festanstellung.",
+   "exEn": "Employability replaces the security of a permanent post."
+  },
+  {
+   "n": 22,
+   "de": "Erwerbsbiografie",
+   "type": "die",
+   "en": "employment biography",
+   "exDe": "Die l&uuml;ckenlose Erwerbsbiografie ist die Ausnahme geworden.",
+   "exEn": "The unbroken employment biography has become the exception."
+  },
+  {
+   "n": 23,
+   "de": "Freisetzung",
+   "type": "die",
+   "en": "laying off of staff",
+   "exDe": "Freisetzung nennt man, was fr&uuml;her Entlassung hie&szlig;.",
+   "exEn": "What used to be called dismissal is now called release."
+  },
+  {
+   "n": 24,
+   "de": "Sozialpartnerschaft",
+   "type": "die",
+   "en": "social partnership",
+   "exDe": "Die Sozialpartnerschaft federt den Wandel ab, wo sie funktioniert.",
+   "exEn": "Social partnership cushions change where it works."
+  },
+  {
+   "n": 25,
+   "de": "umlernen",
+   "type": "tr. &middot; lernt um",
+   "en": "to retrain, to unlearn and relearn",
+   "exDe": "Mit f&uuml;nfzig umzulernen ist m&ouml;glich, aber selten vorgesehen.",
+   "exEn": "Retraining at fifty is possible but rarely provided for."
+  },
+  {
+   "n": 26,
+   "de": "dazulernen",
+   "type": "tr. &middot; lernt dazu",
+   "en": "to learn something new",
+   "exDe": "Wer aufh&ouml;rt dazuzulernen, f&auml;llt in drei Jahren zur&uuml;ck.",
+   "exEn": "Whoever stops learning falls behind within three years."
+  },
+  {
+   "n": 27,
+   "de": "nachschulen",
+   "type": "tr. &middot; schult nach",
+   "en": "to give supplementary training",
+   "exDe": "Nachgeschult wird meist erst nach dem Fehler.",
+   "exEn": "Supplementary training usually comes only after the mistake."
+  },
+  {
+   "n": 28,
+   "de": "umqualifizieren",
+   "type": "refl. &middot; qualifiziert sich um",
+   "en": "to requalify",
+   "exDe": "Viele qualifizieren sich in die Pflege um.",
+   "exEn": "Many requalify into the care sector."
+  },
+  {
+   "n": 29,
+   "de": "weiterqualifizieren",
+   "type": "refl. &middot; qualifiziert sich weiter",
+   "en": "to gain further qualifications",
+   "exDe": "Wer sich weiterqualifiziert, tut es meist in der Freizeit.",
+   "exEn": "Those who gain further qualifications usually do so in their free time."
+  },
+  {
+   "n": 30,
+   "de": "veralten",
+   "type": "untr. &middot; ist veraltet",
+   "en": "to become outdated",
+   "exDe": "Fachwissen veraltet schneller als Berufserfahrung.",
+   "exEn": "Specialist knowledge becomes outdated faster than experience."
+  },
+  {
+   "n": 31,
+   "de": "mithalten",
+   "type": "verb + mit + Dat.",
+   "en": "to keep up with",
+   "exDe": "Mit dem Tempo hielt der Mittelstand lange mit.",
+   "exEn": "For a long time medium-sized firms kept up with the pace."
+  },
+  {
+   "n": 32,
+   "de": "nachziehen",
+   "type": "untr. &middot; hat nachgezogen",
+   "en": "to follow suit",
+   "exDe": "Die Tarifpartner zogen erst zwei Jahre sp&auml;ter nach.",
+   "exEn": "The bargaining partners only followed suit two years later."
+  },
+  {
+   "n": 33,
+   "de": "substituieren",
+   "type": "untr. &middot; hat substituiert",
+   "en": "to substitute",
+   "exDe": "Substituiert werden T&auml;tigkeiten, nicht Menschen.",
+   "exEn": "It is tasks that are substituted, not people."
+  },
+  {
+   "n": 34,
+   "de": "rationalisieren",
+   "type": "untr. &middot; hat rationalisiert",
+   "en": "to rationalise, to streamline",
+   "exDe": "Rationalisiert wird dort, wo gemessen werden kann.",
+   "exEn": "Rationalisation happens where measurement is possible."
+  },
+  {
+   "n": 35,
+   "de": "standardisieren",
+   "type": "untr. &middot; hat standardisiert",
+   "en": "to standardise",
+   "exDe": "Was sich standardisieren l&auml;sst, l&auml;sst sich automatisieren.",
+   "exEn": "What can be standardised can be automated."
+  },
+  {
+   "n": 36,
+   "de": "verdichten",
+   "type": "refl. &middot; verdichtet sich",
+   "en": "to intensify",
+   "exDe": "Die Arbeit verdichtet sich, die Stundenzahl bleibt gleich.",
+   "exEn": "Work intensifies while the number of hours stays the same."
+  },
+  {
+   "n": 37,
+   "de": "umstrukturieren",
+   "type": "untr. &middot; hat umstrukturiert",
+   "en": "to restructure",
+   "exDe": "Umstrukturiert wird meist ohne die Betroffenen.",
+   "exEn": "Restructuring usually happens without those affected."
+  },
+  {
+   "n": 38,
+   "de": "umbauen",
+   "type": "tr. &middot; baut um",
+   "en": "to reshape, to convert",
+   "exDe": "Ganze Werke werden auf Elektroantrieb umgebaut.",
+   "exEn": "Whole plants are being converted to electric drive."
+  },
+  {
+   "n": 39,
+   "de": "zuschneiden",
+   "type": "verb + auf + Akk.",
+   "en": "to tailor to",
+   "exDe": "Angebote muss man auf die Zielgruppe zuschneiden.",
+   "exEn": "Programmes have to be tailored to the target group."
+  },
+  {
+   "n": 40,
+   "de": "verzahnen",
+   "type": "tr. &middot; verzahnt",
+   "en": "to interlock, to dovetail",
+   "exDe": "Betrieb und Berufsschule sind eng verzahnt.",
+   "exEn": "Company and vocational school are closely dovetailed."
+  },
+  {
+   "n": 41,
+   "de": "flankieren",
+   "type": "untr. &middot; hat flankiert",
+   "en": "to accompany with supporting measures",
+   "exDe": "Der Umbau muss sozialpolitisch flankiert werden.",
+   "exEn": "The restructuring has to be accompanied by social measures."
+  },
+  {
+   "n": 42,
+   "de": "wappnen",
+   "type": "refl. &middot; wappnet sich",
+   "en": "to prepare oneself",
+   "exDe": "Gegen Ver&auml;nderung kann man sich nicht wappnen, nur mitgehen.",
+   "exEn": "You cannot arm yourself against change, only move with it."
+  },
+  {
+   "n": 43,
+   "de": "lernf&auml;hig",
+   "type": "adj.",
+   "en": "capable of learning",
+   "exDe": "Organisationen sind selten so lernf&auml;hig wie ihre Mitarbeiter.",
+   "exEn": "Organisations are rarely as capable of learning as their staff."
+  },
+  {
+   "n": 44,
+   "de": "weiterbildungsbereit",
+   "type": "adj.",
+   "en": "willing to train further",
+   "exDe": "Weiterbildungsbereite Belegschaften sind kein Zufall.",
+   "exEn": "Workforces willing to train are no accident."
+  },
+  {
+   "n": 45,
+   "de": "nebenberuflich",
+   "type": "adj.",
+   "en": "part-time alongside one&rsquo;s job",
+   "exDe": "Nebenberufliche Angebote scheitern oft an der Zeit.",
+   "exEn": "Part-time programmes often fail for lack of time."
+  },
+  {
+   "n": 46,
+   "de": "arbeitsmarktnah",
+   "type": "adj.",
+   "en": "close to the labour market",
+   "exDe": "Arbeitsmarktnahe Qualifizierung wirkt schneller.",
+   "exEn": "Labour-market-oriented training works faster."
+  },
+  {
+   "n": 47,
+   "de": "fach&uuml;bergreifend",
+   "type": "adj.",
+   "en": "interdisciplinary",
+   "exDe": "Fach&uuml;bergreifende F&auml;higkeiten altern langsamer.",
+   "exEn": "Interdisciplinary skills age more slowly."
+  },
+  {
+   "n": 48,
+   "de": "substituierbar",
+   "type": "adj.",
+   "en": "substitutable",
+   "exDe": "Kaum ein Beruf ist vollst&auml;ndig substituierbar.",
+   "exEn": "Hardly any occupation is entirely substitutable."
+  },
+  {
+   "n": 49,
+   "de": "routinem&auml;&szlig;ig",
+   "type": "adj.",
+   "en": "routine",
+   "exDe": "Routinem&auml;&szlig;ige Schritte verschwinden zuerst.",
+   "exEn": "Routine steps disappear first."
+  },
+  {
+   "n": 50,
+   "de": "wissensintensiv",
+   "type": "adj.",
+   "en": "knowledge-intensive",
+   "exDe": "Wissensintensive T&auml;tigkeiten wachsen am st&auml;rksten.",
+   "exEn": "Knowledge-intensive activities are growing fastest."
+  },
+  {
+   "n": 51,
+   "de": "besch&auml;ftigungsf&auml;hig",
+   "type": "adj.",
+   "en": "employable",
+   "exDe": "Besch&auml;ftigungsf&auml;hig bleibt, wer sich anpasst.",
+   "exEn": "Those who adapt remain employable."
+  },
+  {
+   "n": 52,
+   "de": "zukunftsfest",
+   "type": "adj.",
+   "en": "future-proof",
+   "exDe": "Kein Beruf ist dauerhaft zukunftsfest.",
+   "exEn": "No occupation is permanently future-proof."
+  },
+  {
+   "n": 53,
+   "de": "sich auf dem Stand halten",
+   "type": "N+V &middot; h&auml;lt sich auf dem Stand",
+   "en": "to keep oneself up to date",
+   "exDe": "Sich auf dem Stand zu halten ist Arbeit.",
+   "exEn": "Keeping oneself up to date is work."
+  },
+  {
+   "n": 54,
+   "de": "sich fortbilden",
+   "type": "N+V &middot; bildet sich fort",
+   "en": "to undertake further training",
+   "exDe": "Wer sich fortbildet, verhandelt sp&auml;ter besser.",
+   "exEn": "Those who train further negotiate better later."
+  },
+  {
+   "n": 55,
+   "de": "Kompetenzen aufbauen",
+   "type": "N+V &middot; baut Kompetenzen auf",
+   "en": "to build up competences",
+   "exDe": "Kompetenzen baut man &uuml;ber Jahre auf, nicht in Kursen.",
+   "exEn": "Competences are built over years, not in courses."
+  },
+  {
+   "n": 56,
+   "de": "ins Hintertreffen geraten",
+   "type": "N+V &middot; ger&auml;t ins Hintertreffen",
+   "en": "to fall behind",
+   "exDe": "Ins Hintertreffen ger&auml;t man leise und merkt es sp&auml;t.",
+   "exEn": "You fall behind quietly and notice it late."
+  },
+  {
+   "n": 57,
+   "de": "beruflich umsteigen",
+   "type": "N+V &middot; steigt beruflich um",
+   "en": "to change career",
+   "exDe": "Beruflich umzusteigen ist keine Niederlage.",
+   "exEn": "Changing career is not a defeat."
+  },
+  {
+   "n": 58,
+   "de": "Arbeitspl&auml;tze sichern",
+   "type": "N+V &middot; sichert Arbeitspl&auml;tze",
+   "en": "to safeguard jobs",
+   "exDe": "Arbeitspl&auml;tze sichert man durch Qualifizierung, nicht durch Subventionen.",
+   "exEn": "Jobs are safeguarded through training, not subsidies."
+  },
+  {
+   "n": 59,
+   "de": "Erfahrung anerkennen",
+   "type": "N+V &middot; erkennt Erfahrung an",
+   "en": "to recognise experience",
+   "exDe": "Erfahrung anerkennen kostet nichts und wirkt sofort.",
+   "exEn": "Recognising experience costs nothing and works at once."
+  },
+  {
+   "n": 60,
+   "de": "den Wandel gestalten",
+   "type": "N+V &middot; gestaltet den Wandel",
+   "en": "to shape the change",
+   "exDe": "Den Wandel gestalten hei&szlig;t, ihn nicht nur zu erleiden.",
+   "exEn": "Shaping change means not merely enduring it."
+  }
+ ],
+ "groups": [
+  "Lebenslanges Lernen &middot; Learning After School",
+  "Transformation &middot; What Is Changing at Work",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

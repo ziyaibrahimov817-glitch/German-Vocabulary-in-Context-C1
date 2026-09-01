@@ -1,0 +1,491 @@
+{
+ "unit": 11,
+ "title_de": "Wohnen &amp; Stadtentwicklung",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Wohnraumknappheit",
+   "type": "die",
+   "en": "shortage of housing",
+   "exDe": "Die Wohnraumknappheit ist kein Naturereignis.",
+   "exEn": "The housing shortage is not a natural event."
+  },
+  {
+   "n": 2,
+   "de": "Angebotsmiete",
+   "type": "die",
+   "en": "asking rent",
+   "exDe": "Die Angebotsmiete liegt weit &uuml;ber der Bestandsmiete.",
+   "exEn": "The asking rent is far above the rent of existing tenancies."
+  },
+  {
+   "n": 3,
+   "de": "Bestandsmiete",
+   "type": "die",
+   "en": "rent of an existing tenancy",
+   "exDe": "Wer lange wohnt, zahlt eine niedrige Bestandsmiete.",
+   "exEn": "Whoever has lived somewhere long pays a low existing rent."
+  },
+  {
+   "n": 4,
+   "de": "Vergleichsmiete",
+   "type": "die",
+   "en": "comparable local rent",
+   "exDe": "Die ortsübliche Vergleichsmiete bestimmt die Obergrenze.",
+   "exEn": "The customary local comparable rent sets the ceiling."
+  },
+  {
+   "n": 5,
+   "de": "Kappungsgrenze",
+   "type": "die",
+   "en": "cap on rent increases",
+   "exDe": "Die Kappungsgrenze begrenzt die Erh&ouml;hung in drei Jahren.",
+   "exEn": "The cap limits increases over three years."
+  },
+  {
+   "n": 6,
+   "de": "Modernisierungsumlage",
+   "type": "die",
+   "en": "modernisation surcharge",
+   "exDe": "&Uuml;ber die Modernisierungsumlage wird die Miete dauerhaft angehoben.",
+   "exEn": "Through the modernisation surcharge rent is permanently raised."
+  },
+  {
+   "n": 7,
+   "de": "Eigenbedarfsk&uuml;ndigung",
+   "type": "die",
+   "en": "notice for personal use",
+   "exDe": "Die Eigenbedarfsk&uuml;ndigung ist der h&auml;ufigste Weg hinaus.",
+   "exEn": "Notice for personal use is the commonest way out."
+  },
+  {
+   "n": 8,
+   "de": "Bestandsschutz",
+   "type": "der",
+   "en": "protection of existing rights",
+   "exDe": "Bestandsschutz gilt f&uuml;r den Vertrag, nicht f&uuml;r das Haus.",
+   "exEn": "Protection applies to the contract, not to the building."
+  },
+  {
+   "n": 9,
+   "de": "Wohnkostenquote",
+   "type": "die",
+   "en": "share of income spent on housing",
+   "exDe": "Bei einem Drittel der Haushalte liegt die Wohnkostenquote &uuml;ber vierzig Prozent.",
+   "exEn": "For a third of households housing costs exceed forty per cent."
+  },
+  {
+   "n": 10,
+   "de": "Zweckentfremdung",
+   "type": "die",
+   "en": "misuse of residential space",
+   "exDe": "Zweckentfremdung ist verboten und schwer nachzuweisen.",
+   "exEn": "Misuse of residential space is prohibited and hard to prove."
+  },
+  {
+   "n": 11,
+   "de": "Sozialbindung",
+   "type": "die",
+   "en": "social housing commitment",
+   "exDe": "L&auml;uft die Sozialbindung aus, verschwindet die Wohnung vom Markt.",
+   "exEn": "When the social commitment expires the flat vanishes from the market."
+  },
+  {
+   "n": 12,
+   "de": "Belegungsrecht",
+   "type": "das",
+   "en": "allocation right",
+   "exDe": "Ein Belegungsrecht sichert der Stadt den Zugriff.",
+   "exEn": "An allocation right secures the city access."
+  },
+  {
+   "n": 13,
+   "de": "Vorkaufsrecht",
+   "type": "das",
+   "en": "right of first refusal",
+   "exDe": "Das Vorkaufsrecht wurde gerichtlich stark eingeschr&auml;nkt.",
+   "exEn": "The right of first refusal was strongly restricted by the courts."
+  },
+  {
+   "n": 14,
+   "de": "Umwandlungsverbot",
+   "type": "das",
+   "en": "ban on conversion to owner-occupation",
+   "exDe": "Das Umwandlungsverbot sch&uuml;tzt Mieter vor dem Verkauf.",
+   "exEn": "The conversion ban protects tenants from a sale."
+  },
+  {
+   "n": 15,
+   "de": "Baulandausweisung",
+   "type": "die",
+   "en": "designation of building land",
+   "exDe": "Jede Baulandausweisung ist eine Verteilungsentscheidung.",
+   "exEn": "Every designation of building land is a distributive decision."
+  },
+  {
+   "n": 16,
+   "de": "Erschlie&szlig;ungskosten",
+   "type": "die (pl)",
+   "en": "development costs",
+   "exDe": "Die Erschlie&szlig;ungskosten tr&auml;gt am Ende die Allgemeinheit.",
+   "exEn": "Development costs are ultimately borne by the public."
+  },
+  {
+   "n": 17,
+   "de": "Innenentwicklung",
+   "type": "die",
+   "en": "inner-city development",
+   "exDe": "Innenentwicklung ist billiger als neue Baugebiete.",
+   "exEn": "Inner-city development is cheaper than new estates."
+  },
+  {
+   "n": 18,
+   "de": "Fl&auml;chenkonkurrenz",
+   "type": "die",
+   "en": "competition for land",
+   "exDe": "Zwischen Wohnen, Gewerbe und Gr&uuml;n herrscht Fl&auml;chenkonkurrenz.",
+   "exEn": "There is competition for land between housing, business and greenery."
+  },
+  {
+   "n": 19,
+   "de": "Fl&auml;chenversiegelung",
+   "type": "die",
+   "en": "soil sealing",
+   "exDe": "Die Fl&auml;chenversiegelung nimmt trotz aller Ziele zu.",
+   "exEn": "Soil sealing is increasing despite all the targets."
+  },
+  {
+   "n": 20,
+   "de": "Schwammstadt",
+   "type": "die",
+   "en": "sponge city",
+   "exDe": "Das Prinzip der Schwammstadt h&auml;lt Regen in der Fl&auml;che.",
+   "exEn": "The sponge city principle keeps rain in the ground."
+  },
+  {
+   "n": 21,
+   "de": "Stadtklima",
+   "type": "das",
+   "en": "urban climate",
+   "exDe": "Das Stadtklima entscheidet &uuml;ber die Sommertauglichkeit.",
+   "exEn": "The urban climate decides whether a city is liveable in summer."
+  },
+  {
+   "n": 22,
+   "de": "Quartiersentwicklung",
+   "type": "die",
+   "en": "neighbourhood development",
+   "exDe": "Quartiersentwicklung braucht zehn Jahre und drei Wahlperioden.",
+   "exEn": "Neighbourhood development needs ten years and three electoral terms."
+  },
+  {
+   "n": 23,
+   "de": "Sozialraum",
+   "type": "der",
+   "en": "social space of a neighbourhood",
+   "exDe": "Der Sozialraum entscheidet mit &uuml;ber Bildungschancen.",
+   "exEn": "The social space of a neighbourhood co-determines educational chances."
+  },
+  {
+   "n": 24,
+   "de": "Siedlungsdruck",
+   "type": "der",
+   "en": "pressure on settlement areas",
+   "exDe": "Der Siedlungsdruck verlagert sich ins Umland.",
+   "exEn": "Settlement pressure is shifting to the surrounding area."
+  },
+  {
+   "n": 25,
+   "de": "entmieten",
+   "type": "tr. &middot; entmietet",
+   "en": "to clear a building of tenants",
+   "exDe": "Entmietet wird selten offen, meistens geduldig.",
+   "exEn": "Buildings are rarely cleared openly, usually patiently."
+  },
+  {
+   "n": 26,
+   "de": "luxussanieren",
+   "type": "untr. &middot; hat luxussaniert",
+   "en": "to upgrade to luxury standard",
+   "exDe": "Luxussaniert wird, was sich anschlie&szlig;end verkaufen l&auml;sst.",
+   "exEn": "What is upgraded to luxury is what can then be sold."
+  },
+  {
+   "n": 27,
+   "de": "entkernen",
+   "type": "untr. &middot; hat entkernt",
+   "en": "to gut (a building)",
+   "exDe": "Ein entkerntes Haus verliert seine alten Mieter.",
+   "exEn": "A gutted house loses its old tenants."
+  },
+  {
+   "n": 28,
+   "de": "umwandeln",
+   "type": "tr. &middot; wandelt um",
+   "en": "to convert (to owner-occupation)",
+   "exDe": "Umgewandelt wird zuerst in gefragten Lagen.",
+   "exEn": "Conversion happens first in sought-after locations."
+  },
+  {
+   "n": 29,
+   "de": "herrichten",
+   "type": "tr. &middot; richtet her",
+   "en": "to do up",
+   "exDe": "Hergerichtet wird nur, was die Miete rechtfertigt.",
+   "exEn": "Only what justifies the rent gets done up."
+  },
+  {
+   "n": 30,
+   "de": "instandhalten",
+   "type": "tr. &middot; h&auml;lt instand",
+   "en": "to maintain",
+   "exDe": "Instandhalten ist Pflicht, Modernisieren nicht.",
+   "exEn": "Maintaining is an obligation, modernising is not."
+  },
+  {
+   "n": 31,
+   "de": "spekulieren",
+   "type": "verb + mit + Dat.",
+   "en": "to speculate",
+   "exDe": "Wer mit Boden spekuliert, riskiert nichts.",
+   "exEn": "Whoever speculates with land risks nothing."
+  },
+  {
+   "n": 32,
+   "de": "hochtreiben",
+   "type": "tr. &middot; treibt hoch",
+   "en": "to drive up",
+   "exDe": "Wenige Verk&auml;ufe treiben den ganzen Markt hoch.",
+   "exEn": "A few sales drive up the entire market."
+  },
+  {
+   "n": 33,
+   "de": "kappen",
+   "type": "tr. &middot; kappt",
+   "en": "to cap",
+   "exDe": "Gekappt wird die Erh&ouml;hung, nicht die Miete.",
+   "exEn": "It is the increase that is capped, not the rent."
+  },
+  {
+   "n": 34,
+   "de": "befristen",
+   "type": "untr. &middot; hat befristet",
+   "en": "to limit in time",
+   "exDe": "Befristete Regeln laufen aus, das Problem nicht.",
+   "exEn": "Time-limited rules expire, the problem does not."
+  },
+  {
+   "n": 35,
+   "de": "vorkaufen",
+   "type": "tr. &middot; kauft vor",
+   "en": "to exercise a pre-emption right",
+   "exDe": "Vorgekauft hat die Stadt zu selten und zu sp&auml;t.",
+   "exEn": "The city exercised pre-emption too rarely and too late."
+  },
+  {
+   "n": 36,
+   "de": "zur&uuml;ckkaufen",
+   "type": "tr. &middot; kauft zur&uuml;ck",
+   "en": "to buy back",
+   "exDe": "Zur&uuml;ckgekauft wird heute teurer als einst verkauft.",
+   "exEn": "Buying back today costs more than the original sale."
+  },
+  {
+   "n": 37,
+   "de": "rekommunalisieren",
+   "type": "untr. &middot; hat rekommunalisiert",
+   "en": "to bring back into public ownership",
+   "exDe": "Rekommunalisiert wird, was privat gescheitert ist.",
+   "exEn": "What has failed privately is brought back into public ownership."
+  },
+  {
+   "n": 38,
+   "de": "vergeben",
+   "type": "untr. &middot; hat vergeben",
+   "en": "to award, to allocate",
+   "exDe": "Vergeben wird nach Konzept, nicht nach H&ouml;chstgebot.",
+   "exEn": "Land is awarded by concept, not by highest bid."
+  },
+  {
+   "n": 39,
+   "de": "festsetzen",
+   "type": "tr. &middot; setzt fest",
+   "en": "to lay down, to stipulate",
+   "exDe": "Im Bebauungsplan wird jede H&ouml;he festgesetzt.",
+   "exEn": "Every height is stipulated in the development plan."
+  },
+  {
+   "n": 40,
+   "de": "versiegeln",
+   "type": "untr. &middot; hat versiegelt",
+   "en": "to seal (soil)",
+   "exDe": "Versiegelt wird schneller, als entsiegelt werden kann.",
+   "exEn": "Sealing happens faster than unsealing can."
+  },
+  {
+   "n": 41,
+   "de": "zersiedeln",
+   "type": "untr. &middot; hat zersiedelt",
+   "en": "to cause urban sprawl",
+   "exDe": "Zersiedelt wird dort, wo Bauland billig ist.",
+   "exEn": "Sprawl happens where building land is cheap."
+  },
+  {
+   "n": 42,
+   "de": "hinnehmen",
+   "type": "tr. &middot; nimmt hin",
+   "en": "to accept, to put up with",
+   "exDe": "Steigende Mieten nimmt man nicht ewig hin.",
+   "exEn": "Rising rents are not accepted forever."
+  },
+  {
+   "n": 43,
+   "de": "mietgebunden",
+   "type": "adj.",
+   "en": "rent-controlled",
+   "exDe": "Mietgebundene Wohnungen werden j&auml;hrlich weniger.",
+   "exEn": "Rent-controlled flats become fewer every year."
+  },
+  {
+   "n": 44,
+   "de": "preisged&auml;mpft",
+   "type": "adj.",
+   "en": "with moderated prices",
+   "exDe": "Preisged&auml;mpfter Wohnraum entsteht nur mit Auflagen.",
+   "exEn": "Moderately priced housing only arises with conditions."
+  },
+  {
+   "n": 45,
+   "de": "umk&auml;mpft",
+   "type": "adj.",
+   "en": "fiercely contested",
+   "exDe": "In umk&auml;mpften Wohnungsm&auml;rkten gelten Sonderregeln.",
+   "exEn": "Special rules apply in fiercely contested housing markets."
+  },
+  {
+   "n": 46,
+   "de": "spekulationsgetrieben",
+   "type": "adj.",
+   "en": "driven by speculation",
+   "exDe": "Spekulationsgetriebene Preise l&ouml;sen sich nicht von selbst.",
+   "exEn": "Prices driven by speculation do not resolve themselves."
+  },
+  {
+   "n": 47,
+   "de": "innerst&auml;dtisch",
+   "type": "adj.",
+   "en": "inner-city",
+   "exDe": "Innerst&auml;dtische Fl&auml;chen sind faktisch aufgebraucht.",
+   "exEn": "Inner-city land is effectively used up."
+  },
+  {
+   "n": 48,
+   "de": "zentrumsnah",
+   "type": "adj.",
+   "en": "close to the centre",
+   "exDe": "Zentrumsnah wohnen nur noch zwei Gruppen.",
+   "exEn": "Only two groups still live close to the centre."
+  },
+  {
+   "n": 49,
+   "de": "peripher",
+   "type": "adj.",
+   "en": "peripheral",
+   "exDe": "Periphere Lagen brauchen Verkehr, nicht Preise.",
+   "exEn": "Peripheral locations need transport, not prices."
+  },
+  {
+   "n": 50,
+   "de": "fu&szlig;l&auml;ufig",
+   "type": "adj.",
+   "en": "within walking distance",
+   "exDe": "Fu&szlig;l&auml;ufige Versorgung ist der beste Klimaschutz.",
+   "exEn": "Amenities within walking distance are the best climate protection."
+  },
+  {
+   "n": 51,
+   "de": "nutzungsgemischt",
+   "type": "adj.",
+   "en": "mixed-use",
+   "exDe": "Nutzungsgemischte Quartiere sterben abends nicht aus.",
+   "exEn": "Mixed-use neighbourhoods do not die out in the evening."
+  },
+  {
+   "n": 52,
+   "de": "klimaangepasst",
+   "type": "adj.",
+   "en": "climate-adapted",
+   "exDe": "Klimaangepasstes Bauen kostet heute, spart morgen.",
+   "exEn": "Climate-adapted construction costs today and saves tomorrow."
+  },
+  {
+   "n": 53,
+   "de": "Mieten begrenzen",
+   "type": "N+V &middot; begrenzt Mieten",
+   "en": "to limit rents",
+   "exDe": "Mieten begrenzen l&ouml;st den Mangel nicht, mildert ihn aber.",
+   "exEn": "Limiting rents does not solve the shortage but eases it."
+  },
+  {
+   "n": 54,
+   "de": "Bestand aktivieren",
+   "type": "N+V &middot; aktiviert den Bestand",
+   "en": "to activate existing stock",
+   "exDe": "Den Bestand zu aktivieren geht schneller als jeder Neubau.",
+   "exEn": "Activating existing stock is faster than any new building."
+  },
+  {
+   "n": 55,
+   "de": "aus dem Viertel verschwinden",
+   "type": "N+V &middot; verschwindet aus dem Viertel",
+   "en": "to disappear from the neighbourhood",
+   "exDe": "Aus dem Viertel verschwinden zuerst die L&auml;den.",
+   "exEn": "The shops are the first to disappear from the neighbourhood."
+  },
+  {
+   "n": 56,
+   "de": "die Miete aufbringen",
+   "type": "N+V &middot; bringt die Miete auf",
+   "en": "to afford the rent",
+   "exDe": "Die Miete aufbringen k&ouml;nnen viele nur noch zu zweit.",
+   "exEn": "Many can only afford the rent as a couple."
+  },
+  {
+   "n": 57,
+   "de": "Fl&auml;chen ausweisen",
+   "type": "N+V &middot; weist Fl&auml;chen aus",
+   "en": "to designate land",
+   "exDe": "Fl&auml;chen ausweisen ist einfacher als sie zu erschlie&szlig;en.",
+   "exEn": "Designating land is easier than developing it."
+  },
+  {
+   "n": 58,
+   "de": "die Stadt verdichten",
+   "type": "N+V &middot; verdichtet die Stadt",
+   "en": "to increase urban density",
+   "exDe": "Die Stadt verdichten hei&szlig;t nicht, sie zuzubauen.",
+   "exEn": "Increasing density does not mean building over everything."
+  },
+  {
+   "n": 59,
+   "de": "Gr&uuml;nfl&auml;chen erhalten",
+   "type": "N+V &middot; erh&auml;lt Gr&uuml;nfl&auml;chen",
+   "en": "to preserve green space",
+   "exDe": "Gr&uuml;nfl&auml;chen erhalten kostet nichts und wird trotzdem versch&auml;umt.",
+   "exEn": "Preserving green space costs nothing and is still squandered."
+  },
+  {
+   "n": 60,
+   "de": "das Quartier beleben",
+   "type": "N+V &middot; belebt das Quartier",
+   "en": "to bring a neighbourhood to life",
+   "exDe": "Ein Quartier belebt man mit Erdgeschossen, nicht mit Fassaden.",
+   "exEn": "A neighbourhood is brought to life with ground floors, not facades."
+  }
+ ],
+ "groups": [
+  "Wohnungsmarkt &middot; Rent, Rights and Displacement",
+  "Stadtentwicklung &middot; Land, Density and Climate",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

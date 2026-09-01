@@ -1,0 +1,491 @@
+{
+ "unit": 15,
+ "title_de": "Klimakrise &amp; Gerechtigkeit",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Emissionsbudget",
+   "type": "das",
+   "en": "emissions budget",
+   "exDe": "Das Emissionsbudget ist eine Menge, kein Zeitpunkt.",
+   "exEn": "The emissions budget is a quantity, not a date."
+  },
+  {
+   "n": 2,
+   "de": "Restbudget",
+   "type": "das",
+   "en": "remaining budget",
+   "exDe": "Das Restbudget reicht bei heutigem Tempo sechs Jahre.",
+   "exEn": "At today's pace the remaining budget lasts six years."
+  },
+  {
+   "n": 3,
+   "de": "Pro-Kopf-Emission",
+   "type": "die",
+   "en": "per capita emissions",
+   "exDe": "&Uuml;ber Pro-Kopf-Emissionen sieht die Rangliste anders aus.",
+   "exEn": "Measured per capita the ranking looks different."
+  },
+  {
+   "n": 4,
+   "de": "Emissionsintensit&auml;t",
+   "type": "die",
+   "en": "emissions intensity",
+   "exDe": "Die Emissionsintensit&auml;t sinkt, die Gesamtmenge nicht.",
+   "exEn": "Emissions intensity is falling, the total amount is not."
+  },
+  {
+   "n": 5,
+   "de": "Emissionsl&uuml;cke",
+   "type": "die",
+   "en": "emissions gap",
+   "exDe": "Die Emissionsl&uuml;cke ist der Abstand zwischen Zusage und Wirkung.",
+   "exEn": "The emissions gap is the distance between pledge and effect."
+  },
+  {
+   "n": 6,
+   "de": "Minderungsziel",
+   "type": "das",
+   "en": "reduction target",
+   "exDe": "Jedes Minderungsziel wird an der Basislinie gemessen.",
+   "exEn": "Every reduction target is measured against a baseline."
+  },
+  {
+   "n": 7,
+   "de": "Zielverfehlung",
+   "type": "die",
+   "en": "failure to meet a target",
+   "exDe": "Die Zielverfehlung hat bislang keine Folgen.",
+   "exEn": "Failure to meet the target has so far had no consequences."
+  },
+  {
+   "n": 8,
+   "de": "Nachsch&auml;rfung",
+   "type": "die",
+   "en": "tightening of targets",
+   "exDe": "Ohne Nachsch&auml;rfung bleiben Zusagen Rechenexempel.",
+   "exEn": "Without tightening, pledges remain arithmetic exercises."
+  },
+  {
+   "n": 9,
+   "de": "Treibhausgasbilanz",
+   "type": "die",
+   "en": "greenhouse gas balance",
+   "exDe": "Die Treibhausgasbilanz endet meist an der Landesgrenze.",
+   "exEn": "The greenhouse gas balance usually stops at the border."
+  },
+  {
+   "n": 10,
+   "de": "Kohlenstoffsenke",
+   "type": "die",
+   "en": "carbon sink",
+   "exDe": "Eine Kohlenstoffsenke bindet, solange sie steht.",
+   "exEn": "A carbon sink stores as long as it stands."
+  },
+  {
+   "n": 11,
+   "de": "R&uuml;ckkopplung",
+   "type": "die",
+   "en": "feedback loop",
+   "exDe": "Eine R&uuml;ckkopplung verst&auml;rkt, was ohnehin geschieht.",
+   "exEn": "A feedback loop amplifies what is happening anyway."
+  },
+  {
+   "n": 12,
+   "de": "Pfadabh&auml;ngigkeit",
+   "type": "die",
+   "en": "path dependency",
+   "exDe": "Pfadabh&auml;ngigkeit erkl&auml;rt, warum Umsteuern so teuer ist.",
+   "exEn": "Path dependency explains why changing course is so expensive."
+  },
+  {
+   "n": 13,
+   "de": "Dekarbonisierung",
+   "type": "die",
+   "en": "decarbonisation",
+   "exDe": "Die Dekarbonisierung der Industrie ist die schwierigste.",
+   "exEn": "Decarbonising industry is the hardest part."
+  },
+  {
+   "n": 14,
+   "de": "Grenzausgleich",
+   "type": "der",
+   "en": "carbon border adjustment",
+   "exDe": "Der Grenzausgleich soll Verlagerung verhindern.",
+   "exEn": "The border adjustment is meant to prevent relocation."
+  },
+  {
+   "n": 15,
+   "de": "Kompensationsmarkt",
+   "type": "der",
+   "en": "offset market",
+   "exDe": "Der Kompensationsmarkt lebt von schwer pr&uuml;fbaren Versprechen.",
+   "exEn": "The offset market lives on promises hard to verify."
+  },
+  {
+   "n": 16,
+   "de": "Lastenteilung",
+   "type": "die",
+   "en": "burden sharing",
+   "exDe": "&Uuml;ber die Lastenteilung wird seit dreissig Jahren verhandelt.",
+   "exEn": "Burden sharing has been negotiated for thirty years."
+  },
+  {
+   "n": 17,
+   "de": "Klimafinanzierung",
+   "type": "die",
+   "en": "climate finance",
+   "exDe": "Die Klimafinanzierung wird gez&auml;hlt, bevor sie flie&szlig;t.",
+   "exEn": "Climate finance is counted before it flows."
+  },
+  {
+   "n": 18,
+   "de": "Anpassungsfinanzierung",
+   "type": "die",
+   "en": "adaptation finance",
+   "exDe": "Anpassungsfinanzierung erh&auml;lt einen Bruchteil der Minderungsmittel.",
+   "exEn": "Adaptation finance receives a fraction of mitigation funds."
+  },
+  {
+   "n": 19,
+   "de": "Verlust und Schaden",
+   "type": "der",
+   "en": "loss and damage",
+   "exDe": "Verlust und Schaden meint, was sich nicht mehr anpassen l&auml;sst.",
+   "exEn": "Loss and damage means what can no longer be adapted to."
+  },
+  {
+   "n": 20,
+   "de": "Ausgleichsfonds",
+   "type": "der",
+   "en": "compensation fund",
+   "exDe": "Der Ausgleichsfonds ist beschlossen und kaum gef&uuml;llt.",
+   "exEn": "The compensation fund is agreed and barely filled."
+  },
+  {
+   "n": 21,
+   "de": "Anpassungskapazit&auml;t",
+   "type": "die",
+   "en": "adaptive capacity",
+   "exDe": "Die Anpassungskapazit&auml;t entscheidet, wer &uuml;berlebt.",
+   "exEn": "Adaptive capacity decides who survives."
+  },
+  {
+   "n": 22,
+   "de": "Vulnerabilit&auml;t",
+   "type": "die",
+   "en": "vulnerability",
+   "exDe": "Vulnerabilit&auml;t ist keine Eigenschaft des Wetters.",
+   "exEn": "Vulnerability is not a property of the weather."
+  },
+  {
+   "n": 23,
+   "de": "Technologietransfer",
+   "type": "der",
+   "en": "technology transfer",
+   "exDe": "Ohne Technologietransfer bleibt jede Zusage folgenlos.",
+   "exEn": "Without technology transfer every pledge remains without effect."
+  },
+  {
+   "n": 24,
+   "de": "Rechenschaftslegung",
+   "type": "die",
+   "en": "accountability reporting",
+   "exDe": "Die Rechenschaftslegung ist freiwillig und entsprechend l&uuml;ckenhaft.",
+   "exEn": "Accountability reporting is voluntary and correspondingly patchy."
+  },
+  {
+   "n": 25,
+   "de": "mindern",
+   "type": "tr. &middot; mindert",
+   "en": "to reduce",
+   "exDe": "Gemindert wird zuerst dort, wo es billig ist.",
+   "exEn": "Reduction happens first where it is cheap."
+  },
+  {
+   "n": 26,
+   "de": "dekarbonisieren",
+   "type": "untr. &middot; hat dekarbonisiert",
+   "en": "to decarbonise",
+   "exDe": "Dekarbonisiert wird der Strom, nicht die W&auml;rme.",
+   "exEn": "Electricity is decarbonised, heat is not."
+  },
+  {
+   "n": 27,
+   "de": "veranschlagen",
+   "type": "untr. &middot; hat veranschlagt",
+   "en": "to estimate, to budget for",
+   "exDe": "Die Kosten wurden zu niedrig veranschlagt.",
+   "exEn": "The costs were budgeted too low."
+  },
+  {
+   "n": 28,
+   "de": "zurechnen",
+   "type": "tr. &middot; rechnet zu",
+   "en": "to attribute to",
+   "exDe": "Emissionen rechnet man dem Verbrauch zu, nicht der Produktion.",
+   "exEn": "Emissions are attributed to consumption, not production."
+  },
+  {
+   "n": 29,
+   "de": "aufbringen",
+   "type": "tr. &middot; bringt auf",
+   "en": "to raise (funds)",
+   "exDe": "Die Mittel aufbringen m&uuml;ssten die Verursacher.",
+   "exEn": "It is the polluters who ought to raise the funds."
+  },
+  {
+   "n": 30,
+   "de": "verfehlen",
+   "type": "untr. &middot; hat verfehlt",
+   "en": "to miss (a target)",
+   "exDe": "Verfehlt wurde das Ziel um elf Prozentpunkte.",
+   "exEn": "The target was missed by eleven percentage points."
+  },
+  {
+   "n": 31,
+   "de": "dr&auml;ngen",
+   "type": "verb + auf + Akk.",
+   "en": "to press for",
+   "exDe": "Auf verbindliche Regeln dr&auml;ngen vor allem die Betroffenen.",
+   "exEn": "It is above all those affected who press for binding rules."
+  },
+  {
+   "n": 32,
+   "de": "urgieren",
+   "type": "untr. &middot; hat urgiert",
+   "en": "to press for, to chase up",
+   "exDe": "Urgiert wird j&auml;hrlich, geliefert selten.",
+   "exEn": "Chasing up happens annually, delivery rarely."
+  },
+  {
+   "n": 33,
+   "de": "nachlegen",
+   "type": "untr. &middot; hat nachgelegt",
+   "en": "to add to, to go further",
+   "exDe": "Nachgelegt wird erst nach dem Gerichtsurteil.",
+   "exEn": "More is added only after the court ruling."
+  },
+  {
+   "n": 34,
+   "de": "verschleppen",
+   "type": "untr. &middot; hat verschleppt",
+   "en": "to delay, to drag out",
+   "exDe": "Verschleppt wird, was teuer und unpopul&auml;r ist.",
+   "exEn": "What is expensive and unpopular gets dragged out."
+  },
+  {
+   "n": 35,
+   "de": "versanden",
+   "type": "untr. &middot; ist versandet",
+   "en": "to peter out",
+   "exDe": "Viele Initiativen versanden nach der Konferenz.",
+   "exEn": "Many initiatives peter out after the conference."
+  },
+  {
+   "n": 36,
+   "de": "verpuffen",
+   "type": "untr. &middot; ist verpufft",
+   "en": "to come to nothing",
+   "exDe": "Eine Ank&uuml;ndigung ohne Geld verpufft.",
+   "exEn": "An announcement without money comes to nothing."
+  },
+  {
+   "n": 37,
+   "de": "durchschlagen",
+   "type": "verb + auf + Akk.",
+   "en": "to feed through to",
+   "exDe": "Der Preis schl&auml;gt auf die &auml;rmsten Haushalte durch.",
+   "exEn": "The price feeds through to the poorest households."
+  },
+  {
+   "n": 38,
+   "de": "kippen",
+   "type": "untr. &middot; ist gekippt",
+   "en": "to tip over",
+   "exDe": "Ein System kippt nicht langsam, sondern pl&ouml;tzlich.",
+   "exEn": "A system does not tip slowly but suddenly."
+  },
+  {
+   "n": 39,
+   "de": "&uuml;berschie&szlig;en",
+   "type": "untr. &middot; ist &uuml;berschossen",
+   "en": "to overshoot",
+   "exDe": "&Uuml;berschossen wird das Ziel und dann zur&uuml;ckgerechnet.",
+   "exEn": "The target is overshot and then reckoned back."
+  },
+  {
+   "n": 40,
+   "de": "unterschreiten",
+   "type": "untr. &middot; hat unterschritten",
+   "en": "to fall below",
+   "exDe": "Unterschritten wurde die Marke nur w&auml;hrend der Pandemie.",
+   "exEn": "The mark was only fallen below during the pandemic."
+  },
+  {
+   "n": 41,
+   "de": "abflachen",
+   "type": "untr. &middot; ist abgeflacht",
+   "en": "to level off",
+   "exDe": "Die Kurve flacht ab, sie f&auml;llt nicht.",
+   "exEn": "The curve levels off, it does not fall."
+  },
+  {
+   "n": 42,
+   "de": "auslaufen",
+   "type": "untr. &middot; ist ausgelaufen",
+   "en": "to expire, to be phased out",
+   "exDe": "Ausgelaufen sind die Subventionen, nicht die Anlagen.",
+   "exEn": "The subsidies expired, the plants did not."
+  },
+  {
+   "n": 43,
+   "de": "klimagerecht",
+   "type": "adj.",
+   "en": "climate-just",
+   "exDe": "Klimagerecht hei&szlig;t nicht gleich verteilt.",
+   "exEn": "Climate-just does not mean equally distributed."
+  },
+  {
+   "n": 44,
+   "de": "emissionsintensiv",
+   "type": "adj.",
+   "en": "emissions-intensive",
+   "exDe": "Emissionsintensive Industrien wandern zuerst ab.",
+   "exEn": "Emissions-intensive industries relocate first."
+  },
+  {
+   "n": 45,
+   "de": "historisch verantwortlich",
+   "type": "adj.",
+   "en": "historically responsible",
+   "exDe": "Historisch verantwortlich sind wenige L&auml;nder.",
+   "exEn": "Few countries are historically responsible."
+  },
+  {
+   "n": 46,
+   "de": "v&ouml;lkerrechtlich verbindlich",
+   "type": "adj.",
+   "en": "binding under international law",
+   "exDe": "V&ouml;lkerrechtlich verbindlich ist fast nichts davon.",
+   "exEn": "Almost none of it is binding under international law."
+  },
+  {
+   "n": 47,
+   "de": "freiwillig",
+   "type": "adj.",
+   "en": "voluntary",
+   "exDe": "Freiwillige Zusagen &uuml;berleben keinen Regierungswechsel.",
+   "exEn": "Voluntary pledges do not survive a change of government."
+  },
+  {
+   "n": 48,
+   "de": "kumulativ",
+   "type": "adj.",
+   "en": "cumulative",
+   "exDe": "Entscheidend ist die kumulative Menge, nicht der Jahreswert.",
+   "exEn": "What matters is the cumulative amount, not the annual figure."
+  },
+  {
+   "n": 49,
+   "de": "klimabedingt",
+   "type": "adj.",
+   "en": "climate-induced",
+   "exDe": "Klimabedingte Migration beginnt im eigenen Land.",
+   "exEn": "Climate-induced migration begins within one's own country."
+  },
+  {
+   "n": 50,
+   "de": "s&auml;umig",
+   "type": "adj.",
+   "en": "in arrears, defaulting",
+   "exDe": "S&auml;umige Geberl&auml;nder werden nur h&ouml;flich erw&auml;hnt.",
+   "exEn": "Defaulting donor countries are only mentioned politely."
+  },
+  {
+   "n": 51,
+   "de": "&uuml;berf&auml;llig",
+   "type": "adj.",
+   "en": "overdue",
+   "exDe": "Die Zahlungen sind seit Jahren &uuml;berf&auml;llig.",
+   "exEn": "The payments have been overdue for years."
+  },
+  {
+   "n": 52,
+   "de": "zus&auml;tzlich",
+   "type": "adj.",
+   "en": "additional",
+   "exDe": "Zus&auml;tzlich hei&szlig;t: nicht aus dem Entwicklungsetat.",
+   "exEn": "Additional means: not from the development budget."
+  },
+  {
+   "n": 53,
+   "de": "den Aussto&szlig; drosseln",
+   "type": "N+V &middot; drosselt den Aussto&szlig;",
+   "en": "to curb emissions",
+   "exDe": "Den Aussto&szlig; drosseln muss man dort, wo er entsteht.",
+   "exEn": "Emissions have to be curbed where they arise."
+  },
+  {
+   "n": 54,
+   "de": "Ziele festschreiben",
+   "type": "N+V &middot; schreibt Ziele fest",
+   "en": "to enshrine targets",
+   "exDe": "Ziele festschreiben ist billiger als sie zu erreichen.",
+   "exEn": "Enshrining targets is cheaper than reaching them."
+  },
+  {
+   "n": 55,
+   "de": "Zusagen einhalten",
+   "type": "N+V &middot; h&auml;lt Zusagen ein",
+   "en": "to keep pledges",
+   "exDe": "Zusagen einhalten w&auml;re die einfachste Vertrauensbildung.",
+   "exEn": "Keeping pledges would be the simplest way to build trust."
+  },
+  {
+   "n": 56,
+   "de": "Verantwortung anerkennen",
+   "type": "N+V &middot; erkennt Verantwortung an",
+   "en": "to acknowledge responsibility",
+   "exDe": "Verantwortung anerkennen kostet weniger als Schadensersatz.",
+   "exEn": "Acknowledging responsibility costs less than damages."
+  },
+  {
+   "n": 57,
+   "de": "Sch&auml;den ausgleichen",
+   "type": "N+V &middot; gleicht Sch&auml;den aus",
+   "en": "to compensate for damage",
+   "exDe": "Sch&auml;den ausgleichen kann man nur bezahlen, nicht ungeschehen machen.",
+   "exEn": "Damage can only be paid for, not undone."
+  },
+  {
+   "n": 58,
+   "de": "sich anpassen m&uuml;ssen",
+   "type": "N+V &middot; muss sich anpassen",
+   "en": "to have to adapt",
+   "exDe": "Anpassen m&uuml;ssen sich die, die am wenigsten verursacht haben.",
+   "exEn": "Those who caused the least are the ones who have to adapt."
+  },
+  {
+   "n": 59,
+   "de": "Mittel bereitstellen",
+   "type": "N+V &middot; stellt Mittel bereit",
+   "en": "to make funds available",
+   "exDe": "Mittel bereitstellen und Mittel auszahlen sind zweierlei.",
+   "exEn": "Making funds available and paying them out are two different things."
+  },
+  {
+   "n": 60,
+   "de": "sich Geh&ouml;r verschaffen",
+   "type": "N+V &middot; verschafft sich Geh&ouml;r",
+   "en": "to make oneself heard",
+   "exDe": "Geh&ouml;r verschaffen k&ouml;nnen sich kleine Staaten nur gemeinsam.",
+   "exEn": "Small states can only make themselves heard together."
+  }
+ ],
+ "groups": [
+  "Budgets &amp; Mechanismen &middot; The Arithmetic",
+  "Gerechtigkeit &amp; Verantwortung &middot; Who Owes Whom",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "units": {
+  "1": "Identità e libertà",
+  "2": "Cambiamento dei valori e ruoli sociali",
+  "3": "Demografia e infanzia",
+  "4": "Istruzione e giustizia",
+  "5": "Pressione da prestazione e mondo accademico",
+  "6": "Apprendimento e trasformazione",
+  "7": "Manodopera qualificata e leadership",
+  "8": "Stress lavorativo e precarietà",
+  "9": "Economia mondiale e inflazione",
+  "10": "Tasse e redistribuzione",
+  "11": "Abitare e sviluppo urbano",
+  "12": "Mobilità e turismo",
+  "13": "Alimentazione e assistenza",
+  "14": "Psiche ed etica medica",
+  "15": "Crisi climatica e giustizia",
+  "16": "Energia ed economia circolare",
+  "17": "Biodiversità e crisi",
+  "18": "IA e algoritmi",
+  "19": "Dati e cybersicurezza",
+  "20": "Polarizzazione e disinformazione",
+  "21": "Stampa e libertà artistica",
+  "22": "Lingua e appartenenza",
+  "23": "Democrazia e ordine mondiale",
+  "24": "Guerra, pace e diritti umani",
+  "25": "Viaggi spaziali e futuro",
+  "26": "Scienza e responsabilità"
+ },
+ "groups": {
+  "1": [
+   "Identità e globalizzazione · Chi sono, e chi decide",
+   "Libertà e responsabilità · Dove finisce l'una e inizia l'altra",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "2": [
+   "Cambiamento dei valori · Ciò che una società dà per scontato",
+   "Ruoli sociali · Cosa ci si aspetta da te",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "3": [
+   "Cambiamento demografico · I numeri dietro il fenomeno",
+   "Infanzia e formazione del carattere · Ciò che si decide presto",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "4": [
+   "Istruzione e mobilità sociale · La promessa",
+   "Selezione e svantaggio · Cosa succede realmente",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "5": [
+   "Pressione da prestazione · Ciò che il sistema richiede",
+   "Lavoro scientifico · Come si fa nel modo corretto",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "6": [
+   "Apprendimento permanente · Imparare dopo la scuola",
+   "Trasformazione · Cosa sta cambiando nel lavoro",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "7": [
+   "Carenza di manodopera qualificata e migrazione · Chi arriva, chi resta",
+   "Leadership e cultura aziendale · Come si guidano le persone",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "8": [
+   "Produttività ed esaurimento · Il prezzo del ritmo",
+   "Lavoro su piattaforma e precarietà · Un lavoro senza rete di sicurezza",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "9": [
+   "Catene di approvvigionamento e commercio mondiale · Quanto è fragile il sistema",
+   "Inflazione e politica monetaria · Chi ne paga il prezzo",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "10": [
+   "Politica fiscale · Chi paga cosa",
+   "Ricchezza e povertà · Chi possiede cosa",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "11": [
+   "Mercato immobiliare · Affitti, diritti e sfratti",
+   "Sviluppo urbano · Suolo, densità e clima",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "12": [
+   "Mobilità · Cosa cambia davvero il modo di viaggiare",
+   "Turismo · Quando un luogo raggiunge il proprio limite",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "13": [
+   "Alimentazione globale · Cibo a sufficienza, distribuzione sbagliata",
+   "Sanità e assistenza · Dove il sistema si assottiglia",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "14": [
+   "Salute psichica · Una questione di condizioni",
+   "Medicina ed etica · Ciò che è consentito, ciò che è giusto",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "15": [
+   "Budget e meccanismi · L'aritmetica del problema",
+   "Giustizia e responsabilità · Chi deve cosa a chi",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "16": [
+   "Transizione energetica · Tenere accese le luci",
+   "Risorse ed economia circolare · Cosa succede dopo l'uso",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "17": [
+   "Biodiversità · Cosa tiene insieme un sistema",
+   "Catastrofi e gestione delle crisi · Quando tutto fallisce",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "18": [
+   "IA e trasformazione · Chi ci guadagna, chi decide",
+   "Decisioni algoritmiche · Quando è il software a giudicare",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "19": [
+   "Big data e privacy · Cosa viene raccolto",
+   "Cybersicurezza · Cosa può essere sottratto",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "20": [
+   "Social media e polarizzazione · Come si arriva all'incandescenza",
+   "Disinformazione e manipolazione · Chi stabilisce la cornice",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "21": [
+   "Libertà di stampa · Cosa protegge il giornalismo",
+   "Arte e protesta · Cosa si può permettere di offendere",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "22": [
+   "Lingua e potere · Cosa fanno le parole",
+   "Migrazione e appartenenza · Arrivare e sentirsi parte",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "23": [
+   "Democrazia sotto pressione · Cosa viene svuotato",
+   "Cooperazione internazionale · Lenta e senza alternative",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "24": [
+   "Conflitto e diplomazia · Parlarsi prima e dopo",
+   "Diritti umani e applicazione della legge · La legge e i suoi limiti",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "25": [
+   "Viaggi spaziali · Andare e tornare",
+   "Futuro e responsabilità · Pensare per secoli",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ],
+  "26": [
+   "Conoscenza e metodo · Come funziona il conoscere",
+   "Mondo scientifico e opinione pubblica · Tra laboratorio e titoli di giornale",
+   "Verbi, aggettivi ed espressioni · Come parlarne"
+  ]
+ },
+ "grammar": {
+  "1": {
+   "t": "Parentesi verbale e campo centrale",
+   "s": "TeKaMoLo, gruppi verbali, Ausklammerung (elementi fuori campo)",
+   "tag": "come si tiene insieme una lunga frase tedesca"
+  },
+  "2": {
+   "t": "Stile nominale e stile verbale",
+   "s": "aufgrund al posto di weil, Prüfung al posto di prüfen",
+   "tag": "costruire la frase attorno a un sostantivo anziché a un verbo"
+  },
+  "3": {
+   "t": "Costrutti con verbo supporto (Funktionsverbgefüge)",
+   "s": "il sistema dietro a 'Entscheidung treffen' (prendere una decisione)",
+   "tag": "perché il tedesco scompone un verbo in sostantivo più verbo supporto"
+  },
+  "4": {
+   "t": "Forme sostitutive del passivo",
+   "s": "lässt sich lösen, ist zu lösen, ist lösbar",
+   "tag": "cinque modi per esprimere il passivo senza werden"
+  },
+  "5": {
+   "t": "Modalità e supposizione",
+   "s": "dürfte, müsste, scheint zu, droht zu",
+   "tag": "quanto sono sicuro, e chi lo dice"
+  },
+  "6": {
+   "t": "Il Konjunktiv I nei resoconti",
+   "s": "sei, habe, werde — e quando subentra il Konjunktiv II",
+   "tag": "riportare un'informazione senza garantirne il contenuto"
+  },
+  "7": {
+   "t": "Frasi relative e attributive",
+   "s": "dessen, deren, was, wer, preposizione + pronome",
+   "tag": "le quattro forme che non sono soltanto articoli"
+  },
+  "8": {
+   "t": "Attributi participiali",
+   "s": "die von der Kommission untersuchten Fälle (i casi esaminati dalla commissione)",
+   "tag": "una frase relativa ripiegata davanti al sostantivo"
+  },
+  "9": {
+   "t": "Coesione e connettori",
+   "s": "folglich, dennoch, hingegen, diesbezüglich",
+   "tag": "tre classi di connettori e la posizione del verbo"
+  },
+  "10": {
+   "t": "Focus e messa in rilievo",
+   "s": "Was … betrifft, Es ist … der, Entscheidend ist",
+   "tag": "come il tedesco enfatizza senza alzare la voce"
+  }
+ }
+}

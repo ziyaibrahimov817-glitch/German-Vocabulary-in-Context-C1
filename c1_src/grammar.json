@@ -1,0 +1,62 @@
+[
+ {
+  "n": 1,
+  "t": "Satzklammer &amp; Mittelfeld",
+  "s": "TeKaMoLo, Verbgruppen, Ausklammerung",
+  "tag": "how a long German sentence holds together"
+ },
+ {
+  "n": 2,
+  "t": "Nominalstil &amp; Verbalstil",
+  "s": "aufgrund statt weil, Pr&uuml;fung statt pr&uuml;fen",
+  "tag": "packing a sentence around a noun instead of a verb"
+ },
+ {
+  "n": 3,
+  "t": "Funktionsverbgef&uuml;ge",
+  "s": "das System hinter Entscheidung treffen",
+  "tag": "why German splits one verb into noun plus light verb"
+ },
+ {
+  "n": 4,
+  "t": "Passiversatzformen",
+  "s": "l&auml;sst sich l&ouml;sen, ist zu l&ouml;sen, ist l&ouml;sbar",
+  "tag": "five ways to say a passive without werden"
+ },
+ {
+  "n": 5,
+  "t": "Modalit&auml;t &amp; Vermutung",
+  "s": "d&uuml;rfte, m&uuml;sste, scheint zu, droht zu",
+  "tag": "how sure am I, and who says so"
+ },
+ {
+  "n": 6,
+  "t": "Konjunktiv I in Berichten",
+  "s": "sei, habe, werde &mdash; und wann K II einspringt",
+  "tag": "reporting without vouching for the content"
+ },
+ {
+  "n": 7,
+  "t": "Relativ- &amp; Attributs&auml;tze",
+  "s": "dessen, deren, was, wer, Pr&auml;position + Pronomen",
+  "tag": "the four forms that are not just articles"
+ },
+ {
+  "n": 8,
+  "t": "Partizipialattribute",
+  "s": "die von der Kommission untersuchten F&auml;lle",
+  "tag": "a relative clause folded in front of the noun"
+ },
+ {
+  "n": 9,
+  "t": "Koh&auml;sion &amp; Konnektoren",
+  "s": "folglich, dennoch, hingegen, diesbez&uuml;glich",
+  "tag": "three classes of connector and where the verb goes"
+ },
+ {
+  "n": 10,
+  "t": "Fokus &amp; Hervorhebung",
+  "s": "Was &hellip; betrifft, Es ist &hellip; der, Entscheidend ist",
+  "tag": "how German emphasises without raising its voice"
+ }
+]

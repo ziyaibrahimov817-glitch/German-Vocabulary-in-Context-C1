@@ -1,0 +1,491 @@
+{
+ "unit": 23,
+ "title_de": "Demokratie &amp; Weltordnung",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Antipluralismus",
+   "type": "der",
+   "en": "anti-pluralism",
+   "exDe": "Antipluralismus behauptet, nur eine Seite vertrete das Volk.",
+   "exEn": "Anti-pluralism claims that only one side represents the people."
+  },
+  {
+   "n": 2,
+   "de": "Elitenkritik",
+   "type": "die",
+   "en": "criticism of elites",
+   "exDe": "Elitenkritik ist legitim und wird leicht instrumentalisiert.",
+   "exEn": "Criticism of elites is legitimate and easily instrumentalised."
+  },
+  {
+   "n": 3,
+   "de": "Volkswille",
+   "type": "der",
+   "en": "will of the people",
+   "exDe": "Wer den Volkswillen f&uuml;r sich beansprucht, schlie&szlig;t andere aus.",
+   "exEn": "Whoever claims the will of the people for themselves excludes others."
+  },
+  {
+   "n": 4,
+   "de": "Repr&auml;sentationskrise",
+   "type": "die",
+   "en": "crisis of representation",
+   "exDe": "Eine Repr&auml;sentationskrise beginnt mit Nichtw&auml;hlern.",
+   "exEn": "A crisis of representation begins with non-voters."
+  },
+  {
+   "n": 5,
+   "de": "Vertrauensverlust",
+   "type": "der",
+   "en": "loss of trust",
+   "exDe": "Der Vertrauensverlust trifft Institutionen ungleich.",
+   "exEn": "The loss of trust affects institutions unevenly."
+  },
+  {
+   "n": 6,
+   "de": "Institutionenvertrauen",
+   "type": "das",
+   "en": "trust in institutions",
+   "exDe": "Institutionenvertrauen w&auml;chst langsam und f&auml;llt schnell.",
+   "exEn": "Trust in institutions grows slowly and falls fast."
+  },
+  {
+   "n": 7,
+   "de": "Rechtsstaatlichkeit",
+   "type": "die",
+   "en": "rule of law",
+   "exDe": "Rechtsstaatlichkeit zeigt sich im Umgang mit Unbequemen.",
+   "exEn": "The rule of law shows in how the inconvenient are treated."
+  },
+  {
+   "n": 8,
+   "de": "Machtkontrolle",
+   "type": "die",
+   "en": "checks on power",
+   "exDe": "Machtkontrolle st&ouml;rt immer den, der gerade regiert.",
+   "exEn": "Checks on power always annoy whoever is governing."
+  },
+  {
+   "n": 9,
+   "de": "Amtsmissbrauch",
+   "type": "der",
+   "en": "abuse of office",
+   "exDe": "Amtsmissbrauch beginnt bei der Besetzung von Stellen.",
+   "exEn": "Abuse of office begins with the filling of posts."
+  },
+  {
+   "n": 10,
+   "de": "Aush&ouml;hlung",
+   "type": "die",
+   "en": "hollowing out",
+   "exDe": "Die Aush&ouml;hlung einer Institution braucht kein Gesetz.",
+   "exEn": "Hollowing out an institution needs no law."
+  },
+  {
+   "n": 11,
+   "de": "Wahlrechts&auml;nderung",
+   "type": "die",
+   "en": "change to electoral law",
+   "exDe": "Eine Wahlrechts&auml;nderung wirkt jahrzehntelang.",
+   "exEn": "A change to electoral law has effects for decades."
+  },
+  {
+   "n": 12,
+   "de": "Koalitionsbildung",
+   "type": "die",
+   "en": "coalition formation",
+   "exDe": "Die Koalitionsbildung dauert l&auml;nger, je mehr Lager es gibt.",
+   "exEn": "Coalition formation takes longer the more camps there are."
+  },
+  {
+   "n": 13,
+   "de": "Kompromissf&auml;higkeit",
+   "type": "die",
+   "en": "willingness to compromise",
+   "exDe": "Kompromissf&auml;higkeit gilt als Schw&auml;che und ist die Bedingung.",
+   "exEn": "Willingness to compromise is seen as weakness and is the precondition."
+  },
+  {
+   "n": 14,
+   "de": "Mehrheitsverh&auml;ltnis",
+   "type": "das",
+   "en": "balance of majorities",
+   "exDe": "Das Mehrheitsverh&auml;ltnis entscheidet, welche Frage &uuml;berhaupt gestellt wird.",
+   "exEn": "The balance of majorities decides which question is even asked."
+  },
+  {
+   "n": 15,
+   "de": "Multilateralismus",
+   "type": "der",
+   "en": "multilateralism",
+   "exDe": "Multilateralismus ist langsam und hat keine Alternative.",
+   "exEn": "Multilateralism is slow and has no alternative."
+  },
+  {
+   "n": 16,
+   "de": "Sicherheitsrat",
+   "type": "der",
+   "en": "Security Council",
+   "exDe": "Der Sicherheitsrat spiegelt die Machtverh&auml;ltnisse von 1945.",
+   "exEn": "The Security Council reflects the power relations of 1945."
+  },
+  {
+   "n": 17,
+   "de": "Mandat",
+   "type": "das",
+   "en": "mandate",
+   "exDe": "Ohne Mandat bleibt jeder Einsatz umstritten.",
+   "exEn": "Without a mandate every deployment remains contested."
+  },
+  {
+   "n": 18,
+   "de": "Sanktionsregime",
+   "type": "das",
+   "en": "sanctions regime",
+   "exDe": "Ein Sanktionsregime trifft selten die Verantwortlichen zuerst.",
+   "exEn": "A sanctions regime rarely hits those responsible first."
+  },
+  {
+   "n": 19,
+   "de": "Blockadehaltung",
+   "type": "die",
+   "en": "obstructive stance",
+   "exDe": "Eine Blockadehaltung braucht nur eine Stimme.",
+   "exEn": "An obstructive stance needs only one vote."
+  },
+  {
+   "n": 20,
+   "de": "Konsensprinzip",
+   "type": "das",
+   "en": "consensus principle",
+   "exDe": "Das Konsensprinzip sch&uuml;tzt die Kleinen und l&auml;hmt die Gro&szlig;en.",
+   "exEn": "The consensus principle protects the small and paralyses the large."
+  },
+  {
+   "n": 21,
+   "de": "B&uuml;ndnistreue",
+   "type": "die",
+   "en": "loyalty to an alliance",
+   "exDe": "B&uuml;ndnistreue kostet, wenn sie gebraucht wird.",
+   "exEn": "Loyalty to an alliance costs when it is needed."
+  },
+  {
+   "n": 22,
+   "de": "Beitrittsverhandlung",
+   "type": "die",
+   "en": "accession negotiation",
+   "exDe": "Beitrittsverhandlungen dauern l&auml;nger als jede Regierung.",
+   "exEn": "Accession negotiations last longer than any government."
+  },
+  {
+   "n": 23,
+   "de": "Reformstau",
+   "type": "der",
+   "en": "backlog of reforms",
+   "exDe": "Der Reformstau w&auml;chst mit jeder Erweiterung.",
+   "exEn": "The backlog of reforms grows with every enlargement."
+  },
+  {
+   "n": 24,
+   "de": "Handlungsf&auml;higkeit",
+   "type": "die",
+   "en": "capacity to act",
+   "exDe": "Die Handlungsf&auml;higkeit endet dort, wo Einstimmigkeit beginnt.",
+   "exEn": "The capacity to act ends where unanimity begins."
+  },
+  {
+   "n": 25,
+   "de": "untergraben",
+   "type": "untr. &middot; hat untergraben",
+   "en": "to undermine",
+   "exDe": "Untergraben wird Vertrauen &uuml;ber Jahre, nicht &uuml;ber Nacht.",
+   "exEn": "Trust is undermined over years, not overnight."
+  },
+  {
+   "n": 26,
+   "de": "entleeren",
+   "type": "tr. &middot; entleert",
+   "en": "to empty of substance",
+   "exDe": "Entleert wird eine Regel durch Ausnahmen.",
+   "exEn": "A rule is emptied of substance by exceptions."
+  },
+  {
+   "n": 27,
+   "de": "beschneiden",
+   "type": "untr. &middot; hat beschnitten",
+   "en": "to curtail",
+   "exDe": "Beschnitten werden Rechte selten in einem Schritt.",
+   "exEn": "Rights are rarely curtailed in one step."
+  },
+  {
+   "n": 28,
+   "de": "zersetzen",
+   "type": "untr. &middot; hat zersetzt",
+   "en": "to corrode, to break down",
+   "exDe": "Zersetzt wird das Vertrauen von innen.",
+   "exEn": "Trust is corroded from within."
+  },
+  {
+   "n": 29,
+   "de": "schleifen",
+   "type": "untr. &middot; hat geschliffen",
+   "en": "to dismantle gradually",
+   "exDe": "Geschliffen werden Standards, nicht abgeschafft.",
+   "exEn": "Standards are gradually dismantled, not abolished."
+  },
+  {
+   "n": 30,
+   "de": "gleichschalten",
+   "type": "tr. &middot; schaltet gleich",
+   "en": "to bring into line",
+   "exDe": "Gleichgeschaltet wird &uuml;ber Personal, nicht &uuml;ber Verbote.",
+   "exEn": "Bringing into line works through personnel, not bans."
+  },
+  {
+   "n": 31,
+   "de": "kaltstellen",
+   "type": "tr. &middot; stellt kalt",
+   "en": "to sideline",
+   "exDe": "Kaltgestellt wird, wer widerspricht.",
+   "exEn": "Whoever objects gets sidelined."
+  },
+  {
+   "n": 32,
+   "de": "ernennen",
+   "type": "untr. &middot; hat ernannt",
+   "en": "to appoint",
+   "exDe": "Ernannt wird nach Loyalit&auml;t oder nach Eignung.",
+   "exEn": "Appointment goes by loyalty or by suitability."
+  },
+  {
+   "n": 33,
+   "de": "abberufen",
+   "type": "untr. &middot; hat abberufen",
+   "en": "to remove from office",
+   "exDe": "Abberufen wird selten mit Begr&uuml;ndung.",
+   "exEn": "Removal from office rarely comes with reasons."
+  },
+  {
+   "n": 34,
+   "de": "mitregieren",
+   "type": "untr. &middot; hat mitregiert",
+   "en": "to share in government",
+   "exDe": "Mitregieren kostet Profil und schafft Ergebnisse.",
+   "exEn": "Sharing in government costs profile and produces results."
+  },
+  {
+   "n": 35,
+   "de": "paktieren",
+   "type": "verb + mit + Dat.",
+   "en": "to make a pact with",
+   "exDe": "Wer paktiert, verliert die Kontrolle &uuml;ber die Erz&auml;hlung.",
+   "exEn": "Whoever makes a pact loses control of the narrative."
+  },
+  {
+   "n": 36,
+   "de": "nachverhandeln",
+   "type": "untr. &middot; hat nachverhandelt",
+   "en": "to renegotiate",
+   "exDe": "Nachverhandelt wird, was niemand durchsetzen konnte.",
+   "exEn": "What nobody could enforce gets renegotiated."
+  },
+  {
+   "n": 37,
+   "de": "vertagen",
+   "type": "tr. &middot; vertagt",
+   "en": "to adjourn, to postpone",
+   "exDe": "Vertagt wird, was Einstimmigkeit br&auml;uchte.",
+   "exEn": "What would need unanimity gets postponed."
+  },
+  {
+   "n": 38,
+   "de": "verw&auml;ssern",
+   "type": "untr. &middot; hat verw&auml;ssert",
+   "en": "to water down",
+   "exDe": "Verw&auml;ssert wird ein Text bis zur Zustimmung.",
+   "exEn": "A text is watered down until it is agreed."
+  },
+  {
+   "n": 39,
+   "de": "stoppen",
+   "type": "untr. &middot; hat gestoppt",
+   "en": "to stop, to halt",
+   "exDe": "Gestoppt wird mit einer Stimme, entschieden mit vielen.",
+   "exEn": "Halting takes one vote, deciding takes many."
+  },
+  {
+   "n": 40,
+   "de": "mandatieren",
+   "type": "untr. &middot; hat mandatiert",
+   "en": "to give a mandate to",
+   "exDe": "Mandatiert wird eine Mission, finanziert wird sie sp&auml;ter.",
+   "exEn": "A mission is mandated and financed later."
+  },
+  {
+   "n": 41,
+   "de": "mit Sanktionen belegen",
+   "type": "N+V &middot; belegt mit Sanktionen",
+   "en": "to impose sanctions on",
+   "exDe": "Mit Sanktionen belegt wird der Staat, getroffen wird die Bev&ouml;lkerung.",
+   "exEn": "The state is placed under sanctions, the population is hit."
+  },
+  {
+   "n": 42,
+   "de": "einen Ausgleich suchen",
+   "type": "N+V &middot; sucht einen Ausgleich",
+   "en": "to seek a settlement",
+   "exDe": "Einen Ausgleich sucht man zwischen Lagern, nicht zwischen Wahrheiten.",
+   "exEn": "A settlement is sought between camps, not between truths."
+  },
+  {
+   "n": 43,
+   "de": "antipluralistisch",
+   "type": "adj.",
+   "en": "anti-pluralist",
+   "exDe": "Antipluralistische Rhetorik erkennt man am Alleinvertretungsanspruch.",
+   "exEn": "Anti-pluralist rhetoric is recognised by the claim to sole representation."
+  },
+  {
+   "n": 44,
+   "de": "demokratiefeindlich",
+   "type": "adj.",
+   "en": "hostile to democracy",
+   "exDe": "Demokratiefeindlich ist, wer Verfahren nur akzeptiert, wenn er gewinnt.",
+   "exEn": "Whoever accepts procedures only when winning is hostile to democracy."
+  },
+  {
+   "n": 45,
+   "de": "gewaltenteilig",
+   "type": "adj.",
+   "en": "based on separation of powers",
+   "exDe": "Ein gewaltenteiliger Staat bremst sich selbst absichtlich.",
+   "exEn": "A state based on separation of powers deliberately slows itself."
+  },
+  {
+   "n": 46,
+   "de": "handlungsf&auml;hig",
+   "type": "adj.",
+   "en": "able to act",
+   "exDe": "Handlungsf&auml;hig bleibt, wer Mehrheiten organisieren kann.",
+   "exEn": "Whoever can organise majorities remains able to act."
+  },
+  {
+   "n": 47,
+   "de": "multilateral",
+   "type": "adj.",
+   "en": "multilateral",
+   "exDe": "Multilaterale L&ouml;sungen sind schw&auml;cher und halten l&auml;nger.",
+   "exEn": "Multilateral solutions are weaker and last longer."
+  },
+  {
+   "n": 48,
+   "de": "bindend",
+   "type": "adj.",
+   "en": "binding",
+   "exDe": "Bindend ist wenig, verpflichtend f&uuml;hlt sich mehr an.",
+   "exEn": "Little is binding, more feels obligatory."
+  },
+  {
+   "n": 49,
+   "de": "unverbindlich",
+   "type": "adj.",
+   "en": "non-binding",
+   "exDe": "Unverbindliche Erkl&auml;rungen sind besser als keine.",
+   "exEn": "Non-binding declarations are better than none."
+  },
+  {
+   "n": 50,
+   "de": "reformbed&uuml;rftig",
+   "type": "adj.",
+   "en": "in need of reform",
+   "exDe": "Reformbed&uuml;rftig sind vor allem die Entscheidungsverfahren.",
+   "exEn": "It is above all the decision procedures that need reform."
+  },
+  {
+   "n": 51,
+   "de": "unparteiisch",
+   "type": "adj.",
+   "en": "impartial",
+   "exDe": "Unparteiische Institutionen &uuml;berleben Regierungswechsel.",
+   "exEn": "Impartial institutions survive changes of government."
+  },
+  {
+   "n": 52,
+   "de": "streitbar",
+   "type": "adj.",
+   "en": "militant in defence of democracy",
+   "exDe": "Eine streitbare Demokratie duldet nicht ihre eigene Abschaffung.",
+   "exEn": "A militant democracy does not tolerate its own abolition."
+  },
+  {
+   "n": 53,
+   "de": "Verfahren respektieren",
+   "type": "N+V &middot; respektiert Verfahren",
+   "en": "to respect procedures",
+   "exDe": "Verfahren respektieren hei&szlig;t auch, Niederlagen anzuerkennen.",
+   "exEn": "Respecting procedures also means accepting defeats."
+  },
+  {
+   "n": 54,
+   "de": "Macht begrenzen",
+   "type": "N+V &middot; begrenzt Macht",
+   "en": "to limit power",
+   "exDe": "Macht begrenzen ist der Zweck einer Verfassung.",
+   "exEn": "Limiting power is the purpose of a constitution."
+  },
+  {
+   "n": 55,
+   "de": "eine Einigung erzielen",
+   "type": "N+V &middot; erzielt eine Einigung",
+   "en": "to reach an agreement",
+   "exDe": "Eine Einigung erzielen hei&szlig;t, beide Seiten unzufrieden zu lassen.",
+   "exEn": "Reaching an agreement means leaving both sides dissatisfied."
+  },
+  {
+   "n": 56,
+   "de": "Mehrheiten organisieren",
+   "type": "N+V &middot; organisiert Mehrheiten",
+   "en": "to build majorities",
+   "exDe": "Mehrheiten organisieren ist die eigentliche politische Arbeit.",
+   "exEn": "Building majorities is the actual political work."
+  },
+  {
+   "n": 57,
+   "de": "Regeln gemeinsam setzen",
+   "type": "N+V &middot; setzt Regeln gemeinsam",
+   "en": "to set rules jointly",
+   "exDe": "Regeln gemeinsam setzen dauert und bindet.",
+   "exEn": "Setting rules jointly takes time and binds."
+  },
+  {
+   "n": 58,
+   "de": "einen Streit schlichten",
+   "type": "N+V &middot; schlichtet einen Streit",
+   "en": "to settle a dispute",
+   "exDe": "Einen Streit schlichten gelingt nur mit Gesichtswahrung.",
+   "exEn": "Settling a dispute only works with face-saving."
+  },
+  {
+   "n": 59,
+   "de": "die Folgen tragen",
+   "type": "N+V &middot; tr&auml;gt die Folgen",
+   "en": "to bear the consequences",
+   "exDe": "Die Folgen tragen kostet immer jemanden etwas.",
+   "exEn": "Bearing the consequences always costs somebody something."
+  },
+  {
+   "n": 60,
+   "de": "das Recht durchsetzen",
+   "type": "N+V &middot; setzt das Recht durch",
+   "en": "to enforce the law",
+   "exDe": "Das Recht durchsetzen ist schwerer als es zu beschlie&szlig;en.",
+   "exEn": "Enforcing the law is harder than passing it."
+  }
+ ],
+ "groups": [
+  "Demokratie unter Druck &middot; What Gets Hollowed Out",
+  "Internationale Zusammenarbeit &middot; Slow and Without Alternative",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

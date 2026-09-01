@@ -1,0 +1,491 @@
+{
+ "unit": 20,
+ "title_de": "Polarisierung &amp; Desinformation",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Reichweitenlogik",
+   "type": "die",
+   "en": "logic of reach",
+   "exDe": "Die Reichweitenlogik belohnt Emp&ouml;rung, nicht Genauigkeit.",
+   "exEn": "The logic of reach rewards outrage, not accuracy."
+  },
+  {
+   "n": 2,
+   "de": "Emp&ouml;rungsspirale",
+   "type": "die",
+   "en": "spiral of outrage",
+   "exDe": "Eine Emp&ouml;rungsspirale braucht keine Gegner, nur Publikum.",
+   "exEn": "A spiral of outrage needs no opponents, only an audience."
+  },
+  {
+   "n": 3,
+   "de": "Eskalationsdynamik",
+   "type": "die",
+   "en": "dynamics of escalation",
+   "exDe": "Die Eskalationsdynamik entsteht in Stunden, der Schaden bleibt.",
+   "exEn": "The dynamics of escalation arise within hours, the damage stays."
+  },
+  {
+   "n": 4,
+   "de": "Meinungsklima",
+   "type": "das",
+   "en": "climate of opinion",
+   "exDe": "Das Meinungsklima wirkt st&auml;rker als die tats&auml;chliche Mehrheit.",
+   "exEn": "The climate of opinion works more strongly than the actual majority."
+  },
+  {
+   "n": 5,
+   "de": "Schweigespirale",
+   "type": "die",
+   "en": "spiral of silence",
+   "exDe": "In der Schweigespirale verstummt, wer sich in der Minderheit w&auml;hnt.",
+   "exEn": "In a spiral of silence those who believe themselves a minority fall silent."
+  },
+  {
+   "n": 6,
+   "de": "Polarisierung",
+   "type": "die",
+   "en": "polarisation",
+   "exDe": "Polarisierung meint nicht Streit, sondern Distanz.",
+   "exEn": "Polarisation means not conflict but distance."
+  },
+  {
+   "n": 7,
+   "de": "Affektive Polarisierung",
+   "type": "die",
+   "en": "affective polarisation",
+   "exDe": "Affektive Polarisierung richtet sich gegen Menschen, nicht gegen Positionen.",
+   "exEn": "Affective polarisation is directed at people, not positions."
+  },
+  {
+   "n": 8,
+   "de": "Lagerbildung",
+   "type": "die",
+   "en": "formation of camps",
+   "exDe": "Lagerbildung ersetzt Argumente durch Zugeh&ouml;rigkeit.",
+   "exEn": "Camp formation replaces arguments with belonging."
+  },
+  {
+   "n": 9,
+   "de": "Gruppenidentit&auml;t",
+   "type": "die",
+   "en": "group identity",
+   "exDe": "Gruppenidentit&auml;t schl&auml;gt jede Faktenlage.",
+   "exEn": "Group identity beats any set of facts."
+  },
+  {
+   "n": 10,
+   "de": "Feindbild",
+   "type": "das",
+   "en": "enemy image",
+   "exDe": "Ein Feindbild h&auml;lt Gruppen zusammen, die sonst nichts teilen.",
+   "exEn": "An enemy image holds together groups that share nothing else."
+  },
+  {
+   "n": 11,
+   "de": "Radikalisierungspfad",
+   "type": "der",
+   "en": "path to radicalisation",
+   "exDe": "Ein Radikalisierungspfad beginnt selten mit Politik.",
+   "exEn": "A path to radicalisation rarely begins with politics."
+  },
+  {
+   "n": 12,
+   "de": "Sprachliche Verrohung",
+   "type": "die",
+   "en": "coarsening of language",
+   "exDe": "Sprachliche Verrohung geht der Tat oft voraus.",
+   "exEn": "Coarsening of language often precedes the deed."
+  },
+  {
+   "n": 13,
+   "de": "Deutungsrahmen",
+   "type": "der",
+   "en": "interpretive frame",
+   "exDe": "Wer den Deutungsrahmen setzt, hat die Debatte gewonnen.",
+   "exEn": "Whoever sets the interpretive frame has won the debate."
+  },
+  {
+   "n": 14,
+   "de": "Narrativ",
+   "type": "das",
+   "en": "narrative",
+   "exDe": "Ein Narrativ &uuml;berlebt jede Widerlegung.",
+   "exEn": "A narrative survives any refutation."
+  },
+  {
+   "n": 15,
+   "de": "Erz&auml;hlmuster",
+   "type": "das",
+   "en": "narrative pattern",
+   "exDe": "Dasselbe Erz&auml;hlmuster taucht in jeder Krise auf.",
+   "exEn": "The same narrative pattern appears in every crisis."
+  },
+  {
+   "n": 16,
+   "de": "Faktenlage",
+   "type": "die",
+   "en": "state of the evidence",
+   "exDe": "Die Faktenlage &uuml;berzeugt niemanden, der nicht will.",
+   "exEn": "The evidence convinces nobody who does not want to be convinced."
+  },
+  {
+   "n": 17,
+   "de": "Astroturfing",
+   "type": "das",
+   "en": "astroturfing",
+   "exDe": "Astroturfing t&auml;uscht eine Bewegung vor, die es nicht gibt.",
+   "exEn": "Astroturfing fakes a movement that does not exist."
+  },
+  {
+   "n": 18,
+   "de": "Bot-Netzwerk",
+   "type": "das",
+   "en": "bot network",
+   "exDe": "Ein Bot-Netzwerk erzeugt Lautst&auml;rke, keine Zustimmung.",
+   "exEn": "A bot network produces volume, not agreement."
+  },
+  {
+   "n": 19,
+   "de": "Troll",
+   "type": "der",
+   "en": "troll",
+   "exDe": "Ein Troll sucht Reaktion, nicht Recht.",
+   "exEn": "A troll seeks a reaction, not to be right."
+  },
+  {
+   "n": 20,
+   "de": "Wahlbeeinflussung",
+   "type": "die",
+   "en": "electoral interference",
+   "exDe": "Wahlbeeinflussung wirkt weniger &uuml;ber Stimmen als &uuml;ber Zweifel.",
+   "exEn": "Electoral interference works less through votes than through doubt."
+  },
+  {
+   "n": 21,
+   "de": "Delegitimierung",
+   "type": "die",
+   "en": "delegitimisation",
+   "exDe": "Die Delegitimierung von Institutionen ist das eigentliche Ziel.",
+   "exEn": "Delegitimising institutions is the real aim."
+  },
+  {
+   "n": 22,
+   "de": "Diskursverschiebung",
+   "type": "die",
+   "en": "shift in the discourse",
+   "exDe": "Die Diskursverschiebung merkt man erst nach Jahren.",
+   "exEn": "A shift in the discourse is noticed only after years."
+  },
+  {
+   "n": 23,
+   "de": "Moderationspraxis",
+   "type": "die",
+   "en": "moderation practice",
+   "exDe": "Die Moderationspraxis entscheidet mehr als jedes Gesetz.",
+   "exEn": "Moderation practice decides more than any law."
+  },
+  {
+   "n": 24,
+   "de": "L&ouml;schpflicht",
+   "type": "die",
+   "en": "obligation to delete",
+   "exDe": "Eine L&ouml;schpflicht ohne Frist ist ein Vorschlag.",
+   "exEn": "An obligation to delete without a deadline is a suggestion."
+  },
+  {
+   "n": 25,
+   "de": "radikalisieren",
+   "type": "refl. &middot; radikalisiert sich",
+   "en": "to become radicalised",
+   "exDe": "Radikalisiert wird man in Gruppen, nicht allein.",
+   "exEn": "People are radicalised in groups, not alone."
+  },
+  {
+   "n": 26,
+   "de": "aufschaukeln",
+   "type": "refl. &middot; schaukelt sich auf",
+   "en": "to escalate mutually",
+   "exDe": "Zwei Lager schaukeln sich gegenseitig auf.",
+   "exEn": "Two camps escalate each other."
+  },
+  {
+   "n": 27,
+   "de": "hochkochen",
+   "type": "untr. &middot; ist hochgekocht",
+   "en": "to boil over",
+   "exDe": "Hochgekocht ist die Debatte binnen eines Tages.",
+   "exEn": "The debate boiled over within a day."
+  },
+  {
+   "n": 28,
+   "de": "anstacheln",
+   "type": "tr. &middot; stachelt an",
+   "en": "to incite",
+   "exDe": "Angestachelt wird, wer ohnehin w&uuml;tend ist.",
+   "exEn": "Those who are angry anyway get incited."
+  },
+  {
+   "n": 29,
+   "de": "befeuern",
+   "type": "untr. &middot; hat befeuert",
+   "en": "to fuel",
+   "exDe": "Befeuert wird der Streit von beiden Seiten.",
+   "exEn": "The conflict is fuelled from both sides."
+  },
+  {
+   "n": 30,
+   "de": "skandalisieren",
+   "type": "untr. &middot; hat skandalisiert",
+   "en": "to turn into a scandal",
+   "exDe": "Skandalisiert wird, was sich schnell erz&auml;hlen l&auml;sst.",
+   "exEn": "What can be told quickly gets turned into a scandal."
+  },
+  {
+   "n": 31,
+   "de": "emotionalisieren",
+   "type": "untr. &middot; hat emotionalisiert",
+   "en": "to make emotional",
+   "exDe": "Emotionalisiert wirkt jede Zahl anders.",
+   "exEn": "Made emotional, every figure looks different."
+  },
+  {
+   "n": 32,
+   "de": "spalten",
+   "type": "untr. &middot; hat gespalten",
+   "en": "to divide",
+   "exDe": "Gespalten wird nicht die Gesellschaft, sondern ihr Bild.",
+   "exEn": "It is not society that is divided but its image."
+  },
+  {
+   "n": 33,
+   "de": "herabw&uuml;rdigen",
+   "type": "untr. &middot; hat herabgew&uuml;rdigt",
+   "en": "to disparage",
+   "exDe": "Herabgew&uuml;rdigt wird die Person statt des Arguments.",
+   "exEn": "The person is disparaged instead of the argument."
+  },
+  {
+   "n": 34,
+   "de": "diffamieren",
+   "type": "untr. &middot; hat diffamiert",
+   "en": "to defame",
+   "exDe": "Diffamiert wird schneller, als richtiggestellt werden kann.",
+   "exEn": "Defamation is faster than correction can be."
+  },
+  {
+   "n": 35,
+   "de": "hetzen",
+   "type": "verb + gegen + Akk.",
+   "en": "to agitate against",
+   "exDe": "Gegen einzelne Gruppen wird gezielt gehetzt.",
+   "exEn": "Specific groups are deliberately targeted with agitation."
+  },
+  {
+   "n": 36,
+   "de": "instrumentalisieren",
+   "type": "untr. &middot; hat instrumentalisiert",
+   "en": "to instrumentalise",
+   "exDe": "Instrumentalisiert wird jedes Ungl&uuml;ck binnen Stunden.",
+   "exEn": "Every misfortune is instrumentalised within hours."
+  },
+  {
+   "n": 37,
+   "de": "framen",
+   "type": "untr. &middot; hat geframt",
+   "en": "to frame",
+   "exDe": "Geframt wird &uuml;ber die Wortwahl, nicht &uuml;ber die Fakten.",
+   "exEn": "Framing works through word choice, not through facts."
+  },
+  {
+   "n": 38,
+   "de": "zurechtbiegen",
+   "type": "tr. &middot; biegt zurecht",
+   "en": "to twist to fit",
+   "exDe": "Zurechtgebogen wird, was nicht passt.",
+   "exEn": "What does not fit gets twisted to fit."
+  },
+  {
+   "n": 39,
+   "de": "verdrehen",
+   "type": "untr. &middot; hat verdreht",
+   "en": "to distort",
+   "exDe": "Verdreht wird selten das Zitat, meist der Zusammenhang.",
+   "exEn": "It is rarely the quotation that is distorted, usually the context."
+  },
+  {
+   "n": 40,
+   "de": "fabrizieren",
+   "type": "untr. &middot; hat fabriziert",
+   "en": "to fabricate",
+   "exDe": "Fabriziert wird nur, was ohnehin geglaubt wird.",
+   "exEn": "Only what is believed anyway gets fabricated."
+  },
+  {
+   "n": 41,
+   "de": "versachlichen",
+   "type": "untr. &middot; hat versachlicht",
+   "en": "to bring back to the facts",
+   "exDe": "Versachlichen ist unpopul&auml;r und n&ouml;tig.",
+   "exEn": "Bringing things back to the facts is unpopular and necessary."
+  },
+  {
+   "n": 42,
+   "de": "entsch&auml;rfen",
+   "type": "untr. &middot; hat entsch&auml;rft",
+   "en": "to defuse",
+   "exDe": "Entsch&auml;rft wird eine Lage durch Zeit, nicht durch Antworten.",
+   "exEn": "A situation is defused by time, not by replies."
+  },
+  {
+   "n": 43,
+   "de": "polarisiert",
+   "type": "adj.",
+   "en": "polarised",
+   "exDe": "Ein polarisiertes Publikum h&ouml;rt nur noch das Eigene.",
+   "exEn": "A polarised audience hears only its own side."
+  },
+  {
+   "n": 44,
+   "de": "aufgeheizt",
+   "type": "adj.",
+   "en": "heated",
+   "exDe": "In aufgeheizter Stimmung wirkt jede Nuance wie Verrat.",
+   "exEn": "In a heated atmosphere every nuance looks like betrayal."
+  },
+  {
+   "n": 45,
+   "de": "reichweitenstark",
+   "type": "adj.",
+   "en": "with a large reach",
+   "exDe": "Reichweitenstarke Konten pr&auml;gen das Bild einer Mehrheit.",
+   "exEn": "Accounts with a large reach shape the image of a majority."
+  },
+  {
+   "n": 46,
+   "de": "verzerrend",
+   "type": "adj.",
+   "en": "distorting",
+   "exDe": "Verzerrende Ausschnitte sind schwerer zu widerlegen als L&uuml;gen.",
+   "exEn": "Distorting excerpts are harder to refute than lies."
+  },
+  {
+   "n": 47,
+   "de": "faktenbasiert",
+   "type": "adj.",
+   "en": "fact-based",
+   "exDe": "Faktenbasiert zu argumentieren reicht selten allein.",
+   "exEn": "Arguing on the basis of facts alone is rarely enough."
+  },
+  {
+   "n": 48,
+   "de": "diskursf&auml;hig",
+   "type": "adj.",
+   "en": "capable of debate",
+   "exDe": "Diskursf&auml;hig bleibt, wer Widerspruch aush&auml;lt.",
+   "exEn": "Whoever can bear contradiction remains capable of debate."
+  },
+  {
+   "n": 49,
+   "de": "emotionalisiert",
+   "type": "adj.",
+   "en": "emotionally charged",
+   "exDe": "Eine emotionalisierte Debatte kennt keine Zwischent&ouml;ne.",
+   "exEn": "An emotionally charged debate knows no shades."
+  },
+  {
+   "n": 50,
+   "de": "anonym",
+   "type": "adj.",
+   "en": "anonymous",
+   "exDe": "Anonym schreibt sich vieles leichter.",
+   "exEn": "Much is written more easily anonymously."
+  },
+  {
+   "n": 51,
+   "de": "koordiniert",
+   "type": "adj.",
+   "en": "coordinated",
+   "exDe": "Koordiniertes Verhalten erkennt man am Zeitmuster.",
+   "exEn": "Coordinated behaviour is recognised by its timing."
+  },
+  {
+   "n": 52,
+   "de": "ungepr&uuml;ft",
+   "type": "adj.",
+   "en": "unverified",
+   "exDe": "Ungepr&uuml;fte Behauptungen verbreiten sich am schnellsten.",
+   "exEn": "Unverified claims spread fastest."
+  },
+  {
+   "n": 53,
+   "de": "Aufmerksamkeit erzeugen",
+   "type": "N+V &middot; erzeugt Aufmerksamkeit",
+   "en": "to generate attention",
+   "exDe": "Aufmerksamkeit erzeugen ist einfacher als Zustimmung.",
+   "exEn": "Generating attention is easier than generating agreement."
+  },
+  {
+   "n": 54,
+   "de": "den Ton versch&auml;rfen",
+   "type": "N+V &middot; versch&auml;rft den Ton",
+   "en": "to sharpen the tone",
+   "exDe": "Den Ton versch&auml;rfen bringt Reichweite und kostet Gespr&auml;che.",
+   "exEn": "Sharpening the tone brings reach and costs conversations."
+  },
+  {
+   "n": 55,
+   "de": "Behauptungen pr&uuml;fen",
+   "type": "N+V &middot; pr&uuml;ft Behauptungen",
+   "en": "to check claims",
+   "exDe": "Behauptungen pr&uuml;fen dauert l&auml;nger als sie aufzustellen.",
+   "exEn": "Checking claims takes longer than making them."
+  },
+  {
+   "n": 56,
+   "de": "etwas richtigstellen",
+   "type": "N+V &middot; stellt etwas richtig",
+   "en": "to set the record straight",
+   "exDe": "Etwas richtigstellen erreicht nie dieselben Leute.",
+   "exEn": "Setting the record straight never reaches the same people."
+  },
+  {
+   "n": 57,
+   "de": "Vertrauen zur&uuml;ckgewinnen",
+   "type": "N+V &middot; gewinnt Vertrauen zur&uuml;ck",
+   "en": "to regain trust",
+   "exDe": "Vertrauen zur&uuml;ckgewinnen dauert eine Generation.",
+   "exEn": "Regaining trust takes a generation."
+  },
+  {
+   "n": 58,
+   "de": "im Gespr&auml;ch bleiben",
+   "type": "N+V &middot; bleibt im Gespr&auml;ch",
+   "en": "to stay in dialogue",
+   "exDe": "Im Gespr&auml;ch bleiben ist anstrengender als recht zu haben.",
+   "exEn": "Staying in dialogue is harder than being right."
+  },
+  {
+   "n": 59,
+   "de": "Grenzen des Sagbaren",
+   "type": "N+V &middot; verschiebt die Grenzen des Sagbaren",
+   "en": "limits of what can be said",
+   "exDe": "Die Grenzen des Sagbaren verschieben sich in kleinen Schritten.",
+   "exEn": "The limits of what can be said shift in small steps."
+  },
+  {
+   "n": 60,
+   "de": "Verantwortung der Plattformen",
+   "type": "N+V &middot; die Verantwortung der Plattformen",
+   "en": "responsibility of the platforms",
+   "exDe": "Die Verantwortung der Plattformen endet nicht bei der L&ouml;schung.",
+   "exEn": "The responsibility of the platforms does not end with deletion."
+  }
+ ],
+ "groups": [
+  "Soziale Medien &amp; Polarisierung &middot; How It Heats Up",
+  "Desinformation &amp; Manipulation &middot; Who Sets the Frame",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

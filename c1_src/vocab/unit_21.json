@@ -1,0 +1,491 @@
+{
+ "unit": 21,
+ "title_de": "Presse &amp; Kunstfreiheit",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Redaktionsgeheimnis",
+   "type": "das",
+   "en": "editorial confidentiality",
+   "exDe": "Das Redaktionsgeheimnis sch&uuml;tzt die Quelle, nicht den Journalisten.",
+   "exEn": "Editorial confidentiality protects the source, not the journalist."
+  },
+  {
+   "n": 2,
+   "de": "Informantenschutz",
+   "type": "der",
+   "en": "protection of informants",
+   "exDe": "Ohne Informantenschutz gibt es keine Enth&uuml;llung.",
+   "exEn": "Without protection of informants there is no revelation."
+  },
+  {
+   "n": 3,
+   "de": "Zeugnisverweigerungsrecht",
+   "type": "das",
+   "en": "right to refuse to testify",
+   "exDe": "Das Zeugnisverweigerungsrecht ist die Grundlage der Recherche.",
+   "exEn": "The right to refuse to testify is the basis of investigation."
+  },
+  {
+   "n": 4,
+   "de": "Presserat",
+   "type": "der",
+   "en": "press council",
+   "exDe": "Der Presserat r&uuml;gt und kann nichts erzwingen.",
+   "exEn": "The press council reprimands and can enforce nothing."
+  },
+  {
+   "n": 5,
+   "de": "Trennungsgebot",
+   "type": "das",
+   "en": "separation of news and comment",
+   "exDe": "Das Trennungsgebot verlangt getrennte Meinung und Nachricht.",
+   "exEn": "The separation rule requires comment and news to be kept apart."
+  },
+  {
+   "n": 6,
+   "de": "Hofberichterstattung",
+   "type": "die",
+   "en": "sycophantic reporting",
+   "exDe": "Hofberichterstattung erkennt man an fehlenden Nachfragen.",
+   "exEn": "Sycophantic reporting is recognised by the absence of follow-up questions."
+  },
+  {
+   "n": 7,
+   "de": "Recherchekollektiv",
+   "type": "das",
+   "en": "investigative collective",
+   "exDe": "Ein Recherchekollektiv teilt Kosten und Risiko.",
+   "exEn": "An investigative collective shares costs and risk."
+  },
+  {
+   "n": 8,
+   "de": "Leak",
+   "type": "das",
+   "en": "leak",
+   "exDe": "Ein Leak ist eine Quelle mit Absicht.",
+   "exEn": "A leak is a source with an agenda."
+  },
+  {
+   "n": 9,
+   "de": "Medienkonzentration",
+   "type": "die",
+   "en": "media concentration",
+   "exDe": "Medienkonzentration verengt die Vielfalt ohne Verbot.",
+   "exEn": "Media concentration narrows diversity without any ban."
+  },
+  {
+   "n": 10,
+   "de": "Anzeigenabh&auml;ngigkeit",
+   "type": "die",
+   "en": "dependence on advertising",
+   "exDe": "Anzeigenabh&auml;ngigkeit wirkt leiser als jede Zensur.",
+   "exEn": "Dependence on advertising works more quietly than any censorship."
+  },
+  {
+   "n": 11,
+   "de": "Lokaljournalismus",
+   "type": "der",
+   "en": "local journalism",
+   "exDe": "Wo Lokaljournalismus verschwindet, sinkt die Wahlbeteiligung.",
+   "exEn": "Where local journalism disappears, turnout falls."
+  },
+  {
+   "n": 12,
+   "de": "Nachrichtenw&uuml;ste",
+   "type": "die",
+   "en": "news desert",
+   "exDe": "In einer Nachrichtenw&uuml;ste kontrolliert niemand den Stadtrat.",
+   "exEn": "In a news desert nobody scrutinises the council."
+  },
+  {
+   "n": 13,
+   "de": "Einsch&uuml;chterungsklage",
+   "type": "die",
+   "en": "intimidatory lawsuit",
+   "exDe": "Eine Einsch&uuml;chterungsklage muss nicht gewonnen werden, nur gef&uuml;hrt.",
+   "exEn": "An intimidatory lawsuit need not be won, only filed."
+  },
+  {
+   "n": 14,
+   "de": "Vorzensur",
+   "type": "die",
+   "en": "prior censorship",
+   "exDe": "Vorzensur ist verboten, Selbstzensur nicht messbar.",
+   "exEn": "Prior censorship is forbidden, self-censorship is not measurable."
+  },
+  {
+   "n": 15,
+   "de": "Selbstzensur",
+   "type": "die",
+   "en": "self-censorship",
+   "exDe": "Selbstzensur beginnt bei der Themenwahl.",
+   "exEn": "Self-censorship begins with the choice of topic."
+  },
+  {
+   "n": 16,
+   "de": "Kunstfreiheit",
+   "type": "die",
+   "en": "freedom of art",
+   "exDe": "Die Kunstfreiheit sch&uuml;tzt auch, was verletzt.",
+   "exEn": "Freedom of art protects even what offends."
+  },
+  {
+   "n": 17,
+   "de": "Tabuverletzung",
+   "type": "die",
+   "en": "breaking of a taboo",
+   "exDe": "Eine Tabuverletzung ist kein Argument, aber oft ein Anfang.",
+   "exEn": "Breaking a taboo is no argument, but often a beginning."
+  },
+  {
+   "n": 18,
+   "de": "Kulturbetrieb",
+   "type": "der",
+   "en": "cultural establishment",
+   "exDe": "Der Kulturbetrieb lebt von &ouml;ffentlichem Geld und beklagt Abh&auml;ngigkeit.",
+   "exEn": "The cultural establishment lives on public money and laments dependence."
+  },
+  {
+   "n": 19,
+   "de": "Werkbegriff",
+   "type": "der",
+   "en": "concept of the work of art",
+   "exDe": "Der Werkbegriff hat sich weiter gewandelt als das Recht.",
+   "exEn": "The concept of the artwork has changed more than the law."
+  },
+  {
+   "n": 20,
+   "de": "Protestkultur",
+   "type": "die",
+   "en": "culture of protest",
+   "exDe": "Jede Protestkultur wird zuerst als Zumutung empfunden.",
+   "exEn": "Every culture of protest is first perceived as an imposition."
+  },
+  {
+   "n": 21,
+   "de": "Symbolpolitik",
+   "type": "die",
+   "en": "symbolic politics",
+   "exDe": "Symbolpolitik ersetzt Entscheidungen durch Bilder.",
+   "exEn": "Symbolic politics replaces decisions with images."
+  },
+  {
+   "n": 22,
+   "de": "Zensurvorwurf",
+   "type": "der",
+   "en": "accusation of censorship",
+   "exDe": "Der Zensurvorwurf f&auml;llt schnell und meist zu Unrecht.",
+   "exEn": "The accusation of censorship comes quickly and usually wrongly."
+  },
+  {
+   "n": 23,
+   "de": "Publizit&auml;t",
+   "type": "die",
+   "en": "publicity, public visibility",
+   "exDe": "Ohne Publizit&auml;t bleibt jede Enth&uuml;llung folgenlos.",
+   "exEn": "Without publicity every revelation is without consequence."
+  },
+  {
+   "n": 24,
+   "de": "Deutungsmacht",
+   "type": "die",
+   "en": "power of interpretation",
+   "exDe": "Um Deutungsmacht ringen Medien und Politik gleicherma&szlig;en.",
+   "exEn": "Media and politics struggle equally for the power of interpretation."
+  },
+  {
+   "n": 25,
+   "de": "blo&szlig;legen",
+   "type": "tr. &middot; legt blo&szlig;",
+   "en": "to expose, to lay bare",
+   "exDe": "Blo&szlig;gelegt wird selten von denen, die daf&uuml;r bezahlt werden.",
+   "exEn": "Exposure is rarely done by those paid for it."
+  },
+  {
+   "n": 26,
+   "de": "gegenrecherchieren",
+   "type": "untr. &middot; hat gegenrecherchiert",
+   "en": "to verify independently",
+   "exDe": "Gegenrecherchiert wird bei jeder brisanten Behauptung.",
+   "exEn": "Every explosive claim is verified independently."
+  },
+  {
+   "n": 27,
+   "de": "zuspielen",
+   "type": "tr. &middot; spielt zu",
+   "en": "to leak to somebody",
+   "exDe": "Zugespielt werden Unterlagen selten ohne Interesse.",
+   "exEn": "Documents are rarely leaked without an interest."
+  },
+  {
+   "n": 28,
+   "de": "durchstechen",
+   "type": "tr. &middot; sticht durch",
+   "en": "to leak deliberately",
+   "exDe": "Durchgestochen wird, was schaden soll.",
+   "exEn": "What is meant to damage gets leaked."
+  },
+  {
+   "n": 29,
+   "de": "abdrucken",
+   "type": "tr. &middot; druckt ab",
+   "en": "to print, to publish",
+   "exDe": "Abgedruckt wird, was rechtlich haltbar ist.",
+   "exEn": "What is legally defensible gets printed."
+  },
+  {
+   "n": 30,
+   "de": "vertraulich behandeln",
+   "type": "tr. &middot; behandelt vertraulich",
+   "en": "to treat confidentially",
+   "exDe": "Vertraulich behandelt wird, wer darum bittet.",
+   "exEn": "Whoever asks for it is treated confidentially."
+  },
+  {
+   "n": 31,
+   "de": "einsch&uuml;chtern",
+   "type": "untr. &middot; hat eingesch&uuml;chtert",
+   "en": "to intimidate",
+   "exDe": "Eingesch&uuml;chtert wird mit Anw&auml;lten, nicht mit Argumenten.",
+   "exEn": "Intimidation works with lawyers, not with arguments."
+  },
+  {
+   "n": 32,
+   "de": "verklagen",
+   "type": "untr. &middot; hat verklagt",
+   "en": "to sue",
+   "exDe": "Verklagt wird das Medium, gemeint ist die Recherche.",
+   "exEn": "The outlet is sued, the investigation is meant."
+  },
+  {
+   "n": 33,
+   "de": "mundtot machen",
+   "type": "tr. &middot; macht mundtot",
+   "en": "to silence",
+   "exDe": "Mundtot gemacht wird niemand offiziell.",
+   "exEn": "Nobody is officially silenced."
+  },
+  {
+   "n": 34,
+   "de": "zensieren",
+   "type": "untr. &middot; hat zensiert",
+   "en": "to censor",
+   "exDe": "Zensiert wird selten, verhindert wird oft.",
+   "exEn": "Censorship is rare, prevention is common."
+  },
+  {
+   "n": 35,
+   "de": "r&uuml;gen",
+   "type": "untr. &middot; hat ger&uuml;gt",
+   "en": "to reprimand",
+   "exDe": "Ger&uuml;gt wird &ouml;ffentlich und folgenlos.",
+   "exEn": "Reprimands are public and without consequence."
+  },
+  {
+   "n": 36,
+   "de": "anecken",
+   "type": "untr. &middot; ist angeeckt",
+   "en": "to ruffle feathers",
+   "exDe": "Wer aneckt, wird zitiert und nicht eingeladen.",
+   "exEn": "Whoever ruffles feathers gets quoted and not invited."
+  },
+  {
+   "n": 37,
+   "de": "aufr&uuml;tteln",
+   "type": "tr. &middot; r&uuml;ttelt auf",
+   "en": "to shake up",
+   "exDe": "Aufger&uuml;ttelt wird niemand durch Wiederholung.",
+   "exEn": "Nobody is shaken up by repetition."
+  },
+  {
+   "n": 38,
+   "de": "entr&uuml;sten",
+   "type": "refl. &middot; entr&uuml;stet sich",
+   "en": "to be outraged",
+   "exDe": "Entr&uuml;stet haben sich vor allem die, die nichts gesehen hatten.",
+   "exEn": "Those most outraged were mainly those who had seen nothing."
+  },
+  {
+   "n": 39,
+   "de": "boykottieren",
+   "type": "untr. &middot; hat boykottiert",
+   "en": "to boycott",
+   "exDe": "Boykottiert wird die Institution, getroffen werden die Angestellten.",
+   "exEn": "The institution is boycotted, the staff are hit."
+  },
+  {
+   "n": 40,
+   "de": "sich verweigern",
+   "type": "refl. &middot; verweigert sich",
+   "en": "to refuse to take part",
+   "exDe": "Wer sich verweigert, verliert das Publikum, nicht die Haltung.",
+   "exEn": "Whoever refuses loses the audience, not the stance."
+  },
+  {
+   "n": 41,
+   "de": "verh&uuml;llen",
+   "type": "untr. &middot; hat verh&uuml;llt",
+   "en": "to shroud, to cover up",
+   "exDe": "Verh&uuml;llt wurde das Denkmal, diskutiert wurde erst danach.",
+   "exEn": "The monument was shrouded and only then discussed."
+  },
+  {
+   "n": 42,
+   "de": "ankleben",
+   "type": "refl. &middot; klebt sich an",
+   "en": "to glue oneself to something",
+   "exDe": "Angeklebt hat sich, wer sonst nicht geh&ouml;rt wird.",
+   "exEn": "Those who are otherwise unheard glued themselves on."
+  },
+  {
+   "n": 43,
+   "de": "unabh&auml;ngig",
+   "type": "adj.",
+   "en": "independent",
+   "exDe": "Unabh&auml;ngig ist ein Medium erst ohne einen gro&szlig;en Anzeigenkunden.",
+   "exEn": "A medium is only independent without one big advertiser."
+  },
+  {
+   "n": 44,
+   "de": "weisungsfrei",
+   "type": "adj.",
+   "en": "free from instruction",
+   "exDe": "Weisungsfreie Redaktionen sind eine Konstruktion, kein Zufall.",
+   "exEn": "Editorially independent newsrooms are a construction, not an accident."
+  },
+  {
+   "n": 45,
+   "de": "investigativ",
+   "type": "adj.",
+   "en": "investigative",
+   "exDe": "Investigative Arbeit kostet Monate ohne Ergebnisgarantie.",
+   "exEn": "Investigative work costs months with no guarantee of a result."
+  },
+  {
+   "n": 46,
+   "de": "recherchiert",
+   "type": "adj.",
+   "en": "researched",
+   "exDe": "Sauber recherchiert &uuml;berlebt jede Klage.",
+   "exEn": "Properly researched survives any lawsuit."
+  },
+  {
+   "n": 47,
+   "de": "staatsfern",
+   "type": "adj.",
+   "en": "independent of the state",
+   "exDe": "Staatsferne ist bei &ouml;ffentlichem Rundfunk eine Dauerfrage.",
+   "exEn": "Independence from the state is a permanent question in public broadcasting."
+  },
+  {
+   "n": 48,
+   "de": "subversiv",
+   "type": "adj.",
+   "en": "subversive",
+   "exDe": "Subversiv wirkt Kunst selten dort, wo sie es beansprucht.",
+   "exEn": "Art is rarely subversive where it claims to be."
+  },
+  {
+   "n": 49,
+   "de": "provokant",
+   "type": "adj.",
+   "en": "provocative",
+   "exDe": "Provokant zu sein ist einfacher als relevant.",
+   "exEn": "Being provocative is easier than being relevant."
+  },
+  {
+   "n": 50,
+   "de": "systemkritisch",
+   "type": "adj.",
+   "en": "critical of the system",
+   "exDe": "Systemkritische Kunst wird gern ausgestellt und selten geh&ouml;rt.",
+   "exEn": "Art critical of the system is happily exhibited and rarely heard."
+  },
+  {
+   "n": 51,
+   "de": "spendenfinanziert",
+   "type": "adj.",
+   "en": "donation-funded",
+   "exDe": "Spendenfinanzierter Journalismus w&auml;chst langsam und stetig.",
+   "exEn": "Donation-funded journalism grows slowly and steadily."
+  },
+  {
+   "n": 52,
+   "de": "beitragsfinanziert",
+   "type": "adj.",
+   "en": "funded by licence fees",
+   "exDe": "Beitragsfinanzierte Sender rechtfertigen sich st&auml;ndig.",
+   "exEn": "Licence-fee-funded broadcasters constantly justify themselves."
+  },
+  {
+   "n": 53,
+   "de": "Quellen sch&uuml;tzen",
+   "type": "N+V &middot; sch&uuml;tzt Quellen",
+   "en": "to protect sources",
+   "exDe": "Quellen sch&uuml;tzen ist die erste Pflicht, nicht die letzte.",
+   "exEn": "Protecting sources is the first duty, not the last."
+  },
+  {
+   "n": 54,
+   "de": "einen Missstand aufzeigen",
+   "type": "N+V &middot; zeigt einen Missstand auf",
+   "en": "to expose a grievance",
+   "exDe": "Einen Missstand aufzeigen &auml;ndert ihn nicht automatisch.",
+   "exEn": "Exposing a grievance does not automatically change it."
+  },
+  {
+   "n": 55,
+   "de": "Druck auf Medien aus&uuml;ben",
+   "type": "N+V &middot; &uuml;bt Druck auf Medien aus",
+   "en": "to put pressure on the media",
+   "exDe": "Druck auf Medien aus&uuml;ben geht heute &uuml;ber Anzeigen.",
+   "exEn": "Pressure on the media today works through advertising."
+  },
+  {
+   "n": 56,
+   "de": "die Meinungsfreiheit sch&uuml;tzen",
+   "type": "N+V &middot; sch&uuml;tzt die Meinungsfreiheit",
+   "en": "to protect freedom of expression",
+   "exDe": "Die Meinungsfreiheit sch&uuml;tzt auch die unbequeme Meinung.",
+   "exEn": "Freedom of expression also protects the inconvenient opinion."
+  },
+  {
+   "n": 57,
+   "de": "Haltung zeigen",
+   "type": "N+V &middot; zeigt Haltung",
+   "en": "to take a stand",
+   "exDe": "Haltung zeigen kostet Auftr&auml;ge und bringt Publikum.",
+   "exEn": "Taking a stand costs commissions and brings audiences."
+  },
+  {
+   "n": 58,
+   "de": "&Ouml;ffentlichkeit herstellen",
+   "type": "N+V &middot; stellt &Ouml;ffentlichkeit her",
+   "en": "to create public visibility",
+   "exDe": "&Ouml;ffentlichkeit herstellen ist die eigentliche Leistung des Protests.",
+   "exEn": "Creating public visibility is the real achievement of protest."
+  },
+  {
+   "n": 59,
+   "de": "Grenzen austesten",
+   "type": "N+V &middot; testet Grenzen aus",
+   "en": "to test limits",
+   "exDe": "Grenzen austesten geh&ouml;rt zur Kunst und &auml;rgert zuverl&auml;ssig.",
+   "exEn": "Testing limits belongs to art and reliably annoys."
+  },
+  {
+   "n": 60,
+   "de": "eine Debatte ansto&szlig;en",
+   "type": "N+V &middot; st&ouml;&szlig;t eine Debatte an",
+   "en": "to trigger a debate",
+   "exDe": "Eine Debatte ansto&szlig;en gelingt seltener als Aufmerksamkeit erregen.",
+   "exEn": "Triggering a debate succeeds less often than attracting attention."
+  }
+ ],
+ "groups": [
+  "Pressefreiheit &middot; What Protects Journalism",
+  "Kunst &amp; Protest &middot; What Is Allowed to Offend",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

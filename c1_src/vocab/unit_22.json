@@ -1,0 +1,491 @@
+{
+ "unit": 22,
+ "title_de": "Sprache &amp; Zugeh&ouml;rigkeit",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Sprachwandel",
+   "type": "der",
+   "en": "language change",
+   "exDe": "Sprachwandel l&auml;uft immer, nur die Richtung wird bestritten.",
+   "exEn": "Language change is always under way; only its direction is disputed."
+  },
+  {
+   "n": 2,
+   "de": "Sprachnorm",
+   "type": "die",
+   "en": "linguistic norm",
+   "exDe": "Eine Sprachnorm entsteht durch Gebrauch, nicht durch Beschluss.",
+   "exEn": "A linguistic norm arises through use, not by decree."
+  },
+  {
+   "n": 3,
+   "de": "Sprachpolitik",
+   "type": "die",
+   "en": "language policy",
+   "exDe": "Sprachpolitik gibt es auch dort, wo sie bestritten wird.",
+   "exEn": "Language policy exists even where it is denied."
+  },
+  {
+   "n": 4,
+   "de": "Sprachkritik",
+   "type": "die",
+   "en": "language criticism",
+   "exDe": "Sprachkritik ist so alt wie die Schrift.",
+   "exEn": "Criticism of language is as old as writing."
+  },
+  {
+   "n": 5,
+   "de": "Benennungspraxis",
+   "type": "die",
+   "en": "naming practice",
+   "exDe": "Die Benennungspraxis ver&auml;ndert sich vor der Regel.",
+   "exEn": "Naming practice changes before the rule does."
+  },
+  {
+   "n": 6,
+   "de": "Selbstbezeichnung",
+   "type": "die",
+   "en": "self-designation",
+   "exDe": "Die Selbstbezeichnung hat Vorrang vor der Fremdbezeichnung.",
+   "exEn": "Self-designation takes precedence over designation by others."
+  },
+  {
+   "n": 7,
+   "de": "Fremdbezeichnung",
+   "type": "die",
+   "en": "designation by others",
+   "exDe": "Eine Fremdbezeichnung war fr&uuml;her &uuml;blich und ist es heute nicht mehr.",
+   "exEn": "A designation by others was once usual and is no longer."
+  },
+  {
+   "n": 8,
+   "de": "Konnotation",
+   "type": "die",
+   "en": "connotation",
+   "exDe": "Die Konnotation &auml;ndert sich schneller als die Bedeutung.",
+   "exEn": "The connotation changes faster than the meaning."
+  },
+  {
+   "n": 9,
+   "de": "Bedeutungswandel",
+   "type": "der",
+   "en": "semantic change",
+   "exDe": "Beim Bedeutungswandel merkt man den Bruch erst hinterher.",
+   "exEn": "In semantic change the break is only noticed afterwards."
+  },
+  {
+   "n": 10,
+   "de": "Euphemismus",
+   "type": "der",
+   "en": "euphemism",
+   "exDe": "Ein Euphemismus verschiebt das Problem in die Sprache.",
+   "exEn": "A euphemism shifts the problem into language."
+  },
+  {
+   "n": 11,
+   "de": "Herabsetzung",
+   "type": "die",
+   "en": "disparagement",
+   "exDe": "Eine Herabsetzung wirkt auch ohne Schimpfwort.",
+   "exEn": "Disparagement works even without a swear word."
+  },
+  {
+   "n": 12,
+   "de": "Verwaltungssprache",
+   "type": "die",
+   "en": "administrative language",
+   "exDe": "Verwaltungssprache schlie&szlig;t aus, ohne es zu wollen.",
+   "exEn": "Administrative language excludes without intending to."
+  },
+  {
+   "n": 13,
+   "de": "Leichte Sprache",
+   "type": "die",
+   "en": "easy-read German",
+   "exDe": "Leichte Sprache hilft weit mehr Menschen als der Zielgruppe.",
+   "exEn": "Easy-read German helps far more people than the target group."
+  },
+  {
+   "n": 14,
+   "de": "Sprachstandserhebung",
+   "type": "die",
+   "en": "language assessment",
+   "exDe": "Die Sprachstandserhebung entscheidet &uuml;ber die F&ouml;rderung.",
+   "exEn": "The language assessment decides the support given."
+  },
+  {
+   "n": 15,
+   "de": "Aufnahmegesellschaft",
+   "type": "die",
+   "en": "receiving society",
+   "exDe": "Auch die Aufnahmegesellschaft ver&auml;ndert sich, nicht nur die Zugewanderten.",
+   "exEn": "The receiving society changes too, not only those who arrive."
+  },
+  {
+   "n": 16,
+   "de": "Doppelstaatlichkeit",
+   "type": "die",
+   "en": "dual citizenship",
+   "exDe": "Doppelstaatlichkeit ist der Normalfall, nicht die Ausnahme.",
+   "exEn": "Dual citizenship is the normal case, not the exception."
+  },
+  {
+   "n": 17,
+   "de": "Diskriminierungserfahrung",
+   "type": "die",
+   "en": "experience of discrimination",
+   "exDe": "Eine Diskriminierungserfahrung l&auml;sst sich schwer belegen und leicht wiederholen.",
+   "exEn": "An experience of discrimination is hard to prove and easily repeated."
+  },
+  {
+   "n": 18,
+   "de": "Angekommensein",
+   "type": "das",
+   "en": "sense of having arrived",
+   "exDe": "Das Angekommensein entsteht im Alltag, nicht im Amt.",
+   "exEn": "The sense of having arrived comes in daily life, not at the authority."
+  },
+  {
+   "n": 19,
+   "de": "Anerkennungsl&uuml;cke",
+   "type": "die",
+   "en": "recognition gap",
+   "exDe": "Die Anerkennungsl&uuml;cke trennt Qualifikation von Besch&auml;ftigung.",
+   "exEn": "The recognition gap separates qualification from employment."
+  },
+  {
+   "n": 20,
+   "de": "Aufstiegsbarriere",
+   "type": "die",
+   "en": "barrier to advancement",
+   "exDe": "Aufstiegsbarrieren wirken auch ohne ausdr&uuml;ckliche Regel.",
+   "exEn": "Barriers to advancement work even without an explicit rule."
+  },
+  {
+   "n": 21,
+   "de": "Repr&auml;sentation",
+   "type": "die",
+   "en": "representation",
+   "exDe": "Repr&auml;sentation in Beh&ouml;rden ver&auml;ndert die Beh&ouml;rde selbst.",
+   "exEn": "Representation in public bodies changes the body itself."
+  },
+  {
+   "n": 22,
+   "de": "Interkulturelle Kompetenz",
+   "type": "die",
+   "en": "intercultural competence",
+   "exDe": "Interkulturelle Kompetenz ist erlernbar und selten gepr&uuml;ft.",
+   "exEn": "Intercultural competence can be learnt and is rarely tested."
+  },
+  {
+   "n": 23,
+   "de": "Verwaltungsh&uuml;rde",
+   "type": "die",
+   "en": "administrative hurdle",
+   "exDe": "Jede Verwaltungsh&uuml;rde kostet Monate, die niemand zur&uuml;ckbekommt.",
+   "exEn": "Every administrative hurdle costs months nobody gets back."
+  },
+  {
+   "n": 24,
+   "de": "Herkunftsgeschichte",
+   "type": "die",
+   "en": "family history of origin",
+   "exDe": "Die Herkunftsgeschichte erkl&auml;rt manches und entschuldigt nichts.",
+   "exEn": "A family's history of origin explains some things and excuses none."
+  },
+  {
+   "n": 25,
+   "de": "bezeichnen",
+   "type": "tr. &middot; bezeichnet",
+   "en": "to designate, to call",
+   "exDe": "Wie man Menschen bezeichnet, ist selten zuf&auml;llig.",
+   "exEn": "How people are designated is rarely accidental."
+  },
+  {
+   "n": 26,
+   "de": "umschreiben",
+   "type": "untr. &middot; hat umschrieben",
+   "en": "to paraphrase, to circumlocute",
+   "exDe": "Umschrieben wird, was man nicht sagen will.",
+   "exEn": "What one does not want to say gets paraphrased."
+  },
+  {
+   "n": 27,
+   "de": "sch&ouml;nreden",
+   "type": "tr. &middot; redet sch&ouml;n",
+   "en": "to talk up, to gloss over",
+   "exDe": "Sch&ouml;ngeredet wird meist von denen, die nicht betroffen sind.",
+   "exEn": "Glossing over is usually done by those not affected."
+  },
+  {
+   "n": 28,
+   "de": "kleinreden",
+   "type": "tr. &middot; redet klein",
+   "en": "to play down, to belittle",
+   "exDe": "Kleingeredet wird oft &uuml;ber den Tonfall.",
+   "exEn": "Belittling often works through tone of voice."
+  },
+  {
+   "n": 29,
+   "de": "stereotypisieren",
+   "type": "untr. &middot; hat stereotypisiert",
+   "en": "to stereotype",
+   "exDe": "Stereotypisiert wird auch mit freundlicher Absicht.",
+   "exEn": "Stereotyping happens even with friendly intent."
+  },
+  {
+   "n": 30,
+   "de": "schematisieren",
+   "type": "untr. &middot; hat schematisiert",
+   "en": "to reduce to a pattern",
+   "exDe": "Schematisiert wird vom Einzelfall auf die Gruppe.",
+   "exEn": "Reduction to a pattern goes from the individual case to the group."
+  },
+  {
+   "n": 31,
+   "de": "differenzieren",
+   "type": "untr. &middot; hat differenziert",
+   "en": "to differentiate",
+   "exDe": "Differenzieren dauert l&auml;nger und stimmt &ouml;fter.",
+   "exEn": "Differentiating takes longer and is right more often."
+  },
+  {
+   "n": 32,
+   "de": "mitmeinen",
+   "type": "tr. &middot; meint mit",
+   "en": "to mean to include",
+   "exDe": "Wer mitgemeint ist, f&uuml;hlt sich selten angesprochen.",
+   "exEn": "Those merely meant to be included rarely feel addressed."
+  },
+  {
+   "n": 33,
+   "de": "sichtbar machen",
+   "type": "tr. &middot; macht sichtbar",
+   "en": "to make visible",
+   "exDe": "Sichtbar gemacht wird &uuml;ber Sprache, nicht nur &uuml;ber Statistik.",
+   "exEn": "Visibility is created through language, not only statistics."
+  },
+  {
+   "n": 34,
+   "de": "verst&auml;ndlich machen",
+   "type": "tr. &middot; macht verst&auml;ndlich",
+   "en": "to make comprehensible",
+   "exDe": "Verst&auml;ndlich gemacht wird zu selten und zu sp&auml;t.",
+   "exEn": "Things are made comprehensible too rarely and too late."
+  },
+  {
+   "n": 35,
+   "de": "etablieren",
+   "type": "refl. &middot; etabliert sich",
+   "en": "to become established",
+   "exDe": "Eine Formulierung etabliert sich durch Gebrauch.",
+   "exEn": "A formulation becomes established through use."
+  },
+  {
+   "n": 36,
+   "de": "sich durchsetzen",
+   "type": "refl. &middot; setzt sich durch",
+   "en": "to catch on",
+   "exDe": "Durchgesetzt hat sich, was praktisch war.",
+   "exEn": "What was practical caught on."
+  },
+  {
+   "n": 37,
+   "de": "gleichbehandeln",
+   "type": "tr. &middot; behandelt gleich",
+   "en": "to treat equally",
+   "exDe": "Gleichbehandeln hei&szlig;t nicht, Unterschiede zu &uuml;bersehen.",
+   "exEn": "Treating equally does not mean overlooking differences."
+  },
+  {
+   "n": 38,
+   "de": "&uuml;bersehen",
+   "type": "untr. &middot; hat &uuml;bersehen",
+   "en": "to overlook",
+   "exDe": "&Uuml;bersehen wird, wer nicht laut ist.",
+   "exEn": "Those who are not loud get overlooked."
+  },
+  {
+   "n": 39,
+   "de": "aufnehmen",
+   "type": "tr. &middot; nimmt auf",
+   "en": "to receive, to take in",
+   "exDe": "Aufgenommen zu werden ist mehr als eingelassen zu werden.",
+   "exEn": "Being received is more than being let in."
+  },
+  {
+   "n": 40,
+   "de": "sich einleben",
+   "type": "refl. &middot; lebt sich ein",
+   "en": "to settle in",
+   "exDe": "Sich einzuleben dauert l&auml;nger als jeder Kurs.",
+   "exEn": "Settling in takes longer than any course."
+  },
+  {
+   "n": 41,
+   "de": "beheimaten",
+   "type": "refl. &middot; beheimatet sich",
+   "en": "to make a home",
+   "exDe": "Beheimatet f&uuml;hlt man sich an mehreren Orten zugleich.",
+   "exEn": "One can feel at home in several places at once."
+  },
+  {
+   "n": 42,
+   "de": "beklagen",
+   "type": "untr. &middot; hat beklagt",
+   "en": "to complain of",
+   "exDe": "Beklagt wird selten, weil Beschwerden Kraft kosten.",
+   "exEn": "Complaints are rare because they cost energy."
+  },
+  {
+   "n": 43,
+   "de": "diskriminierend",
+   "type": "adj.",
+   "en": "discriminatory",
+   "exDe": "Diskriminierend ist nicht die Absicht, sondern die Wirkung.",
+   "exEn": "What is discriminatory is not the intent but the effect."
+  },
+  {
+   "n": 44,
+   "de": "abwertend",
+   "type": "adj.",
+   "en": "pejorative",
+   "exDe": "Abwertend wird ein Wort durch Gebrauch, nicht durch Herkunft.",
+   "exEn": "A word becomes pejorative through use, not through origin."
+  },
+  {
+   "n": 45,
+   "de": "respektvoll",
+   "type": "adj.",
+   "en": "respectful",
+   "exDe": "Respektvoll formuliert ist nicht dasselbe wie vorsichtig.",
+   "exEn": "Formulated respectfully is not the same as cautiously."
+  },
+  {
+   "n": 46,
+   "de": "sprachsensibel",
+   "type": "adj.",
+   "en": "linguistically sensitive",
+   "exDe": "Sprachsensible Verwaltung spart Nachfragen.",
+   "exEn": "Linguistically sensitive administration saves follow-up questions."
+  },
+  {
+   "n": 47,
+   "de": "barrierearm",
+   "type": "adj.",
+   "en": "low-barrier",
+   "exDe": "Barrierearme Formulare erreichen mehr Menschen.",
+   "exEn": "Low-barrier forms reach more people."
+  },
+  {
+   "n": 48,
+   "de": "eingeb&uuml;rgert",
+   "type": "adj.",
+   "en": "naturalised",
+   "exDe": "Eingeb&uuml;rgert zu sein beendet nicht jede Nachfrage.",
+   "exEn": "Being naturalised does not end every question."
+  },
+  {
+   "n": 49,
+   "de": "gleichgestellt",
+   "type": "adj.",
+   "en": "given equal status",
+   "exDe": "Rechtlich gleichgestellt hei&szlig;t nicht faktisch gleich behandelt.",
+   "exEn": "Legally equal does not mean actually treated equally."
+  },
+  {
+   "n": 50,
+   "de": "teilhabend",
+   "type": "adj.",
+   "en": "participating",
+   "exDe": "Teilhabend ist, wer mitentscheiden kann.",
+   "exEn": "Those who can share in decisions are participating."
+  },
+  {
+   "n": 51,
+   "de": "herkunftsunabh&auml;ngig",
+   "type": "adj.",
+   "en": "independent of origin",
+   "exDe": "Herkunftsunabh&auml;ngige Verfahren gibt es kaum.",
+   "exEn": "Procedures independent of origin hardly exist."
+  },
+  {
+   "n": 52,
+   "de": "unhinterfragt",
+   "type": "adj.",
+   "en": "unquestioned",
+   "exDe": "Unhinterfragt wird etwas erst in der zweiten Generation.",
+   "exEn": "Something goes unquestioned only in the second generation."
+  },
+  {
+   "n": 53,
+   "de": "Worte sorgf&auml;ltig w&auml;hlen",
+   "type": "N+V &middot; w&auml;hlt Worte sorgf&auml;ltig",
+   "en": "to choose words carefully",
+   "exDe": "Worte sorgf&auml;ltig w&auml;hlen ist keine Schw&auml;che.",
+   "exEn": "Choosing words carefully is not a weakness."
+  },
+  {
+   "n": 54,
+   "de": "jemanden ernst nehmen",
+   "type": "N+V &middot; nimmt jemanden ernst",
+   "en": "to take somebody seriously",
+   "exDe": "Jemanden ernst nehmen beginnt beim Zuh&ouml;ren.",
+   "exEn": "Taking somebody seriously begins with listening."
+  },
+  {
+   "n": 55,
+   "de": "Vorurteile hinterfragen",
+   "type": "N+V &middot; hinterfragt Vorurteile",
+   "en": "to question prejudices",
+   "exDe": "Vorurteile hinterfragen ist unbequem und lernbar.",
+   "exEn": "Questioning prejudices is uncomfortable and learnable."
+  },
+  {
+   "n": 56,
+   "de": "Zugang erleichtern",
+   "type": "N+V &middot; erleichtert den Zugang",
+   "en": "to make access easier",
+   "exDe": "Zugang erleichtern kostet weniger als jede Kampagne.",
+   "exEn": "Making access easier costs less than any campaign."
+  },
+  {
+   "n": 57,
+   "de": "Abschl&uuml;sse anrechnen",
+   "type": "N+V &middot; rechnet Abschl&uuml;sse an",
+   "en": "to credit qualifications",
+   "exDe": "Abschl&uuml;sse anrechnen w&uuml;rde den Mangel sofort mildern.",
+   "exEn": "Crediting qualifications would ease the shortage at once."
+  },
+  {
+   "n": 58,
+   "de": "Sprache lernen und nutzen",
+   "type": "N+V &middot; lernt und nutzt Sprache",
+   "en": "to learn and use a language",
+   "exDe": "Sprache lernen und nutzen sind zwei verschiedene H&uuml;rden.",
+   "exEn": "Learning and using a language are two different hurdles."
+  },
+  {
+   "n": 59,
+   "de": "angenommen werden",
+   "type": "N+V &middot; wird angenommen",
+   "en": "to be accepted",
+   "exDe": "Angenommen werden und aufgenommen werden ist zweierlei.",
+   "exEn": "Being accepted and being admitted are different things."
+  },
+  {
+   "n": 60,
+   "de": "Chancen unabh&auml;ngig vom Namen",
+   "type": "N+V &middot; Chancen unabh&auml;ngig vom Namen",
+   "en": "opportunities regardless of one's name",
+   "exDe": "Chancen unabh&auml;ngig vom Namen gibt es messbar seltener.",
+   "exEn": "Opportunities regardless of one's name are measurably rarer."
+  }
+ ],
+ "groups": [
+  "Sprache &amp; Macht &middot; What Words Do",
+  "Migration &amp; Zugeh&ouml;rigkeit &middot; Arriving and Belonging",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}

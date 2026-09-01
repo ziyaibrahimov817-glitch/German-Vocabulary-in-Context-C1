@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# scratch/temp
+_*.js
+_*.py
+/tmp/
+
+# Android build output (added at packaging stage)
+/android/
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# local Claude settings
+.claude/
+scratchpad/

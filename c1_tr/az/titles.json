@@ -1,0 +1,224 @@
+{
+ "units": {
+  "1": "Kimlik və Azadlıq",
+  "2": "Dəyərlərin Dəyişməsi və Rollar",
+  "3": "Demoqrafiya və Uşaqlıq",
+  "4": "Təhsil və Ədalət",
+  "5": "Nailiyyət Təzyiqi və Elm",
+  "6": "Öyrənmə və Transformasiya",
+  "7": "İxtisaslı Kadrlar və Rəhbərlik",
+  "8": "Yük və Prekarlıq",
+  "9": "Dünya İqtisadiyyatı və İnflyasiya",
+  "10": "Vergilər və Bölgü",
+  "11": "Yaşayış və Şəhərsalma",
+  "12": "Mobillik və Turizm",
+  "13": "Qidalanma və Təchizat",
+  "14": "Psixika və Tibbi Etika",
+  "15": "İqlim Böhranı və Ədalət",
+  "16": "Enerji və Dövriyyə İqtisadiyyatı",
+  "17": "Bioloji Müxtəliflik və Böhranlar",
+  "18": "Süni İntellekt və Alqoritmlər",
+  "19": "Verilənlər və Kibertəhlükəsizlik",
+  "20": "Qütbləşmə və Dezinformasiya",
+  "21": "Mətbuat və İncəsənət Azadlığı",
+  "22": "Dil və Aidiyyət",
+  "23": "Demokratiya və Dünya Nizamı",
+  "24": "Müharibə, Sülh və İnsan Hüquqları",
+  "25": "Kosmosa Uçuş və Gələcək",
+  "26": "Elm və Məsuliyyət"
+ },
+ "groups": {
+  "1": [
+   "Kimlik və Qloballaşma · Mən kiməm və bunu kim müəyyən edir",
+   "Azadlıq və Məsuliyyət · Biri harada bitir, digəri harada başlayır",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "2": [
+   "Dəyərlərin dəyişməsi · Cəmiyyətin sadəcə qəbul etdiyi şeylər",
+   "Sosial rollar · Səndən nə gözlənilir",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "3": [
+   "Demoqrafik dəyişiklik · Bunun arxasındakı rəqəmlər",
+   "Uşaqlıq və formalaşma · Erkən dövrdə nə həlledicidir",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "4": [
+   "Təhsil və mobillik · Vəd",
+   "Seleksiya və ayrı-seçkilik · Əslində nə baş verir",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "5": [
+   "Nailiyyət təzyiqi · Sistemin tələb etdiyi",
+   "Elmi iş · Bunu düzgün necə etməli",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "6": [
+   "Ömürboyu öyrənmə · Məktəbdən sonra öyrənmək",
+   "Transformasiya · İş yerində nə dəyişir",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "7": [
+   "İxtisaslı kadr çatışmazlığı və miqrasiya · Kim gəlir, kim qalır",
+   "Rəhbərlik və mədəniyyət · İnsanlar necə idarə olunur",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "8": [
+   "Məhsuldarlıq və tükənmə · Sürətin qiyməti",
+   "Platforma işi və prekarlıq · Zəmin olmadan iş",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "9": [
+   "Təchizat zəncirləri və dünya ticarəti · Sistem nə qədər kövrəkdir",
+   "İnflyasiya və pul siyasəti · Bunun əvəzini kim ödəyir",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "10": [
+   "Vergi siyasəti · Kim nə qədər ödəyir",
+   "Var-dövlət və yoxsulluq · Kimə nə məxsusdur",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "11": [
+   "Mənzil bazarı · Kirayə, hüquqlar və köçürülmə",
+   "Şəhərsalma · Torpaq, sıxlıq və iqlim",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "12": [
+   "Mobillik · Səyahəti əslində nə dəyişir",
+   "Turizm · Bir yer öz həddinə çatanda",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "13": [
+   "Qlobal qidalanma · Kifayət qədər ərzaq, yanlış bölgü",
+   "Səhiyyə və qulluq · Sistemin zəiflədiyi yer",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "14": [
+   "Psixi sağlamlıq · Şəraitlə bağlı sual",
+   "Tibb və etika · Nəyə icazə var, nə doğrudur",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "15": [
+   "Büdcələr və mexanizmlər · Riyaziyyat",
+   "Ədalət və məsuliyyət · Kim kimə borcludur",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "16": [
+   "Enerji dönüşü · İşıqları söndürməmək",
+   "Resurslar və dövriyyə · İstifadədən sonra nə baş verir",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "17": [
+   "Bioloji müxtəliflik · Sistemi bir arada saxlayan nədir",
+   "Fəlakətlər və böhran idarəetməsi · Uğursuz olduqda",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "18": [
+   "Süni intellekt və transformasiya · Kim qazanır, kim qərar verir",
+   "Alqoritmik qərarlar · Proqram təminatı hökm verəndə",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "19": [
+   "Böyük verilənlər və şəxsi məxfilik · Nə toplanır",
+   "Kibertəhlükəsizlik · Nə oğurlana bilər",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "20": [
+   "Sosial media və qütbləşmə · Bu necə qızışır",
+   "Dezinformasiya və manipulyasiya · Çərçivəni kim müəyyən edir",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "21": [
+   "Mətbuat azadlığı · Jurnalistikanı nə qoruyur",
+   "İncəsənət və etiraz · Nəyin təhqir etməsinə icazə var",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "22": [
+   "Dil və hakimiyyət · Sözlər nə edir",
+   "Miqrasiya və aidiyyət · Gəlmək və aid olmaq",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "23": [
+   "Təzyiq altında demokratiya · Nəyin içi boşaldılır",
+   "Beynəlxalq əməkdaşlıq · Yavaş və alternativsiz",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "24": [
+   "Konflikt və diplomatiya · Əvvəl və sonra danışıqlar",
+   "İnsan hüquqları və tətbiqetmə · Qanun və onun hüdudları",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "25": [
+   "Kosmosa uçuş · Ora getmək və geri qayıtmaq",
+   "Gələcək və məsuliyyət · Əsrlərlə düşünmək",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ],
+  "26": [
+   "İdrak və metod · Bilmək necə işləyir",
+   "Elm sistemi və ictimaiyyət · Laboratoriya ilə xəbər başlığı arasında",
+   "Fellər, sifətlər və ifadələr · Bu barədə danışmaq"
+  ]
+ },
+ "grammar": [
+  {
+   "n": 1,
+   "t": "Cümlə mötərizəsi və orta sahə",
+   "s": "TeKaMoLo qaydası, fel qrupları, sona çıxarma (Ausklammerung)",
+   "tag": "uzun alman cümləsini nə birləşdirir"
+  },
+  {
+   "n": 2,
+   "t": "Nominal üslub və feli üslub",
+   "s": "'weil' əvəzinə 'aufgrund', 'prüfen' əvəzinə 'Prüfung'",
+   "tag": "cümləni feil deyil, isim ətrafında qurmaq"
+  },
+  {
+   "n": 3,
+   "t": "Funksional fel birləşmələri",
+   "s": "'Entscheidung treffen' ifadəsinin arxasındakı sistem",
+   "tag": "alman dili niyə bir feli isim və köməkçi felə bölür"
+  },
+  {
+   "n": 4,
+   "t": "Passivi əvəz edən formalar",
+   "s": "'lässt sich lösen', 'ist zu lösen', 'ist lösbar' formaları",
+   "tag": "'werden' olmadan passiv ifadə etməyin beş yolu"
+  },
+  {
+   "n": 5,
+   "t": "Modallıq və ehtimal",
+   "s": "'dürfte', 'müsste', 'scheint zu', 'droht zu' formaları",
+   "tag": "mən nə qədər əminəm və bunu kim deyir"
+  },
+  {
+   "n": 6,
+   "t": "Hesabatlarda Konjunktiv I",
+   "s": "'sei', 'habe', 'werde' — və Konjunktiv II nə vaxt işə düşür",
+   "tag": "məzmuna zamin durmadan xəbər vermək"
+  },
+  {
+   "n": 7,
+   "t": "Nisbi və təyini budaq cümlələr",
+   "s": "'dessen', 'deren', 'was', 'wer', ön qoşma + əvəzlik",
+   "tag": "sadəcə artikl olmayan dörd forma"
+  },
+  {
+   "n": 8,
+   "t": "Sifət-feli təyinlər (Partisip təyinləri)",
+   "s": "'die von der Kommission untersuchten Fälle' nümunəsi",
+   "tag": "ismin qarşısına qatlanmış nisbi budaq cümlə"
+  },
+  {
+   "n": 9,
+   "t": "Kohéziya və bağlayıcılar",
+   "s": "'folglich', 'dennoch', 'hingegen', 'diesbezüglich'",
+   "tag": "bağlayıcıların üç növü və felin yeri"
+  },
+  {
+   "n": 10,
+   "t": "Fokus və vurğulama",
+   "s": "'Was … betrifft', 'Es ist … der', 'Entscheidend ist' quruluşları",
+   "tag": "alman dili səsini qaldırmadan necə vurğulayır"
+  }
+ ]
+}

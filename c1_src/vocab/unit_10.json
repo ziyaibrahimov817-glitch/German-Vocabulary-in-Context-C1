@@ -1,0 +1,491 @@
+{
+ "unit": 10,
+ "title_de": "Steuern &amp; Verteilung",
+ "vocab": [
+  {
+   "n": 1,
+   "de": "Steuerprogression",
+   "type": "die",
+   "en": "progressive taxation",
+   "exDe": "Die Steuerprogression greift fr&uuml;her, als die meisten glauben.",
+   "exEn": "Progressive taxation bites earlier than most people think."
+  },
+  {
+   "n": 2,
+   "de": "Spitzensteuersatz",
+   "type": "der",
+   "en": "top rate of tax",
+   "exDe": "Der Spitzensteuersatz beginnt beim Anderthalbfachen des Durchschnitts.",
+   "exEn": "The top rate begins at one and a half times the average."
+  },
+  {
+   "n": 3,
+   "de": "Grenzsteuersatz",
+   "type": "der",
+   "en": "marginal tax rate",
+   "exDe": "Der Grenzsteuersatz gilt nur f&uuml;r den letzten Euro.",
+   "exEn": "The marginal rate applies only to the last euro."
+  },
+  {
+   "n": 4,
+   "de": "Bemessungsgrundlage",
+   "type": "die",
+   "en": "tax base",
+   "exDe": "Wer die Bemessungsgrundlage schm&auml;lert, spart mehr als &uuml;ber den Satz.",
+   "exEn": "Whoever narrows the tax base saves more than through the rate."
+  },
+  {
+   "n": 5,
+   "de": "Steuerlast",
+   "type": "die",
+   "en": "tax burden",
+   "exDe": "Die Steuerlast verteilt sich anders als die Abgabenlast.",
+   "exEn": "The tax burden is distributed differently from the contribution burden."
+  },
+  {
+   "n": 6,
+   "de": "Abgabenquote",
+   "type": "die",
+   "en": "tax and contribution ratio",
+   "exDe": "Die Abgabenquote sagt nichts &uuml;ber die Verteilung.",
+   "exEn": "The overall ratio says nothing about the distribution."
+  },
+  {
+   "n": 7,
+   "de": "Steuervermeidung",
+   "type": "die",
+   "en": "tax avoidance",
+   "exDe": "Steuervermeidung ist legal, Hinterziehung nicht.",
+   "exEn": "Tax avoidance is legal, evasion is not."
+  },
+  {
+   "n": 8,
+   "de": "Steuerschlupfloch",
+   "type": "das",
+   "en": "tax loophole",
+   "exDe": "Jedes Steuerschlupfloch wurde einmal absichtlich geschaffen.",
+   "exEn": "Every tax loophole was once created deliberately."
+  },
+  {
+   "n": 9,
+   "de": "Steueroase",
+   "type": "die",
+   "en": "tax haven",
+   "exDe": "Steueroasen leben von der Zur&uuml;ckhaltung anderer Staaten.",
+   "exEn": "Tax havens live on the restraint of other states."
+  },
+  {
+   "n": 10,
+   "de": "Erbschaftsteuer",
+   "type": "die",
+   "en": "inheritance tax",
+   "exDe": "Die Erbschaftsteuer trifft mittlere Verm&ouml;gen h&auml;rter als gro&szlig;e.",
+   "exEn": "Inheritance tax hits medium fortunes harder than large ones."
+  },
+  {
+   "n": 11,
+   "de": "Verm&ouml;gensteuer",
+   "type": "die",
+   "en": "wealth tax",
+   "exDe": "Die Verm&ouml;gensteuer ist ausgesetzt, nicht abgeschafft.",
+   "exEn": "The wealth tax is suspended, not abolished."
+  },
+  {
+   "n": 12,
+   "de": "Kapitalertragsteuer",
+   "type": "die",
+   "en": "capital gains tax",
+   "exDe": "Kapitalertr&auml;ge werden pauschal besteuert, Arbeit progressiv.",
+   "exEn": "Capital gains are taxed at a flat rate, labour progressively."
+  },
+  {
+   "n": 13,
+   "de": "Nettoentlastung",
+   "type": "die",
+   "en": "net relief",
+   "exDe": "Die Nettoentlastung f&auml;llt bei hohen Einkommen absolut gr&ouml;&szlig;er aus.",
+   "exEn": "Net relief is absolutely larger for high incomes."
+  },
+  {
+   "n": 14,
+   "de": "Transferleistung",
+   "type": "die",
+   "en": "transfer payment",
+   "exDe": "Transferleistungen erreichen nicht alle Berechtigten.",
+   "exEn": "Transfer payments do not reach all those entitled."
+  },
+  {
+   "n": 15,
+   "de": "Verteilungsgerechtigkeit",
+   "type": "die",
+   "en": "distributive justice",
+   "exDe": "&Uuml;ber Verteilungsgerechtigkeit streitet man mit denselben Zahlen.",
+   "exEn": "People argue about distributive justice using the same figures."
+  },
+  {
+   "n": 16,
+   "de": "Verm&ouml;genskonzentration",
+   "type": "die",
+   "en": "concentration of wealth",
+   "exDe": "Die Verm&ouml;genskonzentration ist gr&ouml;&szlig;er als die Einkommensungleichheit.",
+   "exEn": "The concentration of wealth is greater than income inequality."
+  },
+  {
+   "n": 17,
+   "de": "Gini-Koeffizient",
+   "type": "der",
+   "en": "Gini coefficient",
+   "exDe": "Der Gini-Koeffizient misst Ungleichheit, nicht Armut.",
+   "exEn": "The Gini coefficient measures inequality, not poverty."
+  },
+  {
+   "n": 18,
+   "de": "Einkommensspreizung",
+   "type": "die",
+   "en": "income spread",
+   "exDe": "Die Einkommensspreizung hat sich seit den Neunzigern ge&ouml;ffnet.",
+   "exEn": "The income spread has widened since the nineties."
+  },
+  {
+   "n": 19,
+   "de": "Armutsgef&auml;hrdungsquote",
+   "type": "die",
+   "en": "at-risk-of-poverty rate",
+   "exDe": "Die Armutsgef&auml;hrdungsquote ist relativ, nicht absolut definiert.",
+   "exEn": "The at-risk-of-poverty rate is defined relatively, not absolutely."
+  },
+  {
+   "n": 20,
+   "de": "Verm&ouml;gensaufbau",
+   "type": "der",
+   "en": "accumulation of assets",
+   "exDe": "Verm&ouml;gensaufbau gelingt vor allem &uuml;ber Wohneigentum.",
+   "exEn": "Assets are accumulated above all through home ownership."
+  },
+  {
+   "n": 21,
+   "de": "Erbengeneration",
+   "type": "die",
+   "en": "generation of heirs",
+   "exDe": "Die Erbengeneration erbt mehr, als eine Generation erarbeiten kann.",
+   "exEn": "The generation of heirs inherits more than a generation can earn."
+  },
+  {
+   "n": 22,
+   "de": "Reichtumsforschung",
+   "type": "die",
+   "en": "research on wealth",
+   "exDe": "Die Reichtumsforschung leidet unter fehlenden Daten.",
+   "exEn": "Research on wealth suffers from missing data."
+  },
+  {
+   "n": 23,
+   "de": "Statusangst",
+   "type": "die",
+   "en": "status anxiety",
+   "exDe": "Statusangst reicht weit in die Mitte hinein.",
+   "exEn": "Status anxiety reaches far into the middle."
+  },
+  {
+   "n": 24,
+   "de": "Chancenstruktur",
+   "type": "die",
+   "en": "structure of opportunity",
+   "exDe": "Die Chancenstruktur &auml;ndert sich langsamer als die Politik.",
+   "exEn": "The structure of opportunity changes more slowly than politics."
+  },
+  {
+   "n": 25,
+   "de": "heranziehen",
+   "type": "verb + zu + Dat.",
+   "en": "to draw on, to make liable",
+   "exDe": "Zur Finanzierung wird zuerst die Lohnsteuer herangezogen.",
+   "exEn": "Income tax is the first thing drawn on for financing."
+  },
+  {
+   "n": 26,
+   "de": "veranlagen",
+   "type": "untr. &middot; hat veranlagt",
+   "en": "to assess for tax",
+   "exDe": "Selbstst&auml;ndige werden j&auml;hrlich veranlagt.",
+   "exEn": "The self-employed are assessed annually."
+  },
+  {
+   "n": 27,
+   "de": "staffeln",
+   "type": "untr. &middot; hat gestaffelt",
+   "en": "to stagger, to grade",
+   "exDe": "Gestaffelt wird nach Einkommen, nicht nach Bedarf.",
+   "exEn": "Rates are graded by income, not by need."
+  },
+  {
+   "n": 28,
+   "de": "pauschalieren",
+   "type": "untr. &middot; hat pauschaliert",
+   "en": "to apply a flat rate",
+   "exDe": "Pauschalierte Steuern beg&uuml;nstigen hohe Ertr&auml;ge.",
+   "exEn": "Flat-rate taxes favour high returns."
+  },
+  {
+   "n": 29,
+   "de": "abgelten",
+   "type": "untr. &middot; hat abgegolten",
+   "en": "to settle by a flat charge",
+   "exDe": "Mit der Abgeltungsteuer ist alles abgegolten.",
+   "exEn": "The withholding tax settles everything."
+  },
+  {
+   "n": 30,
+   "de": "geltendmachen",
+   "type": "tr. &middot; macht geltend",
+   "en": "to claim (against tax)",
+   "exDe": "Wer einen Steuerberater hat, macht mehr geltend.",
+   "exEn": "Whoever has an accountant claims more."
+  },
+  {
+   "n": 31,
+   "de": "hinterziehen",
+   "type": "untr. &middot; hat hinterzogen",
+   "en": "to evade (tax)",
+   "exDe": "Hinterzogen wird dort, wo niemand pr&uuml;ft.",
+   "exEn": "Evasion happens where nobody checks."
+  },
+  {
+   "n": 32,
+   "de": "nachversteuern",
+   "type": "untr. &middot; hat nachversteuert",
+   "en": "to pay tax subsequently",
+   "exDe": "Nachversteuert wird nur nach Selbstanzeige.",
+   "exEn": "Subsequent taxation happens only after voluntary disclosure."
+  },
+  {
+   "n": 33,
+   "de": "anh&auml;ufen",
+   "type": "refl. &middot; h&auml;uft sich an",
+   "en": "to accumulate",
+   "exDe": "Verm&ouml;gen h&auml;uft sich schneller an, als Arbeit es aufholt.",
+   "exEn": "Wealth accumulates faster than labour can catch up."
+  },
+  {
+   "n": 34,
+   "de": "ansparen",
+   "type": "tr. &middot; spart an",
+   "en": "to save up",
+   "exDe": "Angespart wird nur, was &uuml;brig bleibt.",
+   "exEn": "Only what is left over gets saved up."
+  },
+  {
+   "n": 35,
+   "de": "aufzehren",
+   "type": "tr. &middot; zehrt auf",
+   "en": "to use up",
+   "exDe": "Eine Krise zehrt die R&uuml;cklagen in Monaten auf.",
+   "exEn": "A crisis uses up reserves within months."
+  },
+  {
+   "n": 36,
+   "de": "beleihen",
+   "type": "untr. &middot; hat beliehen",
+   "en": "to borrow against",
+   "exDe": "Wer Eigentum hat, kann es beleihen.",
+   "exEn": "Whoever owns property can borrow against it."
+  },
+  {
+   "n": 37,
+   "de": "aussch&uuml;tten",
+   "type": "untr. &middot; hat ausgesch&uuml;ttet",
+   "en": "to distribute (profits)",
+   "exDe": "Ausgesch&uuml;ttet wird an wenige, gearbeitet von vielen.",
+   "exEn": "Profits are distributed to few and worked for by many."
+  },
+  {
+   "n": 38,
+   "de": "ver&auml;u&szlig;ern",
+   "type": "untr. &middot; hat ver&auml;u&szlig;ert",
+   "en": "to dispose of, to sell",
+   "exDe": "Nach zehn Jahren l&auml;sst sich steuerfrei ver&auml;u&szlig;ern.",
+   "exEn": "After ten years disposal is tax-free."
+  },
+  {
+   "n": 39,
+   "de": "erben",
+   "type": "untr. &middot; hat geerbt",
+   "en": "to inherit",
+   "exDe": "Wer erbt, startet eine Generation weiter vorn.",
+   "exEn": "Whoever inherits starts a generation ahead."
+  },
+  {
+   "n": 40,
+   "de": "wegbrechen",
+   "type": "untr. &middot; ist weggebrochen",
+   "en": "to fall away, to collapse",
+   "exDe": "Bricht ein Einkommen weg, greift wenig.",
+   "exEn": "If one income falls away, little catches you."
+  },
+  {
+   "n": 41,
+   "de": "verharren",
+   "type": "verb + in + Dat.",
+   "en": "to remain stuck",
+   "exDe": "Viele verharren eine Generation lang in derselben Lage.",
+   "exEn": "Many remain stuck in the same position for a generation."
+  },
+  {
+   "n": 42,
+   "de": "teilhaben",
+   "type": "verb + an + Dat.",
+   "en": "to share in",
+   "exDe": "Am Wachstum teilhaben nicht alle gleicherma&szlig;en.",
+   "exEn": "Not everyone shares equally in growth."
+  },
+  {
+   "n": 43,
+   "de": "progressiv",
+   "type": "adj.",
+   "en": "progressive (taxation)",
+   "exDe": "Ein progressiver Tarif steigt mit dem Einkommen.",
+   "exEn": "A progressive scale rises with income."
+  },
+  {
+   "n": 44,
+   "de": "regressiv",
+   "type": "adj.",
+   "en": "regressive",
+   "exDe": "Verbrauchsteuern wirken regressiv.",
+   "exEn": "Consumption taxes have a regressive effect."
+  },
+  {
+   "n": 45,
+   "de": "steuerlich",
+   "type": "adj.",
+   "en": "for tax purposes",
+   "exDe": "Steuerlich absetzbar ist vieles, bekannt ist wenig.",
+   "exEn": "Much is tax-deductible, little is known."
+  },
+  {
+   "n": 46,
+   "de": "umverteilend",
+   "type": "adj.",
+   "en": "redistributive",
+   "exDe": "Umverteilende Wirkung hat vor allem das Transfersystem.",
+   "exEn": "It is above all the transfer system that redistributes."
+  },
+  {
+   "n": 47,
+   "de": "einkommensstark",
+   "type": "adj.",
+   "en": "high-income",
+   "exDe": "Einkommensstarke Haushalte sparen einen gr&ouml;&szlig;eren Anteil.",
+   "exEn": "High-income households save a larger share."
+  },
+  {
+   "n": 48,
+   "de": "armutsgef&auml;hrdet",
+   "type": "adj.",
+   "en": "at risk of poverty",
+   "exDe": "Armutsgef&auml;hrdet ist, wer unter sechzig Prozent des Medians liegt.",
+   "exEn": "Those below sixty per cent of the median are at risk of poverty."
+  },
+  {
+   "n": 49,
+   "de": "leistungslos",
+   "type": "adj.",
+   "en": "unearned",
+   "exDe": "Leistungsloses Einkommen wird niedriger besteuert als Arbeit.",
+   "exEn": "Unearned income is taxed lower than labour."
+  },
+  {
+   "n": 50,
+   "de": "erbbedingt",
+   "type": "adj.",
+   "en": "due to inheritance",
+   "exDe": "Erbbedingte Unterschiede wachsen mit jeder Generation.",
+   "exEn": "Differences due to inheritance grow with every generation."
+  },
+  {
+   "n": 51,
+   "de": "verm&ouml;genswirksam",
+   "type": "adj.",
+   "en": "asset-building",
+   "exDe": "Verm&ouml;genswirksame Leistungen nutzen vor allem Festangestellten.",
+   "exEn": "Asset-building benefits mainly help permanent employees."
+  },
+  {
+   "n": 52,
+   "de": "anspruchsberechtigt",
+   "type": "adj.",
+   "en": "entitled to claim",
+   "exDe": "Anspruchsberechtigt ist, wer die H&uuml;rden des Antrags nimmt.",
+   "exEn": "Those who clear the hurdles of the application are entitled to claim."
+  },
+  {
+   "n": 53,
+   "de": "Steuern erheben",
+   "type": "N+V &middot; erhebt Steuern",
+   "en": "to levy taxes",
+   "exDe": "Steuern erhebt der Staat dort, wo es am wenigsten auff&auml;llt.",
+   "exEn": "The state levies taxes where it is least noticed."
+  },
+  {
+   "n": 54,
+   "de": "Verm&ouml;gen besteuern",
+   "type": "N+V &middot; besteuert Verm&ouml;gen",
+   "en": "to tax wealth",
+   "exDe": "Verm&ouml;gen zu besteuern ist schwerer als Einkommen.",
+   "exEn": "Taxing wealth is harder than taxing income."
+  },
+  {
+   "n": 55,
+   "de": "Lasten gerecht verteilen",
+   "type": "N+V &middot; verteilt Lasten gerecht",
+   "en": "to distribute burdens fairly",
+   "exDe": "Lasten gerecht zu verteilen ist eine politische, keine rechnerische Frage.",
+   "exEn": "Distributing burdens fairly is a political, not an arithmetical question."
+  },
+  {
+   "n": 56,
+   "de": "Armut bek&auml;mpfen",
+   "type": "N+V &middot; bek&auml;mpft Armut",
+   "en": "to combat poverty",
+   "exDe": "Armut bek&auml;mpft man wirksamer &uuml;ber Arbeit als &uuml;ber Transfers.",
+   "exEn": "Poverty is combated more effectively through work than transfers."
+  },
+  {
+   "n": 57,
+   "de": "Anspruch geltend machen",
+   "type": "N+V &middot; macht einen Anspruch geltend",
+   "en": "to assert an entitlement",
+   "exDe": "Einen Anspruch geltend machen setzt voraus, dass man ihn kennt.",
+   "exEn": "Asserting an entitlement presupposes knowing about it."
+  },
+  {
+   "n": 58,
+   "de": "Verm&ouml;gen &uuml;bertragen",
+   "type": "N+V &middot; &uuml;bertr&auml;gt Verm&ouml;gen",
+   "en": "to transfer assets",
+   "exDe": "Verm&ouml;gen &uuml;bertr&auml;gt man am besten zu Lebzeiten.",
+   "exEn": "Assets are best transferred during one's lifetime."
+  },
+  {
+   "n": 59,
+   "de": "aus der Armut aufsteigen",
+   "type": "N+V &middot; steigt aus der Armut auf",
+   "en": "to rise out of poverty",
+   "exDe": "Aus der Armut aufsteigen dauert in Deutschland sechs Generationen.",
+   "exEn": "Rising out of poverty takes six generations in Germany."
+  },
+  {
+   "n": 60,
+   "de": "Zugang zu Bildung schaffen",
+   "type": "N+V &middot; schafft Zugang zu Bildung",
+   "en": "to create access to education",
+   "exDe": "Zugang zu Bildung schaffen wirkt l&auml;nger als jede Einmalzahlung.",
+   "exEn": "Creating access to education works longer than any one-off payment."
+  }
+ ],
+ "groups": [
+  "Steuerpolitik &middot; Who Pays What",
+  "Reichtum &amp; Armut &middot; Who Owns What",
+  "Verben, Adjektive &amp; Wendungen &middot; Talking About It"
+ ]
+}
