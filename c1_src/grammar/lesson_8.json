@@ -1,0 +1,158 @@
+{
+ "n": 8,
+ "title_de": "Partizipialattribute",
+ "rule": "\n<div class=\"rule-box\"><h4>1. A relative clause squeezed in front of the noun</h4>\n<p>German can take a whole relative clause and fold it into the space between the article and the noun. The result is the <b>erweitertes Partizipialattribut</b> &mdash; the single most typical structure of written German.</p>\n<table class=\"vocab-table\"><thead><tr><th>Relativsatz</th><th>Partizipialattribut</th></tr></thead>\n<tbody>\n<tr><td>die Mietpreise, <b class=\"nl\">die seit Jahren steigen</b></td><td>die <b class=\"nl\">seit Jahren steigenden</b> Mietpreise</td></tr>\n<tr><td>die F&auml;lle, <b class=\"nl\">die die Kommission untersucht hat</b></td><td>die <b class=\"nl\">von der Kommission untersuchten</b> F&auml;lle</td></tr>\n<tr><td>die Vorschriften, <b class=\"nl\">die eingef&uuml;hrt wurden</b></td><td>die <b class=\"nl\">eingef&uuml;hrten</b> Vorschriften</td></tr>\n</tbody></table>\n<p>The frame is always the same: <b class=\"nl\">Artikel &rarr; [alles, was dazugeh&ouml;rt] &rarr; Partizip mit Adjektivendung &rarr; Nomen</b>. Everything between the article and the noun belongs together, however long it gets.</p></div>\n\n<div class=\"rule-box\"><h4>2. Which participle? Two questions decide</h4>\n<table class=\"vocab-table\"><thead><tr><th></th><th>Partizip I <i class=\"gl\">-end</i></th><th>Partizip II <i class=\"gl\">ge&hellip;t / ge&hellip;en</i></th></tr></thead>\n<tbody>\n<tr><td>Bedeutung</td><td>aktiv, gleichzeitig</td><td>passiv, abgeschlossen</td></tr>\n<tr><td>Beispiel</td><td>die <b class=\"nl\">steigenden</b> Preise <i class=\"gl\">they are rising</i></td><td>die <b class=\"nl\">untersuchten</b> F&auml;lle <i class=\"gl\">someone examined them</i></td></tr>\n<tr><td>entspricht</td><td>&hellip;, die steigen</td><td>&hellip;, die untersucht wurden</td></tr>\n</tbody></table>\n<p>Careful with intransitive verbs of motion and change: their Partizip II is <b>active</b> and <b>completed</b>, not passive:</p>\n<ul>\n<li><b class=\"nl\">die <u>gestiegenen</u> Preise</b> = die Preise, die gestiegen sind <i class=\"gl\">not: which were risen</i></li>\n<li><b class=\"nl\">die <u>eingetretene</u> Verz&ouml;gerung</b>, <b class=\"nl\">der <u>zur&uuml;ckgetretene</u> Minister</b></li>\n</ul>\n<p>Only verbs that form the perfect with <b class=\"nl\">sein</b> behave this way. Verbs with <b class=\"nl\">haben</b> give a passive participle: <b class=\"nl\">die gepr&uuml;ften Unterlagen</b>.</p></div>\n\n<div class=\"rule-box\"><h4>3. Reading them &mdash; unpack from the inside out</h4>\n<p>This is the exam skill. Work in three steps:</p>\n<p><b class=\"nl\">die von der Kommission ausf&uuml;hrlich untersuchten F&auml;lle</b></p>\n<ul>\n<li><b>1.</b> Find article and noun: <i class=\"gl\">die &hellip; F&auml;lle</i></li>\n<li><b>2.</b> Find the participle right before the noun: <i class=\"gl\">untersuchten</i> &rarr; Partizip II &rarr; passive</li>\n<li><b>3.</b> Everything in between is the rest of the clause: <i class=\"gl\">die F&auml;lle, die von der Kommission ausf&uuml;hrlich untersucht wurden</i></li>\n</ul>\n<p>More examples unpacked:</p>\n<ul>\n<li><b class=\"nl\">die bislang kaum beachteten Folgen</b> &rarr; <i class=\"gl\">die Folgen, die bislang kaum beachtet wurden</i></li>\n<li><b class=\"nl\">die im vergangenen Jahr eingef&uuml;hrten Vorschriften</b> &rarr; <i class=\"gl\">die Vorschriften, die im vergangenen Jahr eingef&uuml;hrt wurden</i></li>\n<li><b class=\"nl\">die seit Jahren steigenden Mietpreise</b> &rarr; <i class=\"gl\">die Mietpreise, die seit Jahren steigen</i></li>\n</ul></div>\n\n<div class=\"rule-box\"><h4>4. zu + Partizip I &mdash; the Gerundivum</h4>\n<p>Add <b class=\"nl\">zu</b> before the Partizip I and the meaning changes completely: from <i>doing</i> to <i>must / can be done</i>.</p>\n<ul>\n<li><b class=\"nl\">die <u>zu beachtenden</u> Vorschriften</b> = die Vorschriften, die beachtet werden m&uuml;ssen</li>\n<li><b class=\"nl\">der <u>einzureichende</u> Antrag</b> = der Antrag, der eingereicht werden muss <i class=\"gl\">separable: ein-zu-reichen</i></li>\n<li><b class=\"nl\">die <u>noch zu kl&auml;renden</u> Fragen</b> = die Fragen, die noch gekl&auml;rt werden m&uuml;ssen</li>\n<li><b class=\"nl\">die <u>kaum zu &uuml;berbietende</u> Leistung</b> = die kaum &uuml;berboten werden kann</li>\n</ul>\n<p>Note the difference in one pair: <b class=\"nl\">die steigenden Preise</b> (they are rising) versus <b class=\"nl\">die zu zahlenden Preise</b> (they must be paid).</p></div>\n\n<div class=\"rule-box\"><h4>5. Two or three attributes at once</h4>\n<p>Attributes stack in a fixed order, from the most general on the left to the closest to the noun on the right:</p>\n<p style=\"text-align:center;\"><b class=\"nl\">Artikel &rarr; Partizipialgruppe &rarr; einfaches Adjektiv &rarr; Nomen</b></p>\n<ul>\n<li><b class=\"nl\">die bislang kaum beachteten <u>gesellschaftlichen</u> Folgen</b></li>\n<li><b class=\"nl\">die im Mai beschlossenen <u>neuen</u> Regelungen</b></li>\n</ul>\n<p>All of them carry the same adjective ending, decided by article, gender and case: <b class=\"nl\">der von Experten erarbeitete Vorschlag</b>, <b class=\"nl\">mit dem von Experten erarbeiteten Vorschlag</b>.</p>\n<div class=\"tip\"><b>Where you will meet them:</b> newspaper leads, court decisions, official letters, scientific abstracts. Almost never in speech &mdash; if you say <i>die seit Jahren steigenden Mietpreise</i> out loud, you sound like you are reading a report. In conversation Germans use the relative clause.</div></div>\n\n<div class=\"rule-box\"><h4>6. Writing them &mdash; and knowing when to stop</h4>\n<p>Building one is the reverse of unpacking:</p>\n<ul>\n<li>Relative clause: <b class=\"nl\">die Wohnungen, die im Zentrum gebaut wurden</b></li>\n<li>Drop <b class=\"nl\">die&hellip;wurden</b>, keep the participle: <b class=\"nl\">gebaut</b> &rarr; <b class=\"nl\">gebauten</b></li>\n<li>Slot everything in: <b class=\"nl\">die <u>im Zentrum gebauten</u> Wohnungen</b></li>\n</ul>\n<p>But there is a limit. Once the block passes about six or seven words, the reader loses the thread:</p>\n<ul>\n<li><s>die von der im vergangenen Jahr eingesetzten unabh&auml;ngigen Kommission ausf&uuml;hrlich untersuchten F&auml;lle</s></li>\n<li><b class=\"nl\">die F&auml;lle, die eine unabh&auml;ngige Kommission ausf&uuml;hrlich untersucht hat</b></li>\n</ul>\n<p>At C1 you are judged on both: forming them correctly <b>and</b> choosing not to when they would obscure the sentence.</p></div>\n",
+ "instr": "Turn the relative clause into a participial attribute, or supply the missing form.",
+ "groups": [
+  {
+   "title": "Grundmuster &middot; Partizip I gegen Partizip II",
+   "items": [
+    {
+     "de": "die seit Jahren steigenden Mietpreise",
+     "en": "the rents that have been rising for years",
+     "note": "Partizip I &mdash; aktiv, gleichzeitig"
+    },
+    {
+     "de": "die Mietpreise, die seit Jahren steigen",
+     "en": "the rents that have been rising for years",
+     "note": "derselbe Inhalt als Relativsatz"
+    },
+    {
+     "de": "die von der Kommission untersuchten F&auml;lle",
+     "en": "the cases examined by the commission",
+     "note": "Partizip II &mdash; passiv, abgeschlossen"
+    },
+    {
+     "de": "die F&auml;lle, die von der Kommission untersucht wurden",
+     "en": "the cases that were examined by the commission",
+     "note": "aufgel&ouml;st"
+    },
+    {
+     "de": "die gestiegenen Preise",
+     "en": "the prices that have risen",
+     "note": "Partizip II von steigen &mdash; aktiv, nicht passiv"
+    },
+    {
+     "de": "der zur&uuml;ckgetretene Minister",
+     "en": "the minister who has resigned",
+     "note": "sein-Verb &rarr; aktive Bedeutung"
+    },
+    {
+     "de": "die eingetretene Verz&ouml;gerung",
+     "en": "the delay that has occurred",
+     "note": "dasselbe Muster"
+    }
+   ]
+  },
+  {
+   "title": "Wohnungsmarkt &middot; From the News Pages",
+   "items": [
+    {
+     "de": "die im Zentrum gebauten Wohnungen",
+     "en": "the flats built in the centre",
+     "note": "Ort im Attribut"
+    },
+    {
+     "de": "die seit Januar geltenden Mietobergrenzen",
+     "en": "the rent caps in force since January",
+     "note": "Zeit + Partizip I"
+    },
+    {
+     "de": "die von Investoren aufgekauften Altbauten",
+     "en": "the old buildings bought up by investors",
+     "note": "Agens mit von"
+    },
+    {
+     "de": "die bislang kaum beachteten gesellschaftlichen Folgen",
+     "en": "the social consequences hardly noticed so far",
+     "note": "zwei Attribute gestapelt"
+    },
+    {
+     "de": "die aus dem Stadtzentrum verdr&auml;ngten Familien",
+     "en": "the families displaced from the city centre",
+     "note": "Herkunftsangabe im Attribut"
+    },
+    {
+     "de": "die stetig wachsende Nachfrage nach kleinen Wohnungen",
+     "en": "the steadily growing demand for small flats",
+     "note": "Partizip I mit Adverb"
+    }
+   ]
+  },
+  {
+   "title": "Gesetzgebung &middot; zu + Partizip and Officialese",
+   "items": [
+    {
+     "de": "die im vergangenen Jahr eingef&uuml;hrten Vorschriften",
+     "en": "the regulations introduced last year",
+     "note": "Zeitangabe + Partizip II"
+    },
+    {
+     "de": "die zu beachtenden Vorschriften",
+     "en": "the regulations to be observed",
+     "note": "zu + Partizip I &mdash; muss"
+    },
+    {
+     "de": "der einzureichende Antrag",
+     "en": "the application to be submitted",
+     "note": "trennbar: ein-zu-reichen"
+    },
+    {
+     "de": "die noch zu kl&auml;renden Fragen",
+     "en": "the questions still to be clarified",
+     "note": "typisch f&uuml;r Protokolle"
+    },
+    {
+     "de": "die vom Gesetzgeber vorgesehene &Uuml;bergangsfrist",
+     "en": "the transitional period provided for by the legislator",
+     "note": "Amtsdeutsch"
+    },
+    {
+     "de": "die im Mai beschlossenen neuen Regelungen",
+     "en": "the new rules adopted in May",
+     "note": "Partizipgruppe + einfaches Adjektiv"
+    },
+    {
+     "de": "mit dem von Experten erarbeiteten Vorschlag",
+     "en": "with the proposal drawn up by experts",
+     "note": "Endung folgt dem Kasus: Dativ"
+    }
+   ]
+  },
+  {
+   "title": "Die Grenze &middot; When It Becomes Unreadable",
+   "items": [
+    {
+     "de": "die kaum zu &uuml;berbietende Leistung",
+     "en": "the achievement that can hardly be surpassed",
+     "note": "zu + Partizip I &mdash; Lesart k&ouml;nnen"
+    },
+    {
+     "de": "die zu zahlenden Preise",
+     "en": "the prices to be paid",
+     "note": "muss gezahlt werden"
+    },
+    {
+     "de": "die steigenden Preise",
+     "en": "the rising prices",
+     "note": "sie steigen selbst &mdash; Unterschied beachten"
+    },
+    {
+     "de": "die von der im vergangenen Jahr eingesetzten Kommission untersuchten F&auml;lle",
+     "en": "the cases examined by the commission set up last year",
+     "note": "zu lang &mdash; Leser verliert den Faden"
+    },
+    {
+     "de": "die F&auml;lle, die eine unabh&auml;ngige Kommission untersucht hat",
+     "en": "the cases an independent commission has examined",
+     "note": "besser: als Relativsatz"
+    },
+    {
+     "de": "Bei mehr als sieben W&ouml;rtern lieber einen Relativsatz.",
+     "en": "With more than seven words, prefer a relative clause.",
+     "note": "Faustregel f&uuml;r den Schreibstil"
+    }
+   ]
+  }
+ ]
+}

@@ -51,5 +51,9 @@
  "matchInstr": "Soldaki bir kelimeye, ardından sağdaki çevirisine dokunun.",
  "tfInstr": "\"doğru\" veya \"yanlış\" yazın.",
  "uSeriesPrefix": "Bağlam İçinde Almanca Kelime Bilgisi · Ünite",
- "wordsUnit": "kelime"
+ "wordsUnit": "kelime",
+ "basics": "temeller",
+ "grammarBasics": "Dilbilgisi Temelleri",
+ "tfTrue": "doğru",
+ "tfFalse": "yanlış"
 }

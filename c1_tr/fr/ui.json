@@ -51,5 +51,9 @@
  "matchInstr": "Touchez un mot à gauche, puis sa traduction à droite.",
  "tfInstr": "Écrivez \"vrai\" ou \"faux\".",
  "uSeriesPrefix": "Vocabulaire allemand en contexte · Unité",
- "wordsUnit": "mots"
+ "wordsUnit": "mots",
+ "basics": "bases",
+ "grammarBasics": "Bases de grammaire",
+ "tfTrue": "vrai",
+ "tfFalse": "faux"
 }

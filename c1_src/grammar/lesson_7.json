@@ -1,0 +1,158 @@
+{
+ "n": 7,
+ "title_de": "Relativ- &amp; Attributs&auml;tze",
+ "rule": "\n<div class=\"rule-box\"><h4>1. The full table &mdash; including the genitive</h4>\n<p>Relative pronouns look like definite articles except in four places. Those four are exactly the C1 forms:</p>\n<table class=\"vocab-table\"><thead><tr><th></th><th>maskulin</th><th>feminin</th><th>neutrum</th><th>Plural</th></tr></thead>\n<tbody>\n<tr><td>Nominativ</td><td>der</td><td>die</td><td>das</td><td>die</td></tr>\n<tr><td>Akkusativ</td><td>den</td><td>die</td><td>das</td><td>die</td></tr>\n<tr><td>Dativ</td><td>dem</td><td>der</td><td>dem</td><td><b class=\"nl\">denen</b></td></tr>\n<tr><td>Genitiv</td><td><b class=\"nl\">dessen</b></td><td><b class=\"nl\">deren</b></td><td><b class=\"nl\">dessen</b></td><td><b class=\"nl\">deren</b></td></tr>\n</tbody></table>\n<p>Two rules decide every relative pronoun, and they pull in different directions:</p>\n<ul>\n<li><b>Gender and number</b> come from the noun <b>before</b> the comma.</li>\n<li><b>Case</b> comes from the job inside the <b>relative clause</b>.</li>\n</ul></div>\n\n<div class=\"rule-box\"><h4>2. dessen and deren &mdash; the possessive relative</h4>\n<p>These replace a possessive: <i>sein, ihr</i>. The trap is that they agree with the <b>owner</b>, not with the thing owned:</p>\n<ul>\n<li><b class=\"nl\">Das Unternehmen, <u>dessen</u> Umsatz stark gestiegen ist, plant Investitionen.</b> <i class=\"gl\">Unternehmen = neutrum &rarr; dessen, although Umsatz is masculine</i></li>\n<li><b class=\"nl\">Die Autorin, <u>deren</u> Buch ausgezeichnet wurde, lehrt in Wien.</b> <i class=\"gl\">Autorin = feminin &rarr; deren</i></li>\n<li><b class=\"nl\">Die Studien, <u>deren</u> Ergebnisse umstritten sind, wurden wiederholt.</b> <i class=\"gl\">Plural &rarr; deren</i></li>\n</ul>\n<p>No article follows: <b class=\"nl\">dessen Umsatz</b>, never <s>dessen der Umsatz</s>. And an adjective after them takes the strong ending: <b class=\"nl\">deren <u>neue</u> Studie</b>.</p>\n<p>A preposition can stand in front &mdash; this is where academic German gets dense: <b class=\"nl\">der Forscher, <u>auf dessen</u> Arbeit sich alle berufen</b>.</p></div>\n\n<div class=\"rule-box\"><h4>3. Preposition + relative pronoun</h4>\n<p>If the verb in the relative clause needs a preposition, the preposition moves to the <b>front</b> of the clause and takes the pronoun with it:</p>\n<ul>\n<li>sich berufen <b>auf</b> + Akk. &rarr; <b class=\"nl\">die Studie, <u>auf die</u> sich alle berufen</b></li>\n<li>rechnen <b>mit</b> + Dat. &rarr; <b class=\"nl\">die Folgen, <u>mit denen</u> niemand gerechnet hat</b></li>\n<li>Grund <b>f&uuml;r</b> + Akk. &rarr; <b class=\"nl\">die Entscheidung, <u>f&uuml;r die</u> es keine Begr&uuml;ndung gibt</b></li>\n</ul>\n<p>For <b>things</b> only, you may fuse them into <b class=\"nl\">wo(r)-</b>: <b class=\"nl\">die Folgen, <u>womit</u> niemand gerechnet hat</b>. This sounds older and slightly literary; in academic prose the two-word form is safer. For <b>people</b> it is impossible: <s>der Kollege, womit ich rede</s>.</p></div>\n\n<div class=\"rule-box\"><h4>4. was &mdash; five clear triggers</h4>\n<p>Use <b class=\"nl\">was</b>, not <b class=\"nl\">das</b>, after these:</p>\n<table class=\"vocab-table\"><thead><tr><th>Trigger</th><th>Example</th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">das</b> as a pronoun</td><td>Das, <b class=\"nl\">was</b> wir heute entscheiden, wirkt lange.</td></tr>\n<tr><td>alles, nichts, etwas, vieles, weniges</td><td>Alles, <b class=\"nl\">was</b> wir wissen, steht im Bericht.</td></tr>\n<tr><td>a substantivised superlative</td><td>Das Beste, <b class=\"nl\">was</b> passieren konnte.</td></tr>\n<tr><td>a whole preceding clause</td><td>Die Kosten stiegen, <b class=\"nl\">was</b> niemanden &uuml;berraschte.</td></tr>\n<tr><td>a substantivised adjective</td><td>Das Entscheidende, <b class=\"nl\">was</b> dabei &uuml;bersehen wurde &hellip;</td></tr>\n</tbody></table>\n<p>With a preposition it becomes <b class=\"nl\">wo(r)-</b>: <b class=\"nl\">Er schwieg, <u>wor&uuml;ber</u> sich alle wunderten.</b></p></div>\n\n<div class=\"rule-box\"><h4>5. wer &mdash; a relative clause with no head noun</h4>\n<p><b class=\"nl\">wer</b> means <i>whoever</i>. It opens a clause that has no noun to attach to:</p>\n<ul>\n<li><b class=\"nl\"><u>Wer</u> regelm&auml;&szlig;ig &uuml;bt, verbessert seine Sprachkenntnisse.</b></li>\n<li><b class=\"nl\"><u>Wer</u> die Frist vers&auml;umt, verliert seinen Anspruch.</b> <i class=\"gl\">typical for rules and laws</i></li>\n<li><b class=\"nl\"><u>Wem</u> das nicht passt, der kann Widerspruch einlegen.</b> <i class=\"gl\">the case in the second half can be repeated with der</i></li>\n</ul>\n<p>It declines like the question word: <b class=\"nl\">wer &ndash; wen &ndash; wem &ndash; wessen</b>. Note that a following main clause may start with <b class=\"nl\">der</b> if the cases differ &mdash; <b class=\"nl\">Wen man nicht fragt, <u>der</u> antwortet auch nicht.</b></p></div>\n\n<div class=\"rule-box\"><h4>6. welcher, and where to put the clause</h4>\n<p><b class=\"nl\">welcher/welche/welches</b> is a formal alternative, used mainly to avoid two identical words meeting: <b class=\"nl\">die Studie, <u>welche die</u> Kommission vorlegte</b> instead of <b class=\"nl\">die, die die</b>. It has no genitive form &mdash; there you must use <b class=\"nl\">dessen/deren</b>.</p>\n<p>The relative clause normally stands <b>immediately</b> after its noun. It may be pushed to the end if that keeps the sentence readable:</p>\n<ul>\n<li><b class=\"nl\">Die Studie, <u>die letztes Jahr erschien</u>, wurde stark beachtet.</b> <i class=\"gl\">normal position</i></li>\n<li><b class=\"nl\">Es wurde eine Studie ver&ouml;ffentlicht, <u>die alle Annahmen widerlegt</u>.</b> <i class=\"gl\">extraposed &mdash; the bracket closes first</i></li>\n</ul>\n<div class=\"tip\"><b>Bridge to the next unit:</b> German can compress a whole relative clause into an attribute before the noun &mdash; <b class=\"nl\">die Sch&uuml;ler, <u>die von Experten beraten wurden</u></b> becomes <b class=\"nl\">die <u>von Experten beratenen</u> Sch&uuml;ler</b>. That is Grammar 8.</div></div>\n",
+ "instr": "Insert the correct relative pronoun (with preposition where needed).",
+ "groups": [
+  {
+   "title": "dessen &amp; deren &middot; The Possessive Relative",
+   "items": [
+    {
+     "de": "Das Unternehmen, dessen Umsatz stark gestiegen ist, plant Investitionen.",
+     "en": "The company whose turnover has risen sharply is planning investments.",
+     "note": "Unternehmen = neutrum &rarr; dessen"
+    },
+    {
+     "de": "Die Autorin, deren Buch ausgezeichnet wurde, lehrt in Wien.",
+     "en": "The author whose book was awarded a prize teaches in Vienna.",
+     "note": "Autorin = feminin &rarr; deren"
+    },
+    {
+     "de": "Die Studien, deren Ergebnisse umstritten sind, wurden wiederholt.",
+     "en": "The studies whose results are contested were repeated.",
+     "note": "Plural &rarr; deren"
+    },
+    {
+     "de": "Der Forscher, auf dessen Arbeit sich alle berufen, schweigt.",
+     "en": "The researcher whose work everyone cites remains silent.",
+     "note": "Pr&auml;position + dessen"
+    },
+    {
+     "de": "Die Beh&ouml;rde, deren neue Richtlinie gilt, informiert morgen.",
+     "en": "The authority whose new guideline applies will inform tomorrow.",
+     "note": "Adjektiv nach deren: starke Endung"
+    },
+    {
+     "de": "Das Projekt, dessen Finanzierung ungekl&auml;rt ist, ruht.",
+     "en": "The project whose funding is unresolved is on hold.",
+     "note": "kein Artikel nach dessen"
+    }
+   ]
+  },
+  {
+   "title": "Pr&auml;position + Relativpronomen &middot; Which Case?",
+   "items": [
+    {
+     "de": "die Studie, auf die sich alle berufen",
+     "en": "the study everyone cites",
+     "note": "sich berufen auf + Akkusativ"
+    },
+    {
+     "de": "die Folgen, mit denen niemand gerechnet hat",
+     "en": "the consequences nobody reckoned with",
+     "note": "rechnen mit + Dativ, Plural denen"
+    },
+    {
+     "de": "die Entscheidung, f&uuml;r die es keine Begr&uuml;ndung gibt",
+     "en": "the decision for which there is no justification",
+     "note": "f&uuml;r + Akkusativ"
+    },
+    {
+     "de": "der Kollege, mit dem ich das besprochen habe",
+     "en": "the colleague I discussed it with",
+     "note": "Person &mdash; nur zweiteilig m&ouml;glich"
+    },
+    {
+     "de": "das Thema, &uuml;ber das wir gestritten haben",
+     "en": "the topic we argued about",
+     "note": "streiten &uuml;ber + Akkusativ"
+    },
+    {
+     "de": "die Frage, von deren Beantwortung alles abh&auml;ngt",
+     "en": "the question on whose answer everything depends",
+     "note": "Pr&auml;position + deren + Nomen"
+    }
+   ]
+  },
+  {
+   "title": "was &amp; wer &middot; Without a Head Noun",
+   "items": [
+    {
+     "de": "Das, was wir heute entscheiden, beeinflusst die Zukunft.",
+     "en": "What we decide today influences the future.",
+     "note": "das als Pronomen &rarr; was"
+    },
+    {
+     "de": "Alles, was wir wissen, steht im Bericht.",
+     "en": "Everything we know is in the report.",
+     "note": "nach alles &rarr; was"
+    },
+    {
+     "de": "Das Beste, was passieren konnte, war die Verschiebung.",
+     "en": "The best thing that could happen was the postponement.",
+     "note": "nach Superlativ &rarr; was"
+    },
+    {
+     "de": "Die Kosten stiegen, was niemanden &uuml;berraschte.",
+     "en": "Costs rose, which surprised nobody.",
+     "note": "was bezieht sich auf den ganzen Satz"
+    },
+    {
+     "de": "Er schwieg, wor&uuml;ber sich alle wunderten.",
+     "en": "He kept silent, which surprised everyone.",
+     "note": "was + Pr&auml;position &rarr; wor&uuml;ber"
+    },
+    {
+     "de": "Wer regelm&auml;&szlig;ig &uuml;bt, verbessert seine Sprachkenntnisse.",
+     "en": "Whoever practises regularly improves their language skills.",
+     "note": "wer ohne Bezugswort"
+    },
+    {
+     "de": "Wer die Frist vers&auml;umt, verliert seinen Anspruch.",
+     "en": "Whoever misses the deadline loses their claim.",
+     "note": "typisch f&uuml;r Regeln und Gesetze"
+    },
+    {
+     "de": "Wem das nicht passt, der kann Widerspruch einlegen.",
+     "en": "Anyone who does not like it may lodge an objection.",
+     "note": "wem &hellip; der bei Kasuswechsel"
+    }
+   ]
+  },
+  {
+   "title": "Wissenschaft &amp; Gesellschaft &middot; Read These Aloud",
+   "items": [
+    {
+     "de": "die Studie, welche die Kommission vorlegte",
+     "en": "the study which the commission presented",
+     "note": "welche vermeidet die, die die"
+    },
+    {
+     "de": "Es wurde eine Studie ver&ouml;ffentlicht, die alle Annahmen widerlegt.",
+     "en": "A study was published which refutes all assumptions.",
+     "note": "Relativsatz ausgeklammert"
+    },
+    {
+     "de": "Die Fragestellung, der sich das Projekt widmet, ist neu.",
+     "en": "The research question the project addresses is new.",
+     "note": "sich widmen + Dativ"
+    },
+    {
+     "de": "Ein Befund, dem widersprochen wurde, blieb bestehen.",
+     "en": "A finding that was contradicted nonetheless stood.",
+     "note": "widersprechen + Dativ, Passiv"
+    },
+    {
+     "de": "die Kolleginnen, denen wir die Daten verdanken",
+     "en": "the colleagues to whom we owe the data",
+     "note": "Dativ Plural denen"
+    },
+    {
+     "de": "die von Experten vorgeschlagene L&ouml;sung",
+     "en": "the solution proposed by experts",
+     "note": "Relativsatz zum Attribut verdichtet"
+    }
+   ]
+  }
+ ]
+}

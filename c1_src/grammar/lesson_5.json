@@ -1,0 +1,183 @@
+{
+ "n": 5,
+ "title_de": "Modalit&auml;t &amp; Vermutung",
+ "rule": "\n<div class=\"rule-box\"><h4>1. Modal verbs have two jobs</h4>\n<p>Every German modal verb can be read in two completely different ways. Which one applies depends on the sentence, not on the verb:</p>\n<table class=\"vocab-table\"><thead><tr><th></th><th>objektiv <i class=\"gl\">a fact about the world</i></th><th>subjektiv <i class=\"gl\">how sure the speaker is</i></th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">m&uuml;ssen</b></td><td>Er muss arbeiten. <i class=\"gl\">he has to</i></td><td>Er muss krank sein. <i class=\"gl\">I conclude he is</i></td></tr>\n<tr><td><b class=\"nl\">k&ouml;nnen</b></td><td>Sie kann schwimmen. <i class=\"gl\">she is able</i></td><td>Das kann stimmen. <i class=\"gl\">it is possible</i></td></tr>\n<tr><td><b class=\"nl\">d&uuml;rfen</b></td><td>Du darfst gehen. <i class=\"gl\">permission</i></td><td>Das d&uuml;rfte reichen. <i class=\"gl\">I assume</i></td></tr>\n</tbody></table>\n<p>Two signals tell you it is the <b>subjective</b> reading: the modal is followed by <b class=\"nl\">sein, haben</b> or a state verb &mdash; or it stands in <b>Konjunktiv II</b> (<b class=\"nl\">d&uuml;rfte, m&uuml;sste, k&ouml;nnte</b>). Analytical texts run almost entirely on the subjective reading.</p></div>\n\n<div class=\"rule-box\"><h4>2. The certainty scale</h4>\n<p>Order these from near-certain to barely possible. This scale is the single most useful thing in the unit:</p>\n<table class=\"vocab-table\"><thead><tr><th>Form</th><th>Certainty</th><th>Example</th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">muss</b></td><td>~95 % &mdash; the only explanation</td><td>Die Zahlen m&uuml;ssen falsch sein.</td></tr>\n<tr><td><b class=\"nl\">d&uuml;rfte</b></td><td>~80 % &mdash; well-founded assumption</td><td>Die Zahl d&uuml;rfte weiter steigen.</td></tr>\n<tr><td><b class=\"nl\">m&uuml;sste</b></td><td>~70 % &mdash; expectation, if all is normal</td><td>Die Reform m&uuml;sste abgeschlossen sein.</td></tr>\n<tr><td><b class=\"nl\">k&ouml;nnte</b></td><td>~40 % &mdash; one possibility among several</td><td>Die Ma&szlig;nahme k&ouml;nnte Folgen haben.</td></tr>\n<tr><td><b class=\"nl\">kann</b></td><td>~30 % &mdash; not excluded</td><td>Das kann passieren.</td></tr>\n<tr><td><b class=\"nl\">mag</b></td><td>concession, not really probability</td><td>Das mag stimmen, &auml;ndert aber nichts.</td></tr>\n</tbody></table>\n<p><b class=\"nl\">d&uuml;rfte</b> is the workhorse of German journalism and forecasting. It sounds informed but leaves an escape route &mdash; exactly what an analyst needs.</p>\n<div class=\"tip\"><b>Careful:</b> <b class=\"nl\">d&uuml;rfte</b> here has nothing to do with permission. <b class=\"nl\">Er d&uuml;rfte inzwischen angekommen sein</b> means <i>I assume he has arrived</i>, not <i>he is allowed to arrive</i>.</div></div>\n\n<div class=\"rule-box\"><h4>3. Guessing about the past</h4>\n<p>Put the <b>infinitive perfect</b> after the modal &mdash; the modal itself stays in the present:</p>\n<ul>\n<li><b class=\"nl\">Sie muss den Brief <u>erhalten haben</u>.</b> <i class=\"gl\">she must have received it</i></li>\n<li><b class=\"nl\">Das Unternehmen d&uuml;rfte die Strategie <u>ge&auml;ndert haben</u>.</b></li>\n<li><b class=\"nl\">Die Reform m&uuml;sste inzwischen <u>abgeschlossen sein</u>.</b></li>\n<li><b class=\"nl\">Die Daten k&ouml;nnten <u>manipuliert worden sein</u>.</b> <i class=\"gl\">passive + past + guess</i></li>\n</ul>\n<p>Never say <s>Sie hat den Brief erhalten m&uuml;ssen</s> for a guess &mdash; that is the objective reading (she was obliged to receive it).</p></div>\n\n<div class=\"rule-box\"><h4>4. wollen and sollen &mdash; reporting someone else's claim</h4>\n<p>These two do something no other modal does: they mark the source of a statement.</p>\n<ul>\n<li><b class=\"nl\">Er <u>will</u> von nichts gewusst haben.</b> &rarr; <i class=\"gl\">he claims it &mdash; and I doubt it</i></li>\n<li><b class=\"nl\">Das Unternehmen <u>will</u> alle Regeln eingehalten haben.</b> &rarr; <i class=\"gl\">that is their version</i></li>\n<li><b class=\"nl\">Der Minister <u>soll</u> zur&uuml;cktreten wollen.</b> &rarr; <i class=\"gl\">others say so; I do not vouch for it</i></li>\n<li><b class=\"nl\">Die Kosten <u>sollen</u> untersch&auml;tzt worden sein.</b> &rarr; <i class=\"gl\">reportedly</i></li>\n</ul>\n<p>Short version: <b class=\"nl\">wollen</b> = the subject says it about himself. <b class=\"nl\">sollen</b> = other people say it. Journalists use both constantly to report without taking responsibility.</p></div>\n\n<div class=\"rule-box\"><h4>5. scheinen, drohen, versprechen + zu + Infinitiv</h4>\n<ul>\n<li><b class=\"nl\">Das Unternehmen <u>scheint</u> die Strategie ge&auml;ndert <u>zu haben</u>.</b> <i class=\"gl\">appears to have</i></li>\n<li><b class=\"nl\">Die Verhandlungen <u>drohen</u> zu scheitern.</b> <i class=\"gl\">threaten to &mdash; a bad outcome is likely</i></li>\n<li><b class=\"nl\">Das Projekt <u>verspricht</u> erfolgreich zu werden.</b> <i class=\"gl\">promises to &mdash; a good outcome is likely</i></li>\n<li><b class=\"nl\">Die Zahlen <u>pflegen</u> im Herbst zu sinken.</b> <i class=\"gl\">tend to &mdash; formal, habitual</i></li>\n</ul>\n<p><b class=\"nl\">drohen</b> and <b class=\"nl\">versprechen</b> are a matched pair: same structure, opposite evaluation. Both are prediction words, not emotion words.</p></div>\n\n<div class=\"rule-box\"><h4>6. Adverbs and set phrases</h4>\n<table class=\"vocab-table\"><thead><tr><th>Phrase</th><th>Certainty</th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">zweifellos, mit Sicherheit</b></td><td>certain</td></tr>\n<tr><td><b class=\"nl\">h&ouml;chstwahrscheinlich, aller Wahrscheinlichkeit nach</b></td><td>very likely</td></tr>\n<tr><td><b class=\"nl\">vermutlich, wahrscheinlich, voraussichtlich</b></td><td>likely</td></tr>\n<tr><td><b class=\"nl\">offenbar, anscheinend</b></td><td>apparently &mdash; based on evidence</td></tr>\n<tr><td><b class=\"nl\">angeblich, mutma&szlig;lich</b></td><td>allegedly &mdash; someone claims it</td></tr>\n<tr><td><b class=\"nl\">m&ouml;glicherweise, unter Umst&auml;nden, eventuell</b></td><td>possibly</td></tr>\n<tr><td><b class=\"nl\">kaum, schwerlich</b></td><td>hardly</td></tr>\n</tbody></table>\n<p>Two traps for English speakers: <b class=\"nl\">eventuell</b> means <b>possibly</b>, not <i>eventually</i>. And <b class=\"nl\">anscheinend</b> (it looks that way, and probably is) is not <b class=\"nl\">scheinbar</b> (it looks that way, but is not).</p>\n<div class=\"tip\"><b>Writing an analysis:</b> pick one hedge per sentence, not three. <s>Vermutlich d&uuml;rfte die Zahl m&ouml;glicherweise steigen.</s> &rarr; <b class=\"nl\">Die Zahl d&uuml;rfte weiter steigen.</b></div></div>\n",
+ "instr": "Choose the form that matches the degree of certainty given in brackets.",
+ "groups": [
+  {
+   "title": "Die Sicherheitsskala &middot; muss, d&uuml;rfte, m&uuml;sste, k&ouml;nnte",
+   "items": [
+    {
+     "de": "Die Zahlen m&uuml;ssen falsch sein.",
+     "en": "The figures must be wrong.",
+     "note": "muss &mdash; einzige Erkl&auml;rung, ~95 %"
+    },
+    {
+     "de": "Die Zahl der Arbeitslosen d&uuml;rfte weiter steigen.",
+     "en": "The number of unemployed is likely to keep rising.",
+     "note": "d&uuml;rfte &mdash; begr&uuml;ndete Annahme, ~80 %"
+    },
+    {
+     "de": "Die Reform m&uuml;sste inzwischen abgeschlossen sein.",
+     "en": "The reform should be completed by now.",
+     "note": "m&uuml;sste &mdash; Erwartung, ~70 %"
+    },
+    {
+     "de": "Die Ma&szlig;nahme k&ouml;nnte langfristige Folgen haben.",
+     "en": "The measure could have long-term consequences.",
+     "note": "k&ouml;nnte &mdash; eine von mehreren M&ouml;glichkeiten"
+    },
+    {
+     "de": "So etwas kann jederzeit passieren.",
+     "en": "Something like that can happen at any time.",
+     "note": "kann &mdash; nicht ausgeschlossen"
+    },
+    {
+     "de": "Das mag stimmen, &auml;ndert aber nichts.",
+     "en": "That may be true, but changes nothing.",
+     "note": "mag &mdash; Zugest&auml;ndnis"
+    },
+    {
+     "de": "Die Prognose ist kaum zu halten.",
+     "en": "The forecast can hardly be maintained.",
+     "note": "kaum &mdash; sehr unwahrscheinlich"
+    }
+   ]
+  },
+  {
+   "title": "Vermutungen &uuml;ber die Vergangenheit &middot; and Reported Claims",
+   "items": [
+    {
+     "de": "Sie muss den Brief erhalten haben.",
+     "en": "She must have received the letter.",
+     "note": "Vermutung &uuml;ber die Vergangenheit"
+    },
+    {
+     "de": "Das Unternehmen d&uuml;rfte die Strategie ge&auml;ndert haben.",
+     "en": "The company is likely to have changed its strategy.",
+     "note": "d&uuml;rfte + Infinitiv Perfekt"
+    },
+    {
+     "de": "Der Fehler k&ouml;nnte fr&uuml;her entstanden sein.",
+     "en": "The error could have arisen earlier.",
+     "note": "k&ouml;nnte + sein"
+    },
+    {
+     "de": "Die Daten k&ouml;nnten manipuliert worden sein.",
+     "en": "The data could have been manipulated.",
+     "note": "Passiv + Vergangenheit + Vermutung"
+    },
+    {
+     "de": "Er will von nichts gewusst haben.",
+     "en": "He claims to have known nothing.",
+     "note": "wollen &mdash; eigene Behauptung, Zweifel"
+    },
+    {
+     "de": "Das Unternehmen will alle Regeln eingehalten haben.",
+     "en": "The company claims to have complied with all rules.",
+     "note": "wollen &mdash; deren Version"
+    },
+    {
+     "de": "Die Kosten sollen untersch&auml;tzt worden sein.",
+     "en": "The costs are said to have been underestimated.",
+     "note": "sollen &mdash; andere behaupten es"
+    },
+    {
+     "de": "Der Minister soll zur&uuml;cktreten wollen.",
+     "en": "The minister is said to be planning to resign.",
+     "note": "sollen + wollen kombiniert"
+    }
+   ]
+  },
+  {
+   "title": "scheinen, drohen, versprechen &middot; Prediction Verbs",
+   "items": [
+    {
+     "de": "Das Unternehmen scheint die Strategie ge&auml;ndert zu haben.",
+     "en": "The company appears to have changed its strategy.",
+     "note": "scheinen + zu + Infinitiv Perfekt"
+    },
+    {
+     "de": "Die Lage scheint sich zu stabilisieren.",
+     "en": "The situation appears to be stabilising.",
+     "note": "scheinen + Gegenwart"
+    },
+    {
+     "de": "Die Verhandlungen drohen zu scheitern.",
+     "en": "The negotiations threaten to fail.",
+     "note": "drohen &mdash; schlechter Ausgang wahrscheinlich"
+    },
+    {
+     "de": "Die Kosten drohen aus dem Ruder zu laufen.",
+     "en": "Costs threaten to get out of hand.",
+     "note": "drohen im Wirtschaftstext"
+    },
+    {
+     "de": "Das Projekt verspricht erfolgreich zu werden.",
+     "en": "The project promises to be successful.",
+     "note": "versprechen &mdash; guter Ausgang wahrscheinlich"
+    },
+    {
+     "de": "Die Zahlen pflegen im Herbst zu sinken.",
+     "en": "The figures tend to fall in autumn.",
+     "note": "pflegen &mdash; f&ouml;rmlich, gewohnheitsm&auml;&szlig;ig"
+    }
+   ]
+  },
+  {
+   "title": "Adverbien &middot; From zweifellos to kaum",
+   "items": [
+    {
+     "de": "Aller Wahrscheinlichkeit nach wird die Frist verl&auml;ngert.",
+     "en": "In all probability the deadline will be extended.",
+     "note": "sehr wahrscheinlich, f&ouml;rmlich"
+    },
+    {
+     "de": "Die Entscheidung f&auml;llt voraussichtlich im Mai.",
+     "en": "The decision is expected in May.",
+     "note": "voraussichtlich &mdash; Prognose"
+    },
+    {
+     "de": "Offenbar wurden die Daten nie gepr&uuml;ft.",
+     "en": "Apparently the data were never checked.",
+     "note": "offenbar &mdash; aus Indizien geschlossen"
+    },
+    {
+     "de": "Angeblich lagen die Unterlagen vor.",
+     "en": "The documents were allegedly available.",
+     "note": "angeblich &mdash; jemand behauptet es"
+    },
+    {
+     "de": "Der mutma&szlig;liche Fehler liegt in der Messung.",
+     "en": "The presumed error lies in the measurement.",
+     "note": "mutma&szlig;lich &mdash; Zeitungsdeutsch"
+    },
+    {
+     "de": "M&ouml;glicherweise war die Stichprobe zu klein.",
+     "en": "Possibly the sample was too small.",
+     "note": "m&ouml;glicherweise"
+    },
+    {
+     "de": "Unter Umst&auml;nden muss neu gerechnet werden.",
+     "en": "Under certain circumstances a recalculation is needed.",
+     "note": "unter Umst&auml;nden"
+    },
+    {
+     "de": "Eventuell verschiebt sich der Termin.",
+     "en": "The date may possibly shift.",
+     "note": "eventuell = m&ouml;glicherweise, nicht &bdquo;eventually&ldquo;"
+    },
+    {
+     "de": "Anscheinend stimmt die Rechnung.",
+     "en": "Apparently the calculation is correct.",
+     "note": "anscheinend: sieht so aus und ist wohl so"
+    },
+    {
+     "de": "Scheinbar stimmt die Rechnung &mdash; sie tut es aber nicht.",
+     "en": "Seemingly the calculation is correct — but it is not.",
+     "note": "scheinbar: sieht so aus, ist es aber nicht"
+    }
+   ]
+  }
+ ]
+}

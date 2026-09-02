@@ -51,5 +51,9 @@
  "matchInstr": "Toque numa palavra à esquerda e depois na sua tradução à direita.",
  "tfInstr": "Escreva \"verdadeiro\" ou \"falso\".",
  "uSeriesPrefix": "Vocabulário alemão em contexto · Unidade",
- "wordsUnit": "palavras"
+ "wordsUnit": "palavras",
+ "basics": "fundamentos",
+ "grammarBasics": "Fundamentos de gramática",
+ "tfTrue": "verdadeiro",
+ "tfFalse": "falso"
 }

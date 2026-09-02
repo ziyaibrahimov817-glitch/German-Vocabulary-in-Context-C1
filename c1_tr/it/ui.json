@@ -51,5 +51,9 @@
  "matchInstr": "Tocca una parola a sinistra, poi la sua traduzione a destra.",
  "tfInstr": "Scrivi \"vero\" o \"falso\".",
  "uSeriesPrefix": "Vocabolario tedesco in contesto · Unità",
- "wordsUnit": "parole"
+ "wordsUnit": "parole",
+ "basics": "basi",
+ "grammarBasics": "Basi di grammatica",
+ "tfTrue": "vero",
+ "tfFalse": "falso"
 }

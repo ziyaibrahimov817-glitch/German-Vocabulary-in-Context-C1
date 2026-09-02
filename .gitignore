@@ -1,19 +1,20 @@
 # Python
 __pycache__/
 *.pyc
-
 # scratch/temp
 _*.js
 _*.py
 /tmp/
-
-# Android build output (added at packaging stage)
-/android/
+scratchpad/
+.claude/
+# local build toolchain (JDK + Android SDK) — do NOT commit
+tools/
+# Android project + build output (regenerable via bubblewrap)
+android/
 *.apk
 *.aab
+# signing secrets — NEVER commit
 *.keystore
 *.jks
-
-# local Claude settings
-.claude/
-scratchpad/
+keystore-password.txt
+*.idsig

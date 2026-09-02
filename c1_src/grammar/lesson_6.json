@@ -1,0 +1,163 @@
+{
+ "n": 6,
+ "title_de": "Konjunktiv I in Berichten",
+ "rule": "\n<div class=\"rule-box\"><h4>1. What the Konjunktiv I really signals</h4>\n<p>In a German newspaper the Konjunktiv I does one thing: it says <b>&quot;these are not my words&quot;</b>. The journalist reports without vouching for the content.</p>\n<table class=\"vocab-table\"><thead><tr><th>Form</th><th>Effect</th></tr></thead>\n<tbody>\n<tr><td>Der Minister erkl&auml;rte, die Reform <b class=\"nl\">ist</b> notwendig.</td><td>the paper agrees</td></tr>\n<tr><td>Der Minister erkl&auml;rte, die Reform <b class=\"nl\">sei</b> notwendig.</td><td><b>neutral report &mdash; no position taken</b></td></tr>\n<tr><td>Der Minister erkl&auml;rte, die Reform <b class=\"nl\">w&auml;re</b> notwendig.</td><td>audible doubt</td></tr>\n</tbody></table>\n<p>That third line is the point most learners miss. Konjunktiv II in reported speech is not neutral: it adds distance, sometimes disbelief. Use it deliberately, not by accident.</p></div>\n\n<div class=\"rule-box\"><h4>2. Forming the Konjunktiv I</h4>\n<p>Stem of the infinitive + the endings <b class=\"nl\">-e, -est, -e, -en, -et, -en</b>. Only <b class=\"nl\">sein</b> is irregular &mdash; and it is the one you need most:</p>\n<table class=\"vocab-table\"><thead><tr><th></th><th>sein</th><th>haben</th><th>k&ouml;nnen</th><th>gehen</th></tr></thead>\n<tbody>\n<tr><td>ich</td><td>sei</td><td>habe</td><td>k&ouml;nne</td><td>gehe</td></tr>\n<tr><td>er/sie/es</td><td><b class=\"nl\">sei</b></td><td><b class=\"nl\">habe</b></td><td><b class=\"nl\">k&ouml;nne</b></td><td><b class=\"nl\">gehe</b></td></tr>\n<tr><td>sie/Sie</td><td><b class=\"nl\">seien</b></td><td>h&auml;tten*</td><td>k&ouml;nnten*</td><td>gingen*</td></tr>\n</tbody></table>\n<p>*The plural marked with a star is where the trouble starts &mdash; see the next box.</p>\n<p>In practice you almost always need only the <b>3rd person</b>, because reports talk about somebody else. Learn <b class=\"nl\">sei, habe, werde, k&ouml;nne, m&uuml;sse, wolle, gebe, komme</b> and you can read any newspaper.</p></div>\n\n<div class=\"rule-box\"><h4>3. The Ersatzform rule &mdash; when K1 looks like the present</h4>\n<p>If the Konjunktiv I is <b>identical</b> to the normal present tense, the reader cannot see that it is reported speech. German then switches to <b>Konjunktiv II</b>:</p>\n<ul>\n<li><b class=\"nl\">Sie sagten, sie <s>haben</s> keine Zeit</b> &rarr; identical to indicative &rarr; <b class=\"nl\">sie <u>h&auml;tten</u> keine Zeit</b></li>\n<li><b class=\"nl\">Die Kritiker meinten, die Zahlen <s>stimmen</s> nicht</b> &rarr; <b class=\"nl\">die Zahlen <u>st&uuml;nden</u> nicht</b> &hellip; or more naturally <b class=\"nl\">w&uuml;rden nicht stimmen</b></li>\n</ul>\n<p>The chain is fixed: <b class=\"nl\">Konjunktiv I &rarr; wenn gleich, dann Konjunktiv II &rarr; wenn auch das altert&uuml;mlich klingt, dann w&uuml;rde + Infinitiv.</b></p>\n<p>This is why a single reported paragraph can mix <b class=\"nl\">sei</b> (singular, clear) and <b class=\"nl\">h&auml;tten</b> (plural, replaced). It is not inconsistency &mdash; it is the rule.</p></div>\n\n<div class=\"rule-box\"><h4>4. Only three tenses exist in reported speech</h4>\n<p>The original may have six tenses; the report has three:</p>\n<table class=\"vocab-table\"><thead><tr><th>Original</th><th>Indirekte Rede</th></tr></thead>\n<tbody>\n<tr><td>Ich <b class=\"nl\">bin</b> krank.</td><td>Er sagte, er <b class=\"nl\">sei</b> krank. <i class=\"gl\">Gegenwart</i></td></tr>\n<tr><td>Ich <b class=\"nl\">war</b> / <b class=\"nl\">bin gewesen</b> / <b class=\"nl\">war gewesen</b></td><td>Er sagte, er <b class=\"nl\">sei gewesen</b>. <i class=\"gl\">alle drei &rarr; eine Form</i></td></tr>\n<tr><td>Ich <b class=\"nl\">werde</b> kommen.</td><td>Er sagte, er <b class=\"nl\">werde</b> kommen. <i class=\"gl\">Zukunft</i></td></tr>\n</tbody></table>\n<p>The past is always built with <b class=\"nl\">sei</b> or <b class=\"nl\">habe</b> + Partizip II. Passive adds one more layer: <b class=\"nl\">Die Kosten seien untersch&auml;tzt <u>worden</u>.</b></p></div>\n\n<div class=\"rule-box\"><h4>5. What else has to shift</h4>\n<p>Pronouns, times and places move with the perspective:</p>\n<ul>\n<li><b class=\"nl\">&bdquo;Ich komme morgen zu dir.&ldquo;</b> &rarr; <b class=\"nl\">Er sagte, <u>er</u> komme <u>am n&auml;chsten Tag</u> zu <u>mir</u>.</b></li>\n<li><b class=\"nl\">&bdquo;Wir haben das hier gepr&uuml;ft.&ldquo;</b> &rarr; <b class=\"nl\">Sie erkl&auml;rten, sie h&auml;tten das <u>dort</u> gepr&uuml;ft.</b></li>\n</ul>\n<p>Questions and commands change shape too:</p>\n<ul>\n<li><b class=\"nl\">&bdquo;Kommen Sie?&ldquo;</b> &rarr; <b class=\"nl\">Er fragte, <u>ob</u> ich k&auml;me.</b></li>\n<li><b class=\"nl\">&bdquo;Warum ist das so?&ldquo;</b> &rarr; <b class=\"nl\">Er fragte, <u>warum</u> das so sei.</b></li>\n<li><b class=\"nl\">&bdquo;Reichen Sie das ein!&ldquo;</b> &rarr; <b class=\"nl\">Er sagte, ich <u>solle</u> das einreichen.</b> <i class=\"gl\">Bitte: m&ouml;ge</i></li>\n</ul></div>\n\n<div class=\"rule-box\"><h4>6. Long passages without an introducing verb</h4>\n<p>German can keep a whole paragraph in Konjunktiv I. The <b class=\"nl\">dass</b> and the verb of saying disappear; the mood alone carries the meaning:</p>\n<p><i class=\"gl\">Der Sprecher wies die Vorw&uuml;rfe zur&uuml;ck.</i> <b class=\"nl\">Die Pr&uuml;fung sei ordnungsgem&auml;&szlig; erfolgt. Alle Unterlagen h&auml;tten vorgelegen. Ein Fehler k&ouml;nne ausgeschlossen werden. Man werde die Ergebnisse ver&ouml;ffentlichen.</b></p>\n<p>Four sentences, no &quot;he said&quot; &mdash; and every reader knows it is still his version. This is the single most typical feature of German news writing.</p>\n<div class=\"tip\"><b>Other uses of the Konjunktiv I:</b> instructions <b class=\"nl\">(man nehme drei Eier)</b>, mathematics <b class=\"nl\">(es sei x gr&ouml;&szlig;er als y)</b>, fixed wishes <b class=\"nl\">(es lebe die Freiheit, Gott sei Dank)</b>. Outside these, it belongs to reporting.</div></div>\n",
+ "instr": "Put the reported clause into the correct Konjunktiv form.",
+ "groups": [
+  {
+   "title": "Grundformen &middot; sei, habe, werde, k&ouml;nne",
+   "items": [
+    {
+     "de": "Der Minister erkl&auml;rte, die Reform sei notwendig.",
+     "en": "The minister stated the reform was necessary.",
+     "note": "Konjunktiv I &mdash; neutral berichtet"
+    },
+    {
+     "de": "Der Minister erkl&auml;rte, die Reform w&auml;re notwendig.",
+     "en": "The minister stated the reform would be necessary.",
+     "note": "Konjunktiv II &mdash; h&ouml;rbarer Zweifel"
+    },
+    {
+     "de": "Das Unternehmen teilte mit, man habe alle Regeln eingehalten.",
+     "en": "The company announced it had complied with all rules.",
+     "note": "habe + Partizip &mdash; Vergangenheit"
+    },
+    {
+     "de": "Kritiker behaupteten, die Kosten seien untersch&auml;tzt worden.",
+     "en": "Critics claimed the costs had been underestimated.",
+     "note": "Passiv Vergangenheit: seien &hellip; worden"
+    },
+    {
+     "de": "Die Sprecherin sagte, sie werde die Zahlen pr&uuml;fen.",
+     "en": "The spokeswoman said she would examine the figures.",
+     "note": "werde &mdash; Zukunft"
+    },
+    {
+     "de": "Er betonte, es k&ouml;nne keine Ausnahme geben.",
+     "en": "He stressed there could be no exception.",
+     "note": "k&ouml;nne &mdash; Modalverb im Konjunktiv I"
+    },
+    {
+     "de": "Sie erg&auml;nzte, das Verfahren m&uuml;sse wiederholt werden.",
+     "en": "She added the procedure had to be repeated.",
+     "note": "m&uuml;sse + Passiv"
+    }
+   ]
+  },
+  {
+   "title": "Die Ersatzform &middot; When K1 Looks Like the Present",
+   "items": [
+    {
+     "de": "Sie sagten, sie h&auml;tten keine Zeit.",
+     "en": "They said they had no time.",
+     "note": "haben = Indikativ, also Konjunktiv II h&auml;tten"
+    },
+    {
+     "de": "Die Kritiker meinten, die Zahlen w&uuml;rden nicht stimmen.",
+     "en": "The critics said the figures were not correct.",
+     "note": "st&uuml;nden klingt alt &rarr; w&uuml;rde-Form"
+    },
+    {
+     "de": "Er sagte, er komme sp&auml;ter.",
+     "en": "He said he would come later.",
+     "note": "Singular: komme ist eindeutig"
+    },
+    {
+     "de": "Sie sagten, sie k&auml;men sp&auml;ter.",
+     "en": "They said they would come later.",
+     "note": "Plural: kommen w&auml;re gleich &rarr; k&auml;men"
+    },
+    {
+     "de": "Die Beh&ouml;rde erkl&auml;rte, sie pr&uuml;fe den Fall.",
+     "en": "The authority stated it was examining the case.",
+     "note": "Singular pr&uuml;fe &mdash; eindeutig"
+    },
+    {
+     "de": "Die Beh&ouml;rden erkl&auml;rten, sie pr&uuml;ften den Fall.",
+     "en": "The authorities stated they were examining the case.",
+     "note": "Plural &rarr; Konjunktiv II pr&uuml;ften"
+    }
+   ]
+  },
+  {
+   "title": "Was sich verschiebt &middot; Pronouns, Times, Questions",
+   "items": [
+    {
+     "de": "Er sagte, er komme am n&auml;chsten Tag zu mir.",
+     "en": "He said he would come to me the next day.",
+     "note": "ich&rarr;er, morgen&rarr;am n&auml;chsten Tag, dir&rarr;mir"
+    },
+    {
+     "de": "Sie erkl&auml;rten, sie h&auml;tten das dort gepr&uuml;ft.",
+     "en": "They stated they had examined it there.",
+     "note": "hier &rarr; dort"
+    },
+    {
+     "de": "Er fragte, ob ich k&auml;me.",
+     "en": "He asked whether I was coming.",
+     "note": "Ja/Nein-Frage &rarr; ob"
+    },
+    {
+     "de": "Er fragte, warum das so sei.",
+     "en": "He asked why that was so.",
+     "note": "W-Frage beh&auml;lt das Fragewort"
+    },
+    {
+     "de": "Er sagte, ich solle die Unterlagen einreichen.",
+     "en": "He said I should submit the documents.",
+     "note": "Aufforderung &rarr; sollen"
+    },
+    {
+     "de": "Sie bat, man m&ouml;ge das Ergebnis abwarten.",
+     "en": "She asked that the result be awaited.",
+     "note": "h&ouml;fliche Bitte &rarr; m&ouml;ge"
+    }
+   ]
+  },
+  {
+   "title": "Medien &middot; A Whole Paragraph Without &quot;He Said&quot;",
+   "items": [
+    {
+     "de": "Die Pr&uuml;fung sei ordnungsgem&auml;&szlig; erfolgt.",
+     "en": "The examination had been carried out properly.",
+     "note": "Absatz ohne Redeverb &mdash; Zeitungsdeutsch"
+    },
+    {
+     "de": "Alle Unterlagen h&auml;tten vorgelegen.",
+     "en": "All documents had been available.",
+     "note": "Plural &rarr; Ersatzform h&auml;tten"
+    },
+    {
+     "de": "Ein Fehler k&ouml;nne ausgeschlossen werden.",
+     "en": "An error could be ruled out.",
+     "note": "k&ouml;nne + Passiv"
+    },
+    {
+     "de": "Man werde die Ergebnisse ver&ouml;ffentlichen.",
+     "en": "The results would be published.",
+     "note": "werde &mdash; angek&uuml;ndigte Zukunft"
+    },
+    {
+     "de": "Der Vorwurf entbehre jeder Grundlage.",
+     "en": "The accusation was without any foundation.",
+     "note": "typische Dementi-Formel"
+    },
+    {
+     "de": "Es gebe keinen Anlass zur Sorge.",
+     "en": "There was no cause for concern.",
+     "note": "gebe &mdash; sehr h&auml;ufig in Berichten"
+    },
+    {
+     "de": "Man nehme drei Eier und etwas Mehl.",
+     "en": "Take three eggs and some flour.",
+     "note": "Konjunktiv I im Rezept"
+    },
+    {
+     "de": "Es sei x gr&ouml;&szlig;er als y.",
+     "en": "Let x be greater than y.",
+     "note": "Konjunktiv I in der Mathematik"
+    }
+   ]
+  }
+ ]
+}

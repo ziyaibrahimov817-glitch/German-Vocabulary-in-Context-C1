@@ -1,0 +1,2328 @@
+[
+ {
+  "n": 1,
+  "t": "Satzklammer &amp; Mittelfeld",
+  "s": "TeKaMoLo, Verbgruppen, Ausklammerung",
+  "tag": "how a long German sentence holds together",
+  "rule": "\n<div class=\"rule-box\"><h4>1. The sentence bracket &mdash; the frame everything sits in</h4>\n<p>A German main clause holds its verb parts apart. The finite verb stands in <b>position 2</b>, everything else the verb needs goes to the <b>very end</b>. Between them lies the <i>Mittelfeld</i> &mdash; and at C1 that middle field gets long.</p>\n<table class=\"vocab-table\"><thead><tr><th>Vorfeld</th><th>Verb 2</th><th>Mittelfeld</th><th>Satzende</th></tr></thead>\n<tbody>\n<tr><td>Die Regierung</td><td><b class=\"nl\">h&auml;tte</b></td><td>die geplante Reform aufgrund der zunehmenden Kritik fr&uuml;her</td><td><b class=\"nl\">&uuml;berarbeiten m&uuml;ssen</b></td></tr>\n<tr><td>Der Ausschuss</td><td><b class=\"nl\">hat</b></td><td>den Antrag gestern aus formalen Gr&uuml;nden einstimmig</td><td><b class=\"nl\">zur&uuml;ckgewiesen</b></td></tr>\n</tbody></table>\n<p>The reader has to hold the opening in mind until the closing bracket arrives. That is why German administrative prose feels heavy &mdash; and why writing it well means keeping the middle field <b>ordered</b>.</p></div>\n\n<div class=\"rule-box\"><h4>2. What order does the Mittelfeld follow?</h4>\n<p>There is no law, but there is a strong default. Learn it as a chain:</p>\n<p style=\"text-align:center;font-size:14px;\"><b class=\"nl\">Subjekt &rarr; Zeit &rarr; Grund &rarr; Art und Weise &rarr; Ort &rarr; Akkusativobjekt</b></p>\n<p>The German school formula is <b class=\"nl\">TeKaMoLo</b>: <b>Te</b>mporal, <b>Ka</b>usal, <b>Mo</b>dal, <b>Lo</b>kal &mdash; when, why, how, where.</p>\n<ul>\n<li><b class=\"nl\">Der Minister hat <u>gestern</u> <u>wegen der Kritik</u> <u>&uuml;berraschend</u> <u>in Berlin</u> zur&uuml;ckgetreten.</b></li>\n<li><b class=\"nl\">Die Kommission wird <u>im Herbst</u> <u>aufgrund neuer Daten</u> <u>schrittweise</u> <u>in allen Bundesl&auml;ndern</u> pr&uuml;fen.</b></li>\n</ul>\n<p>Pronouns break the rule: they push to the <b>front</b> of the middle field, right after the finite verb &mdash; <b class=\"nl\">Der Beamte hat <u>es ihr</u> gestern erkl&auml;rt.</b> And among pronouns the order is fixed: <b class=\"nl\">Nominativ &ndash; Akkusativ &ndash; Dativ</b>.</p></div>\n\n<div class=\"rule-box\"><h4>3. Definite before indefinite</h4>\n<p>Known information stands early, new information late. That is why the article decides the position:</p>\n<ul>\n<li><b class=\"nl\">Ich habe <u>dem Kollegen</u> <u>einen Vorschlag</u> gemacht.</b> <i class=\"gl\">known person, new proposal</i></li>\n<li><b class=\"nl\">Ich habe <u>den Vorschlag</u> <u>einem Kollegen</u> gemacht.</b> <i class=\"gl\">known proposal, new person</i></li>\n</ul>\n<p>Both are correct. They simply answer different questions. In academic writing this is the main tool for building a chain of thought: end each sentence with the word the next sentence will pick up.</p></div>\n\n<div class=\"rule-box\"><h4>4. Complex verb groups at the end</h4>\n<p>The closing bracket can hold three or four parts. They stack in a fixed order &mdash; and the finite verb, which normally comes second, jumps to the <b>front</b> of the group in a subordinate clause:</p>\n<table class=\"vocab-table\"><thead><tr><th>Construction</th><th>Sentence end</th></tr></thead>\n<tbody>\n<tr><td>Perfekt + Modalverb</td><td><b class=\"nl\">&hellip; &uuml;berarbeiten <u>m&uuml;ssen</u></b></td></tr>\n<tr><td>Passiv + Modalverb</td><td><b class=\"nl\">&hellip; gepr&uuml;ft werden <u>m&uuml;ssen</u></b></td></tr>\n<tr><td>Passiv Perfekt</td><td><b class=\"nl\">&hellip; gepr&uuml;ft worden <u>sein</u></b></td></tr>\n<tr><td>im Nebensatz</td><td><b class=\"nl\">&hellip;, weil sie <u>h&auml;tte</u> &uuml;berarbeitet werden m&uuml;ssen.</b></td></tr>\n</tbody></table>\n<p>That last line is the famous <b>Ersatzinfinitiv</b>: with a modal verb in the perfect, the auxiliary <b class=\"nl\">h&auml;tte</b> moves in front instead of standing last. Nobody says <s>&hellip; weil sie &uuml;berarbeitet werden m&uuml;ssen h&auml;tte</s>.</p></div>\n\n<div class=\"rule-box\"><h4>5. Combining main and subordinate clauses</h4>\n<p>Once the sentence carries two or three clauses, the position of the subordinate clause changes the emphasis:</p>\n<ul>\n<li><b class=\"nl\"><u>Da die Kritik zunahm</u>, musste die Reform &uuml;berarbeitet werden.</b> <i class=\"gl\">reason first &mdash; the subordinate clause fills the Vorfeld, so the verb follows immediately</i></li>\n<li><b class=\"nl\">Die Reform musste &uuml;berarbeitet werden, <u>da die Kritik zunahm</u>.</b> <i class=\"gl\">result first, reason added</i></li>\n<li><b class=\"nl\">Die Reform, <u>die seit Monaten umstritten war</u>, musste &uuml;berarbeitet werden.</b> <i class=\"gl\">clause pushed inside &mdash; the bracket still closes at the end</i></li>\n</ul>\n<p>A subordinate clause in the Vorfeld counts as <b>one single element</b>. Everything else must then wait: <b class=\"nl\">Obwohl der Ausschuss getagt hatte, <u>wurde</u> keine Entscheidung getroffen.</b></p></div>\n\n<div class=\"rule-box\"><h4>6. When to break the bracket &mdash; Ausklammerung</h4>\n<p>Written German allows moving heavy parts <b>behind</b> the closing bracket, especially comparisons and long prepositional phrases:</p>\n<ul>\n<li><b class=\"nl\">Die Kosten sind gestiegen <u>um mehr als zwanzig Prozent</u>.</b></li>\n<li><b class=\"nl\">Er hat mehr erreicht <u>als alle erwartet hatten</u>.</b></li>\n</ul>\n<div class=\"tip\"><b>Style at C1:</b> German officialese loves the long middle field &mdash; and that is exactly what makes it hard to read. Good academic writing keeps the bracket <b>short</b>: one clear Mittelfeld, then close. If more than about seven words sit between the two verb parts, split the sentence.</div></div>\n",
+  "groups": [
+   {
+    "title": "Das Mittelfeld &middot; TeKaMoLo Step by Step",
+    "items": [
+     {
+      "nl": "Der Ausschuss hat den Antrag gestern zur&uuml;ckgewiesen.",
+      "en": "The committee rejected the application yesterday.",
+      "note": "Grundger&uuml;st: Verb 2, Partizip am Ende",
+      "say": "Der Ausschuss hat den Antrag gestern zur&uuml;ckgewiesen."
+     },
+     {
+      "nl": "Der Ausschuss hat den Antrag gestern aus formalen Gr&uuml;nden zur&uuml;ckgewiesen.",
+      "en": "The committee rejected the application yesterday on formal grounds.",
+      "note": "+ Grund",
+      "say": "Der Ausschuss hat den Antrag gestern aus formalen Gr&uuml;nden zur&uuml;ckgewiesen."
+     },
+     {
+      "nl": "Der Ausschuss hat den Antrag gestern aus formalen Gr&uuml;nden einstimmig zur&uuml;ckgewiesen.",
+      "en": "The committee unanimously rejected the application yesterday on formal grounds.",
+      "note": "+ Art und Weise",
+      "say": "Der Ausschuss hat den Antrag gestern aus formalen Gr&uuml;nden einstimmig zur&uuml;ckgewiesen."
+     },
+     {
+      "nl": "Der Ausschuss hat den Antrag gestern aus formalen Gr&uuml;nden einstimmig in nicht&ouml;ffentlicher Sitzung zur&uuml;ckgewiesen.",
+      "en": "The committee unanimously rejected the application yesterday on formal grounds in a closed session.",
+      "note": "+ Ort &mdash; TeKaMoLo komplett",
+      "say": "Der Ausschuss hat den Antrag gestern aus formalen Gr&uuml;nden einstimmig in nicht&ouml;ffentlicher Sitzung zur&uuml;ckgewiesen."
+     },
+     {
+      "nl": "Die Beh&ouml;rde wird die Unterlagen im Herbst pr&uuml;fen.",
+      "en": "The authority will examine the documents in autumn.",
+      "note": "Zeit vor Objekt",
+      "say": "Die Beh&ouml;rde wird die Unterlagen im Herbst pr&uuml;fen."
+     },
+     {
+      "nl": "Der Beamte hat es ihr gestern ausf&uuml;hrlich erkl&auml;rt.",
+      "en": "The official explained it to her in detail yesterday.",
+      "note": "Pronomen zuerst: Akkusativ vor Dativ",
+      "say": "Der Beamte hat es ihr gestern ausf&uuml;hrlich erkl&auml;rt."
+     },
+     {
+      "nl": "Ich habe dem Kollegen einen Vorschlag gemacht.",
+      "en": "I made a suggestion to my colleague.",
+      "note": "bekannt vor neu",
+      "say": "Ich habe dem Kollegen einen Vorschlag gemacht."
+     },
+     {
+      "nl": "Ich habe den Vorschlag einem Kollegen gemacht.",
+      "en": "I made the suggestion to a colleague.",
+      "note": "umgekehrte Informationsstruktur",
+      "say": "Ich habe den Vorschlag einem Kollegen gemacht."
+     }
+    ]
+   },
+   {
+    "title": "Komplexe Verbgruppen &middot; Three or Four Parts at the End",
+    "items": [
+     {
+      "nl": "Die Regierung h&auml;tte die Reform fr&uuml;her &uuml;berarbeiten m&uuml;ssen.",
+      "en": "The government should have revised the reform earlier.",
+      "note": "Perfekt + Modalverb",
+      "say": "Die Regierung h&auml;tte die Reform fr&uuml;her &uuml;berarbeiten m&uuml;ssen."
+     },
+     {
+      "nl": "Der Antrag h&auml;tte gr&uuml;ndlicher gepr&uuml;ft werden m&uuml;ssen.",
+      "en": "The application should have been examined more thoroughly.",
+      "note": "Passiv + Modalverb",
+      "say": "Der Antrag h&auml;tte gr&uuml;ndlicher gepr&uuml;ft werden m&uuml;ssen."
+     },
+     {
+      "nl": "Die Unterlagen sollen bereits gepr&uuml;ft worden sein.",
+      "en": "The documents are said to have already been examined.",
+      "note": "Passiv Perfekt + Modalverb",
+      "say": "Die Unterlagen sollen bereits gepr&uuml;ft worden sein."
+     },
+     {
+      "nl": "Man wird die Folgen erst sp&auml;ter absch&auml;tzen k&ouml;nnen.",
+      "en": "The consequences will only be assessable later.",
+      "note": "Futur + Modalverb",
+      "say": "Man wird die Folgen erst sp&auml;ter absch&auml;tzen k&ouml;nnen."
+     },
+     {
+      "nl": "&hellip;, weil die Reform h&auml;tte &uuml;berarbeitet werden m&uuml;ssen.",
+      "en": "&hellip; because the reform would have had to be revised.",
+      "note": "Ersatzinfinitiv: h&auml;tte r&uuml;ckt nach vorn",
+      "say": "weil die Reform h&auml;tte &uuml;berarbeitet werden m&uuml;ssen"
+     },
+     {
+      "nl": "&hellip;, obwohl niemand hat reagieren k&ouml;nnen.",
+      "en": "&hellip; although nobody has been able to react.",
+      "note": "Ersatzinfinitiv mit hat",
+      "say": "obwohl niemand hat reagieren k&ouml;nnen"
+     }
+    ]
+   },
+   {
+    "title": "Haupt- und Nebensatz &middot; Where to Put the Reason",
+    "items": [
+     {
+      "nl": "Da die Kritik zunahm, musste die Reform &uuml;berarbeitet werden.",
+      "en": "As criticism grew, the reform had to be revised.",
+      "note": "Nebensatz im Vorfeld &rarr; Verb folgt sofort",
+      "say": "Da die Kritik zunahm, musste die Reform &uuml;berarbeitet werden."
+     },
+     {
+      "nl": "Die Reform musste &uuml;berarbeitet werden, da die Kritik zunahm.",
+      "en": "The reform had to be revised, as criticism grew.",
+      "note": "Grund nachgestellt",
+      "say": "Die Reform musste &uuml;berarbeitet werden, da die Kritik zunahm."
+     },
+     {
+      "nl": "Die Reform, die seit Monaten umstritten war, musste &uuml;berarbeitet werden.",
+      "en": "The reform, which had been contested for months, had to be revised.",
+      "note": "Relativsatz eingeschoben, Klammer bleibt",
+      "say": "Die Reform, die seit Monaten umstritten war, musste &uuml;berarbeitet werden."
+     },
+     {
+      "nl": "Obwohl der Ausschuss getagt hatte, wurde keine Entscheidung getroffen.",
+      "en": "Although the committee had met, no decision was taken.",
+      "note": "Vorfeld belegt &rarr; wurde folgt",
+      "say": "Obwohl der Ausschuss getagt hatte, wurde keine Entscheidung getroffen."
+     },
+     {
+      "nl": "Die Kosten sind gestiegen um mehr als zwanzig Prozent.",
+      "en": "Costs have risen by more than twenty per cent.",
+      "note": "Ausklammerung der Vergleichsangabe",
+      "say": "Die Kosten sind gestiegen um mehr als zwanzig Prozent."
+     },
+     {
+      "nl": "Er hat mehr erreicht, als alle erwartet hatten.",
+      "en": "He achieved more than everyone had expected.",
+      "note": "Vergleichssatz hinter der Klammer",
+      "say": "Er hat mehr erreicht, als alle erwartet hatten."
+     }
+    ]
+   },
+   {
+    "title": "Politik &amp; Verwaltung &middot; Read These Aloud",
+    "items": [
+     {
+      "nl": "Der Bescheid ist dem Antragsteller ordnungsgem&auml;&szlig; zugestellt worden.",
+      "en": "The decision was duly served on the applicant.",
+      "note": "Beh&ouml;rdendeutsch, Passiv Perfekt",
+      "say": "Der Bescheid ist dem Antragsteller ordnungsgem&auml;&szlig; zugestellt worden."
+     },
+     {
+      "nl": "&Uuml;ber den Widerspruch wird binnen drei Monaten entschieden.",
+      "en": "The objection will be decided upon within three months.",
+      "note": "unpers&ouml;nliches Passiv",
+      "say": "&Uuml;ber den Widerspruch wird binnen drei Monaten entschieden."
+     },
+     {
+      "nl": "Die Frist h&auml;tte bereits im Mai eingehalten werden m&uuml;ssen.",
+      "en": "The deadline should already have been met in May.",
+      "note": "volle Verbgruppe",
+      "say": "Die Frist h&auml;tte bereits im Mai eingehalten werden m&uuml;ssen."
+     },
+     {
+      "nl": "Dem Antrag konnte aus den genannten Gr&uuml;nden nicht entsprochen werden.",
+      "en": "The application could not be granted for the reasons stated.",
+      "note": "typische Ablehnungsformel",
+      "say": "Dem Antrag konnte aus den genannten Gr&uuml;nden nicht entsprochen werden."
+     },
+     {
+      "nl": "Sollten Sie damit nicht einverstanden sein, steht Ihnen der Rechtsweg offen.",
+      "en": "Should you not agree, legal recourse is open to you.",
+      "note": "Konditional ohne wenn",
+      "say": "Sollten Sie damit nicht einverstanden sein, steht Ihnen der Rechtsweg offen."
+     },
+     {
+      "nl": "Die Kommission hat sich in ihrer gestrigen Sitzung mit der Frage befasst.",
+      "en": "The commission dealt with the question in yesterday's session.",
+      "note": "Reflexivpronomen fr&uuml;h im Mittelfeld",
+      "say": "Die Kommission hat sich in ihrer gestrigen Sitzung mit der Frage befasst."
+     }
+    ]
+   }
+  ],
+  "instr": "Put the elements in the standard order (TeKaMoLo) or complete the verb group.",
+  "ex": [
+   {
+    "q": "Der Ausschuss hat den Antrag _____ (aus formalen Gr&uuml;nden / gestern) zur&uuml;ckgewiesen.",
+    "answer": "gestern aus formalen Gr&uuml;nden"
+   },
+   {
+    "q": "Die Beh&ouml;rde wird die Unterlagen _____ (sorgf&auml;ltig / im Herbst) pr&uuml;fen.",
+    "answer": "im Herbst sorgf&auml;ltig"
+   },
+   {
+    "q": "Der Beamte hat _____ (ihr / es) gestern erkl&auml;rt.",
+    "answer": "es ihr"
+   },
+   {
+    "q": "Die Regierung h&auml;tte die Reform fr&uuml;her &uuml;berarbeiten _____. (Modalverb)",
+    "answer": "m&uuml;ssen"
+   },
+   {
+    "q": "Der Antrag h&auml;tte gr&uuml;ndlicher gepr&uuml;ft _____ m&uuml;ssen. (Passiv)",
+    "answer": "werden"
+   },
+   {
+    "q": "&hellip;, weil die Reform _____ &uuml;berarbeitet werden m&uuml;ssen. (Ersatzinfinitiv)",
+    "answer": "h&auml;tte"
+   },
+   {
+    "q": "_____ der Ausschuss getagt hatte, wurde keine Entscheidung getroffen. (obwohl)",
+    "answer": "Obwohl"
+   },
+   {
+    "q": "Da die Kritik zunahm, _____ die Reform &uuml;berarbeitet werden. (Verbposition)",
+    "answer": "musste"
+   }
+  ]
+ },
+ {
+  "n": 2,
+  "t": "Nominalstil &amp; Verbalstil",
+  "s": "aufgrund statt weil, Pr&uuml;fung statt pr&uuml;fen",
+  "tag": "packing a sentence around a noun instead of a verb",
+  "rule": "\n<div class=\"rule-box\"><h4>1. Two ways to say the same thing</h4>\n<p>German can package the same content around a <b>verb</b> or around a <b>noun</b>. Spoken German prefers verbs; written German &mdash; reports, laws, business letters, academic papers &mdash; leans heavily on nouns.</p>\n<table class=\"vocab-table\"><thead><tr><th></th><th>Sentence</th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">Verbalstil</b></td><td>Weil die Kosten <u>gestiegen sind</u>, musste das Unternehmen <u>reagieren</u>.</td></tr>\n<tr><td><b class=\"nl\">Nominalstil</b></td><td>Aufgrund des <u>Kostenanstiegs</u> war eine <u>Reaktion</u> des Unternehmens erforderlich.</td></tr>\n</tbody></table>\n<p>The nominal version is shorter, more distant and more formal. It also hides <b>who</b> did something &mdash; which is exactly why administrations like it, and exactly why you must be able to unpack it.</p></div>\n\n<div class=\"rule-box\"><h4>2. Subordinate clause becomes preposition</h4>\n<p>Every conjunction has a nominal partner. Learn them as pairs &mdash; this table is the whole unit in miniature:</p>\n<table class=\"vocab-table\"><thead><tr><th>Verbalstil</th><th>Nominalstil</th><th>Meaning</th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">weil / da</b></td><td><b class=\"nl\">wegen, aufgrund + Gen.</b></td><td>reason</td></tr>\n<tr><td><b class=\"nl\">wenn / falls</b></td><td><b class=\"nl\">bei, im Falle + Gen.</b></td><td>condition</td></tr>\n<tr><td><b class=\"nl\">als / w&auml;hrend</b></td><td><b class=\"nl\">bei, w&auml;hrend + Gen.</b></td><td>time</td></tr>\n<tr><td><b class=\"nl\">obwohl</b></td><td><b class=\"nl\">trotz + Gen.</b></td><td>concession</td></tr>\n<tr><td><b class=\"nl\">damit / um &hellip; zu</b></td><td><b class=\"nl\">zu, zwecks + Gen.</b></td><td>purpose</td></tr>\n<tr><td><b class=\"nl\">indem</b></td><td><b class=\"nl\">durch + Akk.</b></td><td>means</td></tr>\n<tr><td><b class=\"nl\">ohne dass</b></td><td><b class=\"nl\">ohne + Akk.</b></td><td>absence</td></tr>\n<tr><td><b class=\"nl\">so dass</b></td><td><b class=\"nl\">infolge + Gen.</b></td><td>consequence</td></tr>\n</tbody></table>\n<ul>\n<li><b class=\"nl\">Obwohl der Umsatz sank, &hellip;</b> &rarr; <b class=\"nl\"><u>Trotz</u> des sinkenden Umsatzes &hellip;</b></li>\n<li><b class=\"nl\">Indem man Prozesse automatisiert, &hellip;</b> &rarr; <b class=\"nl\"><u>Durch</u> die Automatisierung von Prozessen &hellip;</b></li>\n</ul></div>\n\n<div class=\"rule-box\"><h4>3. How verbs turn into nouns</h4>\n<p>Four regular routes. Knowing them lets you build the noun yourself instead of looking it up:</p>\n<table class=\"vocab-table\"><thead><tr><th>Route</th><th>Verb</th><th>Nomen</th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">-ung</b> &mdash; the most common</td><td>pr&uuml;fen, entscheiden</td><td>die Pr&uuml;f<u>ung</u>, die Entscheid<u>ung</u></td></tr>\n<tr><td><b class=\"nl\">Infinitiv als Nomen</b></td><td>steigen, verhandeln</td><td>das Steigen, das Verhandeln</td></tr>\n<tr><td><b class=\"nl\">Stammform</b></td><td>anstiegen, zunehmen</td><td>der Anstieg, die Zunahme</td></tr>\n<tr><td><b class=\"nl\">-heit / -keit / -nis</b> <i class=\"gl\">from adjectives</i></td><td>sicher, m&ouml;glich</td><td>die Sicherheit, die M&ouml;glichkeit</td></tr>\n</tbody></table>\n<p>Note the difference in feel: <b class=\"nl\">das Steigen</b> is the process seen as it happens; <b class=\"nl\">der Anstieg</b> is the result, a fact you can count. Business German almost always takes the second.</p></div>\n\n<div class=\"rule-box\"><h4>4. Who did it? The genitive and von</h4>\n<p>When a verb becomes a noun, its subject and object have to be re-attached:</p>\n<ul>\n<li><b class=\"nl\">Das Unternehmen reagierte.</b> &rarr; <b class=\"nl\">die Reaktion <u>des Unternehmens</u></b> <i class=\"gl\">subject &rarr; genitive</i></li>\n<li><b class=\"nl\">Man pr&uuml;fte den Antrag.</b> &rarr; <b class=\"nl\">die Pr&uuml;fung <u>des Antrags</u></b> <i class=\"gl\">object &rarr; genitive</i></li>\n<li><b class=\"nl\">Die Kommission pr&uuml;fte den Antrag.</b> &rarr; <b class=\"nl\">die Pr&uuml;fung des Antrags <u>durch die Kommission</u></b></li>\n</ul>\n<p>That last line matters: once both roles need expressing, the doer moves to <b class=\"nl\">durch</b>, because two genitives in a row are unreadable.</p>\n<div class=\"tip\"><b>Genitivkette:</b> <s>die Pr&uuml;fung der Umsetzung der Ma&szlig;nahmen der Regierung</s> &mdash; four genitives, nobody survives that. Break it up: <b class=\"nl\">die Pr&uuml;fung, ob die Regierung ihre Ma&szlig;nahmen umgesetzt hat</b>.</div></div>\n\n<div class=\"rule-box\"><h4>5. Reading officialese &mdash; unpacking backwards</h4>\n<p>The real C1 skill is the reverse direction: turning a dense noun phrase back into a sentence you understand.</p>\n<ul>\n<li><b class=\"nl\">nach Pr&uuml;fung der eingereichten Unterlagen</b> &rarr; <i class=\"gl\">nachdem die eingereichten Unterlagen gepr&uuml;ft worden sind</i></li>\n<li><b class=\"nl\">bei Nichteinhaltung der Frist</b> &rarr; <i class=\"gl\">wenn die Frist nicht eingehalten wird</i></li>\n<li><b class=\"nl\">zwecks Vermeidung weiterer Verz&ouml;gerungen</b> &rarr; <i class=\"gl\">damit es nicht zu weiteren Verz&ouml;gerungen kommt</i></li>\n<li><b class=\"nl\">unter Ber&uuml;cksichtigung der genannten Gr&uuml;nde</b> &rarr; <i class=\"gl\">wenn man die genannten Gr&uuml;nde ber&uuml;cksichtigt</i></li>\n</ul>\n<p>Watch for the compound nouns that carry a hidden negative: <b class=\"nl\">Nichteinhaltung</b>, <b class=\"nl\">Nichtzahlung</b>, <b class=\"nl\">Nichterscheinen</b>. They mean <i>failure to do X</i>.</p></div>\n\n<div class=\"rule-box\"><h4>6. Which style when?</h4>\n<table class=\"vocab-table\"><thead><tr><th>Nominalstil</th><th>Verbalstil</th></tr></thead>\n<tbody>\n<tr><td>laws, decisions, contracts</td><td>emails to colleagues</td></tr>\n<tr><td>abstracts, titles, summaries</td><td>explanations, teaching</td></tr>\n<tr><td>when the doer is irrelevant</td><td>when responsibility matters</td></tr>\n<tr><td>when space is short</td><td>when clarity matters</td></tr>\n</tbody></table>\n<div class=\"tip\"><b>Exam tip:</b> In a written C1 exam you need <b>both</b>. Open with nominal style to sound academic, then explain in verbal style so the reader follows. A text made only of nouns reads like a form; a text made only of verbs reads like a chat.</div></div>\n",
+  "groups": [
+   {
+    "title": "Verbal &harr; Nominal &middot; The Same Sentence Twice",
+    "items": [
+     {
+      "nl": "Weil die Kosten gestiegen sind, musste reagiert werden.",
+      "en": "Because costs rose, a reaction was necessary.",
+      "note": "Verbalstil &mdash; Ausgangssatz",
+      "say": "Weil die Kosten gestiegen sind, musste reagiert werden."
+     },
+     {
+      "nl": "Aufgrund des Kostenanstiegs war eine Reaktion erforderlich.",
+      "en": "Owing to the rise in costs a reaction was necessary.",
+      "note": "Nominalstil &mdash; dieselbe Aussage",
+      "say": "Aufgrund des Kostenanstiegs war eine Reaktion erforderlich."
+     },
+     {
+      "nl": "Obwohl der Umsatz sank, wurde investiert.",
+      "en": "Although turnover fell, investments were made.",
+      "note": "obwohl",
+      "say": "Obwohl der Umsatz sank, wurde investiert."
+     },
+     {
+      "nl": "Trotz des sinkenden Umsatzes wurde investiert.",
+      "en": "Despite falling turnover, investments were made.",
+      "note": "trotz + Genitiv",
+      "say": "Trotz des sinkenden Umsatzes wurde investiert."
+     },
+     {
+      "nl": "Wenn die Frist nicht eingehalten wird, entstehen Kosten.",
+      "en": "If the deadline is not met, costs arise.",
+      "note": "wenn",
+      "say": "Wenn die Frist nicht eingehalten wird, entstehen Kosten."
+     },
+     {
+      "nl": "Bei Nichteinhaltung der Frist entstehen Kosten.",
+      "en": "In case of failure to meet the deadline costs arise.",
+      "note": "bei + Nomen mit Nicht-",
+      "say": "Bei Nichteinhaltung der Frist entstehen Kosten."
+     },
+     {
+      "nl": "Indem man Prozesse automatisiert, spart man Zeit.",
+      "en": "By automating processes, time is saved.",
+      "note": "indem",
+      "say": "Indem man Prozesse automatisiert, spart man Zeit."
+     },
+     {
+      "nl": "Durch die Automatisierung von Prozessen wird Zeit gespart.",
+      "en": "Through the automation of processes time is saved.",
+      "note": "durch + Akkusativ",
+      "say": "Durch die Automatisierung von Prozessen wird Zeit gespart."
+     }
+    ]
+   },
+   {
+    "title": "Wie das Nomen entsteht &middot; Four Routes",
+    "items": [
+     {
+      "nl": "pr&uuml;fen &rarr; die Pr&uuml;fung",
+      "en": "to examine &rarr; the examination",
+      "note": "-ung, der h&auml;ufigste Weg",
+      "say": "die Pr&uuml;fung"
+     },
+     {
+      "nl": "entscheiden &rarr; die Entscheidung",
+      "en": "to decide &rarr; the decision",
+      "note": "-ung",
+      "say": "die Entscheidung"
+     },
+     {
+      "nl": "steigen &rarr; das Steigen / der Anstieg",
+      "en": "to rise &rarr; the rising / the rise",
+      "note": "Prozess gegen Ergebnis",
+      "say": "das Steigen, der Anstieg"
+     },
+     {
+      "nl": "zunehmen &rarr; die Zunahme",
+      "en": "to increase &rarr; the increase",
+      "note": "Stammform ohne Endung",
+      "say": "die Zunahme"
+     },
+     {
+      "nl": "verhandeln &rarr; das Verhandeln / die Verhandlung",
+      "en": "to negotiate &rarr; negotiating / the negotiation",
+      "note": "beide m&ouml;glich, verschiedener Klang",
+      "say": "die Verhandlung"
+     },
+     {
+      "nl": "sicher &rarr; die Sicherheit",
+      "en": "safe &rarr; safety",
+      "note": "-heit vom Adjektiv",
+      "say": "die Sicherheit"
+     },
+     {
+      "nl": "m&ouml;glich &rarr; die M&ouml;glichkeit",
+      "en": "possible &rarr; the possibility",
+      "note": "-keit vom Adjektiv",
+      "say": "die M&ouml;glichkeit"
+     },
+     {
+      "nl": "erkennen &rarr; die Erkenntnis",
+      "en": "to recognise &rarr; the insight",
+      "note": "-nis, oft abstrakt",
+      "say": "die Erkenntnis"
+     }
+    ]
+   },
+   {
+    "title": "Wirtschaft &amp; Beh&ouml;rde &middot; Phrases You Will Meet",
+    "items": [
+     {
+      "nl": "nach Pr&uuml;fung der eingereichten Unterlagen",
+      "en": "after examination of the submitted documents",
+      "note": "= nachdem die Unterlagen gepr&uuml;ft worden sind",
+      "say": "nach Pr&uuml;fung der eingereichten Unterlagen"
+     },
+     {
+      "nl": "unter Ber&uuml;cksichtigung der genannten Gr&uuml;nde",
+      "en": "taking the stated reasons into account",
+      "note": "= wenn man die Gr&uuml;nde ber&uuml;cksichtigt",
+      "say": "unter Ber&uuml;cksichtigung der genannten Gr&uuml;nde"
+     },
+     {
+      "nl": "zwecks Vermeidung weiterer Verz&ouml;gerungen",
+      "en": "in order to avoid further delays",
+      "note": "= damit es nicht zu Verz&ouml;gerungen kommt",
+      "say": "zwecks Vermeidung weiterer Verz&ouml;gerungen"
+     },
+     {
+      "nl": "infolge der ver&auml;nderten Marktlage",
+      "en": "as a result of the changed market situation",
+      "note": "= weil sich die Marktlage ge&auml;ndert hat",
+      "say": "infolge der ver&auml;nderten Marktlage"
+     },
+     {
+      "nl": "im Falle einer Vertragsverletzung",
+      "en": "in the event of a breach of contract",
+      "note": "= wenn der Vertrag verletzt wird",
+      "say": "im Falle einer Vertragsverletzung"
+     },
+     {
+      "nl": "mangels ausreichender Nachweise",
+      "en": "for lack of sufficient evidence",
+      "note": "= weil die Nachweise nicht ausreichen",
+      "say": "mangels ausreichender Nachweise"
+     },
+     {
+      "nl": "die Pr&uuml;fung des Antrags durch die Kommission",
+      "en": "the examination of the application by the commission",
+      "note": "Objekt im Genitiv, T&auml;ter mit durch",
+      "say": "die Pr&uuml;fung des Antrags durch die Kommission"
+     },
+     {
+      "nl": "die Nichtzahlung der f&auml;lligen Rechnung",
+      "en": "the non-payment of the invoice due",
+      "note": "Nicht- als verstecktes nicht",
+      "say": "die Nichtzahlung der f&auml;lligen Rechnung"
+     }
+    ]
+   },
+   {
+    "title": "Aufl&ouml;sen &middot; Turning It Back Into a Sentence",
+    "items": [
+     {
+      "nl": "Bei Nichterscheinen verf&auml;llt der Anspruch.",
+      "en": "If you fail to appear, the claim lapses.",
+      "note": "Nominal &rarr; verbal: wenn Sie nicht erscheinen",
+      "say": "Bei Nichterscheinen verf&auml;llt der Anspruch."
+     },
+     {
+      "nl": "Wenn Sie nicht erscheinen, verf&auml;llt der Anspruch.",
+      "en": "If you do not appear, the claim lapses.",
+      "note": "dieselbe Aussage, lesbarer",
+      "say": "Wenn Sie nicht erscheinen, verf&auml;llt der Anspruch."
+     },
+     {
+      "nl": "Die Pr&uuml;fung der Umsetzung der Ma&szlig;nahmen der Regierung",
+      "en": "the examination of the implementation of the government's measures",
+      "note": "vier Genitive &mdash; unlesbar",
+      "say": "die Pr&uuml;fung der Umsetzung der Ma&szlig;nahmen der Regierung"
+     },
+     {
+      "nl": "die Pr&uuml;fung, ob die Regierung ihre Ma&szlig;nahmen umgesetzt hat",
+      "en": "the examination of whether the government has implemented its measures",
+      "note": "aufgel&ouml;st, verst&auml;ndlich",
+      "say": "die Pr&uuml;fung, ob die Regierung ihre Ma&szlig;nahmen umgesetzt hat"
+     },
+     {
+      "nl": "Aufgrund der Verz&ouml;gerung der Lieferung durch den Zulieferer",
+      "en": "owing to the delay in delivery by the supplier",
+      "note": "Nominalstil im Gesch&auml;ftsbrief",
+      "say": "Aufgrund der Verz&ouml;gerung der Lieferung durch den Zulieferer"
+     },
+     {
+      "nl": "Weil der Zulieferer sp&auml;ter geliefert hat, &hellip;",
+      "en": "Because the supplier delivered late, ...",
+      "note": "verbal &mdash; klar, wer schuld ist",
+      "say": "Weil der Zulieferer sp&auml;ter geliefert hat"
+     }
+    ]
+   }
+  ],
+  "instr": "Rewrite in the other style: give the missing preposition, conjunction or noun.",
+  "ex": [
+   {
+    "q": "Weil die Kosten gestiegen sind &rarr; _____ des Kostenanstiegs (Pr&auml;position)",
+    "answer": "Aufgrund"
+   },
+   {
+    "q": "Obwohl der Umsatz sank &rarr; _____ des sinkenden Umsatzes",
+    "answer": "Trotz"
+   },
+   {
+    "q": "Wenn die Frist nicht eingehalten wird &rarr; _____ Nichteinhaltung der Frist",
+    "answer": "Bei"
+   },
+   {
+    "q": "Indem man Prozesse automatisiert &rarr; _____ die Automatisierung",
+    "answer": "durch"
+   },
+   {
+    "q": "Damit Verz&ouml;gerungen vermieden werden &rarr; _____ Vermeidung von Verz&ouml;gerungen",
+    "answer": "zwecks"
+   },
+   {
+    "q": "pr&uuml;fen &rarr; die _____ (Nomen auf -ung)",
+    "answer": "Pr&uuml;fung"
+   },
+   {
+    "q": "zunehmen &rarr; die _____ (Stammform)",
+    "answer": "Zunahme"
+   },
+   {
+    "q": "Bei Nichterscheinen &rarr; _____ Sie nicht erscheinen (Konjunktion)",
+    "answer": "Wenn"
+   }
+  ]
+ },
+ {
+  "n": 3,
+  "t": "Funktionsverbgef&uuml;ge",
+  "s": "das System hinter Entscheidung treffen",
+  "tag": "why German splits one verb into noun plus light verb",
+  "rule": "\n<div class=\"rule-box\"><h4>1. What a Funktionsverbgef&uuml;ge actually is</h4>\n<p>A <b>Funktionsverbgef&uuml;ge</b> (FVG) splits one verb into two parts: a noun that carries the <b>meaning</b>, and a verb that carries almost <b>nothing but the grammar</b>.</p>\n<table class=\"vocab-table\"><thead><tr><th>Vollverb</th><th>Funktionsverbgef&uuml;ge</th></tr></thead>\n<tbody>\n<tr><td>entscheiden</td><td>eine <u>Entscheidung</u> <b class=\"nl\">treffen</b></td></tr>\n<tr><td>kritisieren</td><td><u>Kritik</u> <b class=\"nl\">&uuml;ben</b> an</td></tr>\n<tr><td>beeinflussen</td><td><u>Einfluss</u> <b class=\"nl\">nehmen</b> auf</td></tr>\n<tr><td>anwenden</td><td>zur <u>Anwendung</u> <b class=\"nl\">kommen</b></td></tr>\n</tbody></table>\n<p>The verb has lost its own sense. <b class=\"nl\">treffen</b> in <i>eine Entscheidung treffen</i> has nothing to do with meeting somebody. That is the test: if the verb still means what it normally means, it is not an FVG.</p></div>\n\n<div class=\"rule-box\"><h4>2. Why bother? Three good reasons</h4>\n<ul>\n<li><b>Register.</b> FVG belong to written, formal, administrative German. <b class=\"nl\">Der Ausschuss trifft eine Entscheidung</b> sounds official; <b class=\"nl\">Der Ausschuss entscheidet</b> sounds neutral.</li>\n<li><b>Room for adjectives.</b> A noun can be modified, a verb cannot: <b class=\"nl\">eine <u>weitreichende, einstimmige</u> Entscheidung treffen</b>. You cannot say <s>weitreichend entscheiden</s>.</li>\n<li><b>Aspect.</b> German has no verb aspect like Slavic languages &mdash; FVG fill the gap. That is section 3, and it is the heart of this unit.</li>\n</ul></div>\n\n<div class=\"rule-box\"><h4>3. The aspect system &mdash; the real point</h4>\n<p>The same noun takes different Funktionsverben to show <b>beginning</b>, <b>state</b> or <b>causing</b>. Learn them as triples:</p>\n<table class=\"vocab-table\"><thead><tr><th>kausativ <i class=\"gl\">someone causes it</i></th><th>inchoativ <i class=\"gl\">it starts</i></th><th>durativ <i class=\"gl\">it is the case</i></th></tr></thead>\n<tbody>\n<tr><td>in Gang <b class=\"nl\">setzen</b></td><td>in Gang <b class=\"nl\">kommen</b></td><td>in Gang <b class=\"nl\">sein</b></td></tr>\n<tr><td>zur Verf&uuml;gung <b class=\"nl\">stellen</b></td><td>&mdash;</td><td>zur Verf&uuml;gung <b class=\"nl\">stehen</b></td></tr>\n<tr><td>in Betrieb <b class=\"nl\">nehmen</b></td><td>&mdash;</td><td>in Betrieb <b class=\"nl\">sein</b></td></tr>\n<tr><td>in Verlegenheit <b class=\"nl\">bringen</b></td><td>in Verlegenheit <b class=\"nl\">geraten</b></td><td>&mdash;</td></tr>\n<tr><td>zur Diskussion <b class=\"nl\">stellen</b></td><td>&mdash;</td><td>zur Diskussion <b class=\"nl\">stehen</b></td></tr>\n<tr><td>au&szlig;er Kraft <b class=\"nl\">setzen</b></td><td>au&szlig;er Kraft <b class=\"nl\">treten</b></td><td>au&szlig;er Kraft <b class=\"nl\">sein</b></td></tr>\n</tbody></table>\n<p>Read the pattern off the verbs themselves:</p>\n<ul>\n<li><b class=\"nl\">setzen, stellen, bringen, nehmen</b> &rarr; <b>someone does it</b> (transitive)</li>\n<li><b class=\"nl\">kommen, geraten, treten, gelangen</b> &rarr; <b>it happens</b> (change of state)</li>\n<li><b class=\"nl\">stehen, sein, liegen, bleiben</b> &rarr; <b>it is so</b> (state)</li>\n</ul>\n<p><b class=\"nl\">geraten</b> carries an extra colour: the change is <b>unwanted</b>. <b class=\"nl\">in Schwierigkeiten geraten</b> &mdash; nobody planned that.</p></div>\n\n<div class=\"rule-box\"><h4>4. FVG instead of the passive</h4>\n<p>Many FVG say what a passive would say, but sound less clumsy in a noun-heavy text:</p>\n<ul>\n<li><b class=\"nl\">Die Regel <u>kommt zur Anwendung</u>.</b> = die Regel wird angewendet</li>\n<li><b class=\"nl\">Der Plan <u>findet Zustimmung</u>.</b> = dem Plan wird zugestimmt</li>\n<li><b class=\"nl\">Die Frage <u>steht zur Debatte</u>.</b> = &uuml;ber die Frage wird debattiert</li>\n<li><b class=\"nl\">Das Gesetz <u>tritt in Kraft</u>.</b> = das Gesetz wird wirksam</li>\n</ul>\n<p>This is why laws and reports are full of them: the doer disappears without a single <b class=\"nl\">werden</b>.</p></div>\n\n<div class=\"rule-box\"><h4>5. Fixed shape &mdash; do not improvise</h4>\n<p>The article and preposition are frozen. Three traps:</p>\n<ul>\n<li><b>Article often disappears:</b> <b class=\"nl\">in Kraft treten</b>, <b class=\"nl\">zu Ende gehen</b>, <b class=\"nl\">Bescheid geben</b> &mdash; not <s>in die Kraft</s>.</li>\n<li><b>Or is fused:</b> <b class=\"nl\">zur</b> Verf&uuml;gung, <b class=\"nl\">zum</b> Ausdruck, <b class=\"nl\">im</b> Begriff.</li>\n<li><b>The preposition governs the second object:</b> Kritik &uuml;ben <b class=\"nl\">an</b> + Dat., Einfluss nehmen <b class=\"nl\">auf</b> + Akk., Bezug nehmen <b class=\"nl\">auf</b> + Akk.</li>\n</ul>\n<p>The noun in an FVG usually takes <b>no plural</b> and <b>no attribute of its own</b> unless the whole thing is being modified deliberately: <b class=\"nl\">scharfe Kritik &uuml;ben</b> is fine, <s>eine Kritik &uuml;ben</s> is not.</p></div>\n\n<div class=\"rule-box\"><h4>6. When to avoid them</h4>\n<p>FVG make text longer and colder. In a C1 exam, they earn points when used <b>precisely</b> and cost points when piled up:</p>\n<ul>\n<li><s>Es wurde die Entscheidung getroffen, eine Pr&uuml;fung durchzuf&uuml;hren, um zu einer Bewertung zu gelangen.</s></li>\n<li><b class=\"nl\">Man entschied, zu pr&uuml;fen und anschlie&szlig;end zu bewerten.</b></li>\n</ul>\n<div class=\"tip\"><b>Rule of thumb:</b> use an FVG when you need the <b>aspect</b> (something starts, is caused, holds) or when you want to <b>modify with an adjective</b>. Otherwise the plain verb is better German.</div></div>\n",
+  "groups": [
+   {
+    "title": "Das System &middot; Noun Carries the Meaning",
+    "items": [
+     {
+      "nl": "entscheiden &rarr; eine Entscheidung treffen",
+      "en": "to decide &rarr; to take a decision",
+      "note": "Vollverb wird zu Nomen + Funktionsverb",
+      "say": "eine Entscheidung treffen"
+     },
+     {
+      "nl": "kritisieren &rarr; Kritik &uuml;ben an",
+      "en": "to criticise &rarr; to voice criticism of",
+      "note": "Pr&auml;position an + Dativ ist fest",
+      "say": "Kritik &uuml;ben an"
+     },
+     {
+      "nl": "beeinflussen &rarr; Einfluss nehmen auf",
+      "en": "to influence &rarr; to exert influence on",
+      "note": "auf + Akkusativ",
+      "say": "Einfluss nehmen auf"
+     },
+     {
+      "nl": "anwenden &rarr; zur Anwendung kommen",
+      "en": "to apply &rarr; to be applied",
+      "note": "Artikel verschmolzen: zur",
+      "say": "zur Anwendung kommen"
+     },
+     {
+      "nl": "eine weitreichende Entscheidung treffen",
+      "en": "to take a far-reaching decision",
+      "note": "Adjektiv m&ouml;glich &mdash; beim Vollverb nicht",
+      "say": "eine weitreichende Entscheidung treffen"
+     },
+     {
+      "nl": "scharfe Kritik &uuml;ben",
+      "en": "to voice sharp criticism",
+      "note": "dasselbe Prinzip",
+      "say": "scharfe Kritik &uuml;ben"
+     }
+    ]
+   },
+   {
+    "title": "Aspekt &middot; setzen / kommen / sein",
+    "items": [
+     {
+      "nl": "Die Regierung setzte die Reform in Gang.",
+      "en": "The government set the reform in motion.",
+      "note": "kausativ &mdash; jemand verursacht es",
+      "say": "Die Regierung setzte die Reform in Gang."
+     },
+     {
+      "nl": "Die Reform kam nur langsam in Gang.",
+      "en": "The reform only slowly got going.",
+      "note": "inchoativ &mdash; es beginnt",
+      "say": "Die Reform kam nur langsam in Gang."
+     },
+     {
+      "nl": "Die Reform ist seit Januar in Gang.",
+      "en": "The reform has been under way since January.",
+      "note": "durativ &mdash; es ist so",
+      "say": "Die Reform ist seit Januar in Gang."
+     },
+     {
+      "nl": "Der Raum wird kostenlos zur Verf&uuml;gung gestellt.",
+      "en": "The room is made available free of charge.",
+      "note": "kausativ: stellen",
+      "say": "Der Raum wird kostenlos zur Verf&uuml;gung gestellt."
+     },
+     {
+      "nl": "Der Raum steht kostenlos zur Verf&uuml;gung.",
+      "en": "The room is available free of charge.",
+      "note": "durativ: stehen",
+      "say": "Der Raum steht kostenlos zur Verf&uuml;gung."
+     },
+     {
+      "nl": "Die Anlage wurde im Mai in Betrieb genommen.",
+      "en": "The plant was put into operation in May.",
+      "note": "kausativ: nehmen",
+      "say": "Die Anlage wurde im Mai in Betrieb genommen."
+     },
+     {
+      "nl": "Die Anlage ist seit Mai in Betrieb.",
+      "en": "The plant has been in operation since May.",
+      "note": "durativ: sein",
+      "say": "Die Anlage ist seit Mai in Betrieb."
+     },
+     {
+      "nl": "Die Frage brachte ihn in Verlegenheit.",
+      "en": "The question embarrassed him.",
+      "note": "kausativ: bringen",
+      "say": "Die Frage brachte ihn in Verlegenheit."
+     },
+     {
+      "nl": "Bei der Frage geriet er in Verlegenheit.",
+      "en": "At the question he became embarrassed.",
+      "note": "inchoativ mit geraten &mdash; unerw&uuml;nscht",
+      "say": "Bei der Frage geriet er in Verlegenheit."
+     },
+     {
+      "nl": "Die Regelung wurde au&szlig;er Kraft gesetzt.",
+      "en": "The rule was suspended.",
+      "note": "kausativ: setzen",
+      "say": "Die Regelung wurde au&szlig;er Kraft gesetzt."
+     },
+     {
+      "nl": "Die Regelung tritt morgen au&szlig;er Kraft.",
+      "en": "The rule ceases to apply tomorrow.",
+      "note": "inchoativ: treten",
+      "say": "Die Regelung tritt morgen au&szlig;er Kraft."
+     },
+     {
+      "nl": "Das Gesetz tritt am 1. Januar in Kraft.",
+      "en": "The law comes into force on 1 January.",
+      "note": "inchoativ, ohne Artikel",
+      "say": "Das Gesetz tritt am ersten Januar in Kraft."
+     }
+    ]
+   },
+   {
+    "title": "Statt Passiv &middot; The Doer Disappears",
+    "items": [
+     {
+      "nl": "Die Regel kommt zur Anwendung.",
+      "en": "The rule is applied.",
+      "note": "= die Regel wird angewendet",
+      "say": "Die Regel kommt zur Anwendung."
+     },
+     {
+      "nl": "Der Plan findet Zustimmung.",
+      "en": "The plan meets with approval.",
+      "note": "= dem Plan wird zugestimmt",
+      "say": "Der Plan findet Zustimmung."
+     },
+     {
+      "nl": "Die Frage steht zur Debatte.",
+      "en": "The question is under debate.",
+      "note": "= &uuml;ber die Frage wird debattiert",
+      "say": "Die Frage steht zur Debatte."
+     },
+     {
+      "nl": "Der Antrag gelangt zur Abstimmung.",
+      "en": "The motion is put to the vote.",
+      "note": "= &uuml;ber den Antrag wird abgestimmt",
+      "say": "Der Antrag gelangt zur Abstimmung."
+     },
+     {
+      "nl": "Die Sache kommt zur Sprache.",
+      "en": "The matter is raised.",
+      "note": "= die Sache wird angesprochen",
+      "say": "Die Sache kommt zur Sprache."
+     },
+     {
+      "nl": "Das Verfahren findet Anwendung bei Neubauten.",
+      "en": "The procedure applies to new buildings.",
+      "note": "T&auml;ter verschwindet ohne werden",
+      "say": "Das Verfahren findet Anwendung bei Neubauten."
+     }
+    ]
+   },
+   {
+    "title": "Stolperstellen &middot; Article, Preposition, Overuse",
+    "items": [
+     {
+      "nl": "in Kraft treten &mdash; nicht in die Kraft",
+      "en": "to come into force",
+      "note": "Artikel entf&auml;llt",
+      "say": "in Kraft treten"
+     },
+     {
+      "nl": "zu Ende gehen &mdash; nicht zum Ende",
+      "en": "to come to an end",
+      "note": "Artikel entf&auml;llt",
+      "say": "zu Ende gehen"
+     },
+     {
+      "nl": "zur Verf&uuml;gung &mdash; zu + der",
+      "en": "at one's disposal",
+      "note": "Artikel verschmolzen",
+      "say": "zur Verf&uuml;gung stehen"
+     },
+     {
+      "nl": "zum Ausdruck bringen &mdash; zu + dem",
+      "en": "to express",
+      "note": "Artikel verschmolzen",
+      "say": "zum Ausdruck bringen"
+     },
+     {
+      "nl": "Kritik &uuml;ben an + Dativ",
+      "en": "to criticise",
+      "note": "Pr&auml;position ist Teil der Formel",
+      "say": "Kritik &uuml;ben an der Entscheidung"
+     },
+     {
+      "nl": "Einfluss nehmen auf + Akkusativ",
+      "en": "to influence",
+      "note": "andere Pr&auml;position, anderer Kasus",
+      "say": "Einfluss nehmen auf die Entwicklung"
+     },
+     {
+      "nl": "Man entschied, zu pr&uuml;fen und zu bewerten.",
+      "en": "They decided to examine and to assess.",
+      "note": "Vollverben statt drei FVG &mdash; besseres Deutsch",
+      "say": "Man entschied, zu pr&uuml;fen und zu bewerten."
+     }
+    ]
+   }
+  ],
+  "instr": "Choose the Funktionsverb that fits the aspect, or supply the missing preposition.",
+  "ex": [
+   {
+    "q": "Die Regierung _____ die Reform in Gang. (kausativ)",
+    "answer": "setzte"
+   },
+   {
+    "q": "Die Reform _____ nur langsam in Gang. (inchoativ)",
+    "answer": "kam"
+   },
+   {
+    "q": "Die Reform _____ seit Januar in Gang. (durativ)",
+    "answer": "ist"
+   },
+   {
+    "q": "Der Raum _____ kostenlos zur Verf&uuml;gung. (durativ)",
+    "answer": "steht"
+   },
+   {
+    "q": "Die Anlage wurde im Mai in Betrieb _____. (kausativ)",
+    "answer": "genommen"
+   },
+   {
+    "q": "Bei der Frage _____ er in Verlegenheit. (inchoativ, unerw&uuml;nscht)",
+    "answer": "geriet"
+   },
+   {
+    "q": "Kritik &uuml;ben _____ der Entscheidung (Pr&auml;position + Kasus)",
+    "answer": "an"
+   },
+   {
+    "q": "Einfluss nehmen _____ die Entwicklung (Pr&auml;position + Kasus)",
+    "answer": "auf"
+   }
+  ]
+ },
+ {
+  "n": 4,
+  "t": "Passiversatzformen",
+  "s": "l&auml;sst sich l&ouml;sen, ist zu l&ouml;sen, ist l&ouml;sbar",
+  "tag": "five ways to say a passive without werden",
+  "rule": "\n<div class=\"rule-box\"><h4>1. Why German avoids the werden-Passiv</h4>\n<p>The plain passive works &mdash; but in written German it quickly sounds heavy, especially with a modal verb: <b class=\"nl\">Das Problem kann gel&ouml;st werden.</b> Four words of pure grammar. German therefore has a whole family of <b>Passiversatzformen</b> that say the same thing more elegantly.</p>\n<table class=\"vocab-table\"><thead><tr><th>Form</th><th>Example</th><th>Reading</th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">sein + zu + Infinitiv</b></td><td>Das Problem ist zu l&ouml;sen.</td><td>can / must</td></tr>\n<tr><td><b class=\"nl\">sich lassen + Infinitiv</b></td><td>Das Problem l&auml;sst sich l&ouml;sen.</td><td>can</td></tr>\n<tr><td><b class=\"nl\">Adjektiv auf -bar</b></td><td>Das Problem ist l&ouml;sbar.</td><td>can</td></tr>\n<tr><td><b class=\"nl\">bekommen + Partizip II</b></td><td>Er bekam die Papiere zugeschickt.</td><td>dative passive</td></tr>\n<tr><td><b class=\"nl\">Reflexiv</b></td><td>Das Buch verkauft sich gut.</td><td>general statement</td></tr>\n</tbody></table></div>\n\n<div class=\"rule-box\"><h4>2. sein + zu + Infinitiv &mdash; and its ambiguity</h4>\n<p>This is the most formal of the group. It can mean <b>k&ouml;nnen</b> or <b>m&uuml;ssen</b>, and only the context decides:</p>\n<ul>\n<li><b class=\"nl\">Das Problem ist leicht zu l&ouml;sen.</b> &rarr; <i class=\"gl\">kann gel&ouml;st werden</i> &mdash; <b>leicht, schwer, kaum</b> push it towards <b>k&ouml;nnen</b></li>\n<li><b class=\"nl\">Der Antrag ist bis Freitag einzureichen.</b> &rarr; <i class=\"gl\">muss eingereicht werden</i> &mdash; a deadline pushes it towards <b>m&uuml;ssen</b></li>\n<li><b class=\"nl\">Die Vorschriften sind zu beachten.</b> &rarr; <i class=\"gl\">m&uuml;ssen beachtet werden</i> &mdash; pure officialese</li>\n</ul>\n<p>With a separable verb the <b class=\"nl\">zu</b> slips inside: ein<b class=\"nl\">zu</b>reichen, ab<b class=\"nl\">zu</b>geben, nach<b class=\"nl\">zu</b>weisen.</p>\n<p>The same construction also works as an <b>attribute</b> before the noun &mdash; the <b>Gerundivum</b>: <b class=\"nl\">die <u>zu beachtenden</u> Vorschriften</b>, <b class=\"nl\">der <u>einzureichende</u> Antrag</b>. That form appears constantly in official letters.</p></div>\n\n<div class=\"rule-box\"><h4>3. sich lassen + Infinitiv &mdash; always &quot;k&ouml;nnen&quot;</h4>\n<ul>\n<li><b class=\"nl\">Das Problem l&auml;sst sich leicht l&ouml;sen.</b> = kann gel&ouml;st werden</li>\n<li><b class=\"nl\">Die Zahlen lassen sich nicht &uuml;berpr&uuml;fen.</b> = k&ouml;nnen nicht gepr&uuml;ft werden</li>\n<li><b class=\"nl\">Daraus l&auml;sst sich schlie&szlig;en, dass &hellip;</b> <i class=\"gl\">standard phrase in academic writing</i></li>\n</ul>\n<p>Unlike <b class=\"nl\">sein + zu</b>, this one never means <b>m&uuml;ssen</b>. It is also friendlier: <b class=\"nl\">Das l&auml;sst sich machen</b> is what a craftsman says; <b class=\"nl\">Das ist zu machen</b> sounds like a command.</p>\n<p>The doer can be added with <b class=\"nl\">von</b> only rarely; normally it stays hidden. If you must name it, use <b class=\"nl\">durch</b>: <b class=\"nl\">Der Fehler l&auml;sst sich <u>durch ein Update</u> beheben.</b></p></div>\n\n<div class=\"rule-box\"><h4>4. bekommen / erhalten / kriegen + Partizip II</h4>\n<p>This one solves a problem no other passive can. In a normal passive the <b>accusative</b> object becomes the subject &mdash; the <b>dative</b> object cannot:</p>\n<ul>\n<li><b class=\"nl\">Man schickte <u>ihm</u> die Dokumente.</b></li>\n<li><b class=\"nl\">Die Dokumente wurden ihm geschickt.</b> <i class=\"gl\">normal passive &mdash; the documents become subject</i></li>\n<li><b class=\"nl\"><u>Er</u> bekam die Dokumente zugeschickt.</b> <i class=\"gl\">Dativpassiv &mdash; the person becomes subject</i></li>\n</ul>\n<p>Use it when the <b>receiver</b> matters more than the thing. <b class=\"nl\">erhalten</b> is the formal variant, <b class=\"nl\">kriegen</b> the colloquial one:</p>\n<ul>\n<li><b class=\"nl\">Sie erhielt den Bescheid zugestellt.</b> <i class=\"gl\">Amtsdeutsch</i></li>\n<li><b class=\"nl\">Er kriegt das Gehalt &uuml;berwiesen.</b> <i class=\"gl\">gesprochen</i></li>\n</ul>\n<p>It only works with verbs that take a dative person: <b class=\"nl\">schicken, senden, zustellen, &uuml;berweisen, erkl&auml;ren, schenken, bewilligen</b>.</p></div>\n\n<div class=\"rule-box\"><h4>5. Adjectives that carry the passive</h4>\n<table class=\"vocab-table\"><thead><tr><th>Suffix</th><th>Meaning</th><th>Example</th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">-bar</b></td><td>can be done</td><td>l&ouml;sbar, nachweisbar, vergleichbar, machbar</td></tr>\n<tr><td><b class=\"nl\">-lich</b></td><td>can be done <i class=\"gl\">(older, fewer words)</i></td><td>verst&auml;ndlich, unverzeihlich, k&auml;uflich</td></tr>\n<tr><td><b class=\"nl\">-f&auml;hig</b></td><td>able to undergo / to do</td><td>tragf&auml;hig, ausbauf&auml;hig, zahlungsf&auml;hig</td></tr>\n<tr><td><b class=\"nl\">-wert</b></td><td>worth doing</td><td>lesenswert, erstrebenswert, sehenswert</td></tr>\n</tbody></table>\n<p><b class=\"nl\">-bar</b> is the productive one: you can build it from almost any transitive verb. Watch the negation &mdash; German prefers <b class=\"nl\">un-</b> to <b class=\"nl\">nicht</b>: <b class=\"nl\">unl&ouml;sbar, unbezahlbar, nicht nachweisbar</b>.</p></div>\n\n<div class=\"rule-box\"><h4>6. Three more you will meet</h4>\n<ul>\n<li><b>Reflexiv als Aussage &uuml;ber die Sache:</b> <b class=\"nl\">Das Buch verkauft sich gut. Der Text liest sich fl&uuml;ssig. Hier arbeitet es sich angenehm.</b></li>\n<li><b>geh&ouml;ren + Partizip II</b> &mdash; strong opinion, almost a demand: <b class=\"nl\">Das geh&ouml;rt verboten. Der Antrag geh&ouml;rt gepr&uuml;ft.</b></li>\n<li><b>es gilt / es bleibt / es gibt + zu + Infinitiv:</b> <b class=\"nl\">Es gilt zu bedenken, dass &hellip; / Es bleibt abzuwarten, ob &hellip; / Da gibt es nichts zu &uuml;berlegen.</b></li>\n</ul>\n<div class=\"tip\"><b>C1 exam:</b> Being able to switch between these forms is worth more than knowing rare vocabulary. If a task says <i>&bdquo;Formulieren Sie um&ldquo;</i>, it almost always means: turn <b class=\"nl\">kann gel&ouml;st werden</b> into <b class=\"nl\">l&auml;sst sich l&ouml;sen</b> or <b class=\"nl\">ist l&ouml;sbar</b>.</div></div>\n",
+  "groups": [
+   {
+    "title": "Vier Wege &middot; The Same Sentence Four Ways",
+    "items": [
+     {
+      "nl": "Das Problem kann gel&ouml;st werden.",
+      "en": "The problem can be solved.",
+      "note": "Ausgangsform: Passiv mit Modalverb",
+      "say": "Das Problem kann gel&ouml;st werden."
+     },
+     {
+      "nl": "Das Problem ist zu l&ouml;sen.",
+      "en": "The problem can be solved.",
+      "note": "sein + zu + Infinitiv",
+      "say": "Das Problem ist zu l&ouml;sen."
+     },
+     {
+      "nl": "Das Problem l&auml;sst sich l&ouml;sen.",
+      "en": "The problem can be solved.",
+      "note": "sich lassen + Infinitiv",
+      "say": "Das Problem l&auml;sst sich l&ouml;sen."
+     },
+     {
+      "nl": "Das Problem ist l&ouml;sbar.",
+      "en": "The problem is solvable.",
+      "note": "Adjektiv auf -bar",
+      "say": "Das Problem ist l&ouml;sbar."
+     },
+     {
+      "nl": "Die Zahlen lassen sich nicht &uuml;berpr&uuml;fen.",
+      "en": "The figures cannot be verified.",
+      "note": "Verneinung mit lassen",
+      "say": "Die Zahlen lassen sich nicht &uuml;berpr&uuml;fen."
+     },
+     {
+      "nl": "Die Zahlen sind nicht nachweisbar.",
+      "en": "The figures cannot be substantiated.",
+      "note": "Verneinung mit -bar",
+      "say": "Die Zahlen sind nicht nachweisbar."
+     }
+    ]
+   },
+   {
+    "title": "sein + zu &middot; k&ouml;nnen oder m&uuml;ssen?",
+    "items": [
+     {
+      "nl": "Das Problem ist leicht zu l&ouml;sen.",
+      "en": "The problem is easy to solve.",
+      "note": "leicht &rarr; Lesart k&ouml;nnen",
+      "say": "Das Problem ist leicht zu l&ouml;sen."
+     },
+     {
+      "nl": "Der Antrag ist bis Freitag einzureichen.",
+      "en": "The application must be submitted by Friday.",
+      "note": "Frist &rarr; Lesart m&uuml;ssen",
+      "say": "Der Antrag ist bis Freitag einzureichen."
+     },
+     {
+      "nl": "Die Vorschriften sind unbedingt zu beachten.",
+      "en": "The regulations must be observed.",
+      "note": "reines Amtsdeutsch",
+      "say": "Die Vorschriften sind unbedingt zu beachten."
+     },
+     {
+      "nl": "Die Unterlagen sind vollst&auml;ndig vorzulegen.",
+      "en": "The documents must be submitted in full.",
+      "note": "trennbares Verb: vor-zu-legen",
+      "say": "Die Unterlagen sind vollst&auml;ndig vorzulegen."
+     },
+     {
+      "nl": "die zu beachtenden Vorschriften",
+      "en": "the regulations to be observed",
+      "note": "Gerundivum als Attribut",
+      "say": "die zu beachtenden Vorschriften"
+     },
+     {
+      "nl": "der einzureichende Antrag",
+      "en": "the application to be submitted",
+      "note": "Gerundivum, trennbar",
+      "say": "der einzureichende Antrag"
+     },
+     {
+      "nl": "die noch zu kl&auml;renden Fragen",
+      "en": "the questions still to be clarified",
+      "note": "typisch f&uuml;r Protokolle",
+      "say": "die noch zu kl&auml;renden Fragen"
+     }
+    ]
+   },
+   {
+    "title": "Dativpassiv &middot; When the Person Becomes Subject",
+    "items": [
+     {
+      "nl": "Man schickte ihm die Dokumente.",
+      "en": "They sent him the documents.",
+      "note": "Aktivsatz mit Dativobjekt",
+      "say": "Man schickte ihm die Dokumente."
+     },
+     {
+      "nl": "Die Dokumente wurden ihm zugeschickt.",
+      "en": "The documents were sent to him.",
+      "note": "normales Passiv &mdash; Sache wird Subjekt",
+      "say": "Die Dokumente wurden ihm zugeschickt."
+     },
+     {
+      "nl": "Er bekam die Dokumente zugeschickt.",
+      "en": "He got the documents sent to him.",
+      "note": "Dativpassiv &mdash; Person wird Subjekt",
+      "say": "Er bekam die Dokumente zugeschickt."
+     },
+     {
+      "nl": "Sie erhielt den Bescheid zugestellt.",
+      "en": "She was served the decision.",
+      "note": "erhalten &mdash; die f&ouml;rmliche Variante",
+      "say": "Sie erhielt den Bescheid zugestellt."
+     },
+     {
+      "nl": "Er kriegt das Gehalt &uuml;berwiesen.",
+      "en": "He gets his salary transferred.",
+      "note": "kriegen &mdash; gesprochen",
+      "say": "Er kriegt das Gehalt &uuml;berwiesen."
+     },
+     {
+      "nl": "Der Antrag bekam eine Frist gesetzt.",
+      "en": "The application was given a deadline.",
+      "note": "funktioniert nur mit Dativverben",
+      "say": "Der Antrag bekam eine Frist gesetzt."
+     },
+     {
+      "nl": "Sie bekam den Sachverhalt ausf&uuml;hrlich erkl&auml;rt.",
+      "en": "She had the matter explained to her in detail.",
+      "note": "erkl&auml;ren nimmt Dativ",
+      "say": "Sie bekam den Sachverhalt ausf&uuml;hrlich erkl&auml;rt."
+     }
+    ]
+   },
+   {
+    "title": "Adjektive &amp; Sonderformen &middot; -bar, reflexiv, es gilt zu",
+    "items": [
+     {
+      "nl": "Die Ergebnisse sind vergleichbar.",
+      "en": "The results are comparable.",
+      "note": "-bar vom transitiven Verb",
+      "say": "Die Ergebnisse sind vergleichbar."
+     },
+     {
+      "nl": "Der Plan ist durchaus machbar.",
+      "en": "The plan is quite feasible.",
+      "note": "-bar, umgangssprachlich gebr&auml;uchlich",
+      "say": "Der Plan ist durchaus machbar."
+     },
+     {
+      "nl": "Die Kosten sind unbezahlbar geworden.",
+      "en": "The costs have become unaffordable.",
+      "note": "Verneinung mit un-",
+      "say": "Die Kosten sind unbezahlbar geworden."
+     },
+     {
+      "nl": "Das Modell ist ausbauf&auml;hig.",
+      "en": "The model has potential for development.",
+      "note": "-f&auml;hig",
+      "say": "Das Modell ist ausbauf&auml;hig."
+     },
+     {
+      "nl": "Der Bericht ist lesenswert.",
+      "en": "The report is worth reading.",
+      "note": "-wert",
+      "say": "Der Bericht ist lesenswert."
+     },
+     {
+      "nl": "Das Buch verkauft sich gut.",
+      "en": "The book sells well.",
+      "note": "Reflexiv als Aussage &uuml;ber die Sache",
+      "say": "Das Buch verkauft sich gut."
+     },
+     {
+      "nl": "Der Text liest sich fl&uuml;ssig.",
+      "en": "The text reads smoothly.",
+      "note": "dasselbe Muster",
+      "say": "Der Text liest sich fl&uuml;ssig."
+     },
+     {
+      "nl": "Das geh&ouml;rt gr&uuml;ndlich gepr&uuml;ft.",
+      "en": "That ought to be examined thoroughly.",
+      "note": "geh&ouml;ren + Partizip &mdash; Forderung",
+      "say": "Das geh&ouml;rt gr&uuml;ndlich gepr&uuml;ft."
+     },
+     {
+      "nl": "Es gilt zu bedenken, dass die Frist l&auml;uft.",
+      "en": "It should be borne in mind that the deadline is running.",
+      "note": "es gilt zu &mdash; akademisch",
+      "say": "Es gilt zu bedenken, dass die Frist l&auml;uft."
+     },
+     {
+      "nl": "Es bleibt abzuwarten, ob die Reform wirkt.",
+      "en": "It remains to be seen whether the reform works.",
+      "note": "es bleibt zu &mdash; sehr h&auml;ufig",
+      "say": "Es bleibt abzuwarten, ob die Reform wirkt."
+     }
+    ]
+   }
+  ],
+  "instr": "Rewrite the passive using the form indicated.",
+  "ex": [
+   {
+    "q": "Das Problem kann gel&ouml;st werden. &rarr; Das Problem _____ sich l&ouml;sen. (lassen)",
+    "answer": "l&auml;sst"
+   },
+   {
+    "q": "Das Problem kann gel&ouml;st werden. &rarr; Das Problem ist _____. (-bar)",
+    "answer": "l&ouml;sbar"
+   },
+   {
+    "q": "Der Antrag muss eingereicht werden. &rarr; Der Antrag ist _____. (sein + zu)",
+    "answer": "einzureichen"
+   },
+   {
+    "q": "Die Vorschriften m&uuml;ssen beachtet werden. &rarr; die _____ Vorschriften (Gerundivum)",
+    "answer": "zu beachtenden"
+   },
+   {
+    "q": "Man schickte ihm die Papiere. &rarr; Er _____ die Papiere zugeschickt. (Dativpassiv)",
+    "answer": "bekam"
+   },
+   {
+    "q": "Man stellte ihr den Bescheid zu. &rarr; Sie _____ den Bescheid zugestellt. (f&ouml;rmlich)",
+    "answer": "erhielt"
+   },
+   {
+    "q": "Man kann die Kosten nicht bezahlen. &rarr; Die Kosten sind _____. (un- + bar)",
+    "answer": "unbezahlbar"
+   },
+   {
+    "q": "Man muss noch abwarten. &rarr; Es bleibt _____. (es bleibt zu)",
+    "answer": "abzuwarten"
+   }
+  ]
+ },
+ {
+  "n": 5,
+  "t": "Modalit&auml;t &amp; Vermutung",
+  "s": "d&uuml;rfte, m&uuml;sste, scheint zu, droht zu",
+  "tag": "how sure am I, and who says so",
+  "rule": "\n<div class=\"rule-box\"><h4>1. Modal verbs have two jobs</h4>\n<p>Every German modal verb can be read in two completely different ways. Which one applies depends on the sentence, not on the verb:</p>\n<table class=\"vocab-table\"><thead><tr><th></th><th>objektiv <i class=\"gl\">a fact about the world</i></th><th>subjektiv <i class=\"gl\">how sure the speaker is</i></th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">m&uuml;ssen</b></td><td>Er muss arbeiten. <i class=\"gl\">he has to</i></td><td>Er muss krank sein. <i class=\"gl\">I conclude he is</i></td></tr>\n<tr><td><b class=\"nl\">k&ouml;nnen</b></td><td>Sie kann schwimmen. <i class=\"gl\">she is able</i></td><td>Das kann stimmen. <i class=\"gl\">it is possible</i></td></tr>\n<tr><td><b class=\"nl\">d&uuml;rfen</b></td><td>Du darfst gehen. <i class=\"gl\">permission</i></td><td>Das d&uuml;rfte reichen. <i class=\"gl\">I assume</i></td></tr>\n</tbody></table>\n<p>Two signals tell you it is the <b>subjective</b> reading: the modal is followed by <b class=\"nl\">sein, haben</b> or a state verb &mdash; or it stands in <b>Konjunktiv II</b> (<b class=\"nl\">d&uuml;rfte, m&uuml;sste, k&ouml;nnte</b>). Analytical texts run almost entirely on the subjective reading.</p></div>\n\n<div class=\"rule-box\"><h4>2. The certainty scale</h4>\n<p>Order these from near-certain to barely possible. This scale is the single most useful thing in the unit:</p>\n<table class=\"vocab-table\"><thead><tr><th>Form</th><th>Certainty</th><th>Example</th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">muss</b></td><td>~95 % &mdash; the only explanation</td><td>Die Zahlen m&uuml;ssen falsch sein.</td></tr>\n<tr><td><b class=\"nl\">d&uuml;rfte</b></td><td>~80 % &mdash; well-founded assumption</td><td>Die Zahl d&uuml;rfte weiter steigen.</td></tr>\n<tr><td><b class=\"nl\">m&uuml;sste</b></td><td>~70 % &mdash; expectation, if all is normal</td><td>Die Reform m&uuml;sste abgeschlossen sein.</td></tr>\n<tr><td><b class=\"nl\">k&ouml;nnte</b></td><td>~40 % &mdash; one possibility among several</td><td>Die Ma&szlig;nahme k&ouml;nnte Folgen haben.</td></tr>\n<tr><td><b class=\"nl\">kann</b></td><td>~30 % &mdash; not excluded</td><td>Das kann passieren.</td></tr>\n<tr><td><b class=\"nl\">mag</b></td><td>concession, not really probability</td><td>Das mag stimmen, &auml;ndert aber nichts.</td></tr>\n</tbody></table>\n<p><b class=\"nl\">d&uuml;rfte</b> is the workhorse of German journalism and forecasting. It sounds informed but leaves an escape route &mdash; exactly what an analyst needs.</p>\n<div class=\"tip\"><b>Careful:</b> <b class=\"nl\">d&uuml;rfte</b> here has nothing to do with permission. <b class=\"nl\">Er d&uuml;rfte inzwischen angekommen sein</b> means <i>I assume he has arrived</i>, not <i>he is allowed to arrive</i>.</div></div>\n\n<div class=\"rule-box\"><h4>3. Guessing about the past</h4>\n<p>Put the <b>infinitive perfect</b> after the modal &mdash; the modal itself stays in the present:</p>\n<ul>\n<li><b class=\"nl\">Sie muss den Brief <u>erhalten haben</u>.</b> <i class=\"gl\">she must have received it</i></li>\n<li><b class=\"nl\">Das Unternehmen d&uuml;rfte die Strategie <u>ge&auml;ndert haben</u>.</b></li>\n<li><b class=\"nl\">Die Reform m&uuml;sste inzwischen <u>abgeschlossen sein</u>.</b></li>\n<li><b class=\"nl\">Die Daten k&ouml;nnten <u>manipuliert worden sein</u>.</b> <i class=\"gl\">passive + past + guess</i></li>\n</ul>\n<p>Never say <s>Sie hat den Brief erhalten m&uuml;ssen</s> for a guess &mdash; that is the objective reading (she was obliged to receive it).</p></div>\n\n<div class=\"rule-box\"><h4>4. wollen and sollen &mdash; reporting someone else's claim</h4>\n<p>These two do something no other modal does: they mark the source of a statement.</p>\n<ul>\n<li><b class=\"nl\">Er <u>will</u> von nichts gewusst haben.</b> &rarr; <i class=\"gl\">he claims it &mdash; and I doubt it</i></li>\n<li><b class=\"nl\">Das Unternehmen <u>will</u> alle Regeln eingehalten haben.</b> &rarr; <i class=\"gl\">that is their version</i></li>\n<li><b class=\"nl\">Der Minister <u>soll</u> zur&uuml;cktreten wollen.</b> &rarr; <i class=\"gl\">others say so; I do not vouch for it</i></li>\n<li><b class=\"nl\">Die Kosten <u>sollen</u> untersch&auml;tzt worden sein.</b> &rarr; <i class=\"gl\">reportedly</i></li>\n</ul>\n<p>Short version: <b class=\"nl\">wollen</b> = the subject says it about himself. <b class=\"nl\">sollen</b> = other people say it. Journalists use both constantly to report without taking responsibility.</p></div>\n\n<div class=\"rule-box\"><h4>5. scheinen, drohen, versprechen + zu + Infinitiv</h4>\n<ul>\n<li><b class=\"nl\">Das Unternehmen <u>scheint</u> die Strategie ge&auml;ndert <u>zu haben</u>.</b> <i class=\"gl\">appears to have</i></li>\n<li><b class=\"nl\">Die Verhandlungen <u>drohen</u> zu scheitern.</b> <i class=\"gl\">threaten to &mdash; a bad outcome is likely</i></li>\n<li><b class=\"nl\">Das Projekt <u>verspricht</u> erfolgreich zu werden.</b> <i class=\"gl\">promises to &mdash; a good outcome is likely</i></li>\n<li><b class=\"nl\">Die Zahlen <u>pflegen</u> im Herbst zu sinken.</b> <i class=\"gl\">tend to &mdash; formal, habitual</i></li>\n</ul>\n<p><b class=\"nl\">drohen</b> and <b class=\"nl\">versprechen</b> are a matched pair: same structure, opposite evaluation. Both are prediction words, not emotion words.</p></div>\n\n<div class=\"rule-box\"><h4>6. Adverbs and set phrases</h4>\n<table class=\"vocab-table\"><thead><tr><th>Phrase</th><th>Certainty</th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">zweifellos, mit Sicherheit</b></td><td>certain</td></tr>\n<tr><td><b class=\"nl\">h&ouml;chstwahrscheinlich, aller Wahrscheinlichkeit nach</b></td><td>very likely</td></tr>\n<tr><td><b class=\"nl\">vermutlich, wahrscheinlich, voraussichtlich</b></td><td>likely</td></tr>\n<tr><td><b class=\"nl\">offenbar, anscheinend</b></td><td>apparently &mdash; based on evidence</td></tr>\n<tr><td><b class=\"nl\">angeblich, mutma&szlig;lich</b></td><td>allegedly &mdash; someone claims it</td></tr>\n<tr><td><b class=\"nl\">m&ouml;glicherweise, unter Umst&auml;nden, eventuell</b></td><td>possibly</td></tr>\n<tr><td><b class=\"nl\">kaum, schwerlich</b></td><td>hardly</td></tr>\n</tbody></table>\n<p>Two traps for English speakers: <b class=\"nl\">eventuell</b> means <b>possibly</b>, not <i>eventually</i>. And <b class=\"nl\">anscheinend</b> (it looks that way, and probably is) is not <b class=\"nl\">scheinbar</b> (it looks that way, but is not).</p>\n<div class=\"tip\"><b>Writing an analysis:</b> pick one hedge per sentence, not three. <s>Vermutlich d&uuml;rfte die Zahl m&ouml;glicherweise steigen.</s> &rarr; <b class=\"nl\">Die Zahl d&uuml;rfte weiter steigen.</b></div></div>\n",
+  "groups": [
+   {
+    "title": "Die Sicherheitsskala &middot; muss, d&uuml;rfte, m&uuml;sste, k&ouml;nnte",
+    "items": [
+     {
+      "nl": "Die Zahlen m&uuml;ssen falsch sein.",
+      "en": "The figures must be wrong.",
+      "note": "muss &mdash; einzige Erkl&auml;rung, ~95 %",
+      "say": "Die Zahlen m&uuml;ssen falsch sein."
+     },
+     {
+      "nl": "Die Zahl der Arbeitslosen d&uuml;rfte weiter steigen.",
+      "en": "The number of unemployed is likely to keep rising.",
+      "note": "d&uuml;rfte &mdash; begr&uuml;ndete Annahme, ~80 %",
+      "say": "Die Zahl der Arbeitslosen d&uuml;rfte weiter steigen."
+     },
+     {
+      "nl": "Die Reform m&uuml;sste inzwischen abgeschlossen sein.",
+      "en": "The reform should be completed by now.",
+      "note": "m&uuml;sste &mdash; Erwartung, ~70 %",
+      "say": "Die Reform m&uuml;sste inzwischen abgeschlossen sein."
+     },
+     {
+      "nl": "Die Ma&szlig;nahme k&ouml;nnte langfristige Folgen haben.",
+      "en": "The measure could have long-term consequences.",
+      "note": "k&ouml;nnte &mdash; eine von mehreren M&ouml;glichkeiten",
+      "say": "Die Ma&szlig;nahme k&ouml;nnte langfristige Folgen haben."
+     },
+     {
+      "nl": "So etwas kann jederzeit passieren.",
+      "en": "Something like that can happen at any time.",
+      "note": "kann &mdash; nicht ausgeschlossen",
+      "say": "So etwas kann jederzeit passieren."
+     },
+     {
+      "nl": "Das mag stimmen, &auml;ndert aber nichts.",
+      "en": "That may be true, but changes nothing.",
+      "note": "mag &mdash; Zugest&auml;ndnis",
+      "say": "Das mag stimmen, &auml;ndert aber nichts."
+     },
+     {
+      "nl": "Die Prognose ist kaum zu halten.",
+      "en": "The forecast can hardly be maintained.",
+      "note": "kaum &mdash; sehr unwahrscheinlich",
+      "say": "Die Prognose ist kaum zu halten."
+     }
+    ]
+   },
+   {
+    "title": "Vermutungen &uuml;ber die Vergangenheit &middot; and Reported Claims",
+    "items": [
+     {
+      "nl": "Sie muss den Brief erhalten haben.",
+      "en": "She must have received the letter.",
+      "note": "Vermutung &uuml;ber die Vergangenheit",
+      "say": "Sie muss den Brief erhalten haben."
+     },
+     {
+      "nl": "Das Unternehmen d&uuml;rfte die Strategie ge&auml;ndert haben.",
+      "en": "The company is likely to have changed its strategy.",
+      "note": "d&uuml;rfte + Infinitiv Perfekt",
+      "say": "Das Unternehmen d&uuml;rfte die Strategie ge&auml;ndert haben."
+     },
+     {
+      "nl": "Der Fehler k&ouml;nnte fr&uuml;her entstanden sein.",
+      "en": "The error could have arisen earlier.",
+      "note": "k&ouml;nnte + sein",
+      "say": "Der Fehler k&ouml;nnte fr&uuml;her entstanden sein."
+     },
+     {
+      "nl": "Die Daten k&ouml;nnten manipuliert worden sein.",
+      "en": "The data could have been manipulated.",
+      "note": "Passiv + Vergangenheit + Vermutung",
+      "say": "Die Daten k&ouml;nnten manipuliert worden sein."
+     },
+     {
+      "nl": "Er will von nichts gewusst haben.",
+      "en": "He claims to have known nothing.",
+      "note": "wollen &mdash; eigene Behauptung, Zweifel",
+      "say": "Er will von nichts gewusst haben."
+     },
+     {
+      "nl": "Das Unternehmen will alle Regeln eingehalten haben.",
+      "en": "The company claims to have complied with all rules.",
+      "note": "wollen &mdash; deren Version",
+      "say": "Das Unternehmen will alle Regeln eingehalten haben."
+     },
+     {
+      "nl": "Die Kosten sollen untersch&auml;tzt worden sein.",
+      "en": "The costs are said to have been underestimated.",
+      "note": "sollen &mdash; andere behaupten es",
+      "say": "Die Kosten sollen untersch&auml;tzt worden sein."
+     },
+     {
+      "nl": "Der Minister soll zur&uuml;cktreten wollen.",
+      "en": "The minister is said to be planning to resign.",
+      "note": "sollen + wollen kombiniert",
+      "say": "Der Minister soll zur&uuml;cktreten wollen."
+     }
+    ]
+   },
+   {
+    "title": "scheinen, drohen, versprechen &middot; Prediction Verbs",
+    "items": [
+     {
+      "nl": "Das Unternehmen scheint die Strategie ge&auml;ndert zu haben.",
+      "en": "The company appears to have changed its strategy.",
+      "note": "scheinen + zu + Infinitiv Perfekt",
+      "say": "Das Unternehmen scheint die Strategie ge&auml;ndert zu haben."
+     },
+     {
+      "nl": "Die Lage scheint sich zu stabilisieren.",
+      "en": "The situation appears to be stabilising.",
+      "note": "scheinen + Gegenwart",
+      "say": "Die Lage scheint sich zu stabilisieren."
+     },
+     {
+      "nl": "Die Verhandlungen drohen zu scheitern.",
+      "en": "The negotiations threaten to fail.",
+      "note": "drohen &mdash; schlechter Ausgang wahrscheinlich",
+      "say": "Die Verhandlungen drohen zu scheitern."
+     },
+     {
+      "nl": "Die Kosten drohen aus dem Ruder zu laufen.",
+      "en": "Costs threaten to get out of hand.",
+      "note": "drohen im Wirtschaftstext",
+      "say": "Die Kosten drohen aus dem Ruder zu laufen."
+     },
+     {
+      "nl": "Das Projekt verspricht erfolgreich zu werden.",
+      "en": "The project promises to be successful.",
+      "note": "versprechen &mdash; guter Ausgang wahrscheinlich",
+      "say": "Das Projekt verspricht erfolgreich zu werden."
+     },
+     {
+      "nl": "Die Zahlen pflegen im Herbst zu sinken.",
+      "en": "The figures tend to fall in autumn.",
+      "note": "pflegen &mdash; f&ouml;rmlich, gewohnheitsm&auml;&szlig;ig",
+      "say": "Die Zahlen pflegen im Herbst zu sinken."
+     }
+    ]
+   },
+   {
+    "title": "Adverbien &middot; From zweifellos to kaum",
+    "items": [
+     {
+      "nl": "Aller Wahrscheinlichkeit nach wird die Frist verl&auml;ngert.",
+      "en": "In all probability the deadline will be extended.",
+      "note": "sehr wahrscheinlich, f&ouml;rmlich",
+      "say": "Aller Wahrscheinlichkeit nach wird die Frist verl&auml;ngert."
+     },
+     {
+      "nl": "Die Entscheidung f&auml;llt voraussichtlich im Mai.",
+      "en": "The decision is expected in May.",
+      "note": "voraussichtlich &mdash; Prognose",
+      "say": "Die Entscheidung f&auml;llt voraussichtlich im Mai."
+     },
+     {
+      "nl": "Offenbar wurden die Daten nie gepr&uuml;ft.",
+      "en": "Apparently the data were never checked.",
+      "note": "offenbar &mdash; aus Indizien geschlossen",
+      "say": "Offenbar wurden die Daten nie gepr&uuml;ft."
+     },
+     {
+      "nl": "Angeblich lagen die Unterlagen vor.",
+      "en": "The documents were allegedly available.",
+      "note": "angeblich &mdash; jemand behauptet es",
+      "say": "Angeblich lagen die Unterlagen vor."
+     },
+     {
+      "nl": "Der mutma&szlig;liche Fehler liegt in der Messung.",
+      "en": "The presumed error lies in the measurement.",
+      "note": "mutma&szlig;lich &mdash; Zeitungsdeutsch",
+      "say": "Der mutma&szlig;liche Fehler liegt in der Messung."
+     },
+     {
+      "nl": "M&ouml;glicherweise war die Stichprobe zu klein.",
+      "en": "Possibly the sample was too small.",
+      "note": "m&ouml;glicherweise",
+      "say": "M&ouml;glicherweise war die Stichprobe zu klein."
+     },
+     {
+      "nl": "Unter Umst&auml;nden muss neu gerechnet werden.",
+      "en": "Under certain circumstances a recalculation is needed.",
+      "note": "unter Umst&auml;nden",
+      "say": "Unter Umst&auml;nden muss neu gerechnet werden."
+     },
+     {
+      "nl": "Eventuell verschiebt sich der Termin.",
+      "en": "The date may possibly shift.",
+      "note": "eventuell = m&ouml;glicherweise, nicht &bdquo;eventually&ldquo;",
+      "say": "Eventuell verschiebt sich der Termin."
+     },
+     {
+      "nl": "Anscheinend stimmt die Rechnung.",
+      "en": "Apparently the calculation is correct.",
+      "note": "anscheinend: sieht so aus und ist wohl so",
+      "say": "Anscheinend stimmt die Rechnung."
+     },
+     {
+      "nl": "Scheinbar stimmt die Rechnung &mdash; sie tut es aber nicht.",
+      "en": "Seemingly the calculation is correct — but it is not.",
+      "note": "scheinbar: sieht so aus, ist es aber nicht",
+      "say": "Scheinbar stimmt die Rechnung, sie tut es aber nicht."
+     }
+    ]
+   }
+  ],
+  "instr": "Choose the form that matches the degree of certainty given in brackets.",
+  "ex": [
+   {
+    "q": "Die Zahl _____ weiter steigen. (begr&uuml;ndete Annahme, ~80 %)",
+    "answer": "d&uuml;rfte"
+   },
+   {
+    "q": "Die Reform _____ inzwischen abgeschlossen sein. (Erwartung)",
+    "answer": "m&uuml;sste"
+   },
+   {
+    "q": "Die Ma&szlig;nahme _____ Folgen haben. (eine M&ouml;glichkeit)",
+    "answer": "k&ouml;nnte"
+   },
+   {
+    "q": "Die Zahlen _____ falsch sein. (einzige Erkl&auml;rung)",
+    "answer": "m&uuml;ssen"
+   },
+   {
+    "q": "Sie muss den Brief erhalten _____. (Vergangenheit)",
+    "answer": "haben"
+   },
+   {
+    "q": "Er _____ von nichts gewusst haben. (er selbst behauptet es)",
+    "answer": "will"
+   },
+   {
+    "q": "Die Kosten _____ untersch&auml;tzt worden sein. (andere behaupten es)",
+    "answer": "sollen"
+   },
+   {
+    "q": "Die Verhandlungen _____ zu scheitern. (schlechter Ausgang wahrscheinlich)",
+    "answer": "drohen"
+   }
+  ]
+ },
+ {
+  "n": 6,
+  "t": "Konjunktiv I in Berichten",
+  "s": "sei, habe, werde &mdash; und wann K II einspringt",
+  "tag": "reporting without vouching for the content",
+  "rule": "\n<div class=\"rule-box\"><h4>1. What the Konjunktiv I really signals</h4>\n<p>In a German newspaper the Konjunktiv I does one thing: it says <b>&quot;these are not my words&quot;</b>. The journalist reports without vouching for the content.</p>\n<table class=\"vocab-table\"><thead><tr><th>Form</th><th>Effect</th></tr></thead>\n<tbody>\n<tr><td>Der Minister erkl&auml;rte, die Reform <b class=\"nl\">ist</b> notwendig.</td><td>the paper agrees</td></tr>\n<tr><td>Der Minister erkl&auml;rte, die Reform <b class=\"nl\">sei</b> notwendig.</td><td><b>neutral report &mdash; no position taken</b></td></tr>\n<tr><td>Der Minister erkl&auml;rte, die Reform <b class=\"nl\">w&auml;re</b> notwendig.</td><td>audible doubt</td></tr>\n</tbody></table>\n<p>That third line is the point most learners miss. Konjunktiv II in reported speech is not neutral: it adds distance, sometimes disbelief. Use it deliberately, not by accident.</p></div>\n\n<div class=\"rule-box\"><h4>2. Forming the Konjunktiv I</h4>\n<p>Stem of the infinitive + the endings <b class=\"nl\">-e, -est, -e, -en, -et, -en</b>. Only <b class=\"nl\">sein</b> is irregular &mdash; and it is the one you need most:</p>\n<table class=\"vocab-table\"><thead><tr><th></th><th>sein</th><th>haben</th><th>k&ouml;nnen</th><th>gehen</th></tr></thead>\n<tbody>\n<tr><td>ich</td><td>sei</td><td>habe</td><td>k&ouml;nne</td><td>gehe</td></tr>\n<tr><td>er/sie/es</td><td><b class=\"nl\">sei</b></td><td><b class=\"nl\">habe</b></td><td><b class=\"nl\">k&ouml;nne</b></td><td><b class=\"nl\">gehe</b></td></tr>\n<tr><td>sie/Sie</td><td><b class=\"nl\">seien</b></td><td>h&auml;tten*</td><td>k&ouml;nnten*</td><td>gingen*</td></tr>\n</tbody></table>\n<p>*The plural marked with a star is where the trouble starts &mdash; see the next box.</p>\n<p>In practice you almost always need only the <b>3rd person</b>, because reports talk about somebody else. Learn <b class=\"nl\">sei, habe, werde, k&ouml;nne, m&uuml;sse, wolle, gebe, komme</b> and you can read any newspaper.</p></div>\n\n<div class=\"rule-box\"><h4>3. The Ersatzform rule &mdash; when K1 looks like the present</h4>\n<p>If the Konjunktiv I is <b>identical</b> to the normal present tense, the reader cannot see that it is reported speech. German then switches to <b>Konjunktiv II</b>:</p>\n<ul>\n<li><b class=\"nl\">Sie sagten, sie <s>haben</s> keine Zeit</b> &rarr; identical to indicative &rarr; <b class=\"nl\">sie <u>h&auml;tten</u> keine Zeit</b></li>\n<li><b class=\"nl\">Die Kritiker meinten, die Zahlen <s>stimmen</s> nicht</b> &rarr; <b class=\"nl\">die Zahlen <u>st&uuml;nden</u> nicht</b> &hellip; or more naturally <b class=\"nl\">w&uuml;rden nicht stimmen</b></li>\n</ul>\n<p>The chain is fixed: <b class=\"nl\">Konjunktiv I &rarr; wenn gleich, dann Konjunktiv II &rarr; wenn auch das altert&uuml;mlich klingt, dann w&uuml;rde + Infinitiv.</b></p>\n<p>This is why a single reported paragraph can mix <b class=\"nl\">sei</b> (singular, clear) and <b class=\"nl\">h&auml;tten</b> (plural, replaced). It is not inconsistency &mdash; it is the rule.</p></div>\n\n<div class=\"rule-box\"><h4>4. Only three tenses exist in reported speech</h4>\n<p>The original may have six tenses; the report has three:</p>\n<table class=\"vocab-table\"><thead><tr><th>Original</th><th>Indirekte Rede</th></tr></thead>\n<tbody>\n<tr><td>Ich <b class=\"nl\">bin</b> krank.</td><td>Er sagte, er <b class=\"nl\">sei</b> krank. <i class=\"gl\">Gegenwart</i></td></tr>\n<tr><td>Ich <b class=\"nl\">war</b> / <b class=\"nl\">bin gewesen</b> / <b class=\"nl\">war gewesen</b></td><td>Er sagte, er <b class=\"nl\">sei gewesen</b>. <i class=\"gl\">alle drei &rarr; eine Form</i></td></tr>\n<tr><td>Ich <b class=\"nl\">werde</b> kommen.</td><td>Er sagte, er <b class=\"nl\">werde</b> kommen. <i class=\"gl\">Zukunft</i></td></tr>\n</tbody></table>\n<p>The past is always built with <b class=\"nl\">sei</b> or <b class=\"nl\">habe</b> + Partizip II. Passive adds one more layer: <b class=\"nl\">Die Kosten seien untersch&auml;tzt <u>worden</u>.</b></p></div>\n\n<div class=\"rule-box\"><h4>5. What else has to shift</h4>\n<p>Pronouns, times and places move with the perspective:</p>\n<ul>\n<li><b class=\"nl\">&bdquo;Ich komme morgen zu dir.&ldquo;</b> &rarr; <b class=\"nl\">Er sagte, <u>er</u> komme <u>am n&auml;chsten Tag</u> zu <u>mir</u>.</b></li>\n<li><b class=\"nl\">&bdquo;Wir haben das hier gepr&uuml;ft.&ldquo;</b> &rarr; <b class=\"nl\">Sie erkl&auml;rten, sie h&auml;tten das <u>dort</u> gepr&uuml;ft.</b></li>\n</ul>\n<p>Questions and commands change shape too:</p>\n<ul>\n<li><b class=\"nl\">&bdquo;Kommen Sie?&ldquo;</b> &rarr; <b class=\"nl\">Er fragte, <u>ob</u> ich k&auml;me.</b></li>\n<li><b class=\"nl\">&bdquo;Warum ist das so?&ldquo;</b> &rarr; <b class=\"nl\">Er fragte, <u>warum</u> das so sei.</b></li>\n<li><b class=\"nl\">&bdquo;Reichen Sie das ein!&ldquo;</b> &rarr; <b class=\"nl\">Er sagte, ich <u>solle</u> das einreichen.</b> <i class=\"gl\">Bitte: m&ouml;ge</i></li>\n</ul></div>\n\n<div class=\"rule-box\"><h4>6. Long passages without an introducing verb</h4>\n<p>German can keep a whole paragraph in Konjunktiv I. The <b class=\"nl\">dass</b> and the verb of saying disappear; the mood alone carries the meaning:</p>\n<p><i class=\"gl\">Der Sprecher wies die Vorw&uuml;rfe zur&uuml;ck.</i> <b class=\"nl\">Die Pr&uuml;fung sei ordnungsgem&auml;&szlig; erfolgt. Alle Unterlagen h&auml;tten vorgelegen. Ein Fehler k&ouml;nne ausgeschlossen werden. Man werde die Ergebnisse ver&ouml;ffentlichen.</b></p>\n<p>Four sentences, no &quot;he said&quot; &mdash; and every reader knows it is still his version. This is the single most typical feature of German news writing.</p>\n<div class=\"tip\"><b>Other uses of the Konjunktiv I:</b> instructions <b class=\"nl\">(man nehme drei Eier)</b>, mathematics <b class=\"nl\">(es sei x gr&ouml;&szlig;er als y)</b>, fixed wishes <b class=\"nl\">(es lebe die Freiheit, Gott sei Dank)</b>. Outside these, it belongs to reporting.</div></div>\n",
+  "groups": [
+   {
+    "title": "Grundformen &middot; sei, habe, werde, k&ouml;nne",
+    "items": [
+     {
+      "nl": "Der Minister erkl&auml;rte, die Reform sei notwendig.",
+      "en": "The minister stated the reform was necessary.",
+      "note": "Konjunktiv I &mdash; neutral berichtet",
+      "say": "Der Minister erkl&auml;rte, die Reform sei notwendig."
+     },
+     {
+      "nl": "Der Minister erkl&auml;rte, die Reform w&auml;re notwendig.",
+      "en": "The minister stated the reform would be necessary.",
+      "note": "Konjunktiv II &mdash; h&ouml;rbarer Zweifel",
+      "say": "Der Minister erkl&auml;rte, die Reform w&auml;re notwendig."
+     },
+     {
+      "nl": "Das Unternehmen teilte mit, man habe alle Regeln eingehalten.",
+      "en": "The company announced it had complied with all rules.",
+      "note": "habe + Partizip &mdash; Vergangenheit",
+      "say": "Das Unternehmen teilte mit, man habe alle Regeln eingehalten."
+     },
+     {
+      "nl": "Kritiker behaupteten, die Kosten seien untersch&auml;tzt worden.",
+      "en": "Critics claimed the costs had been underestimated.",
+      "note": "Passiv Vergangenheit: seien &hellip; worden",
+      "say": "Kritiker behaupteten, die Kosten seien untersch&auml;tzt worden."
+     },
+     {
+      "nl": "Die Sprecherin sagte, sie werde die Zahlen pr&uuml;fen.",
+      "en": "The spokeswoman said she would examine the figures.",
+      "note": "werde &mdash; Zukunft",
+      "say": "Die Sprecherin sagte, sie werde die Zahlen pr&uuml;fen."
+     },
+     {
+      "nl": "Er betonte, es k&ouml;nne keine Ausnahme geben.",
+      "en": "He stressed there could be no exception.",
+      "note": "k&ouml;nne &mdash; Modalverb im Konjunktiv I",
+      "say": "Er betonte, es k&ouml;nne keine Ausnahme geben."
+     },
+     {
+      "nl": "Sie erg&auml;nzte, das Verfahren m&uuml;sse wiederholt werden.",
+      "en": "She added the procedure had to be repeated.",
+      "note": "m&uuml;sse + Passiv",
+      "say": "Sie erg&auml;nzte, das Verfahren m&uuml;sse wiederholt werden."
+     }
+    ]
+   },
+   {
+    "title": "Die Ersatzform &middot; When K1 Looks Like the Present",
+    "items": [
+     {
+      "nl": "Sie sagten, sie h&auml;tten keine Zeit.",
+      "en": "They said they had no time.",
+      "note": "haben = Indikativ, also Konjunktiv II h&auml;tten",
+      "say": "Sie sagten, sie h&auml;tten keine Zeit."
+     },
+     {
+      "nl": "Die Kritiker meinten, die Zahlen w&uuml;rden nicht stimmen.",
+      "en": "The critics said the figures were not correct.",
+      "note": "st&uuml;nden klingt alt &rarr; w&uuml;rde-Form",
+      "say": "Die Kritiker meinten, die Zahlen w&uuml;rden nicht stimmen."
+     },
+     {
+      "nl": "Er sagte, er komme sp&auml;ter.",
+      "en": "He said he would come later.",
+      "note": "Singular: komme ist eindeutig",
+      "say": "Er sagte, er komme sp&auml;ter."
+     },
+     {
+      "nl": "Sie sagten, sie k&auml;men sp&auml;ter.",
+      "en": "They said they would come later.",
+      "note": "Plural: kommen w&auml;re gleich &rarr; k&auml;men",
+      "say": "Sie sagten, sie k&auml;men sp&auml;ter."
+     },
+     {
+      "nl": "Die Beh&ouml;rde erkl&auml;rte, sie pr&uuml;fe den Fall.",
+      "en": "The authority stated it was examining the case.",
+      "note": "Singular pr&uuml;fe &mdash; eindeutig",
+      "say": "Die Beh&ouml;rde erkl&auml;rte, sie pr&uuml;fe den Fall."
+     },
+     {
+      "nl": "Die Beh&ouml;rden erkl&auml;rten, sie pr&uuml;ften den Fall.",
+      "en": "The authorities stated they were examining the case.",
+      "note": "Plural &rarr; Konjunktiv II pr&uuml;ften",
+      "say": "Die Beh&ouml;rden erkl&auml;rten, sie pr&uuml;ften den Fall."
+     }
+    ]
+   },
+   {
+    "title": "Was sich verschiebt &middot; Pronouns, Times, Questions",
+    "items": [
+     {
+      "nl": "Er sagte, er komme am n&auml;chsten Tag zu mir.",
+      "en": "He said he would come to me the next day.",
+      "note": "ich&rarr;er, morgen&rarr;am n&auml;chsten Tag, dir&rarr;mir",
+      "say": "Er sagte, er komme am n&auml;chsten Tag zu mir."
+     },
+     {
+      "nl": "Sie erkl&auml;rten, sie h&auml;tten das dort gepr&uuml;ft.",
+      "en": "They stated they had examined it there.",
+      "note": "hier &rarr; dort",
+      "say": "Sie erkl&auml;rten, sie h&auml;tten das dort gepr&uuml;ft."
+     },
+     {
+      "nl": "Er fragte, ob ich k&auml;me.",
+      "en": "He asked whether I was coming.",
+      "note": "Ja/Nein-Frage &rarr; ob",
+      "say": "Er fragte, ob ich k&auml;me."
+     },
+     {
+      "nl": "Er fragte, warum das so sei.",
+      "en": "He asked why that was so.",
+      "note": "W-Frage beh&auml;lt das Fragewort",
+      "say": "Er fragte, warum das so sei."
+     },
+     {
+      "nl": "Er sagte, ich solle die Unterlagen einreichen.",
+      "en": "He said I should submit the documents.",
+      "note": "Aufforderung &rarr; sollen",
+      "say": "Er sagte, ich solle die Unterlagen einreichen."
+     },
+     {
+      "nl": "Sie bat, man m&ouml;ge das Ergebnis abwarten.",
+      "en": "She asked that the result be awaited.",
+      "note": "h&ouml;fliche Bitte &rarr; m&ouml;ge",
+      "say": "Sie bat, man m&ouml;ge das Ergebnis abwarten."
+     }
+    ]
+   },
+   {
+    "title": "Medien &middot; A Whole Paragraph Without &quot;He Said&quot;",
+    "items": [
+     {
+      "nl": "Die Pr&uuml;fung sei ordnungsgem&auml;&szlig; erfolgt.",
+      "en": "The examination had been carried out properly.",
+      "note": "Absatz ohne Redeverb &mdash; Zeitungsdeutsch",
+      "say": "Die Pr&uuml;fung sei ordnungsgem&auml;&szlig; erfolgt."
+     },
+     {
+      "nl": "Alle Unterlagen h&auml;tten vorgelegen.",
+      "en": "All documents had been available.",
+      "note": "Plural &rarr; Ersatzform h&auml;tten",
+      "say": "Alle Unterlagen h&auml;tten vorgelegen."
+     },
+     {
+      "nl": "Ein Fehler k&ouml;nne ausgeschlossen werden.",
+      "en": "An error could be ruled out.",
+      "note": "k&ouml;nne + Passiv",
+      "say": "Ein Fehler k&ouml;nne ausgeschlossen werden."
+     },
+     {
+      "nl": "Man werde die Ergebnisse ver&ouml;ffentlichen.",
+      "en": "The results would be published.",
+      "note": "werde &mdash; angek&uuml;ndigte Zukunft",
+      "say": "Man werde die Ergebnisse ver&ouml;ffentlichen."
+     },
+     {
+      "nl": "Der Vorwurf entbehre jeder Grundlage.",
+      "en": "The accusation was without any foundation.",
+      "note": "typische Dementi-Formel",
+      "say": "Der Vorwurf entbehre jeder Grundlage."
+     },
+     {
+      "nl": "Es gebe keinen Anlass zur Sorge.",
+      "en": "There was no cause for concern.",
+      "note": "gebe &mdash; sehr h&auml;ufig in Berichten",
+      "say": "Es gebe keinen Anlass zur Sorge."
+     },
+     {
+      "nl": "Man nehme drei Eier und etwas Mehl.",
+      "en": "Take three eggs and some flour.",
+      "note": "Konjunktiv I im Rezept",
+      "say": "Man nehme drei Eier und etwas Mehl."
+     },
+     {
+      "nl": "Es sei x gr&ouml;&szlig;er als y.",
+      "en": "Let x be greater than y.",
+      "note": "Konjunktiv I in der Mathematik",
+      "say": "Es sei x gr&ouml;&szlig;er als y."
+     }
+    ]
+   }
+  ],
+  "instr": "Put the reported clause into the correct Konjunktiv form.",
+  "ex": [
+   {
+    "q": "Der Minister erkl&auml;rte, die Reform _____ notwendig. (sein, K I)",
+    "answer": "sei"
+   },
+   {
+    "q": "Das Unternehmen teilte mit, man _____ alle Regeln eingehalten. (haben, K I)",
+    "answer": "habe"
+   },
+   {
+    "q": "Kritiker behaupteten, die Kosten _____ untersch&auml;tzt worden. (sein, Plural)",
+    "answer": "seien"
+   },
+   {
+    "q": "Sie sagte, sie _____ die Zahlen pr&uuml;fen. (werden, Zukunft)",
+    "answer": "werde"
+   },
+   {
+    "q": "Sie sagten, sie _____ keine Zeit. (haben, Plural &rarr; Ersatzform)",
+    "answer": "h&auml;tten"
+   },
+   {
+    "q": "Die Beh&ouml;rden erkl&auml;rten, sie _____ den Fall. (pr&uuml;fen, Plural &rarr; Ersatzform)",
+    "answer": "pr&uuml;ften"
+   },
+   {
+    "q": "Er fragte, _____ ich k&auml;me. (Ja/Nein-Frage)",
+    "answer": "ob"
+   },
+   {
+    "q": "Er sagte, ich _____ das einreichen. (Aufforderung)",
+    "answer": "solle"
+   }
+  ]
+ },
+ {
+  "n": 7,
+  "t": "Relativ- &amp; Attributs&auml;tze",
+  "s": "dessen, deren, was, wer, Pr&auml;position + Pronomen",
+  "tag": "the four forms that are not just articles",
+  "rule": "\n<div class=\"rule-box\"><h4>1. The full table &mdash; including the genitive</h4>\n<p>Relative pronouns look like definite articles except in four places. Those four are exactly the C1 forms:</p>\n<table class=\"vocab-table\"><thead><tr><th></th><th>maskulin</th><th>feminin</th><th>neutrum</th><th>Plural</th></tr></thead>\n<tbody>\n<tr><td>Nominativ</td><td>der</td><td>die</td><td>das</td><td>die</td></tr>\n<tr><td>Akkusativ</td><td>den</td><td>die</td><td>das</td><td>die</td></tr>\n<tr><td>Dativ</td><td>dem</td><td>der</td><td>dem</td><td><b class=\"nl\">denen</b></td></tr>\n<tr><td>Genitiv</td><td><b class=\"nl\">dessen</b></td><td><b class=\"nl\">deren</b></td><td><b class=\"nl\">dessen</b></td><td><b class=\"nl\">deren</b></td></tr>\n</tbody></table>\n<p>Two rules decide every relative pronoun, and they pull in different directions:</p>\n<ul>\n<li><b>Gender and number</b> come from the noun <b>before</b> the comma.</li>\n<li><b>Case</b> comes from the job inside the <b>relative clause</b>.</li>\n</ul></div>\n\n<div class=\"rule-box\"><h4>2. dessen and deren &mdash; the possessive relative</h4>\n<p>These replace a possessive: <i>sein, ihr</i>. The trap is that they agree with the <b>owner</b>, not with the thing owned:</p>\n<ul>\n<li><b class=\"nl\">Das Unternehmen, <u>dessen</u> Umsatz stark gestiegen ist, plant Investitionen.</b> <i class=\"gl\">Unternehmen = neutrum &rarr; dessen, although Umsatz is masculine</i></li>\n<li><b class=\"nl\">Die Autorin, <u>deren</u> Buch ausgezeichnet wurde, lehrt in Wien.</b> <i class=\"gl\">Autorin = feminin &rarr; deren</i></li>\n<li><b class=\"nl\">Die Studien, <u>deren</u> Ergebnisse umstritten sind, wurden wiederholt.</b> <i class=\"gl\">Plural &rarr; deren</i></li>\n</ul>\n<p>No article follows: <b class=\"nl\">dessen Umsatz</b>, never <s>dessen der Umsatz</s>. And an adjective after them takes the strong ending: <b class=\"nl\">deren <u>neue</u> Studie</b>.</p>\n<p>A preposition can stand in front &mdash; this is where academic German gets dense: <b class=\"nl\">der Forscher, <u>auf dessen</u> Arbeit sich alle berufen</b>.</p></div>\n\n<div class=\"rule-box\"><h4>3. Preposition + relative pronoun</h4>\n<p>If the verb in the relative clause needs a preposition, the preposition moves to the <b>front</b> of the clause and takes the pronoun with it:</p>\n<ul>\n<li>sich berufen <b>auf</b> + Akk. &rarr; <b class=\"nl\">die Studie, <u>auf die</u> sich alle berufen</b></li>\n<li>rechnen <b>mit</b> + Dat. &rarr; <b class=\"nl\">die Folgen, <u>mit denen</u> niemand gerechnet hat</b></li>\n<li>Grund <b>f&uuml;r</b> + Akk. &rarr; <b class=\"nl\">die Entscheidung, <u>f&uuml;r die</u> es keine Begr&uuml;ndung gibt</b></li>\n</ul>\n<p>For <b>things</b> only, you may fuse them into <b class=\"nl\">wo(r)-</b>: <b class=\"nl\">die Folgen, <u>womit</u> niemand gerechnet hat</b>. This sounds older and slightly literary; in academic prose the two-word form is safer. For <b>people</b> it is impossible: <s>der Kollege, womit ich rede</s>.</p></div>\n\n<div class=\"rule-box\"><h4>4. was &mdash; five clear triggers</h4>\n<p>Use <b class=\"nl\">was</b>, not <b class=\"nl\">das</b>, after these:</p>\n<table class=\"vocab-table\"><thead><tr><th>Trigger</th><th>Example</th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">das</b> as a pronoun</td><td>Das, <b class=\"nl\">was</b> wir heute entscheiden, wirkt lange.</td></tr>\n<tr><td>alles, nichts, etwas, vieles, weniges</td><td>Alles, <b class=\"nl\">was</b> wir wissen, steht im Bericht.</td></tr>\n<tr><td>a substantivised superlative</td><td>Das Beste, <b class=\"nl\">was</b> passieren konnte.</td></tr>\n<tr><td>a whole preceding clause</td><td>Die Kosten stiegen, <b class=\"nl\">was</b> niemanden &uuml;berraschte.</td></tr>\n<tr><td>a substantivised adjective</td><td>Das Entscheidende, <b class=\"nl\">was</b> dabei &uuml;bersehen wurde &hellip;</td></tr>\n</tbody></table>\n<p>With a preposition it becomes <b class=\"nl\">wo(r)-</b>: <b class=\"nl\">Er schwieg, <u>wor&uuml;ber</u> sich alle wunderten.</b></p></div>\n\n<div class=\"rule-box\"><h4>5. wer &mdash; a relative clause with no head noun</h4>\n<p><b class=\"nl\">wer</b> means <i>whoever</i>. It opens a clause that has no noun to attach to:</p>\n<ul>\n<li><b class=\"nl\"><u>Wer</u> regelm&auml;&szlig;ig &uuml;bt, verbessert seine Sprachkenntnisse.</b></li>\n<li><b class=\"nl\"><u>Wer</u> die Frist vers&auml;umt, verliert seinen Anspruch.</b> <i class=\"gl\">typical for rules and laws</i></li>\n<li><b class=\"nl\"><u>Wem</u> das nicht passt, der kann Widerspruch einlegen.</b> <i class=\"gl\">the case in the second half can be repeated with der</i></li>\n</ul>\n<p>It declines like the question word: <b class=\"nl\">wer &ndash; wen &ndash; wem &ndash; wessen</b>. Note that a following main clause may start with <b class=\"nl\">der</b> if the cases differ &mdash; <b class=\"nl\">Wen man nicht fragt, <u>der</u> antwortet auch nicht.</b></p></div>\n\n<div class=\"rule-box\"><h4>6. welcher, and where to put the clause</h4>\n<p><b class=\"nl\">welcher/welche/welches</b> is a formal alternative, used mainly to avoid two identical words meeting: <b class=\"nl\">die Studie, <u>welche die</u> Kommission vorlegte</b> instead of <b class=\"nl\">die, die die</b>. It has no genitive form &mdash; there you must use <b class=\"nl\">dessen/deren</b>.</p>\n<p>The relative clause normally stands <b>immediately</b> after its noun. It may be pushed to the end if that keeps the sentence readable:</p>\n<ul>\n<li><b class=\"nl\">Die Studie, <u>die letztes Jahr erschien</u>, wurde stark beachtet.</b> <i class=\"gl\">normal position</i></li>\n<li><b class=\"nl\">Es wurde eine Studie ver&ouml;ffentlicht, <u>die alle Annahmen widerlegt</u>.</b> <i class=\"gl\">extraposed &mdash; the bracket closes first</i></li>\n</ul>\n<div class=\"tip\"><b>Bridge to the next unit:</b> German can compress a whole relative clause into an attribute before the noun &mdash; <b class=\"nl\">die Sch&uuml;ler, <u>die von Experten beraten wurden</u></b> becomes <b class=\"nl\">die <u>von Experten beratenen</u> Sch&uuml;ler</b>. That is Grammar 8.</div></div>\n",
+  "groups": [
+   {
+    "title": "dessen &amp; deren &middot; The Possessive Relative",
+    "items": [
+     {
+      "nl": "Das Unternehmen, dessen Umsatz stark gestiegen ist, plant Investitionen.",
+      "en": "The company whose turnover has risen sharply is planning investments.",
+      "note": "Unternehmen = neutrum &rarr; dessen",
+      "say": "Das Unternehmen, dessen Umsatz stark gestiegen ist, plant Investitionen."
+     },
+     {
+      "nl": "Die Autorin, deren Buch ausgezeichnet wurde, lehrt in Wien.",
+      "en": "The author whose book was awarded a prize teaches in Vienna.",
+      "note": "Autorin = feminin &rarr; deren",
+      "say": "Die Autorin, deren Buch ausgezeichnet wurde, lehrt in Wien."
+     },
+     {
+      "nl": "Die Studien, deren Ergebnisse umstritten sind, wurden wiederholt.",
+      "en": "The studies whose results are contested were repeated.",
+      "note": "Plural &rarr; deren",
+      "say": "Die Studien, deren Ergebnisse umstritten sind, wurden wiederholt."
+     },
+     {
+      "nl": "Der Forscher, auf dessen Arbeit sich alle berufen, schweigt.",
+      "en": "The researcher whose work everyone cites remains silent.",
+      "note": "Pr&auml;position + dessen",
+      "say": "Der Forscher, auf dessen Arbeit sich alle berufen, schweigt."
+     },
+     {
+      "nl": "Die Beh&ouml;rde, deren neue Richtlinie gilt, informiert morgen.",
+      "en": "The authority whose new guideline applies will inform tomorrow.",
+      "note": "Adjektiv nach deren: starke Endung",
+      "say": "Die Beh&ouml;rde, deren neue Richtlinie gilt, informiert morgen."
+     },
+     {
+      "nl": "Das Projekt, dessen Finanzierung ungekl&auml;rt ist, ruht.",
+      "en": "The project whose funding is unresolved is on hold.",
+      "note": "kein Artikel nach dessen",
+      "say": "Das Projekt, dessen Finanzierung ungekl&auml;rt ist, ruht."
+     }
+    ]
+   },
+   {
+    "title": "Pr&auml;position + Relativpronomen &middot; Which Case?",
+    "items": [
+     {
+      "nl": "die Studie, auf die sich alle berufen",
+      "en": "the study everyone cites",
+      "note": "sich berufen auf + Akkusativ",
+      "say": "die Studie, auf die sich alle berufen"
+     },
+     {
+      "nl": "die Folgen, mit denen niemand gerechnet hat",
+      "en": "the consequences nobody reckoned with",
+      "note": "rechnen mit + Dativ, Plural denen",
+      "say": "die Folgen, mit denen niemand gerechnet hat"
+     },
+     {
+      "nl": "die Entscheidung, f&uuml;r die es keine Begr&uuml;ndung gibt",
+      "en": "the decision for which there is no justification",
+      "note": "f&uuml;r + Akkusativ",
+      "say": "die Entscheidung, f&uuml;r die es keine Begr&uuml;ndung gibt"
+     },
+     {
+      "nl": "der Kollege, mit dem ich das besprochen habe",
+      "en": "the colleague I discussed it with",
+      "note": "Person &mdash; nur zweiteilig m&ouml;glich",
+      "say": "der Kollege, mit dem ich das besprochen habe"
+     },
+     {
+      "nl": "das Thema, &uuml;ber das wir gestritten haben",
+      "en": "the topic we argued about",
+      "note": "streiten &uuml;ber + Akkusativ",
+      "say": "das Thema, &uuml;ber das wir gestritten haben"
+     },
+     {
+      "nl": "die Frage, von deren Beantwortung alles abh&auml;ngt",
+      "en": "the question on whose answer everything depends",
+      "note": "Pr&auml;position + deren + Nomen",
+      "say": "die Frage, von deren Beantwortung alles abh&auml;ngt"
+     }
+    ]
+   },
+   {
+    "title": "was &amp; wer &middot; Without a Head Noun",
+    "items": [
+     {
+      "nl": "Das, was wir heute entscheiden, beeinflusst die Zukunft.",
+      "en": "What we decide today influences the future.",
+      "note": "das als Pronomen &rarr; was",
+      "say": "Das, was wir heute entscheiden, beeinflusst die Zukunft."
+     },
+     {
+      "nl": "Alles, was wir wissen, steht im Bericht.",
+      "en": "Everything we know is in the report.",
+      "note": "nach alles &rarr; was",
+      "say": "Alles, was wir wissen, steht im Bericht."
+     },
+     {
+      "nl": "Das Beste, was passieren konnte, war die Verschiebung.",
+      "en": "The best thing that could happen was the postponement.",
+      "note": "nach Superlativ &rarr; was",
+      "say": "Das Beste, was passieren konnte, war die Verschiebung."
+     },
+     {
+      "nl": "Die Kosten stiegen, was niemanden &uuml;berraschte.",
+      "en": "Costs rose, which surprised nobody.",
+      "note": "was bezieht sich auf den ganzen Satz",
+      "say": "Die Kosten stiegen, was niemanden &uuml;berraschte."
+     },
+     {
+      "nl": "Er schwieg, wor&uuml;ber sich alle wunderten.",
+      "en": "He kept silent, which surprised everyone.",
+      "note": "was + Pr&auml;position &rarr; wor&uuml;ber",
+      "say": "Er schwieg, wor&uuml;ber sich alle wunderten."
+     },
+     {
+      "nl": "Wer regelm&auml;&szlig;ig &uuml;bt, verbessert seine Sprachkenntnisse.",
+      "en": "Whoever practises regularly improves their language skills.",
+      "note": "wer ohne Bezugswort",
+      "say": "Wer regelm&auml;&szlig;ig &uuml;bt, verbessert seine Sprachkenntnisse."
+     },
+     {
+      "nl": "Wer die Frist vers&auml;umt, verliert seinen Anspruch.",
+      "en": "Whoever misses the deadline loses their claim.",
+      "note": "typisch f&uuml;r Regeln und Gesetze",
+      "say": "Wer die Frist vers&auml;umt, verliert seinen Anspruch."
+     },
+     {
+      "nl": "Wem das nicht passt, der kann Widerspruch einlegen.",
+      "en": "Anyone who does not like it may lodge an objection.",
+      "note": "wem &hellip; der bei Kasuswechsel",
+      "say": "Wem das nicht passt, der kann Widerspruch einlegen."
+     }
+    ]
+   },
+   {
+    "title": "Wissenschaft &amp; Gesellschaft &middot; Read These Aloud",
+    "items": [
+     {
+      "nl": "die Studie, welche die Kommission vorlegte",
+      "en": "the study which the commission presented",
+      "note": "welche vermeidet die, die die",
+      "say": "die Studie, welche die Kommission vorlegte"
+     },
+     {
+      "nl": "Es wurde eine Studie ver&ouml;ffentlicht, die alle Annahmen widerlegt.",
+      "en": "A study was published which refutes all assumptions.",
+      "note": "Relativsatz ausgeklammert",
+      "say": "Es wurde eine Studie ver&ouml;ffentlicht, die alle Annahmen widerlegt."
+     },
+     {
+      "nl": "Die Fragestellung, der sich das Projekt widmet, ist neu.",
+      "en": "The research question the project addresses is new.",
+      "note": "sich widmen + Dativ",
+      "say": "Die Fragestellung, der sich das Projekt widmet, ist neu."
+     },
+     {
+      "nl": "Ein Befund, dem widersprochen wurde, blieb bestehen.",
+      "en": "A finding that was contradicted nonetheless stood.",
+      "note": "widersprechen + Dativ, Passiv",
+      "say": "Ein Befund, dem widersprochen wurde, blieb bestehen."
+     },
+     {
+      "nl": "die Kolleginnen, denen wir die Daten verdanken",
+      "en": "the colleagues to whom we owe the data",
+      "note": "Dativ Plural denen",
+      "say": "die Kolleginnen, denen wir die Daten verdanken"
+     },
+     {
+      "nl": "die von Experten vorgeschlagene L&ouml;sung",
+      "en": "the solution proposed by experts",
+      "note": "Relativsatz zum Attribut verdichtet",
+      "say": "die von Experten vorgeschlagene L&ouml;sung"
+     }
+    ]
+   }
+  ],
+  "instr": "Insert the correct relative pronoun (with preposition where needed).",
+  "ex": [
+   {
+    "q": "Das Unternehmen, _____ Umsatz gestiegen ist, investiert.",
+    "answer": "dessen"
+   },
+   {
+    "q": "Die Autorin, _____ Buch ausgezeichnet wurde, lehrt in Wien.",
+    "answer": "deren"
+   },
+   {
+    "q": "Die Studien, _____ Ergebnisse umstritten sind, wurden wiederholt.",
+    "answer": "deren"
+   },
+   {
+    "q": "die Folgen, _____ niemand gerechnet hat (rechnen mit)",
+    "answer": "mit denen"
+   },
+   {
+    "q": "die Studie, _____ sich alle berufen (sich berufen auf)",
+    "answer": "auf die"
+   },
+   {
+    "q": "Alles, _____ wir wissen, steht im Bericht.",
+    "answer": "was"
+   },
+   {
+    "q": "Die Kosten stiegen, _____ niemanden &uuml;berraschte.",
+    "answer": "was"
+   },
+   {
+    "q": "_____ die Frist vers&auml;umt, verliert seinen Anspruch.",
+    "answer": "Wer"
+   }
+  ]
+ },
+ {
+  "n": 8,
+  "t": "Partizipialattribute",
+  "s": "die von der Kommission untersuchten F&auml;lle",
+  "tag": "a relative clause folded in front of the noun",
+  "rule": "\n<div class=\"rule-box\"><h4>1. A relative clause squeezed in front of the noun</h4>\n<p>German can take a whole relative clause and fold it into the space between the article and the noun. The result is the <b>erweitertes Partizipialattribut</b> &mdash; the single most typical structure of written German.</p>\n<table class=\"vocab-table\"><thead><tr><th>Relativsatz</th><th>Partizipialattribut</th></tr></thead>\n<tbody>\n<tr><td>die Mietpreise, <b class=\"nl\">die seit Jahren steigen</b></td><td>die <b class=\"nl\">seit Jahren steigenden</b> Mietpreise</td></tr>\n<tr><td>die F&auml;lle, <b class=\"nl\">die die Kommission untersucht hat</b></td><td>die <b class=\"nl\">von der Kommission untersuchten</b> F&auml;lle</td></tr>\n<tr><td>die Vorschriften, <b class=\"nl\">die eingef&uuml;hrt wurden</b></td><td>die <b class=\"nl\">eingef&uuml;hrten</b> Vorschriften</td></tr>\n</tbody></table>\n<p>The frame is always the same: <b class=\"nl\">Artikel &rarr; [alles, was dazugeh&ouml;rt] &rarr; Partizip mit Adjektivendung &rarr; Nomen</b>. Everything between the article and the noun belongs together, however long it gets.</p></div>\n\n<div class=\"rule-box\"><h4>2. Which participle? Two questions decide</h4>\n<table class=\"vocab-table\"><thead><tr><th></th><th>Partizip I <i class=\"gl\">-end</i></th><th>Partizip II <i class=\"gl\">ge&hellip;t / ge&hellip;en</i></th></tr></thead>\n<tbody>\n<tr><td>Bedeutung</td><td>aktiv, gleichzeitig</td><td>passiv, abgeschlossen</td></tr>\n<tr><td>Beispiel</td><td>die <b class=\"nl\">steigenden</b> Preise <i class=\"gl\">they are rising</i></td><td>die <b class=\"nl\">untersuchten</b> F&auml;lle <i class=\"gl\">someone examined them</i></td></tr>\n<tr><td>entspricht</td><td>&hellip;, die steigen</td><td>&hellip;, die untersucht wurden</td></tr>\n</tbody></table>\n<p>Careful with intransitive verbs of motion and change: their Partizip II is <b>active</b> and <b>completed</b>, not passive:</p>\n<ul>\n<li><b class=\"nl\">die <u>gestiegenen</u> Preise</b> = die Preise, die gestiegen sind <i class=\"gl\">not: which were risen</i></li>\n<li><b class=\"nl\">die <u>eingetretene</u> Verz&ouml;gerung</b>, <b class=\"nl\">der <u>zur&uuml;ckgetretene</u> Minister</b></li>\n</ul>\n<p>Only verbs that form the perfect with <b class=\"nl\">sein</b> behave this way. Verbs with <b class=\"nl\">haben</b> give a passive participle: <b class=\"nl\">die gepr&uuml;ften Unterlagen</b>.</p></div>\n\n<div class=\"rule-box\"><h4>3. Reading them &mdash; unpack from the inside out</h4>\n<p>This is the exam skill. Work in three steps:</p>\n<p><b class=\"nl\">die von der Kommission ausf&uuml;hrlich untersuchten F&auml;lle</b></p>\n<ul>\n<li><b>1.</b> Find article and noun: <i class=\"gl\">die &hellip; F&auml;lle</i></li>\n<li><b>2.</b> Find the participle right before the noun: <i class=\"gl\">untersuchten</i> &rarr; Partizip II &rarr; passive</li>\n<li><b>3.</b> Everything in between is the rest of the clause: <i class=\"gl\">die F&auml;lle, die von der Kommission ausf&uuml;hrlich untersucht wurden</i></li>\n</ul>\n<p>More examples unpacked:</p>\n<ul>\n<li><b class=\"nl\">die bislang kaum beachteten Folgen</b> &rarr; <i class=\"gl\">die Folgen, die bislang kaum beachtet wurden</i></li>\n<li><b class=\"nl\">die im vergangenen Jahr eingef&uuml;hrten Vorschriften</b> &rarr; <i class=\"gl\">die Vorschriften, die im vergangenen Jahr eingef&uuml;hrt wurden</i></li>\n<li><b class=\"nl\">die seit Jahren steigenden Mietpreise</b> &rarr; <i class=\"gl\">die Mietpreise, die seit Jahren steigen</i></li>\n</ul></div>\n\n<div class=\"rule-box\"><h4>4. zu + Partizip I &mdash; the Gerundivum</h4>\n<p>Add <b class=\"nl\">zu</b> before the Partizip I and the meaning changes completely: from <i>doing</i> to <i>must / can be done</i>.</p>\n<ul>\n<li><b class=\"nl\">die <u>zu beachtenden</u> Vorschriften</b> = die Vorschriften, die beachtet werden m&uuml;ssen</li>\n<li><b class=\"nl\">der <u>einzureichende</u> Antrag</b> = der Antrag, der eingereicht werden muss <i class=\"gl\">separable: ein-zu-reichen</i></li>\n<li><b class=\"nl\">die <u>noch zu kl&auml;renden</u> Fragen</b> = die Fragen, die noch gekl&auml;rt werden m&uuml;ssen</li>\n<li><b class=\"nl\">die <u>kaum zu &uuml;berbietende</u> Leistung</b> = die kaum &uuml;berboten werden kann</li>\n</ul>\n<p>Note the difference in one pair: <b class=\"nl\">die steigenden Preise</b> (they are rising) versus <b class=\"nl\">die zu zahlenden Preise</b> (they must be paid).</p></div>\n\n<div class=\"rule-box\"><h4>5. Two or three attributes at once</h4>\n<p>Attributes stack in a fixed order, from the most general on the left to the closest to the noun on the right:</p>\n<p style=\"text-align:center;\"><b class=\"nl\">Artikel &rarr; Partizipialgruppe &rarr; einfaches Adjektiv &rarr; Nomen</b></p>\n<ul>\n<li><b class=\"nl\">die bislang kaum beachteten <u>gesellschaftlichen</u> Folgen</b></li>\n<li><b class=\"nl\">die im Mai beschlossenen <u>neuen</u> Regelungen</b></li>\n</ul>\n<p>All of them carry the same adjective ending, decided by article, gender and case: <b class=\"nl\">der von Experten erarbeitete Vorschlag</b>, <b class=\"nl\">mit dem von Experten erarbeiteten Vorschlag</b>.</p>\n<div class=\"tip\"><b>Where you will meet them:</b> newspaper leads, court decisions, official letters, scientific abstracts. Almost never in speech &mdash; if you say <i>die seit Jahren steigenden Mietpreise</i> out loud, you sound like you are reading a report. In conversation Germans use the relative clause.</div></div>\n\n<div class=\"rule-box\"><h4>6. Writing them &mdash; and knowing when to stop</h4>\n<p>Building one is the reverse of unpacking:</p>\n<ul>\n<li>Relative clause: <b class=\"nl\">die Wohnungen, die im Zentrum gebaut wurden</b></li>\n<li>Drop <b class=\"nl\">die&hellip;wurden</b>, keep the participle: <b class=\"nl\">gebaut</b> &rarr; <b class=\"nl\">gebauten</b></li>\n<li>Slot everything in: <b class=\"nl\">die <u>im Zentrum gebauten</u> Wohnungen</b></li>\n</ul>\n<p>But there is a limit. Once the block passes about six or seven words, the reader loses the thread:</p>\n<ul>\n<li><s>die von der im vergangenen Jahr eingesetzten unabh&auml;ngigen Kommission ausf&uuml;hrlich untersuchten F&auml;lle</s></li>\n<li><b class=\"nl\">die F&auml;lle, die eine unabh&auml;ngige Kommission ausf&uuml;hrlich untersucht hat</b></li>\n</ul>\n<p>At C1 you are judged on both: forming them correctly <b>and</b> choosing not to when they would obscure the sentence.</p></div>\n",
+  "groups": [
+   {
+    "title": "Grundmuster &middot; Partizip I gegen Partizip II",
+    "items": [
+     {
+      "nl": "die seit Jahren steigenden Mietpreise",
+      "en": "the rents that have been rising for years",
+      "note": "Partizip I &mdash; aktiv, gleichzeitig",
+      "say": "die seit Jahren steigenden Mietpreise"
+     },
+     {
+      "nl": "die Mietpreise, die seit Jahren steigen",
+      "en": "the rents that have been rising for years",
+      "note": "derselbe Inhalt als Relativsatz",
+      "say": "die Mietpreise, die seit Jahren steigen"
+     },
+     {
+      "nl": "die von der Kommission untersuchten F&auml;lle",
+      "en": "the cases examined by the commission",
+      "note": "Partizip II &mdash; passiv, abgeschlossen",
+      "say": "die von der Kommission untersuchten F&auml;lle"
+     },
+     {
+      "nl": "die F&auml;lle, die von der Kommission untersucht wurden",
+      "en": "the cases that were examined by the commission",
+      "note": "aufgel&ouml;st",
+      "say": "die F&auml;lle, die von der Kommission untersucht wurden"
+     },
+     {
+      "nl": "die gestiegenen Preise",
+      "en": "the prices that have risen",
+      "note": "Partizip II von steigen &mdash; aktiv, nicht passiv",
+      "say": "die gestiegenen Preise"
+     },
+     {
+      "nl": "der zur&uuml;ckgetretene Minister",
+      "en": "the minister who has resigned",
+      "note": "sein-Verb &rarr; aktive Bedeutung",
+      "say": "der zur&uuml;ckgetretene Minister"
+     },
+     {
+      "nl": "die eingetretene Verz&ouml;gerung",
+      "en": "the delay that has occurred",
+      "note": "dasselbe Muster",
+      "say": "die eingetretene Verz&ouml;gerung"
+     }
+    ]
+   },
+   {
+    "title": "Wohnungsmarkt &middot; From the News Pages",
+    "items": [
+     {
+      "nl": "die im Zentrum gebauten Wohnungen",
+      "en": "the flats built in the centre",
+      "note": "Ort im Attribut",
+      "say": "die im Zentrum gebauten Wohnungen"
+     },
+     {
+      "nl": "die seit Januar geltenden Mietobergrenzen",
+      "en": "the rent caps in force since January",
+      "note": "Zeit + Partizip I",
+      "say": "die seit Januar geltenden Mietobergrenzen"
+     },
+     {
+      "nl": "die von Investoren aufgekauften Altbauten",
+      "en": "the old buildings bought up by investors",
+      "note": "Agens mit von",
+      "say": "die von Investoren aufgekauften Altbauten"
+     },
+     {
+      "nl": "die bislang kaum beachteten gesellschaftlichen Folgen",
+      "en": "the social consequences hardly noticed so far",
+      "note": "zwei Attribute gestapelt",
+      "say": "die bislang kaum beachteten gesellschaftlichen Folgen"
+     },
+     {
+      "nl": "die aus dem Stadtzentrum verdr&auml;ngten Familien",
+      "en": "the families displaced from the city centre",
+      "note": "Herkunftsangabe im Attribut",
+      "say": "die aus dem Stadtzentrum verdr&auml;ngten Familien"
+     },
+     {
+      "nl": "die stetig wachsende Nachfrage nach kleinen Wohnungen",
+      "en": "the steadily growing demand for small flats",
+      "note": "Partizip I mit Adverb",
+      "say": "die stetig wachsende Nachfrage nach kleinen Wohnungen"
+     }
+    ]
+   },
+   {
+    "title": "Gesetzgebung &middot; zu + Partizip and Officialese",
+    "items": [
+     {
+      "nl": "die im vergangenen Jahr eingef&uuml;hrten Vorschriften",
+      "en": "the regulations introduced last year",
+      "note": "Zeitangabe + Partizip II",
+      "say": "die im vergangenen Jahr eingef&uuml;hrten Vorschriften"
+     },
+     {
+      "nl": "die zu beachtenden Vorschriften",
+      "en": "the regulations to be observed",
+      "note": "zu + Partizip I &mdash; muss",
+      "say": "die zu beachtenden Vorschriften"
+     },
+     {
+      "nl": "der einzureichende Antrag",
+      "en": "the application to be submitted",
+      "note": "trennbar: ein-zu-reichen",
+      "say": "der einzureichende Antrag"
+     },
+     {
+      "nl": "die noch zu kl&auml;renden Fragen",
+      "en": "the questions still to be clarified",
+      "note": "typisch f&uuml;r Protokolle",
+      "say": "die noch zu kl&auml;renden Fragen"
+     },
+     {
+      "nl": "die vom Gesetzgeber vorgesehene &Uuml;bergangsfrist",
+      "en": "the transitional period provided for by the legislator",
+      "note": "Amtsdeutsch",
+      "say": "die vom Gesetzgeber vorgesehene &Uuml;bergangsfrist"
+     },
+     {
+      "nl": "die im Mai beschlossenen neuen Regelungen",
+      "en": "the new rules adopted in May",
+      "note": "Partizipgruppe + einfaches Adjektiv",
+      "say": "die im Mai beschlossenen neuen Regelungen"
+     },
+     {
+      "nl": "mit dem von Experten erarbeiteten Vorschlag",
+      "en": "with the proposal drawn up by experts",
+      "note": "Endung folgt dem Kasus: Dativ",
+      "say": "mit dem von Experten erarbeiteten Vorschlag"
+     }
+    ]
+   },
+   {
+    "title": "Die Grenze &middot; When It Becomes Unreadable",
+    "items": [
+     {
+      "nl": "die kaum zu &uuml;berbietende Leistung",
+      "en": "the achievement that can hardly be surpassed",
+      "note": "zu + Partizip I &mdash; Lesart k&ouml;nnen",
+      "say": "die kaum zu &uuml;berbietende Leistung"
+     },
+     {
+      "nl": "die zu zahlenden Preise",
+      "en": "the prices to be paid",
+      "note": "muss gezahlt werden",
+      "say": "die zu zahlenden Preise"
+     },
+     {
+      "nl": "die steigenden Preise",
+      "en": "the rising prices",
+      "note": "sie steigen selbst &mdash; Unterschied beachten",
+      "say": "die steigenden Preise"
+     },
+     {
+      "nl": "die von der im vergangenen Jahr eingesetzten Kommission untersuchten F&auml;lle",
+      "en": "the cases examined by the commission set up last year",
+      "note": "zu lang &mdash; Leser verliert den Faden",
+      "say": "die von der im vergangenen Jahr eingesetzten Kommission untersuchten F&auml;lle"
+     },
+     {
+      "nl": "die F&auml;lle, die eine unabh&auml;ngige Kommission untersucht hat",
+      "en": "the cases an independent commission has examined",
+      "note": "besser: als Relativsatz",
+      "say": "die F&auml;lle, die eine unabh&auml;ngige Kommission untersucht hat"
+     },
+     {
+      "nl": "Bei mehr als sieben W&ouml;rtern lieber einen Relativsatz.",
+      "en": "With more than seven words, prefer a relative clause.",
+      "note": "Faustregel f&uuml;r den Schreibstil",
+      "say": "Bei mehr als sieben W&ouml;rtern lieber einen Relativsatz."
+     }
+    ]
+   }
+  ],
+  "instr": "Turn the relative clause into a participial attribute, or supply the missing form.",
+  "ex": [
+   {
+    "q": "die Mietpreise, die seit Jahren steigen &rarr; die seit Jahren _____ Mietpreise",
+    "answer": "steigenden"
+   },
+   {
+    "q": "die F&auml;lle, die untersucht wurden &rarr; die _____ F&auml;lle",
+    "answer": "untersuchten"
+   },
+   {
+    "q": "die Vorschriften, die eingef&uuml;hrt wurden &rarr; die _____ Vorschriften",
+    "answer": "eingef&uuml;hrten"
+   },
+   {
+    "q": "die Preise, die gestiegen sind &rarr; die _____ Preise",
+    "answer": "gestiegenen"
+   },
+   {
+    "q": "die Vorschriften, die beachtet werden m&uuml;ssen &rarr; die _____ Vorschriften",
+    "answer": "zu beachtenden"
+   },
+   {
+    "q": "der Antrag, der eingereicht werden muss &rarr; der _____ Antrag",
+    "answer": "einzureichende"
+   },
+   {
+    "q": "die Fragen, die noch gekl&auml;rt werden m&uuml;ssen &rarr; die noch _____ Fragen",
+    "answer": "zu kl&auml;renden"
+   },
+   {
+    "q": "mit dem Vorschlag, den Experten erarbeitet haben &rarr; mit dem von Experten _____ Vorschlag",
+    "answer": "erarbeiteten"
+   }
+  ]
+ },
+ {
+  "n": 9,
+  "t": "Koh&auml;sion &amp; Konnektoren",
+  "s": "folglich, dennoch, hingegen, diesbez&uuml;glich",
+  "tag": "three classes of connector and where the verb goes",
+  "rule": "\n<div class=\"rule-box\"><h4>1. Three kinds of connector &mdash; and each moves the verb differently</h4>\n<p>This is the grammar behind the whole unit. German connectors fall into three classes, and choosing the wrong class produces the classic C1 word-order mistake:</p>\n<table class=\"vocab-table\"><thead><tr><th>Klasse</th><th>Wortstellung</th><th>Beispiel</th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">Konjunktion</b><br><i class=\"gl\">und, aber, denn, sondern, oder</i></td><td>counts as position <b>0</b> &mdash; nothing changes</td><td>Die Kosten stiegen, <b class=\"nl\">denn</b> <u>die Nachfrage</u> <u>war</u> hoch.</td></tr>\n<tr><td><b class=\"nl\">Subjunktion</b><br><i class=\"gl\">weil, obwohl, da, w&auml;hrend</i></td><td>verb goes to the <b>end</b></td><td>&hellip;, <b class=\"nl\">weil</b> die Nachfrage hoch <u>war</u>.</td></tr>\n<tr><td><b class=\"nl\">Konjunktionaladverb</b><br><i class=\"gl\">folglich, dennoch, hingegen</i></td><td>fills position <b>1</b> &rarr; <b>verb second</b></td><td><b class=\"nl\">Folglich</b> <u>stiegen</u> die Kosten.</td></tr>\n</tbody></table>\n<p>The third row is the one that costs points. <b class=\"nl\">Folglich</b>, <b class=\"nl\">deshalb</b>, <b class=\"nl\">dennoch</b> are <b>adverbs</b>, not conjunctions: the verb must follow immediately. <s>Folglich die Kosten stiegen</s> is wrong.</p>\n<p>The same meaning, three grammars: <b class=\"nl\">weil</b> (Verb ans Ende) &ndash; <b class=\"nl\">denn</b> (nichts &auml;ndert sich) &ndash; <b class=\"nl\">deshalb</b> (Verb an Position 2).</p></div>\n\n<div class=\"rule-box\"><h4>2. Folge und Grund</h4>\n<table class=\"vocab-table\"><thead><tr><th>Konnektor</th><th>Register</th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">deshalb, darum, deswegen</b></td><td>neutral</td></tr>\n<tr><td><b class=\"nl\">folglich, demzufolge</b></td><td>formal, logical conclusion</td></tr>\n<tr><td><b class=\"nl\">dementsprechend, entsprechend</b></td><td>formal &mdash; &quot;in line with that&quot;</td></tr>\n<tr><td><b class=\"nl\">infolgedessen</b></td><td>very formal, written only</td></tr>\n<tr><td><b class=\"nl\">somit, mithin</b></td><td>academic conclusion</td></tr>\n</tbody></table>\n<ul>\n<li><b class=\"nl\">Die Nachfrage ist gestiegen. <u>Dementsprechend</u> wurden die Preise erh&ouml;ht.</b></li>\n<li><b class=\"nl\">Die Daten fehlen. <u>Folglich</u> l&auml;sst sich die These nicht pr&uuml;fen.</b></li>\n<li><b class=\"nl\">Die Frist verstrich. <u>Infolgedessen</u> erlosch der Anspruch.</b></li>\n</ul></div>\n\n<div class=\"rule-box\"><h4>3. Gegensatz und Einschr&auml;nkung</h4>\n<p>German distinguishes finely here, and the choice tells the reader how strong the objection is:</p>\n<table class=\"vocab-table\"><thead><tr><th>Konnektor</th><th>Nuance</th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">hingegen, dagegen</b></td><td>plain contrast &mdash; two things side by side</td></tr>\n<tr><td><b class=\"nl\">demgegen&uuml;ber</b></td><td>formal contrast, often with figures</td></tr>\n<tr><td><b class=\"nl\">dennoch, trotzdem</b></td><td>concession &mdash; it happens anyway</td></tr>\n<tr><td><b class=\"nl\">nichtsdestotrotz, gleichwohl</b></td><td>same, but markedly formal</td></tr>\n<tr><td><b class=\"nl\">allerdings, freilich</b></td><td>a reservation added to your own claim</td></tr>\n<tr><td><b class=\"nl\">vielmehr</b></td><td>corrects the previous statement</td></tr>\n<tr><td><b class=\"nl\">zwar &hellip; aber</b></td><td>concede first, then object</td></tr>\n</tbody></table>\n<ul>\n<li><b class=\"nl\">Die Reform bringt Vorteile. <u>Dennoch</u> sind die Folgen unklar.</b></li>\n<li><b class=\"nl\">Im Norden sank die Zahl. <u>Demgegen&uuml;ber</u> stieg sie im S&uuml;den deutlich.</b></li>\n<li><b class=\"nl\">Die Studie ist sorgf&auml;ltig. <u>Allerdings</u> ist die Stichprobe klein.</b></li>\n<li><b class=\"nl\">Es geht nicht um Geschwindigkeit. <u>Vielmehr</u> z&auml;hlt die Qualit&auml;t.</b></li>\n</ul>\n<div class=\"tip\"><b>Classic error:</b> <b class=\"nl\">trotzdem</b> is an adverb, <b class=\"nl\">obwohl</b> a subjunction. <b class=\"nl\">Obwohl es regnete, gingen wir.</b> / <b class=\"nl\">Es regnete. <u>Trotzdem gingen</u> wir.</b> Never <s>trotzdem es regnete</s>.</div></div>\n\n<div class=\"rule-box\"><h4>4. Erg&auml;nzung, Bezug, Einordnung</h4>\n<table class=\"vocab-table\"><thead><tr><th>Funktion</th><th>Konnektoren</th></tr></thead>\n<tbody>\n<tr><td>adding</td><td><b class=\"nl\">dar&uuml;ber hinaus, zudem, ferner, &uuml;berdies, des Weiteren</b></td></tr>\n<tr><td>referring back</td><td><b class=\"nl\">diesbez&uuml;glich, hierzu, dazu, in diesem Zusammenhang</b></td></tr>\n<tr><td>limiting the claim</td><td><b class=\"nl\">insofern, insoweit, in dieser Hinsicht</b></td></tr>\n<tr><td>ordering</td><td><b class=\"nl\">zun&auml;chst, sodann, schlie&szlig;lich, abschlie&szlig;end</b></td></tr>\n<tr><td>giving an example</td><td><b class=\"nl\">so, etwa, beispielsweise, namentlich</b></td></tr>\n</tbody></table>\n<ul>\n<li><b class=\"nl\">Die Kosten sind hoch. <u>Dar&uuml;ber hinaus</u> fehlt qualifiziertes Personal.</b></li>\n<li><b class=\"nl\"><u>Diesbez&uuml;glich</u> liegen keine Daten vor.</b></li>\n<li><b class=\"nl\">Die Kritik trifft zu, <u>insofern</u> die Datenlage schwach ist.</b> <i class=\"gl\">as a subjunction: verb at the end</i></li>\n</ul>\n<p>Watch <b class=\"nl\">insofern</b>: it works both as adverb (<i>in that respect</i>) and as subjunction with <b class=\"nl\">als</b> (<b class=\"nl\">insofern als</b> &mdash; verb final).</p></div>\n\n<div class=\"rule-box\"><h4>5. Where the connector stands</h4>\n<p>A Konjunktionaladverb has two possible slots, and they weight the sentence differently:</p>\n<ul>\n<li><b class=\"nl\"><u>Dennoch</u> sind die Folgen unklar.</b> <i class=\"gl\">Vorfeld &mdash; the contrast is the point</i></li>\n<li><b class=\"nl\">Die Folgen sind <u>dennoch</u> unklar.</b> <i class=\"gl\">Mittelfeld &mdash; softer, less emphatic</i></li>\n</ul>\n<p>Two connectors in a row are allowed only if they do different jobs: <b class=\"nl\">Zudem ist allerdings zu bedenken, dass &hellip;</b> Piling up three is a stylistic fault.</p></div>\n\n<div class=\"rule-box\"><h4>6. Cohesion beyond connectors</h4>\n<p>A text does not hold together through connectors alone. Three quieter devices carry most of the work:</p>\n<ul>\n<li><b>Article change:</b> the first mention takes <b class=\"nl\">ein</b>, every later one <b class=\"nl\">der</b> &mdash; <i class=\"gl\">Es wurde <u>eine</u> Studie ver&ouml;ffentlicht. <u>Die</u> Studie widerlegt &hellip;</i></li>\n<li><b>Nominalisation pickup:</b> end one sentence with a verb, start the next with its noun &mdash; <i class=\"gl\">Die Preise <u>stiegen</u> stark. <u>Dieser Anstieg</u> traf vor allem Mieter.</i></li>\n<li><b>Pronominaladverbien:</b> <b class=\"nl\">dabei, dadurch, daf&uuml;r, davon, hierbei, hierzu</b> replace a whole preceding idea &mdash; <i class=\"gl\">Die Kommission tagte. <u>Dabei</u> wurde deutlich, dass &hellip;</i></li>\n</ul>\n<div class=\"tip\"><b>Writing an argumentative text:</b> use a connector where the logic <b>turns</b>, not in every sentence. A paragraph with a connector in each line reads like a list of signposts with no road between them.</div></div>\n",
+  "groups": [
+   {
+    "title": "Drei Klassen &middot; Where the Verb Goes",
+    "items": [
+     {
+      "nl": "Die Kosten stiegen, weil die Nachfrage hoch war.",
+      "en": "Costs rose because demand was high.",
+      "note": "Subjunktion &rarr; Verb ans Ende",
+      "say": "Die Kosten stiegen, weil die Nachfrage hoch war."
+     },
+     {
+      "nl": "Die Kosten stiegen, denn die Nachfrage war hoch.",
+      "en": "Costs rose, for demand was high.",
+      "note": "Konjunktion &rarr; nichts &auml;ndert sich",
+      "say": "Die Kosten stiegen, denn die Nachfrage war hoch."
+     },
+     {
+      "nl": "Die Nachfrage war hoch. Deshalb stiegen die Kosten.",
+      "en": "Demand was high. That is why costs rose.",
+      "note": "Adverb &rarr; Verb an Position 2",
+      "say": "Die Nachfrage war hoch. Deshalb stiegen die Kosten."
+     },
+     {
+      "nl": "Obwohl es regnete, gingen wir spazieren.",
+      "en": "Although it was raining, we went for a walk.",
+      "note": "Subjunktion obwohl",
+      "say": "Obwohl es regnete, gingen wir spazieren."
+     },
+     {
+      "nl": "Es regnete. Trotzdem gingen wir spazieren.",
+      "en": "It was raining. We went for a walk nonetheless.",
+      "note": "Adverb trotzdem &mdash; nicht wie obwohl",
+      "say": "Es regnete. Trotzdem gingen wir spazieren."
+     },
+     {
+      "nl": "Dennoch sind die Folgen unklar.",
+      "en": "Nonetheless the consequences are unclear.",
+      "note": "Vorfeld &mdash; betont den Gegensatz",
+      "say": "Dennoch sind die Folgen unklar."
+     },
+     {
+      "nl": "Die Folgen sind dennoch unklar.",
+      "en": "The consequences are nonetheless unclear.",
+      "note": "Mittelfeld &mdash; weicher",
+      "say": "Die Folgen sind dennoch unklar."
+     }
+    ]
+   },
+   {
+    "title": "Folge &middot; folglich, dementsprechend, somit",
+    "items": [
+     {
+      "nl": "Die Nachfrage ist gestiegen. Dementsprechend wurden die Preise erh&ouml;ht.",
+      "en": "Demand has risen. Prices were raised accordingly.",
+      "note": "dementsprechend &mdash; f&ouml;rmlich",
+      "say": "Die Nachfrage ist gestiegen. Dementsprechend wurden die Preise erh&ouml;ht."
+     },
+     {
+      "nl": "Die Daten fehlen. Folglich l&auml;sst sich die These nicht pr&uuml;fen.",
+      "en": "The data are missing. Consequently the thesis cannot be tested.",
+      "note": "folglich &mdash; logischer Schluss",
+      "say": "Die Daten fehlen. Folglich l&auml;sst sich die These nicht pr&uuml;fen."
+     },
+     {
+      "nl": "Die Frist verstrich. Infolgedessen erlosch der Anspruch.",
+      "en": "The deadline passed. As a result the claim lapsed.",
+      "note": "infolgedessen &mdash; sehr f&ouml;rmlich",
+      "say": "Die Frist verstrich. Infolgedessen erlosch der Anspruch."
+     },
+     {
+      "nl": "Die Pr&uuml;fung war negativ. Somit ist der Fall abgeschlossen.",
+      "en": "The examination was negative. The case is thus closed.",
+      "note": "somit &mdash; akademischer Schluss",
+      "say": "Die Pr&uuml;fung war negativ. Somit ist der Fall abgeschlossen."
+     },
+     {
+      "nl": "Der Vertrag l&auml;uft aus. Demzufolge entf&auml;llt die Zahlung.",
+      "en": "The contract expires. Accordingly the payment ceases.",
+      "note": "demzufolge",
+      "say": "Der Vertrag l&auml;uft aus. Demzufolge entf&auml;llt die Zahlung."
+     }
+    ]
+   },
+   {
+    "title": "Gegensatz &middot; dennoch, hingegen, allerdings, vielmehr",
+    "items": [
+     {
+      "nl": "Die Reform bringt Vorteile. Dennoch sind die Folgen unklar.",
+      "en": "The reform brings advantages. Nonetheless the consequences are unclear.",
+      "note": "dennoch &mdash; Einr&auml;umung",
+      "say": "Die Reform bringt Vorteile. Dennoch sind die Folgen unklar."
+     },
+     {
+      "nl": "Im Norden sank die Zahl. Demgegen&uuml;ber stieg sie im S&uuml;den.",
+      "en": "In the north the figure fell. In contrast it rose in the south.",
+      "note": "demgegen&uuml;ber &mdash; oft mit Zahlen",
+      "say": "Im Norden sank die Zahl. Demgegen&uuml;ber stieg sie im S&uuml;den."
+     },
+     {
+      "nl": "Die Kosten sinken. Die Qualit&auml;t hingegen bleibt gleich.",
+      "en": "Costs are falling. Quality, however, stays the same.",
+      "note": "hingegen &mdash; schlichter Gegensatz",
+      "say": "Die Kosten sinken. Die Qualit&auml;t hingegen bleibt gleich."
+     },
+     {
+      "nl": "Die Studie ist sorgf&auml;ltig. Allerdings ist die Stichprobe klein.",
+      "en": "The study is careful. However, the sample is small.",
+      "note": "allerdings &mdash; eigener Vorbehalt",
+      "say": "Die Studie ist sorgf&auml;ltig. Allerdings ist die Stichprobe klein."
+     },
+     {
+      "nl": "Nichtsdestotrotz bleibt die Kritik berechtigt.",
+      "en": "Nonetheless the criticism remains justified.",
+      "note": "nichtsdestotrotz &mdash; betont f&ouml;rmlich",
+      "say": "Nichtsdestotrotz bleibt die Kritik berechtigt."
+     },
+     {
+      "nl": "Es geht nicht um Geschwindigkeit. Vielmehr z&auml;hlt die Qualit&auml;t.",
+      "en": "It is not about speed. Rather, quality counts.",
+      "note": "vielmehr &mdash; korrigiert",
+      "say": "Es geht nicht um Geschwindigkeit. Vielmehr z&auml;hlt die Qualit&auml;t."
+     },
+     {
+      "nl": "Die Reform ist zwar teuer, aber notwendig.",
+      "en": "The reform is expensive, to be sure, but necessary.",
+      "note": "zwar &hellip; aber &mdash; erst zugeben, dann einwenden",
+      "say": "Die Reform ist zwar teuer, aber notwendig."
+     }
+    ]
+   },
+   {
+    "title": "Erg&auml;nzung &amp; Textbindung &middot; Beyond Connectors",
+    "items": [
+     {
+      "nl": "Die Kosten sind hoch. Dar&uuml;ber hinaus fehlt qualifiziertes Personal.",
+      "en": "Costs are high. Moreover, qualified staff are lacking.",
+      "note": "dar&uuml;ber hinaus &mdash; erg&auml;nzt",
+      "say": "Die Kosten sind hoch. Dar&uuml;ber hinaus fehlt qualifiziertes Personal."
+     },
+     {
+      "nl": "Zudem ist die Datenlage unbefriedigend.",
+      "en": "In addition the data situation is unsatisfactory.",
+      "note": "zudem &mdash; k&uuml;rzer, sehr h&auml;ufig",
+      "say": "Zudem ist die Datenlage unbefriedigend."
+     },
+     {
+      "nl": "Diesbez&uuml;glich liegen keine Daten vor.",
+      "en": "In this regard no data are available.",
+      "note": "diesbez&uuml;glich &mdash; verweist zur&uuml;ck",
+      "say": "Diesbez&uuml;glich liegen keine Daten vor."
+     },
+     {
+      "nl": "Die Kritik trifft zu, insofern die Datenlage schwach ist.",
+      "en": "The criticism is valid insofar as the data are weak.",
+      "note": "insofern als Subjunktion &rarr; Verb ans Ende",
+      "say": "Die Kritik trifft zu, insofern die Datenlage schwach ist."
+     },
+     {
+      "nl": "Zun&auml;chst ist der Begriff zu kl&auml;ren. Sodann folgt die Analyse.",
+      "en": "First the term must be clarified. Then the analysis follows.",
+      "note": "Gliederungssignale",
+      "say": "Zun&auml;chst ist der Begriff zu kl&auml;ren. Sodann folgt die Analyse."
+     },
+     {
+      "nl": "Es wurde eine Studie ver&ouml;ffentlicht. Die Studie widerlegt alle Annahmen.",
+      "en": "A study was published. The study refutes all assumptions.",
+      "note": "Artikelwechsel ein &rarr; der",
+      "say": "Es wurde eine Studie ver&ouml;ffentlicht. Die Studie widerlegt alle Annahmen."
+     },
+     {
+      "nl": "Die Preise stiegen stark. Dieser Anstieg traf vor allem Mieter.",
+      "en": "Prices rose sharply. This rise hit tenants above all.",
+      "note": "Nominalisierung nimmt den Satz auf",
+      "say": "Die Preise stiegen stark. Dieser Anstieg traf vor allem Mieter."
+     },
+     {
+      "nl": "Die Kommission tagte. Dabei wurde deutlich, dass Daten fehlen.",
+      "en": "The commission met. In doing so it became clear that data are missing.",
+      "note": "Pronominaladverb dabei",
+      "say": "Die Kommission tagte. Dabei wurde deutlich, dass Daten fehlen."
+     }
+    ]
+   }
+  ],
+  "instr": "Insert the connector and put the verb in the right place.",
+  "ex": [
+   {
+    "q": "Die Nachfrage stieg. Dementsprechend _____ die Preise erh&ouml;ht. (werden, Verbposition)",
+    "answer": "wurden"
+   },
+   {
+    "q": "Die Daten fehlen. Folglich _____ sich die These nicht pr&uuml;fen. (lassen)",
+    "answer": "l&auml;sst"
+   },
+   {
+    "q": "Es regnete. Trotzdem _____ wir spazieren. (gehen, Pr&auml;teritum)",
+    "answer": "gingen"
+   },
+   {
+    "q": "_____ es regnete, gingen wir spazieren. (Subjunktion)",
+    "answer": "Obwohl"
+   },
+   {
+    "q": "Im Norden sank sie. _____ stieg sie im S&uuml;den. (f&ouml;rmlicher Gegensatz)",
+    "answer": "Demgegen&uuml;ber"
+   },
+   {
+    "q": "Die Studie ist gut. _____ ist die Stichprobe klein. (eigener Vorbehalt)",
+    "answer": "Allerdings"
+   },
+   {
+    "q": "Nicht Geschwindigkeit z&auml;hlt. _____ kommt es auf Qualit&auml;t an. (Korrektur)",
+    "answer": "Vielmehr"
+   },
+   {
+    "q": "Die Kosten sind hoch. _____ fehlt Personal. (erg&auml;nzend, f&ouml;rmlich)",
+    "answer": "Dar&uuml;ber hinaus"
+   }
+  ]
+ },
+ {
+  "n": 10,
+  "t": "Fokus &amp; Hervorhebung",
+  "s": "Was &hellip; betrifft, Es ist &hellip; der, Entscheidend ist",
+  "tag": "how German emphasises without raising its voice",
+  "rule": "\n<div class=\"rule-box\"><h4>1. German has no stress accent &mdash; it has structure</h4>\n<p>English can emphasise by voice alone: <i>WE decided that.</i> German written text cannot. Instead it <b>moves things</b> or <b>frames them</b>. Five techniques do almost all the work:</p>\n<table class=\"vocab-table\"><thead><tr><th>Technik</th><th>Beispiel</th></tr></thead>\n<tbody>\n<tr><td>Vorfeld besetzen</td><td><b class=\"nl\">Gerade diese Frage</b> wurde nie gestellt.</td></tr>\n<tr><td>Spaltsatz</td><td><b class=\"nl\">Es ist die Qualit&auml;t, die</b> z&auml;hlt.</td></tr>\n<tr><td>Thema ank&uuml;ndigen</td><td><b class=\"nl\">Was die Kosten betrifft,</b> &hellip;</td></tr>\n<tr><td>Kontrast bauen</td><td><b class=\"nl\">Nicht</b> die Menge, <b class=\"nl\">sondern</b> die Qualit&auml;t.</td></tr>\n<tr><td>Bewertung voranstellen</td><td><b class=\"nl\">Entscheidend ist</b>, dass &hellip;</td></tr>\n</tbody></table></div>\n\n<div class=\"rule-box\"><h4>2. The Vorfeld is the strongest position</h4>\n<p>Whatever stands before the finite verb is what the sentence is <b>about</b>. Any single element can go there &mdash; not only the subject:</p>\n<ul>\n<li><b class=\"nl\"><u>Die Kommission</u> hat den Bericht gestern vorgelegt.</b> <i class=\"gl\">neutral</i></li>\n<li><b class=\"nl\"><u>Gestern</u> hat die Kommission den Bericht vorgelegt.</b> <i class=\"gl\">the time matters</i></li>\n<li><b class=\"nl\"><u>Den Bericht</u> hat die Kommission gestern vorgelegt.</b> <i class=\"gl\">this report, not another</i></li>\n<li><b class=\"nl\"><u>Vorgelegt</u> hat sie ihn, gepr&uuml;ft hat ihn niemand.</b> <i class=\"gl\">even the participle can move &mdash; strong contrast</i></li>\n</ul>\n<p>Intensifiers sharpen it further: <b class=\"nl\">gerade, eben, ausgerechnet, vor allem, insbesondere, allein</b>.</p>\n<ul>\n<li><b class=\"nl\"><u>Gerade</u> in dieser Frage fehlt jede Klarheit.</b></li>\n<li><b class=\"nl\"><u>Ausgerechnet</u> der Vorsitzende schwieg.</b> <i class=\"gl\">of all people</i></li>\n<li><b class=\"nl\"><u>Allein</u> die Personalkosten betragen zwei Millionen.</b> <i class=\"gl\">that alone</i></li>\n</ul></div>\n\n<div class=\"rule-box\"><h4>3. Der Spaltsatz &mdash; es ist &hellip;, der/die/das &hellip;</h4>\n<p>This construction splits one statement into two clauses to isolate exactly one element:</p>\n<ul>\n<li>neutral: <b class=\"nl\">Die Datenlage entscheidet.</b></li>\n<li>gespalten: <b class=\"nl\"><u>Es ist die Datenlage, die</u> entscheidet.</b></li>\n<li><b class=\"nl\"><u>Es war der Ausschuss, der</u> die Frist gesetzt hat</b> &mdash; nicht die Beh&ouml;rde.</li>\n<li><b class=\"nl\"><u>Es sind die Mieter, die</u> die Kosten tragen.</b> <i class=\"gl\">plural: es sind</i></li>\n</ul>\n<p>The relative pronoun agrees with the highlighted noun, and so does the verb: <b class=\"nl\">Es sind die Mieter, die tragen</b> &mdash; never <s>es ist die Mieter</s>.</p>\n<p>A related form isolates a whole action: <b class=\"nl\">Was fehlt, ist eine klare Regelung.</b> / <b class=\"nl\">Was mich &uuml;berrascht, ist das Schweigen der Beh&ouml;rde.</b></p></div>\n\n<div class=\"rule-box\"><h4>4. Announcing the topic &mdash; Was &hellip; betrifft</h4>\n<p>These openers put a topic on the table before saying anything about it. They are the backbone of a structured presentation:</p>\n<table class=\"vocab-table\"><thead><tr><th>Formel</th><th>Register</th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">Was &hellip; betrifft / angeht / anbelangt</b></td><td>neutral to formal</td></tr>\n<tr><td><b class=\"nl\">Hinsichtlich + Gen. / Bez&uuml;glich + Gen.</b></td><td>formal, written</td></tr>\n<tr><td><b class=\"nl\">In Bezug auf + Akk.</b></td><td>neutral</td></tr>\n<tr><td><b class=\"nl\">Im Hinblick auf + Akk.</b></td><td>formal</td></tr>\n<tr><td><b class=\"nl\">Wenn es um &hellip; geht</b></td><td>spoken, presentations</td></tr>\n</tbody></table>\n<ul>\n<li><b class=\"nl\"><u>Was die Kosten betrifft</u>, m&uuml;ssen weitere Untersuchungen durchgef&uuml;hrt werden.</b></li>\n<li><b class=\"nl\"><u>Hinsichtlich der Datenlage</u> bestehen erhebliche Zweifel.</b></li>\n</ul>\n<p>Note the comma and the word order: the whole phrase fills the Vorfeld, so the verb follows immediately.</p></div>\n\n<div class=\"rule-box\"><h4>5. Kontrast: nicht &hellip;, sondern &hellip;</h4>\n<p>The clearest way to correct an expectation. Both halves must be the <b>same kind</b> of element:</p>\n<ul>\n<li><b class=\"nl\">Entscheidend ist <u>nicht</u> die Geschwindigkeit, <u>sondern</u> die Qualit&auml;t.</b></li>\n<li><b class=\"nl\">Es geht <u>nicht</u> darum, schnell zu sein, <u>sondern</u> darum, sorgf&auml;ltig zu arbeiten.</b></li>\n<li><b class=\"nl\"><u>Nicht nur</u> die Kosten, <u>sondern auch</u> der Zeitplan wurde untersch&auml;tzt.</b></li>\n</ul>\n<p>Related pairs that shift emphasis: <b class=\"nl\">weniger &hellip; als vielmehr</b> (<i>less &hellip; than rather</i>) and <b class=\"nl\">nicht so sehr &hellip; als vielmehr</b>:</p>\n<ul>\n<li><b class=\"nl\">Das Problem ist <u>weniger</u> technischer <u>als vielmehr</u> organisatorischer Natur.</b></li>\n</ul></div>\n\n<div class=\"rule-box\"><h4>6. Bewertung voranstellen</h4>\n<p>These openers tell the reader how to weigh what follows &mdash; standard in presentations and academic writing:</p>\n<table class=\"vocab-table\"><thead><tr><th>Formel</th><th>Fortsetzung</th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">Entscheidend ist,</b></td><td>dass &hellip; / ob &hellip;</td></tr>\n<tr><td><b class=\"nl\">Von besonderer Bedeutung ist</b></td><td>+ Nomen</td></tr>\n<tr><td><b class=\"nl\">Bemerkenswert ist,</b></td><td>dass &hellip;</td></tr>\n<tr><td><b class=\"nl\">Auff&auml;llig ist vor allem,</b></td><td>wie &hellip;</td></tr>\n<tr><td><b class=\"nl\">Hervorzuheben ist</b></td><td>+ Nomen / dass &hellip;</td></tr>\n<tr><td><b class=\"nl\">Nicht zu untersch&auml;tzen ist</b></td><td>+ Nomen</td></tr>\n</tbody></table>\n<ul>\n<li><b class=\"nl\"><u>Von besonderer Bedeutung ist</u> der Schutz pers&ouml;nlicher Daten.</b></li>\n<li><b class=\"nl\"><u>Hervorzuheben ist</u>, dass die Studie erstmals Langzeitdaten nutzt.</b></li>\n</ul>\n<div class=\"tip\"><b>In a presentation:</b> open with <b class=\"nl\">Was &hellip; betrifft</b>, close the point with <b class=\"nl\">Entscheidend ist</b>. Two markers per section is enough. If every sentence begins with a formula, the structure stops being visible &mdash; which was the whole purpose.</div></div>\n",
+  "groups": [
+   {
+    "title": "Das Vorfeld &middot; The Strongest Position",
+    "items": [
+     {
+      "nl": "Die Kommission hat den Bericht gestern vorgelegt.",
+      "en": "The commission presented the report yesterday.",
+      "note": "neutral &mdash; Subjekt im Vorfeld",
+      "say": "Die Kommission hat den Bericht gestern vorgelegt."
+     },
+     {
+      "nl": "Gestern hat die Kommission den Bericht vorgelegt.",
+      "en": "Yesterday the commission presented the report.",
+      "note": "Zeit betont",
+      "say": "Gestern hat die Kommission den Bericht vorgelegt."
+     },
+     {
+      "nl": "Den Bericht hat die Kommission gestern vorgelegt.",
+      "en": "The report the commission presented yesterday.",
+      "note": "Objekt betont &mdash; diesen, keinen anderen",
+      "say": "Den Bericht hat die Kommission gestern vorgelegt."
+     },
+     {
+      "nl": "Vorgelegt hat sie ihn, gepr&uuml;ft hat ihn niemand.",
+      "en": "Present it she did; examine it nobody did.",
+      "note": "Partizip im Vorfeld &mdash; starker Kontrast",
+      "say": "Vorgelegt hat sie ihn, gepr&uuml;ft hat ihn niemand."
+     },
+     {
+      "nl": "Gerade in dieser Frage fehlt jede Klarheit.",
+      "en": "Precisely on this question all clarity is missing.",
+      "note": "gerade verst&auml;rkt",
+      "say": "Gerade in dieser Frage fehlt jede Klarheit."
+     },
+     {
+      "nl": "Ausgerechnet der Vorsitzende schwieg.",
+      "en": "Of all people the chairman kept silent.",
+      "note": "ausgerechnet &mdash; unerwartet",
+      "say": "Ausgerechnet der Vorsitzende schwieg."
+     },
+     {
+      "nl": "Allein die Personalkosten betragen zwei Millionen.",
+      "en": "Staff costs alone amount to two million.",
+      "note": "allein = schon allein das",
+      "say": "Allein die Personalkosten betragen zwei Millionen."
+     }
+    ]
+   },
+   {
+    "title": "Der Spaltsatz &middot; Es ist &hellip;, der &hellip;",
+    "items": [
+     {
+      "nl": "Es ist die Datenlage, die entscheidet.",
+      "en": "It is the data situation that decides.",
+      "note": "Spaltsatz &mdash; ein Element isoliert",
+      "say": "Es ist die Datenlage, die entscheidet."
+     },
+     {
+      "nl": "Es war der Ausschuss, der die Frist gesetzt hat.",
+      "en": "It was the committee that set the deadline.",
+      "note": "nicht die Beh&ouml;rde",
+      "say": "Es war der Ausschuss, der die Frist gesetzt hat."
+     },
+     {
+      "nl": "Es sind die Mieter, die die Kosten tragen.",
+      "en": "It is the tenants who bear the costs.",
+      "note": "Plural: es sind &hellip;, die tragen",
+      "say": "Es sind die Mieter, die die Kosten tragen."
+     },
+     {
+      "nl": "Was fehlt, ist eine klare Regelung.",
+      "en": "What is missing is a clear rule.",
+      "note": "was &hellip;, ist &hellip;",
+      "say": "Was fehlt, ist eine klare Regelung."
+     },
+     {
+      "nl": "Was mich &uuml;berrascht, ist das Schweigen der Beh&ouml;rde.",
+      "en": "What surprises me is the authority's silence.",
+      "note": "dieselbe Struktur",
+      "say": "Was mich &uuml;berrascht, ist das Schweigen der Beh&ouml;rde."
+     },
+     {
+      "nl": "Was zu kl&auml;ren bleibt, ist die Finanzierung.",
+      "en": "What remains to be clarified is the funding.",
+      "note": "mit Infinitiv",
+      "say": "Was zu kl&auml;ren bleibt, ist die Finanzierung."
+     }
+    ]
+   },
+   {
+    "title": "Thema ank&uuml;ndigen &middot; Was &hellip; betrifft",
+    "items": [
+     {
+      "nl": "Was die Kosten betrifft, sind weitere Untersuchungen n&ouml;tig.",
+      "en": "As far as costs are concerned, further investigation is needed.",
+      "note": "Was &hellip; betrifft &mdash; Verb folgt sofort",
+      "say": "Was die Kosten betrifft, sind weitere Untersuchungen n&ouml;tig."
+     },
+     {
+      "nl": "Was den Zeitplan angeht, gibt es keine Einigung.",
+      "en": "As regards the schedule, there is no agreement.",
+      "note": "angeht = betrifft",
+      "say": "Was den Zeitplan angeht, gibt es keine Einigung."
+     },
+     {
+      "nl": "Hinsichtlich der Datenlage bestehen erhebliche Zweifel.",
+      "en": "With regard to the data, considerable doubts remain.",
+      "note": "hinsichtlich + Genitiv",
+      "say": "Hinsichtlich der Datenlage bestehen erhebliche Zweifel."
+     },
+     {
+      "nl": "Bez&uuml;glich Ihrer Anfrage teilen wir Ihnen mit &hellip;",
+      "en": "With reference to your enquiry we inform you ...",
+      "note": "Gesch&auml;ftsbrief",
+      "say": "Bez&uuml;glich Ihrer Anfrage teilen wir Ihnen mit"
+     },
+     {
+      "nl": "In Bezug auf die Fristen gilt eine Ausnahme.",
+      "en": "With regard to the deadlines an exception applies.",
+      "note": "in Bezug auf + Akkusativ",
+      "say": "In Bezug auf die Fristen gilt eine Ausnahme."
+     },
+     {
+      "nl": "Im Hinblick auf die Folgen ist Vorsicht geboten.",
+      "en": "In view of the consequences caution is called for.",
+      "note": "im Hinblick auf &mdash; f&ouml;rmlich",
+      "say": "Im Hinblick auf die Folgen ist Vorsicht geboten."
+     }
+    ]
+   },
+   {
+    "title": "Kontrast &amp; Bewertung &middot; For Presentations",
+    "items": [
+     {
+      "nl": "Entscheidend ist nicht die Geschwindigkeit, sondern die Qualit&auml;t.",
+      "en": "What is decisive is not speed but quality.",
+      "note": "nicht &hellip;, sondern &hellip;",
+      "say": "Entscheidend ist nicht die Geschwindigkeit, sondern die Qualit&auml;t."
+     },
+     {
+      "nl": "Es geht nicht darum, schnell zu sein, sondern sorgf&auml;ltig zu arbeiten.",
+      "en": "It is not about being fast but about working carefully.",
+      "note": "mit Infinitivgruppen",
+      "say": "Es geht nicht darum, schnell zu sein, sondern sorgf&auml;ltig zu arbeiten."
+     },
+     {
+      "nl": "Nicht nur die Kosten, sondern auch der Zeitplan wurde untersch&auml;tzt.",
+      "en": "Not only the costs but also the schedule was underestimated.",
+      "note": "nicht nur &hellip;, sondern auch",
+      "say": "Nicht nur die Kosten, sondern auch der Zeitplan wurde untersch&auml;tzt."
+     },
+     {
+      "nl": "Das Problem ist weniger technischer als vielmehr organisatorischer Natur.",
+      "en": "The problem is less technical than organisational in nature.",
+      "note": "weniger &hellip; als vielmehr",
+      "say": "Das Problem ist weniger technischer als vielmehr organisatorischer Natur."
+     },
+     {
+      "nl": "Von besonderer Bedeutung ist der Schutz pers&ouml;nlicher Daten.",
+      "en": "Of particular importance is the protection of personal data.",
+      "note": "Bewertung vorangestellt",
+      "say": "Von besonderer Bedeutung ist der Schutz pers&ouml;nlicher Daten."
+     },
+     {
+      "nl": "Hervorzuheben ist, dass die Studie Langzeitdaten nutzt.",
+      "en": "It should be emphasised that the study uses long-term data.",
+      "note": "Hervorzuheben ist &mdash; Gerundivum",
+      "say": "Hervorzuheben ist, dass die Studie Langzeitdaten nutzt."
+     },
+     {
+      "nl": "Bemerkenswert ist, wie schnell reagiert wurde.",
+      "en": "It is remarkable how quickly they reacted.",
+      "note": "Bemerkenswert ist, wie &hellip;",
+      "say": "Bemerkenswert ist, wie schnell reagiert wurde."
+     },
+     {
+      "nl": "Nicht zu untersch&auml;tzen ist der Zeitaufwand.",
+      "en": "The time required should not be underestimated.",
+      "note": "Nicht zu untersch&auml;tzen ist &hellip;",
+      "say": "Nicht zu untersch&auml;tzen ist der Zeitaufwand."
+     }
+    ]
+   }
+  ],
+  "instr": "Complete the focus structure.",
+  "ex": [
+   {
+    "q": "_____ in dieser Frage fehlt jede Klarheit. (verst&auml;rkend)",
+    "answer": "Gerade"
+   },
+   {
+    "q": "_____ der Vorsitzende schwieg. (von allen Leuten)",
+    "answer": "Ausgerechnet"
+   },
+   {
+    "q": "Es ist die Datenlage, _____ entscheidet. (Relativpronomen)",
+    "answer": "die"
+   },
+   {
+    "q": "Es _____ die Mieter, die die Kosten tragen. (Plural)",
+    "answer": "sind"
+   },
+   {
+    "q": "_____ fehlt, ist eine klare Regelung.",
+    "answer": "Was"
+   },
+   {
+    "q": "Was die Kosten _____, sind Untersuchungen n&ouml;tig.",
+    "answer": "betrifft"
+   },
+   {
+    "q": "_____ der Datenlage bestehen Zweifel. (+ Genitiv)",
+    "answer": "Hinsichtlich"
+   },
+   {
+    "q": "Entscheidend ist nicht die Menge, _____ die Qualit&auml;t.",
+    "answer": "sondern"
+   }
+  ]
+ }
+]

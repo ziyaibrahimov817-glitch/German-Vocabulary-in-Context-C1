@@ -1,0 +1,183 @@
+{
+ "n": 3,
+ "title_de": "Funktionsverbgef&uuml;ge",
+ "rule": "\n<div class=\"rule-box\"><h4>1. What a Funktionsverbgef&uuml;ge actually is</h4>\n<p>A <b>Funktionsverbgef&uuml;ge</b> (FVG) splits one verb into two parts: a noun that carries the <b>meaning</b>, and a verb that carries almost <b>nothing but the grammar</b>.</p>\n<table class=\"vocab-table\"><thead><tr><th>Vollverb</th><th>Funktionsverbgef&uuml;ge</th></tr></thead>\n<tbody>\n<tr><td>entscheiden</td><td>eine <u>Entscheidung</u> <b class=\"nl\">treffen</b></td></tr>\n<tr><td>kritisieren</td><td><u>Kritik</u> <b class=\"nl\">&uuml;ben</b> an</td></tr>\n<tr><td>beeinflussen</td><td><u>Einfluss</u> <b class=\"nl\">nehmen</b> auf</td></tr>\n<tr><td>anwenden</td><td>zur <u>Anwendung</u> <b class=\"nl\">kommen</b></td></tr>\n</tbody></table>\n<p>The verb has lost its own sense. <b class=\"nl\">treffen</b> in <i>eine Entscheidung treffen</i> has nothing to do with meeting somebody. That is the test: if the verb still means what it normally means, it is not an FVG.</p></div>\n\n<div class=\"rule-box\"><h4>2. Why bother? Three good reasons</h4>\n<ul>\n<li><b>Register.</b> FVG belong to written, formal, administrative German. <b class=\"nl\">Der Ausschuss trifft eine Entscheidung</b> sounds official; <b class=\"nl\">Der Ausschuss entscheidet</b> sounds neutral.</li>\n<li><b>Room for adjectives.</b> A noun can be modified, a verb cannot: <b class=\"nl\">eine <u>weitreichende, einstimmige</u> Entscheidung treffen</b>. You cannot say <s>weitreichend entscheiden</s>.</li>\n<li><b>Aspect.</b> German has no verb aspect like Slavic languages &mdash; FVG fill the gap. That is section 3, and it is the heart of this unit.</li>\n</ul></div>\n\n<div class=\"rule-box\"><h4>3. The aspect system &mdash; the real point</h4>\n<p>The same noun takes different Funktionsverben to show <b>beginning</b>, <b>state</b> or <b>causing</b>. Learn them as triples:</p>\n<table class=\"vocab-table\"><thead><tr><th>kausativ <i class=\"gl\">someone causes it</i></th><th>inchoativ <i class=\"gl\">it starts</i></th><th>durativ <i class=\"gl\">it is the case</i></th></tr></thead>\n<tbody>\n<tr><td>in Gang <b class=\"nl\">setzen</b></td><td>in Gang <b class=\"nl\">kommen</b></td><td>in Gang <b class=\"nl\">sein</b></td></tr>\n<tr><td>zur Verf&uuml;gung <b class=\"nl\">stellen</b></td><td>&mdash;</td><td>zur Verf&uuml;gung <b class=\"nl\">stehen</b></td></tr>\n<tr><td>in Betrieb <b class=\"nl\">nehmen</b></td><td>&mdash;</td><td>in Betrieb <b class=\"nl\">sein</b></td></tr>\n<tr><td>in Verlegenheit <b class=\"nl\">bringen</b></td><td>in Verlegenheit <b class=\"nl\">geraten</b></td><td>&mdash;</td></tr>\n<tr><td>zur Diskussion <b class=\"nl\">stellen</b></td><td>&mdash;</td><td>zur Diskussion <b class=\"nl\">stehen</b></td></tr>\n<tr><td>au&szlig;er Kraft <b class=\"nl\">setzen</b></td><td>au&szlig;er Kraft <b class=\"nl\">treten</b></td><td>au&szlig;er Kraft <b class=\"nl\">sein</b></td></tr>\n</tbody></table>\n<p>Read the pattern off the verbs themselves:</p>\n<ul>\n<li><b class=\"nl\">setzen, stellen, bringen, nehmen</b> &rarr; <b>someone does it</b> (transitive)</li>\n<li><b class=\"nl\">kommen, geraten, treten, gelangen</b> &rarr; <b>it happens</b> (change of state)</li>\n<li><b class=\"nl\">stehen, sein, liegen, bleiben</b> &rarr; <b>it is so</b> (state)</li>\n</ul>\n<p><b class=\"nl\">geraten</b> carries an extra colour: the change is <b>unwanted</b>. <b class=\"nl\">in Schwierigkeiten geraten</b> &mdash; nobody planned that.</p></div>\n\n<div class=\"rule-box\"><h4>4. FVG instead of the passive</h4>\n<p>Many FVG say what a passive would say, but sound less clumsy in a noun-heavy text:</p>\n<ul>\n<li><b class=\"nl\">Die Regel <u>kommt zur Anwendung</u>.</b> = die Regel wird angewendet</li>\n<li><b class=\"nl\">Der Plan <u>findet Zustimmung</u>.</b> = dem Plan wird zugestimmt</li>\n<li><b class=\"nl\">Die Frage <u>steht zur Debatte</u>.</b> = &uuml;ber die Frage wird debattiert</li>\n<li><b class=\"nl\">Das Gesetz <u>tritt in Kraft</u>.</b> = das Gesetz wird wirksam</li>\n</ul>\n<p>This is why laws and reports are full of them: the doer disappears without a single <b class=\"nl\">werden</b>.</p></div>\n\n<div class=\"rule-box\"><h4>5. Fixed shape &mdash; do not improvise</h4>\n<p>The article and preposition are frozen. Three traps:</p>\n<ul>\n<li><b>Article often disappears:</b> <b class=\"nl\">in Kraft treten</b>, <b class=\"nl\">zu Ende gehen</b>, <b class=\"nl\">Bescheid geben</b> &mdash; not <s>in die Kraft</s>.</li>\n<li><b>Or is fused:</b> <b class=\"nl\">zur</b> Verf&uuml;gung, <b class=\"nl\">zum</b> Ausdruck, <b class=\"nl\">im</b> Begriff.</li>\n<li><b>The preposition governs the second object:</b> Kritik &uuml;ben <b class=\"nl\">an</b> + Dat., Einfluss nehmen <b class=\"nl\">auf</b> + Akk., Bezug nehmen <b class=\"nl\">auf</b> + Akk.</li>\n</ul>\n<p>The noun in an FVG usually takes <b>no plural</b> and <b>no attribute of its own</b> unless the whole thing is being modified deliberately: <b class=\"nl\">scharfe Kritik &uuml;ben</b> is fine, <s>eine Kritik &uuml;ben</s> is not.</p></div>\n\n<div class=\"rule-box\"><h4>6. When to avoid them</h4>\n<p>FVG make text longer and colder. In a C1 exam, they earn points when used <b>precisely</b> and cost points when piled up:</p>\n<ul>\n<li><s>Es wurde die Entscheidung getroffen, eine Pr&uuml;fung durchzuf&uuml;hren, um zu einer Bewertung zu gelangen.</s></li>\n<li><b class=\"nl\">Man entschied, zu pr&uuml;fen und anschlie&szlig;end zu bewerten.</b></li>\n</ul>\n<div class=\"tip\"><b>Rule of thumb:</b> use an FVG when you need the <b>aspect</b> (something starts, is caused, holds) or when you want to <b>modify with an adjective</b>. Otherwise the plain verb is better German.</div></div>\n",
+ "instr": "Choose the Funktionsverb that fits the aspect, or supply the missing preposition.",
+ "groups": [
+  {
+   "title": "Das System &middot; Noun Carries the Meaning",
+   "items": [
+    {
+     "de": "entscheiden &rarr; eine Entscheidung treffen",
+     "en": "to decide &rarr; to take a decision",
+     "note": "Vollverb wird zu Nomen + Funktionsverb"
+    },
+    {
+     "de": "kritisieren &rarr; Kritik &uuml;ben an",
+     "en": "to criticise &rarr; to voice criticism of",
+     "note": "Pr&auml;position an + Dativ ist fest"
+    },
+    {
+     "de": "beeinflussen &rarr; Einfluss nehmen auf",
+     "en": "to influence &rarr; to exert influence on",
+     "note": "auf + Akkusativ"
+    },
+    {
+     "de": "anwenden &rarr; zur Anwendung kommen",
+     "en": "to apply &rarr; to be applied",
+     "note": "Artikel verschmolzen: zur"
+    },
+    {
+     "de": "eine weitreichende Entscheidung treffen",
+     "en": "to take a far-reaching decision",
+     "note": "Adjektiv m&ouml;glich &mdash; beim Vollverb nicht"
+    },
+    {
+     "de": "scharfe Kritik &uuml;ben",
+     "en": "to voice sharp criticism",
+     "note": "dasselbe Prinzip"
+    }
+   ]
+  },
+  {
+   "title": "Aspekt &middot; setzen / kommen / sein",
+   "items": [
+    {
+     "de": "Die Regierung setzte die Reform in Gang.",
+     "en": "The government set the reform in motion.",
+     "note": "kausativ &mdash; jemand verursacht es"
+    },
+    {
+     "de": "Die Reform kam nur langsam in Gang.",
+     "en": "The reform only slowly got going.",
+     "note": "inchoativ &mdash; es beginnt"
+    },
+    {
+     "de": "Die Reform ist seit Januar in Gang.",
+     "en": "The reform has been under way since January.",
+     "note": "durativ &mdash; es ist so"
+    },
+    {
+     "de": "Der Raum wird kostenlos zur Verf&uuml;gung gestellt.",
+     "en": "The room is made available free of charge.",
+     "note": "kausativ: stellen"
+    },
+    {
+     "de": "Der Raum steht kostenlos zur Verf&uuml;gung.",
+     "en": "The room is available free of charge.",
+     "note": "durativ: stehen"
+    },
+    {
+     "de": "Die Anlage wurde im Mai in Betrieb genommen.",
+     "en": "The plant was put into operation in May.",
+     "note": "kausativ: nehmen"
+    },
+    {
+     "de": "Die Anlage ist seit Mai in Betrieb.",
+     "en": "The plant has been in operation since May.",
+     "note": "durativ: sein"
+    },
+    {
+     "de": "Die Frage brachte ihn in Verlegenheit.",
+     "en": "The question embarrassed him.",
+     "note": "kausativ: bringen"
+    },
+    {
+     "de": "Bei der Frage geriet er in Verlegenheit.",
+     "en": "At the question he became embarrassed.",
+     "note": "inchoativ mit geraten &mdash; unerw&uuml;nscht"
+    },
+    {
+     "de": "Die Regelung wurde au&szlig;er Kraft gesetzt.",
+     "en": "The rule was suspended.",
+     "note": "kausativ: setzen"
+    },
+    {
+     "de": "Die Regelung tritt morgen au&szlig;er Kraft.",
+     "en": "The rule ceases to apply tomorrow.",
+     "note": "inchoativ: treten"
+    },
+    {
+     "de": "Das Gesetz tritt am 1. Januar in Kraft.",
+     "en": "The law comes into force on 1 January.",
+     "note": "inchoativ, ohne Artikel"
+    }
+   ]
+  },
+  {
+   "title": "Statt Passiv &middot; The Doer Disappears",
+   "items": [
+    {
+     "de": "Die Regel kommt zur Anwendung.",
+     "en": "The rule is applied.",
+     "note": "= die Regel wird angewendet"
+    },
+    {
+     "de": "Der Plan findet Zustimmung.",
+     "en": "The plan meets with approval.",
+     "note": "= dem Plan wird zugestimmt"
+    },
+    {
+     "de": "Die Frage steht zur Debatte.",
+     "en": "The question is under debate.",
+     "note": "= &uuml;ber die Frage wird debattiert"
+    },
+    {
+     "de": "Der Antrag gelangt zur Abstimmung.",
+     "en": "The motion is put to the vote.",
+     "note": "= &uuml;ber den Antrag wird abgestimmt"
+    },
+    {
+     "de": "Die Sache kommt zur Sprache.",
+     "en": "The matter is raised.",
+     "note": "= die Sache wird angesprochen"
+    },
+    {
+     "de": "Das Verfahren findet Anwendung bei Neubauten.",
+     "en": "The procedure applies to new buildings.",
+     "note": "T&auml;ter verschwindet ohne werden"
+    }
+   ]
+  },
+  {
+   "title": "Stolperstellen &middot; Article, Preposition, Overuse",
+   "items": [
+    {
+     "de": "in Kraft treten &mdash; nicht in die Kraft",
+     "en": "to come into force",
+     "note": "Artikel entf&auml;llt"
+    },
+    {
+     "de": "zu Ende gehen &mdash; nicht zum Ende",
+     "en": "to come to an end",
+     "note": "Artikel entf&auml;llt"
+    },
+    {
+     "de": "zur Verf&uuml;gung &mdash; zu + der",
+     "en": "at one's disposal",
+     "note": "Artikel verschmolzen"
+    },
+    {
+     "de": "zum Ausdruck bringen &mdash; zu + dem",
+     "en": "to express",
+     "note": "Artikel verschmolzen"
+    },
+    {
+     "de": "Kritik &uuml;ben an + Dativ",
+     "en": "to criticise",
+     "note": "Pr&auml;position ist Teil der Formel"
+    },
+    {
+     "de": "Einfluss nehmen auf + Akkusativ",
+     "en": "to influence",
+     "note": "andere Pr&auml;position, anderer Kasus"
+    },
+    {
+     "de": "Man entschied, zu pr&uuml;fen und zu bewerten.",
+     "en": "They decided to examine and to assess.",
+     "note": "Vollverben statt drei FVG &mdash; besseres Deutsch"
+    }
+   ]
+  }
+ ]
+}

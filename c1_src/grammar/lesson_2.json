@@ -1,0 +1,178 @@
+{
+ "n": 2,
+ "title_de": "Nominalstil &amp; Verbalstil",
+ "rule": "\n<div class=\"rule-box\"><h4>1. Two ways to say the same thing</h4>\n<p>German can package the same content around a <b>verb</b> or around a <b>noun</b>. Spoken German prefers verbs; written German &mdash; reports, laws, business letters, academic papers &mdash; leans heavily on nouns.</p>\n<table class=\"vocab-table\"><thead><tr><th></th><th>Sentence</th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">Verbalstil</b></td><td>Weil die Kosten <u>gestiegen sind</u>, musste das Unternehmen <u>reagieren</u>.</td></tr>\n<tr><td><b class=\"nl\">Nominalstil</b></td><td>Aufgrund des <u>Kostenanstiegs</u> war eine <u>Reaktion</u> des Unternehmens erforderlich.</td></tr>\n</tbody></table>\n<p>The nominal version is shorter, more distant and more formal. It also hides <b>who</b> did something &mdash; which is exactly why administrations like it, and exactly why you must be able to unpack it.</p></div>\n\n<div class=\"rule-box\"><h4>2. Subordinate clause becomes preposition</h4>\n<p>Every conjunction has a nominal partner. Learn them as pairs &mdash; this table is the whole unit in miniature:</p>\n<table class=\"vocab-table\"><thead><tr><th>Verbalstil</th><th>Nominalstil</th><th>Meaning</th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">weil / da</b></td><td><b class=\"nl\">wegen, aufgrund + Gen.</b></td><td>reason</td></tr>\n<tr><td><b class=\"nl\">wenn / falls</b></td><td><b class=\"nl\">bei, im Falle + Gen.</b></td><td>condition</td></tr>\n<tr><td><b class=\"nl\">als / w&auml;hrend</b></td><td><b class=\"nl\">bei, w&auml;hrend + Gen.</b></td><td>time</td></tr>\n<tr><td><b class=\"nl\">obwohl</b></td><td><b class=\"nl\">trotz + Gen.</b></td><td>concession</td></tr>\n<tr><td><b class=\"nl\">damit / um &hellip; zu</b></td><td><b class=\"nl\">zu, zwecks + Gen.</b></td><td>purpose</td></tr>\n<tr><td><b class=\"nl\">indem</b></td><td><b class=\"nl\">durch + Akk.</b></td><td>means</td></tr>\n<tr><td><b class=\"nl\">ohne dass</b></td><td><b class=\"nl\">ohne + Akk.</b></td><td>absence</td></tr>\n<tr><td><b class=\"nl\">so dass</b></td><td><b class=\"nl\">infolge + Gen.</b></td><td>consequence</td></tr>\n</tbody></table>\n<ul>\n<li><b class=\"nl\">Obwohl der Umsatz sank, &hellip;</b> &rarr; <b class=\"nl\"><u>Trotz</u> des sinkenden Umsatzes &hellip;</b></li>\n<li><b class=\"nl\">Indem man Prozesse automatisiert, &hellip;</b> &rarr; <b class=\"nl\"><u>Durch</u> die Automatisierung von Prozessen &hellip;</b></li>\n</ul></div>\n\n<div class=\"rule-box\"><h4>3. How verbs turn into nouns</h4>\n<p>Four regular routes. Knowing them lets you build the noun yourself instead of looking it up:</p>\n<table class=\"vocab-table\"><thead><tr><th>Route</th><th>Verb</th><th>Nomen</th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">-ung</b> &mdash; the most common</td><td>pr&uuml;fen, entscheiden</td><td>die Pr&uuml;f<u>ung</u>, die Entscheid<u>ung</u></td></tr>\n<tr><td><b class=\"nl\">Infinitiv als Nomen</b></td><td>steigen, verhandeln</td><td>das Steigen, das Verhandeln</td></tr>\n<tr><td><b class=\"nl\">Stammform</b></td><td>anstiegen, zunehmen</td><td>der Anstieg, die Zunahme</td></tr>\n<tr><td><b class=\"nl\">-heit / -keit / -nis</b> <i class=\"gl\">from adjectives</i></td><td>sicher, m&ouml;glich</td><td>die Sicherheit, die M&ouml;glichkeit</td></tr>\n</tbody></table>\n<p>Note the difference in feel: <b class=\"nl\">das Steigen</b> is the process seen as it happens; <b class=\"nl\">der Anstieg</b> is the result, a fact you can count. Business German almost always takes the second.</p></div>\n\n<div class=\"rule-box\"><h4>4. Who did it? The genitive and von</h4>\n<p>When a verb becomes a noun, its subject and object have to be re-attached:</p>\n<ul>\n<li><b class=\"nl\">Das Unternehmen reagierte.</b> &rarr; <b class=\"nl\">die Reaktion <u>des Unternehmens</u></b> <i class=\"gl\">subject &rarr; genitive</i></li>\n<li><b class=\"nl\">Man pr&uuml;fte den Antrag.</b> &rarr; <b class=\"nl\">die Pr&uuml;fung <u>des Antrags</u></b> <i class=\"gl\">object &rarr; genitive</i></li>\n<li><b class=\"nl\">Die Kommission pr&uuml;fte den Antrag.</b> &rarr; <b class=\"nl\">die Pr&uuml;fung des Antrags <u>durch die Kommission</u></b></li>\n</ul>\n<p>That last line matters: once both roles need expressing, the doer moves to <b class=\"nl\">durch</b>, because two genitives in a row are unreadable.</p>\n<div class=\"tip\"><b>Genitivkette:</b> <s>die Pr&uuml;fung der Umsetzung der Ma&szlig;nahmen der Regierung</s> &mdash; four genitives, nobody survives that. Break it up: <b class=\"nl\">die Pr&uuml;fung, ob die Regierung ihre Ma&szlig;nahmen umgesetzt hat</b>.</div></div>\n\n<div class=\"rule-box\"><h4>5. Reading officialese &mdash; unpacking backwards</h4>\n<p>The real C1 skill is the reverse direction: turning a dense noun phrase back into a sentence you understand.</p>\n<ul>\n<li><b class=\"nl\">nach Pr&uuml;fung der eingereichten Unterlagen</b> &rarr; <i class=\"gl\">nachdem die eingereichten Unterlagen gepr&uuml;ft worden sind</i></li>\n<li><b class=\"nl\">bei Nichteinhaltung der Frist</b> &rarr; <i class=\"gl\">wenn die Frist nicht eingehalten wird</i></li>\n<li><b class=\"nl\">zwecks Vermeidung weiterer Verz&ouml;gerungen</b> &rarr; <i class=\"gl\">damit es nicht zu weiteren Verz&ouml;gerungen kommt</i></li>\n<li><b class=\"nl\">unter Ber&uuml;cksichtigung der genannten Gr&uuml;nde</b> &rarr; <i class=\"gl\">wenn man die genannten Gr&uuml;nde ber&uuml;cksichtigt</i></li>\n</ul>\n<p>Watch for the compound nouns that carry a hidden negative: <b class=\"nl\">Nichteinhaltung</b>, <b class=\"nl\">Nichtzahlung</b>, <b class=\"nl\">Nichterscheinen</b>. They mean <i>failure to do X</i>.</p></div>\n\n<div class=\"rule-box\"><h4>6. Which style when?</h4>\n<table class=\"vocab-table\"><thead><tr><th>Nominalstil</th><th>Verbalstil</th></tr></thead>\n<tbody>\n<tr><td>laws, decisions, contracts</td><td>emails to colleagues</td></tr>\n<tr><td>abstracts, titles, summaries</td><td>explanations, teaching</td></tr>\n<tr><td>when the doer is irrelevant</td><td>when responsibility matters</td></tr>\n<tr><td>when space is short</td><td>when clarity matters</td></tr>\n</tbody></table>\n<div class=\"tip\"><b>Exam tip:</b> In a written C1 exam you need <b>both</b>. Open with nominal style to sound academic, then explain in verbal style so the reader follows. A text made only of nouns reads like a form; a text made only of verbs reads like a chat.</div></div>\n",
+ "instr": "Rewrite in the other style: give the missing preposition, conjunction or noun.",
+ "groups": [
+  {
+   "title": "Verbal &harr; Nominal &middot; The Same Sentence Twice",
+   "items": [
+    {
+     "de": "Weil die Kosten gestiegen sind, musste reagiert werden.",
+     "en": "Because costs rose, a reaction was necessary.",
+     "note": "Verbalstil &mdash; Ausgangssatz"
+    },
+    {
+     "de": "Aufgrund des Kostenanstiegs war eine Reaktion erforderlich.",
+     "en": "Owing to the rise in costs a reaction was necessary.",
+     "note": "Nominalstil &mdash; dieselbe Aussage"
+    },
+    {
+     "de": "Obwohl der Umsatz sank, wurde investiert.",
+     "en": "Although turnover fell, investments were made.",
+     "note": "obwohl"
+    },
+    {
+     "de": "Trotz des sinkenden Umsatzes wurde investiert.",
+     "en": "Despite falling turnover, investments were made.",
+     "note": "trotz + Genitiv"
+    },
+    {
+     "de": "Wenn die Frist nicht eingehalten wird, entstehen Kosten.",
+     "en": "If the deadline is not met, costs arise.",
+     "note": "wenn"
+    },
+    {
+     "de": "Bei Nichteinhaltung der Frist entstehen Kosten.",
+     "en": "In case of failure to meet the deadline costs arise.",
+     "note": "bei + Nomen mit Nicht-"
+    },
+    {
+     "de": "Indem man Prozesse automatisiert, spart man Zeit.",
+     "en": "By automating processes, time is saved.",
+     "note": "indem"
+    },
+    {
+     "de": "Durch die Automatisierung von Prozessen wird Zeit gespart.",
+     "en": "Through the automation of processes time is saved.",
+     "note": "durch + Akkusativ"
+    }
+   ]
+  },
+  {
+   "title": "Wie das Nomen entsteht &middot; Four Routes",
+   "items": [
+    {
+     "de": "pr&uuml;fen &rarr; die Pr&uuml;fung",
+     "en": "to examine &rarr; the examination",
+     "note": "-ung, der h&auml;ufigste Weg"
+    },
+    {
+     "de": "entscheiden &rarr; die Entscheidung",
+     "en": "to decide &rarr; the decision",
+     "note": "-ung"
+    },
+    {
+     "de": "steigen &rarr; das Steigen / der Anstieg",
+     "en": "to rise &rarr; the rising / the rise",
+     "note": "Prozess gegen Ergebnis"
+    },
+    {
+     "de": "zunehmen &rarr; die Zunahme",
+     "en": "to increase &rarr; the increase",
+     "note": "Stammform ohne Endung"
+    },
+    {
+     "de": "verhandeln &rarr; das Verhandeln / die Verhandlung",
+     "en": "to negotiate &rarr; negotiating / the negotiation",
+     "note": "beide m&ouml;glich, verschiedener Klang"
+    },
+    {
+     "de": "sicher &rarr; die Sicherheit",
+     "en": "safe &rarr; safety",
+     "note": "-heit vom Adjektiv"
+    },
+    {
+     "de": "m&ouml;glich &rarr; die M&ouml;glichkeit",
+     "en": "possible &rarr; the possibility",
+     "note": "-keit vom Adjektiv"
+    },
+    {
+     "de": "erkennen &rarr; die Erkenntnis",
+     "en": "to recognise &rarr; the insight",
+     "note": "-nis, oft abstrakt"
+    }
+   ]
+  },
+  {
+   "title": "Wirtschaft &amp; Beh&ouml;rde &middot; Phrases You Will Meet",
+   "items": [
+    {
+     "de": "nach Pr&uuml;fung der eingereichten Unterlagen",
+     "en": "after examination of the submitted documents",
+     "note": "= nachdem die Unterlagen gepr&uuml;ft worden sind"
+    },
+    {
+     "de": "unter Ber&uuml;cksichtigung der genannten Gr&uuml;nde",
+     "en": "taking the stated reasons into account",
+     "note": "= wenn man die Gr&uuml;nde ber&uuml;cksichtigt"
+    },
+    {
+     "de": "zwecks Vermeidung weiterer Verz&ouml;gerungen",
+     "en": "in order to avoid further delays",
+     "note": "= damit es nicht zu Verz&ouml;gerungen kommt"
+    },
+    {
+     "de": "infolge der ver&auml;nderten Marktlage",
+     "en": "as a result of the changed market situation",
+     "note": "= weil sich die Marktlage ge&auml;ndert hat"
+    },
+    {
+     "de": "im Falle einer Vertragsverletzung",
+     "en": "in the event of a breach of contract",
+     "note": "= wenn der Vertrag verletzt wird"
+    },
+    {
+     "de": "mangels ausreichender Nachweise",
+     "en": "for lack of sufficient evidence",
+     "note": "= weil die Nachweise nicht ausreichen"
+    },
+    {
+     "de": "die Pr&uuml;fung des Antrags durch die Kommission",
+     "en": "the examination of the application by the commission",
+     "note": "Objekt im Genitiv, T&auml;ter mit durch"
+    },
+    {
+     "de": "die Nichtzahlung der f&auml;lligen Rechnung",
+     "en": "the non-payment of the invoice due",
+     "note": "Nicht- als verstecktes nicht"
+    }
+   ]
+  },
+  {
+   "title": "Aufl&ouml;sen &middot; Turning It Back Into a Sentence",
+   "items": [
+    {
+     "de": "Bei Nichterscheinen verf&auml;llt der Anspruch.",
+     "en": "If you fail to appear, the claim lapses.",
+     "note": "Nominal &rarr; verbal: wenn Sie nicht erscheinen"
+    },
+    {
+     "de": "Wenn Sie nicht erscheinen, verf&auml;llt der Anspruch.",
+     "en": "If you do not appear, the claim lapses.",
+     "note": "dieselbe Aussage, lesbarer"
+    },
+    {
+     "de": "Die Pr&uuml;fung der Umsetzung der Ma&szlig;nahmen der Regierung",
+     "en": "the examination of the implementation of the government's measures",
+     "note": "vier Genitive &mdash; unlesbar"
+    },
+    {
+     "de": "die Pr&uuml;fung, ob die Regierung ihre Ma&szlig;nahmen umgesetzt hat",
+     "en": "the examination of whether the government has implemented its measures",
+     "note": "aufgel&ouml;st, verst&auml;ndlich"
+    },
+    {
+     "de": "Aufgrund der Verz&ouml;gerung der Lieferung durch den Zulieferer",
+     "en": "owing to the delay in delivery by the supplier",
+     "note": "Nominalstil im Gesch&auml;ftsbrief"
+    },
+    {
+     "de": "Weil der Zulieferer sp&auml;ter geliefert hat, &hellip;",
+     "en": "Because the supplier delivered late, ...",
+     "note": "verbal &mdash; klar, wer schuld ist"
+    }
+   ]
+  }
+ ]
+}

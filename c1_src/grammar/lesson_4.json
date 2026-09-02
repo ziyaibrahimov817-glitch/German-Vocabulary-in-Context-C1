@@ -1,0 +1,178 @@
+{
+ "n": 4,
+ "title_de": "Passiversatzformen",
+ "rule": "\n<div class=\"rule-box\"><h4>1. Why German avoids the werden-Passiv</h4>\n<p>The plain passive works &mdash; but in written German it quickly sounds heavy, especially with a modal verb: <b class=\"nl\">Das Problem kann gel&ouml;st werden.</b> Four words of pure grammar. German therefore has a whole family of <b>Passiversatzformen</b> that say the same thing more elegantly.</p>\n<table class=\"vocab-table\"><thead><tr><th>Form</th><th>Example</th><th>Reading</th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">sein + zu + Infinitiv</b></td><td>Das Problem ist zu l&ouml;sen.</td><td>can / must</td></tr>\n<tr><td><b class=\"nl\">sich lassen + Infinitiv</b></td><td>Das Problem l&auml;sst sich l&ouml;sen.</td><td>can</td></tr>\n<tr><td><b class=\"nl\">Adjektiv auf -bar</b></td><td>Das Problem ist l&ouml;sbar.</td><td>can</td></tr>\n<tr><td><b class=\"nl\">bekommen + Partizip II</b></td><td>Er bekam die Papiere zugeschickt.</td><td>dative passive</td></tr>\n<tr><td><b class=\"nl\">Reflexiv</b></td><td>Das Buch verkauft sich gut.</td><td>general statement</td></tr>\n</tbody></table></div>\n\n<div class=\"rule-box\"><h4>2. sein + zu + Infinitiv &mdash; and its ambiguity</h4>\n<p>This is the most formal of the group. It can mean <b>k&ouml;nnen</b> or <b>m&uuml;ssen</b>, and only the context decides:</p>\n<ul>\n<li><b class=\"nl\">Das Problem ist leicht zu l&ouml;sen.</b> &rarr; <i class=\"gl\">kann gel&ouml;st werden</i> &mdash; <b>leicht, schwer, kaum</b> push it towards <b>k&ouml;nnen</b></li>\n<li><b class=\"nl\">Der Antrag ist bis Freitag einzureichen.</b> &rarr; <i class=\"gl\">muss eingereicht werden</i> &mdash; a deadline pushes it towards <b>m&uuml;ssen</b></li>\n<li><b class=\"nl\">Die Vorschriften sind zu beachten.</b> &rarr; <i class=\"gl\">m&uuml;ssen beachtet werden</i> &mdash; pure officialese</li>\n</ul>\n<p>With a separable verb the <b class=\"nl\">zu</b> slips inside: ein<b class=\"nl\">zu</b>reichen, ab<b class=\"nl\">zu</b>geben, nach<b class=\"nl\">zu</b>weisen.</p>\n<p>The same construction also works as an <b>attribute</b> before the noun &mdash; the <b>Gerundivum</b>: <b class=\"nl\">die <u>zu beachtenden</u> Vorschriften</b>, <b class=\"nl\">der <u>einzureichende</u> Antrag</b>. That form appears constantly in official letters.</p></div>\n\n<div class=\"rule-box\"><h4>3. sich lassen + Infinitiv &mdash; always &quot;k&ouml;nnen&quot;</h4>\n<ul>\n<li><b class=\"nl\">Das Problem l&auml;sst sich leicht l&ouml;sen.</b> = kann gel&ouml;st werden</li>\n<li><b class=\"nl\">Die Zahlen lassen sich nicht &uuml;berpr&uuml;fen.</b> = k&ouml;nnen nicht gepr&uuml;ft werden</li>\n<li><b class=\"nl\">Daraus l&auml;sst sich schlie&szlig;en, dass &hellip;</b> <i class=\"gl\">standard phrase in academic writing</i></li>\n</ul>\n<p>Unlike <b class=\"nl\">sein + zu</b>, this one never means <b>m&uuml;ssen</b>. It is also friendlier: <b class=\"nl\">Das l&auml;sst sich machen</b> is what a craftsman says; <b class=\"nl\">Das ist zu machen</b> sounds like a command.</p>\n<p>The doer can be added with <b class=\"nl\">von</b> only rarely; normally it stays hidden. If you must name it, use <b class=\"nl\">durch</b>: <b class=\"nl\">Der Fehler l&auml;sst sich <u>durch ein Update</u> beheben.</b></p></div>\n\n<div class=\"rule-box\"><h4>4. bekommen / erhalten / kriegen + Partizip II</h4>\n<p>This one solves a problem no other passive can. In a normal passive the <b>accusative</b> object becomes the subject &mdash; the <b>dative</b> object cannot:</p>\n<ul>\n<li><b class=\"nl\">Man schickte <u>ihm</u> die Dokumente.</b></li>\n<li><b class=\"nl\">Die Dokumente wurden ihm geschickt.</b> <i class=\"gl\">normal passive &mdash; the documents become subject</i></li>\n<li><b class=\"nl\"><u>Er</u> bekam die Dokumente zugeschickt.</b> <i class=\"gl\">Dativpassiv &mdash; the person becomes subject</i></li>\n</ul>\n<p>Use it when the <b>receiver</b> matters more than the thing. <b class=\"nl\">erhalten</b> is the formal variant, <b class=\"nl\">kriegen</b> the colloquial one:</p>\n<ul>\n<li><b class=\"nl\">Sie erhielt den Bescheid zugestellt.</b> <i class=\"gl\">Amtsdeutsch</i></li>\n<li><b class=\"nl\">Er kriegt das Gehalt &uuml;berwiesen.</b> <i class=\"gl\">gesprochen</i></li>\n</ul>\n<p>It only works with verbs that take a dative person: <b class=\"nl\">schicken, senden, zustellen, &uuml;berweisen, erkl&auml;ren, schenken, bewilligen</b>.</p></div>\n\n<div class=\"rule-box\"><h4>5. Adjectives that carry the passive</h4>\n<table class=\"vocab-table\"><thead><tr><th>Suffix</th><th>Meaning</th><th>Example</th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">-bar</b></td><td>can be done</td><td>l&ouml;sbar, nachweisbar, vergleichbar, machbar</td></tr>\n<tr><td><b class=\"nl\">-lich</b></td><td>can be done <i class=\"gl\">(older, fewer words)</i></td><td>verst&auml;ndlich, unverzeihlich, k&auml;uflich</td></tr>\n<tr><td><b class=\"nl\">-f&auml;hig</b></td><td>able to undergo / to do</td><td>tragf&auml;hig, ausbauf&auml;hig, zahlungsf&auml;hig</td></tr>\n<tr><td><b class=\"nl\">-wert</b></td><td>worth doing</td><td>lesenswert, erstrebenswert, sehenswert</td></tr>\n</tbody></table>\n<p><b class=\"nl\">-bar</b> is the productive one: you can build it from almost any transitive verb. Watch the negation &mdash; German prefers <b class=\"nl\">un-</b> to <b class=\"nl\">nicht</b>: <b class=\"nl\">unl&ouml;sbar, unbezahlbar, nicht nachweisbar</b>.</p></div>\n\n<div class=\"rule-box\"><h4>6. Three more you will meet</h4>\n<ul>\n<li><b>Reflexiv als Aussage &uuml;ber die Sache:</b> <b class=\"nl\">Das Buch verkauft sich gut. Der Text liest sich fl&uuml;ssig. Hier arbeitet es sich angenehm.</b></li>\n<li><b>geh&ouml;ren + Partizip II</b> &mdash; strong opinion, almost a demand: <b class=\"nl\">Das geh&ouml;rt verboten. Der Antrag geh&ouml;rt gepr&uuml;ft.</b></li>\n<li><b>es gilt / es bleibt / es gibt + zu + Infinitiv:</b> <b class=\"nl\">Es gilt zu bedenken, dass &hellip; / Es bleibt abzuwarten, ob &hellip; / Da gibt es nichts zu &uuml;berlegen.</b></li>\n</ul>\n<div class=\"tip\"><b>C1 exam:</b> Being able to switch between these forms is worth more than knowing rare vocabulary. If a task says <i>&bdquo;Formulieren Sie um&ldquo;</i>, it almost always means: turn <b class=\"nl\">kann gel&ouml;st werden</b> into <b class=\"nl\">l&auml;sst sich l&ouml;sen</b> or <b class=\"nl\">ist l&ouml;sbar</b>.</div></div>\n",
+ "instr": "Rewrite the passive using the form indicated.",
+ "groups": [
+  {
+   "title": "Vier Wege &middot; The Same Sentence Four Ways",
+   "items": [
+    {
+     "de": "Das Problem kann gel&ouml;st werden.",
+     "en": "The problem can be solved.",
+     "note": "Ausgangsform: Passiv mit Modalverb"
+    },
+    {
+     "de": "Das Problem ist zu l&ouml;sen.",
+     "en": "The problem can be solved.",
+     "note": "sein + zu + Infinitiv"
+    },
+    {
+     "de": "Das Problem l&auml;sst sich l&ouml;sen.",
+     "en": "The problem can be solved.",
+     "note": "sich lassen + Infinitiv"
+    },
+    {
+     "de": "Das Problem ist l&ouml;sbar.",
+     "en": "The problem is solvable.",
+     "note": "Adjektiv auf -bar"
+    },
+    {
+     "de": "Die Zahlen lassen sich nicht &uuml;berpr&uuml;fen.",
+     "en": "The figures cannot be verified.",
+     "note": "Verneinung mit lassen"
+    },
+    {
+     "de": "Die Zahlen sind nicht nachweisbar.",
+     "en": "The figures cannot be substantiated.",
+     "note": "Verneinung mit -bar"
+    }
+   ]
+  },
+  {
+   "title": "sein + zu &middot; k&ouml;nnen oder m&uuml;ssen?",
+   "items": [
+    {
+     "de": "Das Problem ist leicht zu l&ouml;sen.",
+     "en": "The problem is easy to solve.",
+     "note": "leicht &rarr; Lesart k&ouml;nnen"
+    },
+    {
+     "de": "Der Antrag ist bis Freitag einzureichen.",
+     "en": "The application must be submitted by Friday.",
+     "note": "Frist &rarr; Lesart m&uuml;ssen"
+    },
+    {
+     "de": "Die Vorschriften sind unbedingt zu beachten.",
+     "en": "The regulations must be observed.",
+     "note": "reines Amtsdeutsch"
+    },
+    {
+     "de": "Die Unterlagen sind vollst&auml;ndig vorzulegen.",
+     "en": "The documents must be submitted in full.",
+     "note": "trennbares Verb: vor-zu-legen"
+    },
+    {
+     "de": "die zu beachtenden Vorschriften",
+     "en": "the regulations to be observed",
+     "note": "Gerundivum als Attribut"
+    },
+    {
+     "de": "der einzureichende Antrag",
+     "en": "the application to be submitted",
+     "note": "Gerundivum, trennbar"
+    },
+    {
+     "de": "die noch zu kl&auml;renden Fragen",
+     "en": "the questions still to be clarified",
+     "note": "typisch f&uuml;r Protokolle"
+    }
+   ]
+  },
+  {
+   "title": "Dativpassiv &middot; When the Person Becomes Subject",
+   "items": [
+    {
+     "de": "Man schickte ihm die Dokumente.",
+     "en": "They sent him the documents.",
+     "note": "Aktivsatz mit Dativobjekt"
+    },
+    {
+     "de": "Die Dokumente wurden ihm zugeschickt.",
+     "en": "The documents were sent to him.",
+     "note": "normales Passiv &mdash; Sache wird Subjekt"
+    },
+    {
+     "de": "Er bekam die Dokumente zugeschickt.",
+     "en": "He got the documents sent to him.",
+     "note": "Dativpassiv &mdash; Person wird Subjekt"
+    },
+    {
+     "de": "Sie erhielt den Bescheid zugestellt.",
+     "en": "She was served the decision.",
+     "note": "erhalten &mdash; die f&ouml;rmliche Variante"
+    },
+    {
+     "de": "Er kriegt das Gehalt &uuml;berwiesen.",
+     "en": "He gets his salary transferred.",
+     "note": "kriegen &mdash; gesprochen"
+    },
+    {
+     "de": "Der Antrag bekam eine Frist gesetzt.",
+     "en": "The application was given a deadline.",
+     "note": "funktioniert nur mit Dativverben"
+    },
+    {
+     "de": "Sie bekam den Sachverhalt ausf&uuml;hrlich erkl&auml;rt.",
+     "en": "She had the matter explained to her in detail.",
+     "note": "erkl&auml;ren nimmt Dativ"
+    }
+   ]
+  },
+  {
+   "title": "Adjektive &amp; Sonderformen &middot; -bar, reflexiv, es gilt zu",
+   "items": [
+    {
+     "de": "Die Ergebnisse sind vergleichbar.",
+     "en": "The results are comparable.",
+     "note": "-bar vom transitiven Verb"
+    },
+    {
+     "de": "Der Plan ist durchaus machbar.",
+     "en": "The plan is quite feasible.",
+     "note": "-bar, umgangssprachlich gebr&auml;uchlich"
+    },
+    {
+     "de": "Die Kosten sind unbezahlbar geworden.",
+     "en": "The costs have become unaffordable.",
+     "note": "Verneinung mit un-"
+    },
+    {
+     "de": "Das Modell ist ausbauf&auml;hig.",
+     "en": "The model has potential for development.",
+     "note": "-f&auml;hig"
+    },
+    {
+     "de": "Der Bericht ist lesenswert.",
+     "en": "The report is worth reading.",
+     "note": "-wert"
+    },
+    {
+     "de": "Das Buch verkauft sich gut.",
+     "en": "The book sells well.",
+     "note": "Reflexiv als Aussage &uuml;ber die Sache"
+    },
+    {
+     "de": "Der Text liest sich fl&uuml;ssig.",
+     "en": "The text reads smoothly.",
+     "note": "dasselbe Muster"
+    },
+    {
+     "de": "Das geh&ouml;rt gr&uuml;ndlich gepr&uuml;ft.",
+     "en": "That ought to be examined thoroughly.",
+     "note": "geh&ouml;ren + Partizip &mdash; Forderung"
+    },
+    {
+     "de": "Es gilt zu bedenken, dass die Frist l&auml;uft.",
+     "en": "It should be borne in mind that the deadline is running.",
+     "note": "es gilt zu &mdash; akademisch"
+    },
+    {
+     "de": "Es bleibt abzuwarten, ob die Reform wirkt.",
+     "en": "It remains to be seen whether the reform works.",
+     "note": "es bleibt zu &mdash; sehr h&auml;ufig"
+    }
+   ]
+  }
+ ]
+}

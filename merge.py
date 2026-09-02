@@ -21,7 +21,7 @@ src_vocab = load(os.path.join(SRC, "vocab.json"), {})     # {unit:[{n,en,...}]}
 src_groups = load(os.path.join(SRC, "groups.json"), {})   # {unit:[title,...]}
 src_match = load(os.path.join(SRC, "match.json"), {})      # {unit:[{de,en}]}
 
-TR = {"vm": {}, "ve": {}, "ut": {}, "gt": {}, "mt": {}, "rd": {}, "dl": {}, "gr": {}}
+TR = {"vm": {}, "ve": {}, "ut": {}, "gt": {}, "mt": {}, "rd": {}, "dl": {}, "gr": {}, "grx": {}}
 UI = {}
 
 langs = []
@@ -112,6 +112,24 @@ for lang in langs:
                 g = {"t": gobj.get("t", ""), "s": gobj.get("s", ""), "tag": gobj.get("tag", "")}
                 if any(g.values()):
                     TR["gr"].setdefault(str(gn), {})[lang] = g
+
+    # grammar content -> grx  (c1_tr/<lang>/grammar/lesson_N.json = {rule,instr,groups[],items{}})
+    gdir = os.path.join(base, "grammar")
+    if os.path.isdir(gdir):
+        for fn in os.listdir(gdir):
+            mo = re.match(r"lesson_(\d+)\.json$", fn)
+            if not mo:
+                continue
+            ln = mo.group(1)
+            data = load(os.path.join(gdir, fn), {}) or {}
+            bundle = {}
+            if data.get("rule"): bundle["rule"] = data["rule"]
+            if data.get("instr"): bundle["instr"] = data["instr"]
+            if isinstance(data.get("groups"), list): bundle["groups"] = data["groups"]
+            if isinstance(data.get("items"), dict): bundle["items"] = data["items"]
+            if bundle:
+                TR["grx"].setdefault(ln, {})[lang] = bundle
+                cnt["grammar_content"] = cnt.get("grammar_content", 0) + 1
 
     # UI
     ui = load(os.path.join(base, "ui.json"), None)

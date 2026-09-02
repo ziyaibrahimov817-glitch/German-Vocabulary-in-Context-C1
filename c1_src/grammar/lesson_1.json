@@ -1,0 +1,158 @@
+{
+ "n": 1,
+ "title_de": "Satzklammer &amp; Mittelfeld",
+ "rule": "\n<div class=\"rule-box\"><h4>1. The sentence bracket &mdash; the frame everything sits in</h4>\n<p>A German main clause holds its verb parts apart. The finite verb stands in <b>position 2</b>, everything else the verb needs goes to the <b>very end</b>. Between them lies the <i>Mittelfeld</i> &mdash; and at C1 that middle field gets long.</p>\n<table class=\"vocab-table\"><thead><tr><th>Vorfeld</th><th>Verb 2</th><th>Mittelfeld</th><th>Satzende</th></tr></thead>\n<tbody>\n<tr><td>Die Regierung</td><td><b class=\"nl\">h&auml;tte</b></td><td>die geplante Reform aufgrund der zunehmenden Kritik fr&uuml;her</td><td><b class=\"nl\">&uuml;berarbeiten m&uuml;ssen</b></td></tr>\n<tr><td>Der Ausschuss</td><td><b class=\"nl\">hat</b></td><td>den Antrag gestern aus formalen Gr&uuml;nden einstimmig</td><td><b class=\"nl\">zur&uuml;ckgewiesen</b></td></tr>\n</tbody></table>\n<p>The reader has to hold the opening in mind until the closing bracket arrives. That is why German administrative prose feels heavy &mdash; and why writing it well means keeping the middle field <b>ordered</b>.</p></div>\n\n<div class=\"rule-box\"><h4>2. What order does the Mittelfeld follow?</h4>\n<p>There is no law, but there is a strong default. Learn it as a chain:</p>\n<p style=\"text-align:center;font-size:14px;\"><b class=\"nl\">Subjekt &rarr; Zeit &rarr; Grund &rarr; Art und Weise &rarr; Ort &rarr; Akkusativobjekt</b></p>\n<p>The German school formula is <b class=\"nl\">TeKaMoLo</b>: <b>Te</b>mporal, <b>Ka</b>usal, <b>Mo</b>dal, <b>Lo</b>kal &mdash; when, why, how, where.</p>\n<ul>\n<li><b class=\"nl\">Der Minister hat <u>gestern</u> <u>wegen der Kritik</u> <u>&uuml;berraschend</u> <u>in Berlin</u> zur&uuml;ckgetreten.</b></li>\n<li><b class=\"nl\">Die Kommission wird <u>im Herbst</u> <u>aufgrund neuer Daten</u> <u>schrittweise</u> <u>in allen Bundesl&auml;ndern</u> pr&uuml;fen.</b></li>\n</ul>\n<p>Pronouns break the rule: they push to the <b>front</b> of the middle field, right after the finite verb &mdash; <b class=\"nl\">Der Beamte hat <u>es ihr</u> gestern erkl&auml;rt.</b> And among pronouns the order is fixed: <b class=\"nl\">Nominativ &ndash; Akkusativ &ndash; Dativ</b>.</p></div>\n\n<div class=\"rule-box\"><h4>3. Definite before indefinite</h4>\n<p>Known information stands early, new information late. That is why the article decides the position:</p>\n<ul>\n<li><b class=\"nl\">Ich habe <u>dem Kollegen</u> <u>einen Vorschlag</u> gemacht.</b> <i class=\"gl\">known person, new proposal</i></li>\n<li><b class=\"nl\">Ich habe <u>den Vorschlag</u> <u>einem Kollegen</u> gemacht.</b> <i class=\"gl\">known proposal, new person</i></li>\n</ul>\n<p>Both are correct. They simply answer different questions. In academic writing this is the main tool for building a chain of thought: end each sentence with the word the next sentence will pick up.</p></div>\n\n<div class=\"rule-box\"><h4>4. Complex verb groups at the end</h4>\n<p>The closing bracket can hold three or four parts. They stack in a fixed order &mdash; and the finite verb, which normally comes second, jumps to the <b>front</b> of the group in a subordinate clause:</p>\n<table class=\"vocab-table\"><thead><tr><th>Construction</th><th>Sentence end</th></tr></thead>\n<tbody>\n<tr><td>Perfekt + Modalverb</td><td><b class=\"nl\">&hellip; &uuml;berarbeiten <u>m&uuml;ssen</u></b></td></tr>\n<tr><td>Passiv + Modalverb</td><td><b class=\"nl\">&hellip; gepr&uuml;ft werden <u>m&uuml;ssen</u></b></td></tr>\n<tr><td>Passiv Perfekt</td><td><b class=\"nl\">&hellip; gepr&uuml;ft worden <u>sein</u></b></td></tr>\n<tr><td>im Nebensatz</td><td><b class=\"nl\">&hellip;, weil sie <u>h&auml;tte</u> &uuml;berarbeitet werden m&uuml;ssen.</b></td></tr>\n</tbody></table>\n<p>That last line is the famous <b>Ersatzinfinitiv</b>: with a modal verb in the perfect, the auxiliary <b class=\"nl\">h&auml;tte</b> moves in front instead of standing last. Nobody says <s>&hellip; weil sie &uuml;berarbeitet werden m&uuml;ssen h&auml;tte</s>.</p></div>\n\n<div class=\"rule-box\"><h4>5. Combining main and subordinate clauses</h4>\n<p>Once the sentence carries two or three clauses, the position of the subordinate clause changes the emphasis:</p>\n<ul>\n<li><b class=\"nl\"><u>Da die Kritik zunahm</u>, musste die Reform &uuml;berarbeitet werden.</b> <i class=\"gl\">reason first &mdash; the subordinate clause fills the Vorfeld, so the verb follows immediately</i></li>\n<li><b class=\"nl\">Die Reform musste &uuml;berarbeitet werden, <u>da die Kritik zunahm</u>.</b> <i class=\"gl\">result first, reason added</i></li>\n<li><b class=\"nl\">Die Reform, <u>die seit Monaten umstritten war</u>, musste &uuml;berarbeitet werden.</b> <i class=\"gl\">clause pushed inside &mdash; the bracket still closes at the end</i></li>\n</ul>\n<p>A subordinate clause in the Vorfeld counts as <b>one single element</b>. Everything else must then wait: <b class=\"nl\">Obwohl der Ausschuss getagt hatte, <u>wurde</u> keine Entscheidung getroffen.</b></p></div>\n\n<div class=\"rule-box\"><h4>6. When to break the bracket &mdash; Ausklammerung</h4>\n<p>Written German allows moving heavy parts <b>behind</b> the closing bracket, especially comparisons and long prepositional phrases:</p>\n<ul>\n<li><b class=\"nl\">Die Kosten sind gestiegen <u>um mehr als zwanzig Prozent</u>.</b></li>\n<li><b class=\"nl\">Er hat mehr erreicht <u>als alle erwartet hatten</u>.</b></li>\n</ul>\n<div class=\"tip\"><b>Style at C1:</b> German officialese loves the long middle field &mdash; and that is exactly what makes it hard to read. Good academic writing keeps the bracket <b>short</b>: one clear Mittelfeld, then close. If more than about seven words sit between the two verb parts, split the sentence.</div></div>\n",
+ "instr": "Put the elements in the standard order (TeKaMoLo) or complete the verb group.",
+ "groups": [
+  {
+   "title": "Das Mittelfeld &middot; TeKaMoLo Step by Step",
+   "items": [
+    {
+     "de": "Der Ausschuss hat den Antrag gestern zur&uuml;ckgewiesen.",
+     "en": "The committee rejected the application yesterday.",
+     "note": "Grundger&uuml;st: Verb 2, Partizip am Ende"
+    },
+    {
+     "de": "Der Ausschuss hat den Antrag gestern aus formalen Gr&uuml;nden zur&uuml;ckgewiesen.",
+     "en": "The committee rejected the application yesterday on formal grounds.",
+     "note": "+ Grund"
+    },
+    {
+     "de": "Der Ausschuss hat den Antrag gestern aus formalen Gr&uuml;nden einstimmig zur&uuml;ckgewiesen.",
+     "en": "The committee unanimously rejected the application yesterday on formal grounds.",
+     "note": "+ Art und Weise"
+    },
+    {
+     "de": "Der Ausschuss hat den Antrag gestern aus formalen Gr&uuml;nden einstimmig in nicht&ouml;ffentlicher Sitzung zur&uuml;ckgewiesen.",
+     "en": "The committee unanimously rejected the application yesterday on formal grounds in a closed session.",
+     "note": "+ Ort &mdash; TeKaMoLo komplett"
+    },
+    {
+     "de": "Die Beh&ouml;rde wird die Unterlagen im Herbst pr&uuml;fen.",
+     "en": "The authority will examine the documents in autumn.",
+     "note": "Zeit vor Objekt"
+    },
+    {
+     "de": "Der Beamte hat es ihr gestern ausf&uuml;hrlich erkl&auml;rt.",
+     "en": "The official explained it to her in detail yesterday.",
+     "note": "Pronomen zuerst: Akkusativ vor Dativ"
+    },
+    {
+     "de": "Ich habe dem Kollegen einen Vorschlag gemacht.",
+     "en": "I made a suggestion to my colleague.",
+     "note": "bekannt vor neu"
+    },
+    {
+     "de": "Ich habe den Vorschlag einem Kollegen gemacht.",
+     "en": "I made the suggestion to a colleague.",
+     "note": "umgekehrte Informationsstruktur"
+    }
+   ]
+  },
+  {
+   "title": "Komplexe Verbgruppen &middot; Three or Four Parts at the End",
+   "items": [
+    {
+     "de": "Die Regierung h&auml;tte die Reform fr&uuml;her &uuml;berarbeiten m&uuml;ssen.",
+     "en": "The government should have revised the reform earlier.",
+     "note": "Perfekt + Modalverb"
+    },
+    {
+     "de": "Der Antrag h&auml;tte gr&uuml;ndlicher gepr&uuml;ft werden m&uuml;ssen.",
+     "en": "The application should have been examined more thoroughly.",
+     "note": "Passiv + Modalverb"
+    },
+    {
+     "de": "Die Unterlagen sollen bereits gepr&uuml;ft worden sein.",
+     "en": "The documents are said to have already been examined.",
+     "note": "Passiv Perfekt + Modalverb"
+    },
+    {
+     "de": "Man wird die Folgen erst sp&auml;ter absch&auml;tzen k&ouml;nnen.",
+     "en": "The consequences will only be assessable later.",
+     "note": "Futur + Modalverb"
+    },
+    {
+     "de": "&hellip;, weil die Reform h&auml;tte &uuml;berarbeitet werden m&uuml;ssen.",
+     "en": "&hellip; because the reform would have had to be revised.",
+     "note": "Ersatzinfinitiv: h&auml;tte r&uuml;ckt nach vorn"
+    },
+    {
+     "de": "&hellip;, obwohl niemand hat reagieren k&ouml;nnen.",
+     "en": "&hellip; although nobody has been able to react.",
+     "note": "Ersatzinfinitiv mit hat"
+    }
+   ]
+  },
+  {
+   "title": "Haupt- und Nebensatz &middot; Where to Put the Reason",
+   "items": [
+    {
+     "de": "Da die Kritik zunahm, musste die Reform &uuml;berarbeitet werden.",
+     "en": "As criticism grew, the reform had to be revised.",
+     "note": "Nebensatz im Vorfeld &rarr; Verb folgt sofort"
+    },
+    {
+     "de": "Die Reform musste &uuml;berarbeitet werden, da die Kritik zunahm.",
+     "en": "The reform had to be revised, as criticism grew.",
+     "note": "Grund nachgestellt"
+    },
+    {
+     "de": "Die Reform, die seit Monaten umstritten war, musste &uuml;berarbeitet werden.",
+     "en": "The reform, which had been contested for months, had to be revised.",
+     "note": "Relativsatz eingeschoben, Klammer bleibt"
+    },
+    {
+     "de": "Obwohl der Ausschuss getagt hatte, wurde keine Entscheidung getroffen.",
+     "en": "Although the committee had met, no decision was taken.",
+     "note": "Vorfeld belegt &rarr; wurde folgt"
+    },
+    {
+     "de": "Die Kosten sind gestiegen um mehr als zwanzig Prozent.",
+     "en": "Costs have risen by more than twenty per cent.",
+     "note": "Ausklammerung der Vergleichsangabe"
+    },
+    {
+     "de": "Er hat mehr erreicht, als alle erwartet hatten.",
+     "en": "He achieved more than everyone had expected.",
+     "note": "Vergleichssatz hinter der Klammer"
+    }
+   ]
+  },
+  {
+   "title": "Politik &amp; Verwaltung &middot; Read These Aloud",
+   "items": [
+    {
+     "de": "Der Bescheid ist dem Antragsteller ordnungsgem&auml;&szlig; zugestellt worden.",
+     "en": "The decision was duly served on the applicant.",
+     "note": "Beh&ouml;rdendeutsch, Passiv Perfekt"
+    },
+    {
+     "de": "&Uuml;ber den Widerspruch wird binnen drei Monaten entschieden.",
+     "en": "The objection will be decided upon within three months.",
+     "note": "unpers&ouml;nliches Passiv"
+    },
+    {
+     "de": "Die Frist h&auml;tte bereits im Mai eingehalten werden m&uuml;ssen.",
+     "en": "The deadline should already have been met in May.",
+     "note": "volle Verbgruppe"
+    },
+    {
+     "de": "Dem Antrag konnte aus den genannten Gr&uuml;nden nicht entsprochen werden.",
+     "en": "The application could not be granted for the reasons stated.",
+     "note": "typische Ablehnungsformel"
+    },
+    {
+     "de": "Sollten Sie damit nicht einverstanden sein, steht Ihnen der Rechtsweg offen.",
+     "en": "Should you not agree, legal recourse is open to you.",
+     "note": "Konditional ohne wenn"
+    },
+    {
+     "de": "Die Kommission hat sich in ihrer gestrigen Sitzung mit der Frage befasst.",
+     "en": "The commission dealt with the question in yesterday's session.",
+     "note": "Reflexivpronomen fr&uuml;h im Mittelfeld"
+    }
+   ]
+  }
+ ]
+}

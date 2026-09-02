@@ -1,0 +1,163 @@
+{
+ "n": 9,
+ "title_de": "Koh&auml;sion &amp; Konnektoren",
+ "rule": "\n<div class=\"rule-box\"><h4>1. Three kinds of connector &mdash; and each moves the verb differently</h4>\n<p>This is the grammar behind the whole unit. German connectors fall into three classes, and choosing the wrong class produces the classic C1 word-order mistake:</p>\n<table class=\"vocab-table\"><thead><tr><th>Klasse</th><th>Wortstellung</th><th>Beispiel</th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">Konjunktion</b><br><i class=\"gl\">und, aber, denn, sondern, oder</i></td><td>counts as position <b>0</b> &mdash; nothing changes</td><td>Die Kosten stiegen, <b class=\"nl\">denn</b> <u>die Nachfrage</u> <u>war</u> hoch.</td></tr>\n<tr><td><b class=\"nl\">Subjunktion</b><br><i class=\"gl\">weil, obwohl, da, w&auml;hrend</i></td><td>verb goes to the <b>end</b></td><td>&hellip;, <b class=\"nl\">weil</b> die Nachfrage hoch <u>war</u>.</td></tr>\n<tr><td><b class=\"nl\">Konjunktionaladverb</b><br><i class=\"gl\">folglich, dennoch, hingegen</i></td><td>fills position <b>1</b> &rarr; <b>verb second</b></td><td><b class=\"nl\">Folglich</b> <u>stiegen</u> die Kosten.</td></tr>\n</tbody></table>\n<p>The third row is the one that costs points. <b class=\"nl\">Folglich</b>, <b class=\"nl\">deshalb</b>, <b class=\"nl\">dennoch</b> are <b>adverbs</b>, not conjunctions: the verb must follow immediately. <s>Folglich die Kosten stiegen</s> is wrong.</p>\n<p>The same meaning, three grammars: <b class=\"nl\">weil</b> (Verb ans Ende) &ndash; <b class=\"nl\">denn</b> (nichts &auml;ndert sich) &ndash; <b class=\"nl\">deshalb</b> (Verb an Position 2).</p></div>\n\n<div class=\"rule-box\"><h4>2. Folge und Grund</h4>\n<table class=\"vocab-table\"><thead><tr><th>Konnektor</th><th>Register</th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">deshalb, darum, deswegen</b></td><td>neutral</td></tr>\n<tr><td><b class=\"nl\">folglich, demzufolge</b></td><td>formal, logical conclusion</td></tr>\n<tr><td><b class=\"nl\">dementsprechend, entsprechend</b></td><td>formal &mdash; &quot;in line with that&quot;</td></tr>\n<tr><td><b class=\"nl\">infolgedessen</b></td><td>very formal, written only</td></tr>\n<tr><td><b class=\"nl\">somit, mithin</b></td><td>academic conclusion</td></tr>\n</tbody></table>\n<ul>\n<li><b class=\"nl\">Die Nachfrage ist gestiegen. <u>Dementsprechend</u> wurden die Preise erh&ouml;ht.</b></li>\n<li><b class=\"nl\">Die Daten fehlen. <u>Folglich</u> l&auml;sst sich die These nicht pr&uuml;fen.</b></li>\n<li><b class=\"nl\">Die Frist verstrich. <u>Infolgedessen</u> erlosch der Anspruch.</b></li>\n</ul></div>\n\n<div class=\"rule-box\"><h4>3. Gegensatz und Einschr&auml;nkung</h4>\n<p>German distinguishes finely here, and the choice tells the reader how strong the objection is:</p>\n<table class=\"vocab-table\"><thead><tr><th>Konnektor</th><th>Nuance</th></tr></thead>\n<tbody>\n<tr><td><b class=\"nl\">hingegen, dagegen</b></td><td>plain contrast &mdash; two things side by side</td></tr>\n<tr><td><b class=\"nl\">demgegen&uuml;ber</b></td><td>formal contrast, often with figures</td></tr>\n<tr><td><b class=\"nl\">dennoch, trotzdem</b></td><td>concession &mdash; it happens anyway</td></tr>\n<tr><td><b class=\"nl\">nichtsdestotrotz, gleichwohl</b></td><td>same, but markedly formal</td></tr>\n<tr><td><b class=\"nl\">allerdings, freilich</b></td><td>a reservation added to your own claim</td></tr>\n<tr><td><b class=\"nl\">vielmehr</b></td><td>corrects the previous statement</td></tr>\n<tr><td><b class=\"nl\">zwar &hellip; aber</b></td><td>concede first, then object</td></tr>\n</tbody></table>\n<ul>\n<li><b class=\"nl\">Die Reform bringt Vorteile. <u>Dennoch</u> sind die Folgen unklar.</b></li>\n<li><b class=\"nl\">Im Norden sank die Zahl. <u>Demgegen&uuml;ber</u> stieg sie im S&uuml;den deutlich.</b></li>\n<li><b class=\"nl\">Die Studie ist sorgf&auml;ltig. <u>Allerdings</u> ist die Stichprobe klein.</b></li>\n<li><b class=\"nl\">Es geht nicht um Geschwindigkeit. <u>Vielmehr</u> z&auml;hlt die Qualit&auml;t.</b></li>\n</ul>\n<div class=\"tip\"><b>Classic error:</b> <b class=\"nl\">trotzdem</b> is an adverb, <b class=\"nl\">obwohl</b> a subjunction. <b class=\"nl\">Obwohl es regnete, gingen wir.</b> / <b class=\"nl\">Es regnete. <u>Trotzdem gingen</u> wir.</b> Never <s>trotzdem es regnete</s>.</div></div>\n\n<div class=\"rule-box\"><h4>4. Erg&auml;nzung, Bezug, Einordnung</h4>\n<table class=\"vocab-table\"><thead><tr><th>Funktion</th><th>Konnektoren</th></tr></thead>\n<tbody>\n<tr><td>adding</td><td><b class=\"nl\">dar&uuml;ber hinaus, zudem, ferner, &uuml;berdies, des Weiteren</b></td></tr>\n<tr><td>referring back</td><td><b class=\"nl\">diesbez&uuml;glich, hierzu, dazu, in diesem Zusammenhang</b></td></tr>\n<tr><td>limiting the claim</td><td><b class=\"nl\">insofern, insoweit, in dieser Hinsicht</b></td></tr>\n<tr><td>ordering</td><td><b class=\"nl\">zun&auml;chst, sodann, schlie&szlig;lich, abschlie&szlig;end</b></td></tr>\n<tr><td>giving an example</td><td><b class=\"nl\">so, etwa, beispielsweise, namentlich</b></td></tr>\n</tbody></table>\n<ul>\n<li><b class=\"nl\">Die Kosten sind hoch. <u>Dar&uuml;ber hinaus</u> fehlt qualifiziertes Personal.</b></li>\n<li><b class=\"nl\"><u>Diesbez&uuml;glich</u> liegen keine Daten vor.</b></li>\n<li><b class=\"nl\">Die Kritik trifft zu, <u>insofern</u> die Datenlage schwach ist.</b> <i class=\"gl\">as a subjunction: verb at the end</i></li>\n</ul>\n<p>Watch <b class=\"nl\">insofern</b>: it works both as adverb (<i>in that respect</i>) and as subjunction with <b class=\"nl\">als</b> (<b class=\"nl\">insofern als</b> &mdash; verb final).</p></div>\n\n<div class=\"rule-box\"><h4>5. Where the connector stands</h4>\n<p>A Konjunktionaladverb has two possible slots, and they weight the sentence differently:</p>\n<ul>\n<li><b class=\"nl\"><u>Dennoch</u> sind die Folgen unklar.</b> <i class=\"gl\">Vorfeld &mdash; the contrast is the point</i></li>\n<li><b class=\"nl\">Die Folgen sind <u>dennoch</u> unklar.</b> <i class=\"gl\">Mittelfeld &mdash; softer, less emphatic</i></li>\n</ul>\n<p>Two connectors in a row are allowed only if they do different jobs: <b class=\"nl\">Zudem ist allerdings zu bedenken, dass &hellip;</b> Piling up three is a stylistic fault.</p></div>\n\n<div class=\"rule-box\"><h4>6. Cohesion beyond connectors</h4>\n<p>A text does not hold together through connectors alone. Three quieter devices carry most of the work:</p>\n<ul>\n<li><b>Article change:</b> the first mention takes <b class=\"nl\">ein</b>, every later one <b class=\"nl\">der</b> &mdash; <i class=\"gl\">Es wurde <u>eine</u> Studie ver&ouml;ffentlicht. <u>Die</u> Studie widerlegt &hellip;</i></li>\n<li><b>Nominalisation pickup:</b> end one sentence with a verb, start the next with its noun &mdash; <i class=\"gl\">Die Preise <u>stiegen</u> stark. <u>Dieser Anstieg</u> traf vor allem Mieter.</i></li>\n<li><b>Pronominaladverbien:</b> <b class=\"nl\">dabei, dadurch, daf&uuml;r, davon, hierbei, hierzu</b> replace a whole preceding idea &mdash; <i class=\"gl\">Die Kommission tagte. <u>Dabei</u> wurde deutlich, dass &hellip;</i></li>\n</ul>\n<div class=\"tip\"><b>Writing an argumentative text:</b> use a connector where the logic <b>turns</b>, not in every sentence. A paragraph with a connector in each line reads like a list of signposts with no road between them.</div></div>\n",
+ "instr": "Insert the connector and put the verb in the right place.",
+ "groups": [
+  {
+   "title": "Drei Klassen &middot; Where the Verb Goes",
+   "items": [
+    {
+     "de": "Die Kosten stiegen, weil die Nachfrage hoch war.",
+     "en": "Costs rose because demand was high.",
+     "note": "Subjunktion &rarr; Verb ans Ende"
+    },
+    {
+     "de": "Die Kosten stiegen, denn die Nachfrage war hoch.",
+     "en": "Costs rose, for demand was high.",
+     "note": "Konjunktion &rarr; nichts &auml;ndert sich"
+    },
+    {
+     "de": "Die Nachfrage war hoch. Deshalb stiegen die Kosten.",
+     "en": "Demand was high. That is why costs rose.",
+     "note": "Adverb &rarr; Verb an Position 2"
+    },
+    {
+     "de": "Obwohl es regnete, gingen wir spazieren.",
+     "en": "Although it was raining, we went for a walk.",
+     "note": "Subjunktion obwohl"
+    },
+    {
+     "de": "Es regnete. Trotzdem gingen wir spazieren.",
+     "en": "It was raining. We went for a walk nonetheless.",
+     "note": "Adverb trotzdem &mdash; nicht wie obwohl"
+    },
+    {
+     "de": "Dennoch sind die Folgen unklar.",
+     "en": "Nonetheless the consequences are unclear.",
+     "note": "Vorfeld &mdash; betont den Gegensatz"
+    },
+    {
+     "de": "Die Folgen sind dennoch unklar.",
+     "en": "The consequences are nonetheless unclear.",
+     "note": "Mittelfeld &mdash; weicher"
+    }
+   ]
+  },
+  {
+   "title": "Folge &middot; folglich, dementsprechend, somit",
+   "items": [
+    {
+     "de": "Die Nachfrage ist gestiegen. Dementsprechend wurden die Preise erh&ouml;ht.",
+     "en": "Demand has risen. Prices were raised accordingly.",
+     "note": "dementsprechend &mdash; f&ouml;rmlich"
+    },
+    {
+     "de": "Die Daten fehlen. Folglich l&auml;sst sich die These nicht pr&uuml;fen.",
+     "en": "The data are missing. Consequently the thesis cannot be tested.",
+     "note": "folglich &mdash; logischer Schluss"
+    },
+    {
+     "de": "Die Frist verstrich. Infolgedessen erlosch der Anspruch.",
+     "en": "The deadline passed. As a result the claim lapsed.",
+     "note": "infolgedessen &mdash; sehr f&ouml;rmlich"
+    },
+    {
+     "de": "Die Pr&uuml;fung war negativ. Somit ist der Fall abgeschlossen.",
+     "en": "The examination was negative. The case is thus closed.",
+     "note": "somit &mdash; akademischer Schluss"
+    },
+    {
+     "de": "Der Vertrag l&auml;uft aus. Demzufolge entf&auml;llt die Zahlung.",
+     "en": "The contract expires. Accordingly the payment ceases.",
+     "note": "demzufolge"
+    }
+   ]
+  },
+  {
+   "title": "Gegensatz &middot; dennoch, hingegen, allerdings, vielmehr",
+   "items": [
+    {
+     "de": "Die Reform bringt Vorteile. Dennoch sind die Folgen unklar.",
+     "en": "The reform brings advantages. Nonetheless the consequences are unclear.",
+     "note": "dennoch &mdash; Einr&auml;umung"
+    },
+    {
+     "de": "Im Norden sank die Zahl. Demgegen&uuml;ber stieg sie im S&uuml;den.",
+     "en": "In the north the figure fell. In contrast it rose in the south.",
+     "note": "demgegen&uuml;ber &mdash; oft mit Zahlen"
+    },
+    {
+     "de": "Die Kosten sinken. Die Qualit&auml;t hingegen bleibt gleich.",
+     "en": "Costs are falling. Quality, however, stays the same.",
+     "note": "hingegen &mdash; schlichter Gegensatz"
+    },
+    {
+     "de": "Die Studie ist sorgf&auml;ltig. Allerdings ist die Stichprobe klein.",
+     "en": "The study is careful. However, the sample is small.",
+     "note": "allerdings &mdash; eigener Vorbehalt"
+    },
+    {
+     "de": "Nichtsdestotrotz bleibt die Kritik berechtigt.",
+     "en": "Nonetheless the criticism remains justified.",
+     "note": "nichtsdestotrotz &mdash; betont f&ouml;rmlich"
+    },
+    {
+     "de": "Es geht nicht um Geschwindigkeit. Vielmehr z&auml;hlt die Qualit&auml;t.",
+     "en": "It is not about speed. Rather, quality counts.",
+     "note": "vielmehr &mdash; korrigiert"
+    },
+    {
+     "de": "Die Reform ist zwar teuer, aber notwendig.",
+     "en": "The reform is expensive, to be sure, but necessary.",
+     "note": "zwar &hellip; aber &mdash; erst zugeben, dann einwenden"
+    }
+   ]
+  },
+  {
+   "title": "Erg&auml;nzung &amp; Textbindung &middot; Beyond Connectors",
+   "items": [
+    {
+     "de": "Die Kosten sind hoch. Dar&uuml;ber hinaus fehlt qualifiziertes Personal.",
+     "en": "Costs are high. Moreover, qualified staff are lacking.",
+     "note": "dar&uuml;ber hinaus &mdash; erg&auml;nzt"
+    },
+    {
+     "de": "Zudem ist die Datenlage unbefriedigend.",
+     "en": "In addition the data situation is unsatisfactory.",
+     "note": "zudem &mdash; k&uuml;rzer, sehr h&auml;ufig"
+    },
+    {
+     "de": "Diesbez&uuml;glich liegen keine Daten vor.",
+     "en": "In this regard no data are available.",
+     "note": "diesbez&uuml;glich &mdash; verweist zur&uuml;ck"
+    },
+    {
+     "de": "Die Kritik trifft zu, insofern die Datenlage schwach ist.",
+     "en": "The criticism is valid insofar as the data are weak.",
+     "note": "insofern als Subjunktion &rarr; Verb ans Ende"
+    },
+    {
+     "de": "Zun&auml;chst ist der Begriff zu kl&auml;ren. Sodann folgt die Analyse.",
+     "en": "First the term must be clarified. Then the analysis follows.",
+     "note": "Gliederungssignale"
+    },
+    {
+     "de": "Es wurde eine Studie ver&ouml;ffentlicht. Die Studie widerlegt alle Annahmen.",
+     "en": "A study was published. The study refutes all assumptions.",
+     "note": "Artikelwechsel ein &rarr; der"
+    },
+    {
+     "de": "Die Preise stiegen stark. Dieser Anstieg traf vor allem Mieter.",
+     "en": "Prices rose sharply. This rise hit tenants above all.",
+     "note": "Nominalisierung nimmt den Satz auf"
+    },
+    {
+     "de": "Die Kommission tagte. Dabei wurde deutlich, dass Daten fehlen.",
+     "en": "The commission met. In doing so it became clear that data are missing.",
+     "note": "Pronominaladverb dabei"
+    }
+   ]
+  }
+ ]
+}

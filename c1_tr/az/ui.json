@@ -51,5 +51,9 @@
  "matchInstr": "Soldakı sözə, sonra sağdakı tərcüməsinə toxunun.",
  "tfInstr": "\"doğru\" və ya \"yanlış\" yazın.",
  "uSeriesPrefix": "Kontekstdə Alman Dili Lüğəti · Bölmə",
- "wordsUnit": "söz"
+ "wordsUnit": "söz",
+ "basics": "əsaslar",
+ "grammarBasics": "Qrammatika Əsasları",
+ "tfTrue": "doğru",
+ "tfFalse": "yanlış"
 }
