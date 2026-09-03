@@ -4,21 +4,23 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,viewport-fit=cover">
 <title>German Vocabulary in Context — C1</title>
-<meta name="theme-color" content="#1e1b4b">
+<meta name="theme-color" content="#172554">
 <link rel="manifest" href="manifest.json">
 <link rel="apple-touch-icon" href="icon-192.png">
 <style>
-:root{--ink:#0f172a;--paper:#f8fafc;--accent:#4f46e5;--accent2:#fcd34d;--accent-light:#e0e7ff;--red:#b91c1c;--red-light:#fee2e2;--blue:#4338ca;--border:#cbd5e1;--muted:#475569;--card:#fff;--dark-card:#1e1b4b;--green:#a16207;--green-light:#fef9c3;}
+:root{--ink:#0f172a;--paper:#f8fafc;--accent:#1e3a8a;--accent2:#fcd34d;--accent-light:#dbeafe;--red:#b91c1c;--red-light:#fee2e2;--blue:#1e40af;--border:#cbd5e1;--muted:#475569;--card:#fff;--dark-card:#172554;--green:#a16207;--green-light:#fef9c3;--navy:#0f1e46;--navy2:#1e3a8a;--gold:#fbbf24;}
 *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent;}
 body{font-family:system-ui,'Segoe UI',Arial,sans-serif;background:var(--paper);color:var(--ink);}
 #HS{display:block;}#US{display:none;}
 /* HOME */
-.home-hero{background:linear-gradient(135deg,#1e1b4b 0%,#4338ca 55%,#1e1b4b 100%);color:#fff;padding:34px 22px 26px;text-align:center;position:relative;overflow:hidden;}
-.home-hero::before{content:'';position:absolute;top:-50px;right:-50px;width:220px;height:220px;background:radial-gradient(circle,rgba(252,211,77,.30) 0%,transparent 70%);border-radius:50%;}
+.home-hero{background:linear-gradient(160deg,#0f1e46 0%,#1e3a8a 58%,#101d43 100%);color:#fff;padding:36px 22px 30px;text-align:center;position:relative;overflow:hidden;}
+.home-hero::before{content:'';position:absolute;top:-50px;right:-50px;width:220px;height:220px;background:radial-gradient(circle,rgba(252,211,77,.28) 0%,transparent 70%);border-radius:50%;}
+.home-hero .skyline{position:absolute;left:0;right:0;bottom:0;width:100%;height:54px;opacity:.55;pointer-events:none;display:block;}
 .home-series{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:#fcd34d;margin-bottom:8px;position:relative;}
-.home-hero h1{font-family:Georgia,serif;font-size:1.7rem;font-weight:700;margin-bottom:6px;position:relative;line-height:1.2;}
+.home-hero h1{font-family:Georgia,serif;font-size:1.72rem;font-weight:700;margin-bottom:8px;position:relative;line-height:1.2;}
 .home-hero h1 span{color:#fbbf24;}
-.home-hero .tag{font-size:.85rem;color:rgba(255,255,255,.65);font-style:italic;margin-bottom:16px;position:relative;}
+.home-hero .tag{font-size:.9rem;color:rgba(255,255,255,.82);margin-bottom:4px;position:relative;font-style:normal;}
+.home-hero .hero-sub{font-size:.72rem;letter-spacing:.03em;color:#fcd34d;margin-bottom:16px;position:relative;font-weight:600;}
 .home-stats{display:flex;justify-content:center;gap:14px;position:relative;}
 .hstat{background:rgba(255,255,255,.12);border-radius:12px;padding:9px 18px;text-align:center;}
 .hstat b{font-size:1.4rem;font-weight:800;display:block;line-height:1;}
@@ -36,8 +38,8 @@ body{font-family:system-ui,'Segoe UI',Arial,sans-serif;background:var(--paper);c
 .uc-en{font-size:.72rem;color:var(--muted);line-height:1.3;font-style:italic;margin-bottom:8px;}
 .uc-w{font-size:.64rem;background:var(--green-light);color:var(--green);padding:2px 9px;border-radius:20px;font-weight:700;display:inline-block;}
 /* UNIT HEADER */
-.book-header{background:linear-gradient(135deg,#1e1b4b 0%,#4338ca 60%,#1e1b4b 100%);color:#fff;position:relative;overflow:hidden;}
-.book-header::before{content:'';position:absolute;top:-40px;right:-40px;width:200px;height:200px;background:radial-gradient(circle,rgba(16,185,129,.18) 0%,transparent 70%);border-radius:50%;}
+.book-header{background:linear-gradient(160deg,#0f1e46 0%,#1e3a8a 58%,#101d43 100%);color:#fff;position:relative;overflow:hidden;}
+.book-header::before{content:'';position:absolute;top:-40px;right:-40px;width:200px;height:200px;background:radial-gradient(circle,rgba(252,211,77,.20) 0%,transparent 70%);border-radius:50%;}
 .bh-inner{max-width:900px;margin:0 auto;padding:14px 18px 14px;display:flex;align-items:flex-start;gap:12px;position:relative;z-index:1;}
 .bk-btn{background:rgba(255,255,255,.15);border:none;color:#fff;width:36px;height:36px;border-radius:9px;font-size:1.2rem;cursor:pointer;flex-shrink:0;}
 .bh-main{flex:1;min-width:0;}
@@ -59,7 +61,7 @@ body{font-family:system-ui,'Segoe UI',Arial,sans-serif;background:var(--paper);c
 .intro-block .az{color:var(--muted);font-style:italic;font-size:12.5px;}
 .audio-row{display:flex;align-items:center;gap:12px;margin-bottom:18px;flex-wrap:wrap;}
 .play-btn{display:flex;align-items:center;gap:8px;background:var(--accent);color:#fff;border:none;border-radius:24px;padding:11px 22px;font-family:inherit;font-size:13px;font-weight:700;cursor:pointer;transition:background .2s;}
-.play-btn:active{background:#4338ca;}
+.play-btn:active{background:#1e3a8a;}
 .play-btn.playing{background:var(--red);}
 .play-btn svg{width:14px;height:14px;fill:#fff;flex-shrink:0;}
 .audio-label{font-size:12px;color:var(--muted);font-style:italic;}
@@ -88,7 +90,7 @@ body{font-family:system-ui,'Segoe UI',Arial,sans-serif;background:var(--paper);c
 .dialogue-title{font-family:Georgia,serif;font-size:17px;font-weight:700;color:var(--ink);margin-bottom:16px;padding-bottom:11px;border-bottom:2px solid var(--border);}
 .dialogue-line{display:grid;grid-template-columns:78px 1fr;gap:5px 12px;margin-bottom:9px;}
 .speaker{font-size:11px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--accent);padding-top:3px;}
-.speaker.b{color:#4338ca;}.speaker.c{color:#4338ca;}
+.speaker.b{color:#1e3a8a;}.speaker.c{color:#1e3a8a;}
 .line-text{font-size:14px;line-height:1.7;color:var(--ink);}
 .line-text .hl{color:var(--accent);font-weight:700;border-bottom:2px solid var(--accent);}
 .line-az{grid-column:2;font-size:12px;color:var(--muted);font-style:italic;margin-top:-3px;margin-bottom:8px;line-height:1.5;}
@@ -114,7 +116,7 @@ body{font-family:system-ui,'Segoe UI',Arial,sans-serif;background:var(--paper);c
 .match-item.matched{border-color:var(--green);background:var(--green-light);color:var(--green);font-weight:600;pointer-events:none;}
 .match-item.wrong-match{border-color:var(--red);background:var(--red-light);}
 .check-btn{background:var(--accent);color:#fff;border:none;border-radius:8px;padding:11px 24px;font-family:inherit;font-size:13px;font-weight:700;cursor:pointer;margin-top:14px;}
-.check-btn:active{background:#4338ca;}
+.check-btn:active{background:#1e3a8a;}
 .feedback{margin-top:12px;padding:11px 15px;border-radius:7px;font-size:13px;font-weight:600;display:none;}
 .feedback.show{display:block;}
 .feedback.good{background:var(--green-light);color:var(--green);}
@@ -156,10 +158,10 @@ padding:11px 14px;margin:10px 0 2px;font-size:13px;line-height:1.7;color:#7c2d12
   --sar:env(safe-area-inset-right,0px);
 }
 /* Hintergrund hinter der Statusleiste in Markenfarbe */
-html{background:#1e1b4b;}
+html{background:#172554;}
 body{padding-left:var(--sal);padding-right:var(--sar);}
 body::before{content:"";position:fixed;top:0;left:0;right:0;
-  height:var(--sat);background:#1e1b4b;z-index:100;pointer-events:none;}
+  height:var(--sat);background:#172554;z-index:100;pointer-events:none;}
 /* Obere Bereiche unter der Statusleiste freihalten */
 .home-hero{padding-top:calc(34px + var(--sat));}
 .bh-inner{padding-top:calc(14px + var(--sat));}
@@ -219,12 +221,12 @@ body::before{content:"";position:fixed;top:0;left:0;right:0;
 
 
 /* ---------- language selector (navy/gold) ---------- */
-.langbar{background:var(--dark-card);display:flex;align-items:center;gap:7px;padding:9px 14px;overflow-x:auto;scrollbar-width:none;position:sticky;top:0;z-index:19;border-bottom:1px solid rgba(255,255,255,.08);}
+.langbar{background:var(--card);display:flex;align-items:center;gap:7px;padding:10px 14px;overflow-x:auto;scrollbar-width:none;position:relative;z-index:9;border-bottom:1px solid var(--border);}
 .langbar::-webkit-scrollbar{display:none;}
-.langbar .ll{font-size:10px;letter-spacing:.13em;text-transform:uppercase;color:#fcd34d;white-space:nowrap;margin-right:3px;font-weight:700;flex-shrink:0;}
-.lang-btn{border:1px solid rgba(255,255,255,.22);background:rgba(255,255,255,.06);color:rgba(255,255,255,.85);border-radius:999px;padding:6px 13px;font-family:inherit;font-size:12.5px;font-weight:600;cursor:pointer;white-space:nowrap;flex-shrink:0;transition:all .15s;}
+.langbar .ll{font-size:10px;letter-spacing:.13em;text-transform:uppercase;color:var(--muted);white-space:nowrap;margin-right:3px;font-weight:700;flex-shrink:0;}
+.lang-btn{border:1px solid var(--border);background:#fff;color:var(--muted);border-radius:999px;padding:6px 13px;font-family:inherit;font-size:12.5px;font-weight:600;cursor:pointer;white-space:nowrap;flex-shrink:0;transition:all .15s;}
 .lang-btn:active{transform:scale(.96);}
-.lang-btn.on{background:#fbbf24;border-color:#fbbf24;color:#1e1b4b;font-weight:800;}
+.lang-btn.on{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:800;}
 .lang-flag{font-size:14px;margin-right:5px;}
 </style>
 </head>
@@ -232,9 +234,11 @@ body::before{content:"";position:fixed;top:0;left:0;right:0;
 
 <div id="HS">
   <div class="home-hero">
+    <svg class="skyline" viewBox="0 0 1200 120" preserveAspectRatio="xMidYMax slice" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g fill="#fbbf24"><rect x="30" y="60" width="62" height="60"/><rect x="112" y="44" width="44" height="76"/><rect x="130" y="20" width="8" height="24"/><rect x="176" y="66" width="72" height="54"/><polygon points="284,34 310,6 336,34"/><rect x="284" y="34" width="52" height="86"/><rect x="356" y="70" width="82" height="50"/><rect x="452" y="52" width="40" height="68"/><rect x="512" y="62" width="92" height="58"/><polygon points="624,36 648,2 672,36"/><rect x="624" y="36" width="48" height="84"/><rect x="644" y="14" width="8" height="22"/><rect x="692" y="64" width="72" height="56"/><rect x="780" y="52" width="56" height="68"/><rect x="854" y="68" width="86" height="52"/><rect x="958" y="46" width="48" height="74"/><rect x="1024" y="60" width="76" height="60"/><rect x="1116" y="52" width="60" height="68"/></g></svg>
     <div class="home-series" data-i18n="series">Advanced · Proficient</div>
     <h1>German Vocabulary <span>in Context</span></h1>
-    <div class="tag" data-i18n="tag">Grammar explained in English &middot; texts, dialogues, exercises &amp; audio</div>
+    <div class="tag">Learn German in 8 languages</div>
+    <div class="hero-sub">Vocabulary &middot; Grammar &middot; Dialogues &middot; Audio</div>
     <div class="home-stats">
       <div class="hstat"><b>10</b><span data-i18n="sGrammar">Grammar</span></div>
       <div class="hstat"><b>26</b><span data-i18n="sUnits">Units</span></div>
