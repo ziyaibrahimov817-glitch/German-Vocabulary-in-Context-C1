@@ -4,27 +4,32 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,viewport-fit=cover">
 <title>German Vocabulary in Context — C1</title>
-<meta name="theme-color" content="#172554">
+<meta name="theme-color" content="#16305e">
 <link rel="manifest" href="manifest.json">
 <link rel="apple-touch-icon" href="icon-192.png">
 <style>
-:root{--ink:#0f172a;--paper:#f8fafc;--accent:#1e3a8a;--accent2:#fcd34d;--accent-light:#dbeafe;--red:#b91c1c;--red-light:#fee2e2;--blue:#1e40af;--border:#cbd5e1;--muted:#475569;--card:#fff;--dark-card:#172554;--green:#a16207;--green-light:#fef9c3;--navy:#0f1e46;--navy2:#1e3a8a;--gold:#fbbf24;}
+:root{--ink:#0f172a;--paper:#f8fafc;--accent:#1d4ed8;--accent2:#93c5fd;--accent-light:#dbeafe;--red:#b91c1c;--red-light:#fee2e2;--blue:#1d4ed8;--border:#cbd5e1;--muted:#475569;--card:#fff;--dark-card:#16305e;--green:#a16207;--green-light:#fef9c3;}
 *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent;}
 body{font-family:system-ui,'Segoe UI',Arial,sans-serif;background:var(--paper);color:var(--ink);}
 #HS{display:block;}#US{display:none;}
 /* HOME */
-.home-hero{background:linear-gradient(160deg,#0f1e46 0%,#1e3a8a 58%,#101d43 100%);color:#fff;padding:36px 22px 30px;text-align:center;position:relative;overflow:hidden;}
-.home-hero::before{content:'';position:absolute;top:-50px;right:-50px;width:220px;height:220px;background:radial-gradient(circle,rgba(252,211,77,.28) 0%,transparent 70%);border-radius:50%;}
-.home-hero .skyline{position:absolute;left:0;right:0;bottom:0;width:100%;height:54px;opacity:.55;pointer-events:none;display:block;}
-.home-series{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:#fcd34d;margin-bottom:8px;position:relative;}
-.home-hero h1{font-family:Georgia,serif;font-size:1.72rem;font-weight:700;margin-bottom:8px;position:relative;line-height:1.2;}
-.home-hero h1 span{color:#fbbf24;}
-.home-hero .tag{font-size:.9rem;color:rgba(255,255,255,.82);margin-bottom:4px;position:relative;font-style:normal;}
-.home-hero .hero-sub{font-size:.72rem;letter-spacing:.03em;color:#fcd34d;margin-bottom:16px;position:relative;font-weight:600;}
-.home-stats{display:flex;justify-content:center;gap:14px;position:relative;}
-.hstat{background:rgba(255,255,255,.12);border-radius:12px;padding:9px 18px;text-align:center;}
-.hstat b{font-size:1.4rem;font-weight:800;display:block;line-height:1;}
-.hstat span{font-size:.62rem;opacity:.8;text-transform:uppercase;letter-spacing:.6px;}
+.home-hero{background:linear-gradient(180deg,#16305e 0%,#0e1f4c 48%,#0a1636 100%);color:#fff;padding:26px 20px 60px;text-align:center;position:relative;overflow:hidden;}
+.home-hero::before{content:'';position:absolute;top:-80px;left:50%;transform:translateX(-50%);width:380px;height:240px;background:radial-gradient(circle,rgba(251,191,36,.16) 0%,transparent 68%);pointer-events:none;}
+.hero-orn{position:relative;color:#fbbf24;font-size:13px;letter-spacing:.4em;margin-bottom:12px;line-height:1;}
+.hero-orn::before,.hero-orn::after{content:'';display:inline-block;width:44px;height:1px;vertical-align:middle;margin:0 12px;}
+.hero-orn::before{background:linear-gradient(90deg,transparent,rgba(251,191,36,.75));}
+.hero-orn::after{background:linear-gradient(90deg,rgba(251,191,36,.75),transparent);}
+.home-series{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:#93c5fd;margin-bottom:8px;position:relative;}
+.home-hero h1{font-family:Georgia,'Times New Roman',serif;font-size:2.1rem;font-weight:700;margin:0 0 10px;position:relative;line-height:1.05;letter-spacing:.4px;text-shadow:0 2px 14px rgba(0,0,0,.4);}
+.home-hero h1 span{display:block;color:#fbbf24;}
+.hero-sub{position:relative;font-size:1.04rem;font-weight:600;color:#f8fafc;margin-bottom:5px;}
+.hero-feat{position:relative;font-size:.77rem;color:rgba(255,255,255,.62);letter-spacing:.03em;margin-bottom:16px;}
+.home-hero .tag{font-size:.85rem;color:rgba(255,255,255,.65);font-style:italic;margin-bottom:16px;position:relative;}
+.home-stats{display:flex;justify-content:center;gap:9px;position:relative;flex-wrap:wrap;}
+.hstat{background:rgba(255,255,255,.09);border:1px solid rgba(255,255,255,.15);border-radius:13px;padding:8px 14px;text-align:center;min-width:60px;}
+.hstat b{font-size:1.3rem;font-weight:800;display:block;line-height:1;color:#fbbf24;}
+.hstat span{font-size:.6rem;opacity:.82;text-transform:uppercase;letter-spacing:.6px;color:#e2e8f0;}
+.hero-skyline{position:absolute;left:0;right:0;bottom:0;width:100%;height:56px;display:block;opacity:.6;pointer-events:none;}
 .sb{padding:13px 16px;background:var(--card);border-bottom:1px solid var(--border);position:sticky;top:0;z-index:10;}
 .sb input{width:100%;padding:10px 14px;border:1.5px solid var(--border);border-radius:10px;font-size:.92rem;outline:none;background:var(--paper);}
 .sb input:focus{border-color:var(--accent2);background:#fff;}
@@ -38,8 +43,8 @@ body{font-family:system-ui,'Segoe UI',Arial,sans-serif;background:var(--paper);c
 .uc-en{font-size:.72rem;color:var(--muted);line-height:1.3;font-style:italic;margin-bottom:8px;}
 .uc-w{font-size:.64rem;background:var(--green-light);color:var(--green);padding:2px 9px;border-radius:20px;font-weight:700;display:inline-block;}
 /* UNIT HEADER */
-.book-header{background:linear-gradient(160deg,#0f1e46 0%,#1e3a8a 58%,#101d43 100%);color:#fff;position:relative;overflow:hidden;}
-.book-header::before{content:'';position:absolute;top:-40px;right:-40px;width:200px;height:200px;background:radial-gradient(circle,rgba(252,211,77,.20) 0%,transparent 70%);border-radius:50%;}
+.book-header{background:linear-gradient(180deg,#16305e 0%,#0e1f4c 60%,#0a1636 100%);color:#fff;position:relative;overflow:hidden;}
+.book-header::before{content:'';position:absolute;top:-40px;right:-40px;width:200px;height:200px;background:radial-gradient(circle,rgba(16,185,129,.18) 0%,transparent 70%);border-radius:50%;}
 .bh-inner{max-width:900px;margin:0 auto;padding:14px 18px 14px;display:flex;align-items:flex-start;gap:12px;position:relative;z-index:1;}
 .bk-btn{background:rgba(255,255,255,.15);border:none;color:#fff;width:36px;height:36px;border-radius:9px;font-size:1.2rem;cursor:pointer;flex-shrink:0;}
 .bh-main{flex:1;min-width:0;}
@@ -61,7 +66,7 @@ body{font-family:system-ui,'Segoe UI',Arial,sans-serif;background:var(--paper);c
 .intro-block .az{color:var(--muted);font-style:italic;font-size:12.5px;}
 .audio-row{display:flex;align-items:center;gap:12px;margin-bottom:18px;flex-wrap:wrap;}
 .play-btn{display:flex;align-items:center;gap:8px;background:var(--accent);color:#fff;border:none;border-radius:24px;padding:11px 22px;font-family:inherit;font-size:13px;font-weight:700;cursor:pointer;transition:background .2s;}
-.play-btn:active{background:#1e3a8a;}
+.play-btn:active{background:#1d4ed8;}
 .play-btn.playing{background:var(--red);}
 .play-btn svg{width:14px;height:14px;fill:#fff;flex-shrink:0;}
 .audio-label{font-size:12px;color:var(--muted);font-style:italic;}
@@ -90,7 +95,7 @@ body{font-family:system-ui,'Segoe UI',Arial,sans-serif;background:var(--paper);c
 .dialogue-title{font-family:Georgia,serif;font-size:17px;font-weight:700;color:var(--ink);margin-bottom:16px;padding-bottom:11px;border-bottom:2px solid var(--border);}
 .dialogue-line{display:grid;grid-template-columns:78px 1fr;gap:5px 12px;margin-bottom:9px;}
 .speaker{font-size:11px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--accent);padding-top:3px;}
-.speaker.b{color:#1e3a8a;}.speaker.c{color:#1e3a8a;}
+.speaker.b{color:#1d4ed8;}.speaker.c{color:#1d4ed8;}
 .line-text{font-size:14px;line-height:1.7;color:var(--ink);}
 .line-text .hl{color:var(--accent);font-weight:700;border-bottom:2px solid var(--accent);}
 .line-az{grid-column:2;font-size:12px;color:var(--muted);font-style:italic;margin-top:-3px;margin-bottom:8px;line-height:1.5;}
@@ -116,7 +121,7 @@ body{font-family:system-ui,'Segoe UI',Arial,sans-serif;background:var(--paper);c
 .match-item.matched{border-color:var(--green);background:var(--green-light);color:var(--green);font-weight:600;pointer-events:none;}
 .match-item.wrong-match{border-color:var(--red);background:var(--red-light);}
 .check-btn{background:var(--accent);color:#fff;border:none;border-radius:8px;padding:11px 24px;font-family:inherit;font-size:13px;font-weight:700;cursor:pointer;margin-top:14px;}
-.check-btn:active{background:#1e3a8a;}
+.check-btn:active{background:#1d4ed8;}
 .feedback{margin-top:12px;padding:11px 15px;border-radius:7px;font-size:13px;font-weight:600;display:none;}
 .feedback.show{display:block;}
 .feedback.good{background:var(--green-light);color:var(--green);}
@@ -158,10 +163,10 @@ padding:11px 14px;margin:10px 0 2px;font-size:13px;line-height:1.7;color:#7c2d12
   --sar:env(safe-area-inset-right,0px);
 }
 /* Hintergrund hinter der Statusleiste in Markenfarbe */
-html{background:#172554;}
+html{background:#16305e;}
 body{padding-left:var(--sal);padding-right:var(--sar);}
 body::before{content:"";position:fixed;top:0;left:0;right:0;
-  height:var(--sat);background:#172554;z-index:100;pointer-events:none;}
+  height:var(--sat);background:#16305e;z-index:100;pointer-events:none;}
 /* Obere Bereiche unter der Statusleiste freihalten */
 .home-hero{padding-top:calc(34px + var(--sat));}
 .bh-inner{padding-top:calc(14px + var(--sat));}
@@ -221,32 +226,32 @@ body::before{content:"";position:fixed;top:0;left:0;right:0;
 
 
 /* ---------- language selector (navy/gold) ---------- */
-.langbar{background:var(--card);display:flex;align-items:center;gap:7px;padding:10px 14px;overflow-x:auto;scrollbar-width:none;position:relative;z-index:9;border-bottom:1px solid var(--border);}
+.langbar{background:var(--card);border-bottom:1px solid var(--border);padding:.55rem .9rem;display:flex;align-items:center;gap:.4rem;overflow-x:auto;-webkit-overflow-scrolling:touch;position:relative;z-index:9;}
 .langbar::-webkit-scrollbar{display:none;}
-.langbar .ll{font-size:10px;letter-spacing:.13em;text-transform:uppercase;color:var(--muted);white-space:nowrap;margin-right:3px;font-weight:700;flex-shrink:0;}
-.lang-btn{border:1px solid var(--border);background:#fff;color:var(--muted);border-radius:999px;padding:6px 13px;font-family:inherit;font-size:12.5px;font-weight:600;cursor:pointer;white-space:nowrap;flex-shrink:0;transition:all .15s;}
-.lang-btn:active{transform:scale(.96);}
-.lang-btn.on{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:800;}
-.lang-flag{font-size:14px;margin-right:5px;}
+.langbar .ll{font-size:.62rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);white-space:nowrap;margin-right:.15rem;font-weight:700;flex-shrink:0;}
+.lang-btn{border:1.5px solid var(--border);background:#fff;color:var(--muted);border-radius:999px;padding:.28rem .7rem;font-size:.76rem;font-weight:600;cursor:pointer;white-space:nowrap;flex-shrink:0;font-family:inherit;}
+.lang-btn.on{background:var(--accent);border-color:var(--accent);color:#fff;box-shadow:0 2px 6px rgba(23,37,84,.28);}
+.lang-flag{margin-right:5px;}
 </style>
 </head>
 <body>
 
 <div id="HS">
   <div class="home-hero">
-    <svg class="skyline" viewBox="0 0 1200 120" preserveAspectRatio="xMidYMax slice" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g fill="#fbbf24"><rect x="30" y="60" width="62" height="60"/><rect x="112" y="44" width="44" height="76"/><rect x="130" y="20" width="8" height="24"/><rect x="176" y="66" width="72" height="54"/><polygon points="284,34 310,6 336,34"/><rect x="284" y="34" width="52" height="86"/><rect x="356" y="70" width="82" height="50"/><rect x="452" y="52" width="40" height="68"/><rect x="512" y="62" width="92" height="58"/><polygon points="624,36 648,2 672,36"/><rect x="624" y="36" width="48" height="84"/><rect x="644" y="14" width="8" height="22"/><rect x="692" y="64" width="72" height="56"/><rect x="780" y="52" width="56" height="68"/><rect x="854" y="68" width="86" height="52"/><rect x="958" y="46" width="48" height="74"/><rect x="1024" y="60" width="76" height="60"/><rect x="1116" y="52" width="60" height="68"/></g></svg>
-    <div class="home-series" data-i18n="series">Advanced · Proficient</div>
+    <div class="hero-orn">&#10022;</div>
+    <div class="home-series" data-i18n="series">Advanced &middot; Proficient</div>
     <h1>German Vocabulary <span>in Context</span></h1>
-    <div class="tag">Learn German in 8 languages</div>
-    <div class="hero-sub">Vocabulary &middot; Grammar &middot; Dialogues &middot; Audio</div>
+    <div class="hero-sub">Learn German in 8 languages</div>
+    <div class="hero-feat">Vocabulary &bull; Grammar &bull; Dialogues &bull; Audio</div>
     <div class="home-stats">
       <div class="hstat"><b>10</b><span data-i18n="sGrammar">Grammar</span></div>
       <div class="hstat"><b>26</b><span data-i18n="sUnits">Units</span></div>
       <div class="hstat"><b>1560</b><span data-i18n="sWords">Words</span></div>
       <div class="hstat"><b>C1</b><span data-i18n="sLevel">Level</span></div>
     </div>
+    <svg class="hero-skyline" viewBox="0 0 400 56" preserveAspectRatio="xMidYMax slice" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g fill="none" stroke="#ecd08a" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"><line x1="0" y1="53" x2="400" y2="53"/><rect x="18" y="22" width="72" height="4"/><line x1="26" y1="26" x2="26" y2="53"/><line x1="40" y1="26" x2="40" y2="53"/><line x1="54" y1="26" x2="54" y2="53"/><line x1="68" y1="26" x2="68" y2="53"/><line x1="82" y1="26" x2="82" y2="53"/><path d="M48 22 v-5 h12 v5"/><line x1="50" y1="12" x2="50" y2="17"/><line x1="54" y1="11" x2="54" y2="17"/><line x1="58" y1="12" x2="58" y2="17"/><path d="M108 53 v-13 a14 14 0 0 1 28 0 v13"/><line x1="122" y1="26" x2="122" y2="19"/><path d="M119 22 h6"/><line x1="164" y1="53" x2="164" y2="16"/><circle cx="164" cy="28" r="5"/><line x1="164" y1="16" x2="164" y2="6"/><path d="M184 53 v-21 l8 -18 l8 18 v21"/><path d="M200 53 v-21 l8 -18 l8 18 v21"/><line x1="192" y1="14" x2="192" y2="9"/><line x1="208" y1="14" x2="208" y2="9"/><path d="M232 53 v-9 a10 10 0 0 1 20 0 v9"/><line x1="242" y1="34" x2="242" y2="28"/><path d="M270 53 v-15 h6 v-6 h6 v6 h6 v15"/><path d="M276 32 l3 -6 l3 6"/><path d="M288 32 l3 -6 l3 6"/><path d="M300 53 v-19 h9 v19"/><path d="M300 34 l4.5 -8 l4.5 8"/><path d="M322 53 l18 -21 l14 13 l12 -17 l16 25"/></g><g fill="#ecd08a"><circle cx="150" cy="12" r="1"/><circle cx="230" cy="10" r="1"/><circle cx="96" cy="10" r="1"/><circle cx="330" cy="13" r="1"/><circle cx="380" cy="8" r="1"/></g></svg>
   </div>
-<div class="langbar" data-langbar="1"><span class="ll" data-i18n="transLabel">Translation</span><button class="lang-btn on" data-lang="en"><span class="lang-flag">🇬🇧</span>English</button><button class="lang-btn" data-lang="ru"><span class="lang-flag">🇷🇺</span>Русский</button><button class="lang-btn" data-lang="tr"><span class="lang-flag">🇹🇷</span>Türkçe</button><button class="lang-btn" data-lang="az"><span class="lang-flag">🇦🇿</span>Azərbaycan</button><button class="lang-btn" data-lang="es"><span class="lang-flag">🇪🇸</span>Español</button><button class="lang-btn" data-lang="fr"><span class="lang-flag">🇫🇷</span>Français</button><button class="lang-btn" data-lang="it"><span class="lang-flag">🇮🇹</span>Italiano</button><button class="lang-btn" data-lang="pt"><span class="lang-flag">🇵🇹</span>Português</button></div>
+  <div class="langbar" data-langbar="1"><span class="ll" data-i18n="transLabel">Translation</span><button class="lang-btn on" data-lang="en"><span class="lang-flag">🇬🇧</span>English</button><button class="lang-btn" data-lang="ru"><span class="lang-flag">🇷🇺</span>Русский</button><button class="lang-btn" data-lang="tr"><span class="lang-flag">🇹🇷</span>Türkçe</button><button class="lang-btn" data-lang="az"><span class="lang-flag">🇦🇿</span>Azərbaycan</button><button class="lang-btn" data-lang="es"><span class="lang-flag">🇪🇸</span>Español</button><button class="lang-btn" data-lang="fr"><span class="lang-flag">🇫🇷</span>Français</button><button class="lang-btn" data-lang="it"><span class="lang-flag">🇮🇹</span>Italiano</button><button class="lang-btn" data-lang="pt"><span class="lang-flag">🇵🇹</span>Português</button></div>
   <div class="sb"><input id="si" type="text" data-i18n-ph="searchPh" placeholder="🔍 Search unit..." oninput="flt(this.value)"></div>
   <div class="sec-title">&#127891; <span data-i18n="secGrammar">Start here &middot; Grammar Basics</span> <span data-i18n="secGrammarSub">how German works</span></div>
   <div class="grid" id="ggrid"></div>
